@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1014.88 1013.8">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 80px;
+      }
+
+      .cls-2 {
+        stroke-width: 100px;
+      }
+    </style>
+  </defs>
+  <title>search</title>
+  <circle class="cls-1" cx="401.79" cy="401.79" r="361.79"/>
+  <line class="cls-2" x1="979.52" y1="978.44" x2="645.62" y2="644.55"/>
+</svg>

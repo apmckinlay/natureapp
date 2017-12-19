@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head lang="en">
+        {{ partial "head.html" . }}
+    </head>
+
+<body class="bgnd">
+    <div class="header category-header">
+        <h1>
+            <a href="/">
+                <image id="small-logo" src="images/naturecompanion.svg" /></a>Birds
+            <a href="/"><image id="menu" src="images/menu.svg" /></a>
+            <a href="/"><image id="search" src="images/search.svg" /></a>
+        </h1>
+    </div>
+
+    <div class="list">
+        {{ range $.Site.Pages }}
+            {{ if isset .Params "name" }}
+            <div class="item">
+                <a href="{{ .Section }}/{{ .File.BaseFileName }}.html">
+                    <image class="thumbnail" src="photos/{{ .Section }}/{{ .File.BaseFileName }}-thumb.jpg" />
+                    <div class="label">{{ .Params.name }}</div>
+                </a>
+            </div>
+            {{ end }}
+        {{ end }}
+    </div>
+
+</body>
+</html>

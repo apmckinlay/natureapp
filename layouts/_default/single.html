@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head lang="en">
+    <title>{{ .Params.name }} - Nature Companion</title>
+    {{ partial "head.html" . }}
+</head>
+
+<body class="bgnd">
+    <div class="header category-header">
+        <h1>
+            <a href="/"><image id="small-logo" src="/images/naturecompanion.svg" 
+            /></a>{{ .Params.name }}
+            <a href="/birds.html"><image id="close" src="/images/close.svg" /></a>
+        </h1>
+    </div>
+            
+     <div class="single">
+        <div class="attribution">
+            <image class="full" src="/photos/{{ .Section }}/{{ .File.BaseFileName }}-thumb.jpg" />
+            {{ if isset .Params "attr" }}
+                <a href="{{ .Params.attr_link }}" target="_blank">photo</a> by {{ .Params.attr }}
+                / <a href="{{ .Params.license_link }}" target="_blank">{{ .Params.license }}</a>
+            {{ end }}
+        </div>
+        <div class="content">
+        {{ .Content }}
+        </div>
+    </div>
+</body>
+
+</html>
