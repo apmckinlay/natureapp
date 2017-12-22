@@ -10,7 +10,7 @@
         <h1>
             <a href="/">
                 <image id="small-logo" src="images/naturecompanion.svg" /></a>Birds
-            <a href="/"><image id="menu" src="images/menu.svg" /></a>
+            <a href="/"><image id="help" src="images/help.svg" /></a>
             <a href="/"><image id="search" src="images/search.svg" /></a>
         </h1>
     </div>
@@ -20,7 +20,8 @@
             {{ if isset .Params "name" }}
             <div class="item">
                 <a href="{{ .Section }}/{{ .File.BaseFileName }}.html">
-                    <image class="thumbnail" src="photos/{{ .Section }}/{{ .File.BaseFileName }}-thumb.jpg" />
+                    <image class="thumbnail" 
+                        src="photos/{{ .Section }}/small/{{ .File.BaseFileName }}.jpg" />
                     <div class="label">{{ .Params.name }}</div>
                 </a>
             </div>

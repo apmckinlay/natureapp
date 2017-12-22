@@ -17,7 +17,7 @@
             
      <div class="single">
         <div class="attribution">
-            <image class="full" src="/photos/{{ .Section }}/{{ .File.BaseFileName }}-thumb.jpg" />
+            <image class="full" src="/photos/{{ .Section }}/large/{{ .File.BaseFileName }}.jpg" />
             {{ if isset .Params "attr" }}
                 <a href="{{ .Params.attr_link }}" target="_blank">photo</a> by {{ .Params.attr }}
                 / <a href="{{ .Params.license_link }}" target="_blank">{{ .Params.license }}</a>
