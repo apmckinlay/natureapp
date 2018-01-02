@@ -2,16 +2,19 @@
 <html>
 
 <head lang="en">
-        {{ partial "head.html" . }}
-    </head>
+    {{ partial "head.html" . }}
+</head>
 
-<body class="bgnd">
-    <div class="header category-header">
+<body>
+    <div class="header">
         <h1>
-            <a href="/">
-                <image id="small-logo" src="images/naturecompanion.svg" /></a>Birds
             <a href="/"><image id="help" src="images/help.svg" /></a>
             <a href="/"><image id="search" src="images/search.svg" /></a>
+            <div class="header-left">
+                <a href="/">
+                    <img id="small-logo" src="images/naturecompanion.svg" /></a>
+                    <span>Birds</span>
+            </div>
         </h1>
     </div>
 
@@ -20,9 +23,9 @@
             {{ if isset .Params "name" }}
             <div class="item">
                 <a href="{{ .Section }}/{{ .File.BaseFileName }}.html">
-                    <image class="thumbnail" 
+                    <img class="small" 
                         src="photos/{{ .Section }}/small/{{ .File.BaseFileName }}.jpg" />
-                    <div class="label">{{ .Params.name }}</div>
+                    <div class="name">{{ .Params.name }}</div>
                 </a>
             </div>
             {{ end }}

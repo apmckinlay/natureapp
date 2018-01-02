@@ -6,22 +6,26 @@
     {{ partial "head.html" . }}
 </head>
 
-<body class="bgnd">
-    <div class="header category-header">
+<body>
+    <div class="header">
         <h1>
-            <a href="/"><image id="small-logo" src="/images/naturecompanion.svg" 
-            /></a>{{ .Params.name }}
             <a href="/birds.html"><image id="close" src="/images/close.svg" /></a>
+           <div class="header-left">
+                <a href="/"><image id="small-logo" src="/images/naturecompanion.svg" /></a>
+                <span>{{ .Params.name }}</span>
+            </div>
         </h1>
     </div>
             
      <div class="single">
-        <div class="attribution">
-            <image class="full" src="/photos/{{ .Section }}/large/{{ .File.BaseFileName }}.jpg" />
-            {{ if isset .Params "attr" }}
+        <div>
+            <img class="large" src="/photos/{{ .Section }}/large/{{ .File.BaseFileName }}.jpg" />
+            <div class="attribution">
+                {{ if isset .Params "attr" }}
                 <a href="{{ .Params.attr_link }}" target="_blank">photo</a> by {{ .Params.attr }}
                 / <a href="{{ .Params.license_link }}" target="_blank">{{ .Params.license }}</a>
-            {{ end }}
+                {{ end }}
+            </div>
         </div>
         <div class="content">
         {{ .Content }}
