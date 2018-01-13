@@ -1,7 +1,6 @@
 ---
-name: "Dark-eyed Junco  "
-group: "jay"
-attr: "Jacob McGinnis"
+name: "Dark-eyed Junco"
+attr: "Eric Begin"
 attr_link: "https://www.flickr.com/photos/ericbegin/4194414513"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
