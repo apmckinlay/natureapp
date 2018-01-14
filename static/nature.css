@@ -40,12 +40,14 @@ html, body {
 
 #search {
     float: right;
-    min-width: 20px;
+    min-height: 30px;
+    max-height: 45px;
 }
 
 #help {
     float: right;
-    min-width: 12px;
+    min-height: 30px;
+    max-height: 45px;
 }
 
 #search:hover, #help:hover {
@@ -134,13 +136,13 @@ html, body {
         margin-top: 2vw;
     }
     #search {
-        width: 4vw;
+        height: 4vw;
         margin-top: 2.5vw;
         margin-right: 3vw;
     }
     #help {
-        width: 2.5vw;
-        margin-top: 2.35vw;
+        height: 4.4vw;
+        margin-top: 2.3vw;
         margin-right: 3vw;
     }
 }
@@ -162,12 +164,12 @@ html, body {
         max-height: 12vh;
     }
     #search {
-        width: 4vh;
+        height: 4vh;
         margin-top: 2.5vh;
         margin-right: 3vh;
     }
     #help {
-        width: 2.5vh;
+        height: 4.4vh;
         margin-top: 2.35vh;
         margin-right: 3vh;
     }
@@ -325,6 +327,18 @@ img.large {
     margin-left: 1vw;
 }
 
+#close {
+    float: right;
+    min-width: 25px;
+    max-width: 40px;
+    margin-left: 1vw;
+    margin-right: 2vw;
+}
+
+#close:hover {
+    filter: invert();
+}
+
 @media (orientation: landscape) {
     img.large {
         width: 45vw;
@@ -335,6 +349,10 @@ img.large {
     }
     .content {
         width: 45vw;
+    }
+    #close {
+        width: 3.5vh;
+        margin-top: 2vh;
     }
 }
 @media (orientation: portrait) {
@@ -348,16 +366,8 @@ img.large {
         width: 95vw;
         margin-top: 2vw;
     }
-}
-
-#close {
-    float: right;
-    max-width: 3vw;
-    margin-left: 1vw;
-    margin-right: 2vw;
-    margin-top: 2vw;
-}
-
-#close:hover {
-    filter: invert();
+    #close {
+        width: 3.5vw;
+        margin-top: 2vw;
+    }
 }
