@@ -15,3 +15,7 @@ Glaucous-winged Gull have **wing tips** that are only slightly darker than their
 **Western Gull** have a darker back and wing tips and can be found from southern British Columbia to Baja. They hybridize with Glaucous-winged Gull in the northern end of their range so there are many intermediates.
 
 **Did you know?** Glaucous-winged Gull eat a variety of food, including live pigeons and rabbits.
+
+<!-- generated, do not edit -->
+**See Also:**
+[California Gull]({{< ref "calgull.md" >}})

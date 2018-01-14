@@ -15,3 +15,8 @@ The birds often **nest** in hollow trees or cavities up to 100 feet off the grou
 **Red-breasted Merganser** are smaller and prefer salt water; the males have reddish markings on their chest. **Hooded Merganser** are much smaller, although the fan-shaped crest makes their heads look very large.
 
 **Did you know?** Common Merganser have serrated edges to their beaks that help them to hold onto fish.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Common Goldeneye]({{< ref "commgold.md" >}}),
+[Common Loon]({{< ref "commloon.md" >}})

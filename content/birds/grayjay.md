@@ -15,3 +15,7 @@ Gray Jay are 10-13 in with a wingspan of 18 in. They have a round head, a short 
 Gray Jay and <span style="text-decoration:underline;">Steller's Jay</span> share the same habitat but are easy to tell apart as the Steller's Jay has a black head and dark blue body.
 
 **Did you know?** Gray Jay store large quantities of food in bark crevices to eat in winter and use sticky saliva to glue small food items to tree branches.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blue Jay]({{< ref "blujay.md" >}})

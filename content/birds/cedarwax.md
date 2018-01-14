@@ -1,6 +1,5 @@
 ---
 name: "Cedar Waxwing"
-group: "warbler"
 attr: "Jacob McGinnis"
 attr_link: "https://www.flickr.com/photos/93649757@N07/35556037524"
 license: "CC BY"

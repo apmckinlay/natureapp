@@ -13,3 +13,7 @@ Black-billed Magpie live **year-round** in **northwestern Canada** and the **Uni
 Black-billed (American) Magpie are almost identical to the Eurasian Magpie, one of the **world's most intelligent animals**. The **Yellow-billed Magpie** look similar but are only found in California's central valleys and have a yellow beak.
 
 **Did you know?** Black-billed Magpie build large, domed nests to protect eggs and young from the weather. They are so well constructed they can last for many years.
+
+<!-- generated, do not edit -->
+**See Also:**
+[American Crow]({{< ref "amcrow.md" >}})

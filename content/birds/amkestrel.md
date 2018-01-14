@@ -15,3 +15,8 @@ Kestrel hunt for insects, small rodents, and birds in **open grassy or desert ar
 **Merlin** are larger, bulkier, and browner without the black slashes on the head. <span style="text-decoration:underline;">Sharp-shinned Hawk</span> have broader wings, longer tail, and more defined markings on their chest. **Mourning Dove** are pale brown with a small head and long, pointed tail.
 
 **Did you know?** If Kestrel kill more than they can eat, they hide the excess in holes or under grass clumps and tree roots for days when they're less successful.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Bald Eagle]({{< ref "baldeagle.md" >}}),
+[Golden Eagle]({{< ref "goldeagl.md" >}})

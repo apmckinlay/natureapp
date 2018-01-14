@@ -15,3 +15,7 @@ Blue Jay are forest birds, favoring oak and beech trees for their nuts. They als
 The __Steller's Jay__, found in western North America, has a black head and chest and no white markings.
 
 **Did you know?** Blue Jay help plant trees by storing surplus acorns in holes in the ground and then forgetting about them.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Gray Jay]({{< ref "grayjay.md" >}})

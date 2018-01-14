@@ -13,3 +13,8 @@ The **monogamous** birds build nests in hidden spots along the lake. They are **
 **Red-throated Loon** and **Pacific Loon** are smaller with a narrower bill and no obvious collar.
 
 **Did you know?** Loon parents and two chicks can eat half a ton of fish over a 15-week period.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Common Goldeneye]({{< ref "commgold.md" >}}),
+[Common Merganser]({{< ref "commmerg.md" >}})

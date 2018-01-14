@@ -13,3 +13,8 @@ Common Goldeneye spend their **summers** in Canada and Alaska's **boreal forest*
 **Barrow's Goldeneye** have a shorter bill and a nearly vertical forehead. **Bufflehead** are smaller. The white patch on the male Bufflehead is around the neck and behind the eye rather than near the bill. Female Bufflehead have a white patch on their head; female Common Goldeneye don't.
 
 **Did you know?** Goldeneye chicks leave the nest the day after they hatch. And the first step can be a tricky one as the nest may be 40 ft up a tree. They start feeding themselves immediately.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Common Loon]({{< ref "commloon.md" >}}),
+[Common Merganser]({{< ref "commmerg.md" >}})
