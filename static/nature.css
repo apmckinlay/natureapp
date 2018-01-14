@@ -9,19 +9,20 @@ NOTE: These techniques result in duplication and interrelated sizes,
 changes may have to be coordinated in multiple places.
 */
 
+html {
+    background-color: #DBDBDB;
+}
+
 html, body {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-color: #DBDBDB;
 }
 
 /* home page ------------------------------- */
 
 .photobgnd {
-    background-image: url("images/background.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background: url("images/background.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
