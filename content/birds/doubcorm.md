@@ -1,5 +1,5 @@
 ---
-name: "Double-crested cormorant"
+name: "Double-crested Cormorant"
 attr: "nature80020"
 attr_link: "https://www.flickr.com/photos/nature80020/28753061111"
 license: "CC BY"
@@ -11,6 +11,6 @@ A very adaptable bird, the Double-crested Cormorant can be found on **inland lak
 
 Double-crested Cormorant are often seen sitting on a perch with their **wings spread out to dry**. Cormorants have **less preen oil** than other birds so their feathers get waterlogged and need to be dried out. 
 
-Six types of Cormorant are native to North America. The **Double-crested Cormorant** are the most abundant and widespread. **Great Cormorant** are found along the Atlantic coast. **Pelagic Cormorant** and **Brandt's Cormorant** are found along the Pacific coast. **Neotropic Cormorant** and **Anhinga** only found in the southern United States.
+Six types of Cormorant are native to North America. The **Double-crested Cormorant** are the most abundant and widespread. **Great Cormorant** are found along the Atlantic coast. **Pelagic Cormorant** and **Brandt's Cormorant** are found along the Pacific coast. **Neotropic Cormorant** and **Anhinga** are only found in the southern United States.
 
-**Did you know?** Cormorants can dive and move around underwater easily because the lack of preen oil in their feathers means they are less buoyant, but they also need to dry out more.
+**Did you know?** Cormorants can dive and move around underwater easily because the lack of preen oil in their feathers means they are less buoyant.

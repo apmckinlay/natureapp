@@ -12,8 +12,9 @@ Crows have a **loud "caw caw" call** and **thrive around people**. They **eat al
 
 The **Northwestern Crow** is very similar (smaller with hoarser voice) and may be related; it's only found along the west coast of Canada and Alaska. **Fish Crow** (14-16 in) are found around water on the east coast of the United States.
 
-Is it a Crow or a Raven? __Ravens__ are larger than crows with longer wings and heavier beaks. Ravens have a wedge-shaped tail; Crows have a short, square tail. Ravens have a ruff of feathers on their throat; Crows don’t. Ravens often travel in pairs and are not normally found in urban areas; Crows are seen in larger groups and are often found in cities. Ravens glide, whereas Crows rhythmically flap their wings.
+**Is it a Crow or a Raven?** Common Ravens are larger than crows with longer wings and heavier beaks. Ravens have a wedge-shaped tail; Crows have a short, square tail. Ravens have a ruff of feathers on their throat; Crows don’t. Ravens are solitary and are not normally found in urban areas; Crows are seen in larger groups and are often found in cities. Ravens glide, whereas Crows rhythmically flap their wings.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Black-billed Magpie]({{< ref "blbmagpie.md" >}})
+[Black-billed Magpie]({{< ref "blbmagpie.md" >}}),
+[Common Raven]({{< ref "commrave.md" >}})

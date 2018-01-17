@@ -12,17 +12,16 @@ You'll find Bald Eagle in **forested areas** **near coasts, rivers, and large la
 
 Look for Bald Eagle in areas **where fish are plentiful**: near fish processing plants, spawning runs,  and below dams. They can be found **year-round** along the Atlantic coast from Alaska to northern California; the mountainous regions of Washington, Idaho, and Montana; around the Great Lakes; in the Mississippi river valley; and in Canada's Maritime provinces. Migratory birds spend their **summers** in Alaska and Canada and their **winters** in the United States.
 
-They spend their **summers** in Alaska, Canada, the Pacific coast and tip of Florida, heading south in **winter** to coasts and rivers in western and central USA. Some birds live **year-round** on the coast of Alaska and British Columbia.
-
 Bald Eagle often mate for life after an **aerial courtship display** in which they grasp talons in mid-air and plummet hundreds of feet.
 
 Bald Eagle congregate at **communal roosts** and **feeding sites**, particularly in **winter**. They **eat mainly fish** but also animals, gulls, and waterfowl. They **scavenge** many meals by stealing from other birds or eating garbage.
 
-[Golden Eagle]({{< ref "goldeagl.md" >}}), have smaller heads and are found in open areas rather than near water. __Turkey Vulture__ have smaller, darker heads and hold their wings in a V-shape when soaring.
+[Golden Eagle]({{< ref "goldeagl.md" >}}) have smaller heads and are found in open areas rather than near water. __Turkey Vulture__ have smaller, darker heads and hold their wings in a V-shape when soaring.
 
 **Did you know?** Bald Eagle can reach speeds of up to 100 mph when diving or 40 mph when cruising. Young birds are nomads, exploring vast territories and flying hundreds of miles per day.
 
 <!-- generated, do not edit -->
 **See Also:**
 [American Kestrel]({{< ref "amkestrel.md" >}}),
-[Golden Eagle]({{< ref "goldeagl.md" >}})
+[Golden Eagle]({{< ref "goldeagl.md" >}}),
+[Osprey]({{< ref "osprey.md" >}})

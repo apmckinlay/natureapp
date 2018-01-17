@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/26971952051"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
-With a **loud voice**, a **long tail**, **black **head and back, **white** wing patches and underparts, Black-billed Magpie are easy to spot. These **large** birds (1½-2 ft) are frequently found in **groups** as they are **very social**. You'll often find them **on the ground** in **urban** parks foraging for food (insects, wild fruit, grain, small animals, carrion). 
+With a **loud voice**, a **long tail**, **black** head and back, **white** wing patches and underparts, Black-billed Magpie are easy to spot. These **large** birds (1.5 - 2 ft) are frequently found in **groups** as they are **very social**. You'll often find them **on the ground** in **urban** parks foraging for food (insects, wild fruit, grain, small animals, carrion). 
 
 Black-billed Magpie live **year-round** in **northwestern Canada** and the **United State**s. You won't find them along the west coast, but you will find them in the interior of British Columbia, Washington, Oregon, and California. 
 
@@ -16,4 +16,5 @@ Black-billed (American) Magpie are almost identical to the Eurasian Magpie, one 
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Crow]({{< ref "amcrow.md" >}})
+[American Crow]({{< ref "amcrow.md" >}}),
+[Common Raven]({{< ref "commrave.md" >}})
