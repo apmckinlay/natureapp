@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<head lang="en">
+    <title>{{ .Params.name }} - Nature Companion</title>
+    {{ partial "head.html" . }}
+</head>
+
+<body>
+    <div class="header">
+        <a href="#" onClick="history.back();">
+            <image id="close" src="/images/close.svg" />
+        </a>
+        <div class="header-left">
+            <a href="/">
+                <img id="small-logo" src="images/naturecompanion.svg" />
+            </a>
+            <image id="small-title" src="images/title.svg" />
+        </div>
+    </div>
+
+    <div class="single">
+        <div >
+            {{ .Content }}
+        </div>
+    </div>
+</body>
+
+</html>

@@ -38,6 +38,10 @@ html, body {
     max-width: 50vw;
     flex: 1 1 auto;
 }
+#small-title {
+    max-width: 50vw;
+    flex: 1 1 auto;
+}
 
 #search {
     float: right;
@@ -136,6 +140,9 @@ html, body {
     #title {
         margin-top: 2vw;
     }
+    #small-title {
+        margin-top: 2vw;
+    }
     #search {
         height: 4vw;
         margin-top: 2.5vw;
@@ -163,6 +170,10 @@ html, body {
     #title {
         margin-top: 2vh;
         max-height: 12vh;
+    }
+    #small-title {
+        margin-top: 2vh;
+        max-height: 8vh;
     }
     #search {
         height: 4vh;
