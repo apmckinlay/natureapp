@@ -18,4 +18,5 @@ Glaucous-winged Gull have **wing tips** that are only slightly darker than their
 
 <!-- generated, do not edit -->
 **See Also:**
-[California Gull]({{< ref "calgull.md" >}})
+[California Gull]({{< ref "calgull.md" >}}),
+[Herring Gull]({{< ref "herrgull.md" >}})

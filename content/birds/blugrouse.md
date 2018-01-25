@@ -10,3 +10,7 @@ attr_link: "https://commons.wikimedia.org/wiki/File:Dendragapus_obscurus_NPS.jpg
 Blue Grouse eat **leaves**, **buds**, and **conifer needles**. **Sooty Grouse** are found in **forested** areas near the Pacific coast and in the interior of northern California. **Dusky Grouse** are found in the western interior. During the **summer**, they can be found in dry grasslands, shrublands or mountainous forests. They spend their winters in coniferous forests.
 
 **Did you know?** Birds of a specific species tend to have the same number of tail feathers (usually around 10). However, Dusky Grouse can have anywhere from 15 to 22.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Greater Sage-Grouse]({{< ref "gresage.md" >}})
