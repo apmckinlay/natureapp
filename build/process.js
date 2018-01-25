@@ -4,7 +4,7 @@
 
 const fs = require('fs');
 
-const dir = '../content/birds/';
+const dir = 'content/birds/';
 const generated = "<!-- generated, do not edit -->";
 
 let id2name = {}; // e.g. "amcrow" => "American Crow"
