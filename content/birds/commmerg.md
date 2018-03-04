@@ -19,4 +19,5 @@ The birds often **nest** in hollow trees or cavities up to 100 feet off the grou
 <!-- generated, do not edit -->
 **See Also:**
 [Common Goldeneye]({{< ref "commgold.md" >}}),
-[Common Loon]({{< ref "commloon.md" >}})
+[Common Loon]({{< ref "commloon.md" >}}),
+[Mallard]({{< ref "mallard.md" >}})

@@ -1,7 +1,7 @@
 ---
 name: "Long-eared Owl"
 group: "owl"
-attr: Martha de Jong-Lantink""
+attr: "Martha de Jong-Lantink"
 attr_link: "https://www.flickr.com/photos/marthaenpiet/32882723320/"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
@@ -21,4 +21,5 @@ Long-eared Owls don't build their own nests. Instead, they use stick nests built
 [Burrowing Owl]({{< ref "burrowl.md" >}}),
 [Great Gray Owl]({{< ref "gregrowl.md" >}}),
 [Great Horned Owl]({{< ref "grehowl.md" >}}),
-[Northern Hawk Owl]({{< ref "norhowl.md" >}})
+[Northern Hawk Owl]({{< ref "norhowl.md" >}}),
+[Northern Saw-whet Owl]({{< ref "norsowl.md" >}})

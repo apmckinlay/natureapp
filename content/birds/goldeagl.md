@@ -18,4 +18,5 @@ Golden Eagle **usually nest on cliffs** but may nest in trees or tall human-made
 **See Also:**
 [American Kestrel]({{< ref "amkestrel.md" >}}),
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
-[Osprey]({{< ref "osprey.md" >}})
+[Osprey]({{< ref "osprey.md" >}}),
+[Peregrine Falcon]({{< ref "peregrine.md" >}})

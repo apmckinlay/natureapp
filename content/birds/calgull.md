@@ -18,4 +18,5 @@ California Gull are a **medium-sized** bird (18.5-21 in) with a long yellow bill
 <!-- generated, do not edit -->
 **See Also:**
 [Glaucous-winged Gull]({{< ref "glaugull.md" >}}),
-[Herring Gull]({{< ref "herrgull.md" >}})
+[Herring Gull]({{< ref "herrgull.md" >}}),
+[Mew Gull]({{< ref "mewgull.md" >}})

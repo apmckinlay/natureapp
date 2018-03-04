@@ -1,0 +1,16 @@
+---
+name: "Piping Plover"
+attr: "Kelly Colgan Azar"
+attr_link: "https://www.flickr.com/photos/puttefin/8713385787"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+---
+With a **sandy gray back** and **head**, tiny Piping Plover (6.5-7.5 in) are almost invisible until they run along the beach, stop, and tilt their head to pick an insect or worm from the sand. They have a **white belly**, **yellowish-orange legs**, and **large black eyes**. During the **summer** breeding season, they sport a black collar, a black line across their forehead, and a black tip on their short, orange beak. In **winter**, the bill is black and collar is broken and fades to gray.
+
+Piping Plover **breed** in two different regions: along the **coast in the northeast** and around **lakes and rivers** on the **northern plains** and around the **Great Lakes**. They migrate to the **Gulf Coast** and the **south Atlantic coast** or the Caribbean in **winter**.
+
+Piping Plover are an endangered species in both Canada and the United States.
+
+[Killdeer]({{< ref "killdeer.md" >}}) are larger than Piping Plover with a darker back, two black bands on their chest, and a longer bill. __Sanderling__  have bills as long as their head or longer.
+
+**Did you know?** Intruders near a Piping Plover nest may be chased or bitten. One [Killdeer]({{< ref "killdeer.md" >}}) was observed limping for an entire summer after getting too close to a nest.

@@ -21,4 +21,5 @@ Unlike many owl, Burrowing Owl are **active day and night.[Long-eared Owl]({{< r
 [Great Gray Owl]({{< ref "gregrowl.md" >}}),
 [Great Horned Owl]({{< ref "grehowl.md" >}}),
 [Long-eared Owl]({{< ref "longowl.md" >}}),
-[Northern Hawk Owl]({{< ref "norhowl.md" >}})
+[Northern Hawk Owl]({{< ref "norhowl.md" >}}),
+[Northern Saw-whet Owl]({{< ref "norsowl.md" >}})

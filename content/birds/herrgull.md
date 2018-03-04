@@ -20,4 +20,5 @@ Herring Gull are loud and competitive scavengers, spending much of their time pe
 <!-- generated, do not edit -->
 **See Also:**
 [California Gull]({{< ref "calgull.md" >}}),
-[Glaucous-winged Gull]({{< ref "glaugull.md" >}})
+[Glaucous-winged Gull]({{< ref "glaugull.md" >}}),
+[Mew Gull]({{< ref "mewgull.md" >}})

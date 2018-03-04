@@ -20,4 +20,5 @@ Kestrel hunt for insects, small rodents, and birds in **open grassy or desert ar
 **See Also:**
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
-[Osprey]({{< ref "osprey.md" >}})
+[Osprey]({{< ref "osprey.md" >}}),
+[Peregrine Falcon]({{< ref "peregrine.md" >}})

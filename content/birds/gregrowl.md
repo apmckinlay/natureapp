@@ -22,4 +22,5 @@ Great Gray Owl hunt for rodents and other small mammals during the **day**. They
 [Burrowing Owl]({{< ref "burrowl.md" >}}),
 [Great Horned Owl]({{< ref "grehowl.md" >}}),
 [Long-eared Owl]({{< ref "longowl.md" >}}),
-[Northern Hawk Owl]({{< ref "norhowl.md" >}})
+[Northern Hawk Owl]({{< ref "norhowl.md" >}}),
+[Northern Saw-whet Owl]({{< ref "norsowl.md" >}})
