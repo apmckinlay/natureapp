@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/mickthompson/13632769994"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
-Pileated Woodpecker are one of the largest North American woodpeckers. The size of an[American Crow]({{< ref "amcrow.md" >}}), (18 in), they have a **triangular red crest** on top of their head and a **long neck**. They have a black body with **white markings** on the **head** and **neck**. Their chisel-like **bill** is almost as long as their head. **Males** have a red stripe on their cheek.
+Pileated Woodpecker are one of the largest North American woodpeckers. The size of an [American Crow]({{< ref "amcrow.md" >}}) (18 in), they have a **triangular red crest** on top of their head and a **long neck**. They have a black body with **white markings** on the **head** and **neck**. Their chisel-like **bill** is almost as long as their head. **Males** have a red stripe on their cheek.
 
 Pileated Woodpecker can be found **year-round** in the **forested** areas of northern and eastern Canada, and the west coast and eastern United States. They dig **rectangular hole**s in dead wood and standing trees looking for Carpenter Ants and other insects.
 

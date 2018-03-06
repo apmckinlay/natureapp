@@ -13,7 +13,8 @@ Gulls are long-winged, white birds with gray and black markings. It can be diffi
 Herring Gull are **large** birds (22-26 in long) with a **red spot** near the tip of the lower half of their **large yellow bill**. In flight, they look **barrel-chested** and **broad-winged** compared to smaller species.
 
 Herring Gull are loud and competitive scavengers, spending much of their time perched near food sources. They also eat large numbers of **aquatic** and **marine animals** and **berries**. They drop __Clams__ and other shellfish on exposed rocks or parking lots in order to break the shells and get at the soft interior.
-[California Gull]({{< ref "calgull.md" >}}), and __Ring-billed Gull__ are much smaller.[Glaucous-winged Gull]({{< ref "glaugull.md" >}}), have a stockier body, shorter wings, and a thicker bill.
+
+[California Gull]({{< ref "calgull.md" >}}) and [Ring-billed Gull]({{< ref "ringgull.md" >}}) are much smaller. [Glaucous-winged Gull]({{< ref "glaugull.md" >}}) have a stockier body, shorter wings, and a thicker bill.
 
 **Did you know?** If necessary, Herring Gull can drink seawater, excreting the salt through glands over the eyes.
 
@@ -21,4 +22,5 @@ Herring Gull are loud and competitive scavengers, spending much of their time pe
 **See Also:**
 [California Gull]({{< ref "calgull.md" >}}),
 [Glaucous-winged Gull]({{< ref "glaugull.md" >}}),
-[Mew Gull]({{< ref "mewgull.md" >}})
+[Mew Gull]({{< ref "mewgull.md" >}}),
+[Ring-billed Gull]({{< ref "ringgull.md" >}})

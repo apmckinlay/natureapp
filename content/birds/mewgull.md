@@ -18,4 +18,5 @@ The Mew Gull have an **unmarked yellow bill**, **yellow legs**, and black wing t
 **See Also:**
 [California Gull]({{< ref "calgull.md" >}}),
 [Glaucous-winged Gull]({{< ref "glaugull.md" >}}),
-[Herring Gull]({{< ref "herrgull.md" >}})
+[Herring Gull]({{< ref "herrgull.md" >}}),
+[Ring-billed Gull]({{< ref "ringgull.md" >}})

@@ -21,4 +21,6 @@ Osprey build **large stick nests** near water on poles or dead trees. They lay 2
 [American Kestrel]({{< ref "amkestrel.md" >}}),
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
-[Peregrine Falcon]({{< ref "peregrine.md" >}})
+[Peregrine Falcon]({{< ref "peregrine.md" >}}),
+[Prairie Falcon]({{< ref "prafalc.md" >}}),
+[Red-tailed Hawk]({{< ref "redtail.md" >}})

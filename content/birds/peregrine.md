@@ -14,7 +14,7 @@ Peregrine Falcon are a medium-sized bird (14 in) with **long pointed wings** (3-
 
 Peregrine Falcon sit on high perches making **swift, steep dives** to catch their prey - ducks and shorebirds or pigeons in the cities.
 
-__Prairie Falcon__ are only found in the West. They are brown with a paler breast and dark patches under their wings. **Merlin** are smaller, lack the dark helmet, and target smaller birds.
+[Prairie Falcon]({{< ref "prafalc.md" >}}) are only found in the West. They are brown with a paler breast and dark patches under their wings. **Merlin** are smaller, lack the dark helmet, and target smaller birds.
 
 **Did you know?** Peregrine Falcon may be the fastest bird in the world reaching speeds of up to 238 mph when diving after prey.
 
@@ -23,4 +23,6 @@ __Prairie Falcon__ are only found in the West. They are brown with a paler breas
 [American Kestrel]({{< ref "amkestrel.md" >}}),
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
-[Osprey]({{< ref "osprey.md" >}})
+[Osprey]({{< ref "osprey.md" >}}),
+[Prairie Falcon]({{< ref "prafalc.md" >}}),
+[Red-tailed Hawk]({{< ref "redtail.md" >}})
