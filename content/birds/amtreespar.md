@@ -12,7 +12,7 @@ In spite of their name, Tree Sparrow spend their life on the **ground**, looking
 
 Tree Sparrow winter farther north than other sparrows, spending their **summers** near the tree line in Alaska and northern Canada and their **winters** in the northern United States and the southern edge of Canada.
 
-[Chipping Sparrow]({{< ref "chipspar.md" >}}) have a black stripe through their eye. __Song Sparrow__ have a heavily streaked breast.[House Sparrow]({{< ref "houspar.md" >}}),, introduced to North America in 1851, are chunkier with a shorter tail and stouter beak (5.9-6.7 in).
+[Chipping Sparrow]({{< ref "chipspar.md" >}}) have a black stripe through their eye. __Song Sparrow__ have a heavily streaked breast. [House Sparrow]({{< ref "houspar.md" >}}),, introduced to North America in 1851, are chunkier with a shorter tail and stouter beak (5.9-6.7 in).
 
 **Did you know?** Tree Sparrow need to eat 30% of their body weight in food and a similar amount in water every day. A single day with no food or water is usually a death sentence.
 
