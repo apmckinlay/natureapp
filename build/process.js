@@ -80,9 +80,9 @@ function addSeeAlso(id, content) {
 function namesToLinks(id, content) {
     for (let [id2, name] of Object.entries(id2name)) {
         if (id != id2 && content.includes(name)) {
-            let rx = RegExp('[^[]_*(' + name + 's?)_*', 'g');
+            let rx = RegExp('([^[])_*(' + name + 's?)_*', 'g');
             content = content.replace(rx,
-                (str, name) => '[' + name + ']({{< ref "' + id2 + '.md" >}}),');
+                (str, before, name) => before + '[' + name + ']({{< ref "' + id2 + '.md" >}})');
         }
     }
     return content;
