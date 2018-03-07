@@ -13,4 +13,5 @@ Blue Grouse eat **leaves**, **buds**, and **conifer needles**. **Sooty Grouse** 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Greater Sage-Grouse]({{< ref "gresage.md" >}})
+[Greater Sage-Grouse]({{< ref "gresage.md" >}}),
+[Ruffed Grouse]({{< ref "rufgrouse.md" >}})

@@ -11,6 +11,6 @@ Piping Plover **breed** in two different regions: along the **coast in the north
 
 Piping Plover are an endangered species in both Canada and the United States.
 
-[Killdeer]({{< ref "killdeer.md" >}}) are larger than Piping Plover with a darker back, two black bands on their chest, and a longer bill. __Sanderling__  have bills as long as their head or longer.
+[Killdeer]({{< ref "killdeer.md" >}}) are larger than Piping Plover with a darker back, two black bands on their chest, and a longer bill. [Sanderling]({{< ref "sander.md" >}})  have bills as long as their head or longer.
 
 **Did you know?** Intruders near a Piping Plover nest may be chased or bitten. One [Killdeer]({{< ref "killdeer.md" >}}) was observed limping for an entire summer after getting too close to a nest.

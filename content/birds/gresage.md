@@ -16,4 +16,5 @@ __Sharp-tailed Grouse__ live in grasslands not sagebrush plains.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Blue Grouse]({{< ref "blugrouse.md" >}})
+[Blue Grouse]({{< ref "blugrouse.md" >}}),
+[Ruffed Grouse]({{< ref "rufgrouse.md" >}})
