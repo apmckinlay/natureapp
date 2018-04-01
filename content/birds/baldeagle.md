@@ -22,8 +22,8 @@ Bald Eagle congregate at **communal roosts** and **feeding sites**, particularly
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Kestrel]({{< ref "amkestrel.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
+[Kestrel]({{< ref "kestrel.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Peregrine Falcon]({{< ref "peregrine.md" >}}),
 [Prairie Falcon]({{< ref "prafalc.md" >}}),

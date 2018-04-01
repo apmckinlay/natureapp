@@ -18,9 +18,9 @@ Sharp-shinned Hawk can be found **year-round** along the Pacific coast from Alas
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Kestrel]({{< ref "amkestrel.md" >}}),
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
+[Kestrel]({{< ref "kestrel.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Peregrine Falcon]({{< ref "peregrine.md" >}}),
 [Prairie Falcon]({{< ref "prafalc.md" >}}),

@@ -16,8 +16,8 @@ Flocks of White-throated Sparrows can be seen on the ground looking for seeds an
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Tree Sparrow]({{< ref "amtreespar.md" >}}),
 [Chipping Sparrow]({{< ref "chipspar.md" >}}),
 [House Sparrow]({{< ref "houspar.md" >}}),
 [Song Sparrow]({{< ref "songspar.md" >}}),
+[Tree Sparrow]({{< ref "treespar.md" >}}),
 [White-crowned Sparrow]({{< ref "whitecspar.md" >}})

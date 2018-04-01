@@ -1,5 +1,5 @@
 ---
-name: "American Robin"
+name: "Robin"
 attr: "Andrew McKinlay "
 attr_link: "https://www.flickr.com/photos/apmckinlay/27964840281"
 license: "CC BY-NC"

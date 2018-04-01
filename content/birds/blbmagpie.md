@@ -16,5 +16,5 @@ Black-billed (American) Magpie are almost identical to the Eurasian Magpie, one 
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Crow]({{< ref "amcrow.md" >}}),
-[Common Raven]({{< ref "commrave.md" >}})
+[Crow]({{< ref "crow.md" >}}),
+[Raven]({{< ref "raven.md" >}})

@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/firstmac/32485166306"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 ---
-Northern Saw-whet Owl are **small**  (8 in long), close to the size of a __Robin__. They have a **large round head**, big **yellow eyes** surrounded by a **white facial disc**, and no ear tufts. They have a brown back and a white breast with dark brown streaks.
+Northern Saw-whet Owl are **small**  (8 in long), close to the size of a [Robin]({{< ref "robin.md" >}}). They have a **large round head**, big **yellow eyes** surrounded by a **white facial disc**, and no ear tufts. They have a brown back and a white breast with dark brown streaks.
 
 Northern Saw-whet Owl are **forest** dwellers and can be found **year-round** in southern Canada, southern Alaska, as well as forested regions from Washington to California, from Montana to Arizona and New Mexico, and around the Great Lakes and the northeastern United States. They **winter** in the dense forests of central and southern United States.
 

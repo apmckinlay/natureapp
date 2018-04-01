@@ -12,15 +12,15 @@ Prairie Falcon are **large** (15-18 in, 35-45 in wingspan) with a **light brown 
 
 In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__, but in winter they prey on **small birds**, such as **Horned Lark** and [Western Meadowlark]({{< ref "westmlark.md" >}}).
 
-[Peregrine Falcon]({{< ref "peregrine.md" >}}) are a similar size but darker and don't have dark patches under their wings. [American Kestrel]({{< ref "amkestrel.md" >}}) and **Merlin** are both much smaller.
+[Peregrine Falcon]({{< ref "peregrine.md" >}}) are a similar size but darker and don't have dark patches under their wings. [Kestrel]({{< ref "kestrel.md" >}}) and **Merlin** are both much smaller.
 
 **Did you know?** During courtship, the male and female spend a month or more visiting potential nest sites together.
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Kestrel]({{< ref "amkestrel.md" >}}),
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
+[Kestrel]({{< ref "kestrel.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Peregrine Falcon]({{< ref "peregrine.md" >}}),
 [Red-tailed Hawk]({{< ref "redtail.md" >}}),

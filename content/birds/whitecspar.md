@@ -16,8 +16,8 @@ White-crowned Sparrow spend the summer in Alaska, northern Canada, and the mount
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Tree Sparrow]({{< ref "amtreespar.md" >}}),
 [Chipping Sparrow]({{< ref "chipspar.md" >}}),
 [House Sparrow]({{< ref "houspar.md" >}}),
 [Song Sparrow]({{< ref "songspar.md" >}}),
+[Tree Sparrow]({{< ref "treespar.md" >}}),
 [White-throated Sparrow]({{< ref "whitetspar.md" >}})

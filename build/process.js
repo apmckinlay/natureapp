@@ -7,9 +7,9 @@ const fs = require('fs');
 const dir = 'content/birds/';
 const generated = "<!-- generated, do not edit -->";
 
-let id2name = {}; // e.g. "amcrow" => "American Crow"
-let name2id = {}; // e.g. "American Crow" => "amcrow"
-let groups = {}; // e.g. "corvid" => ["amcrow", "raven"]
+let id2name = {}; // e.g. "crow" => "Crow"
+let name2id = {}; // e.g. "Crow" => "crow"
+let groups = {}; // e.g. "corvid" => ["crow", "raven"]
 
 forEachFile(dir, gatherInfo);
 forEachFile(dir, updateFiles);

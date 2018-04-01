@@ -18,9 +18,9 @@ Swainson's Hawk are slimmer and longer-winged than other hawks. [Red-tailed Hawk
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Kestrel]({{< ref "amkestrel.md" >}}),
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
+[Kestrel]({{< ref "kestrel.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Peregrine Falcon]({{< ref "peregrine.md" >}}),
 [Prairie Falcon]({{< ref "prafalc.md" >}}),

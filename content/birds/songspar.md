@@ -20,8 +20,8 @@ Song Sparrow make **short, fluttering flights** pumping their **tail up and down
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Tree Sparrow]({{< ref "amtreespar.md" >}}),
 [Chipping Sparrow]({{< ref "chipspar.md" >}}),
 [House Sparrow]({{< ref "houspar.md" >}}),
+[Tree Sparrow]({{< ref "treespar.md" >}}),
 [White-crowned Sparrow]({{< ref "whitecspar.md" >}}),
 [White-throated Sparrow]({{< ref "whitetspar.md" >}})

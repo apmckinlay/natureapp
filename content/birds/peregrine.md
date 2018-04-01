@@ -20,9 +20,9 @@ Peregrine Falcon sit on high perches making **swift, steep dives** to catch thei
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Kestrel]({{< ref "amkestrel.md" >}}),
 [Bald Eagle]({{< ref "baldeagle.md" >}}),
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
+[Kestrel]({{< ref "kestrel.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Prairie Falcon]({{< ref "prafalc.md" >}}),
 [Red-tailed Hawk]({{< ref "redtail.md" >}}),

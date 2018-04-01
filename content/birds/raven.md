@@ -1,5 +1,5 @@
 ---
-name: "Common Raven"
+name: "Raven"
 group: "corvid"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/13074015763"
@@ -14,9 +14,9 @@ Ravens are very clever. They play games, hunt cooperatively, and understand caus
 
 **Chihuahuan Raven** are smaller, more social and are found at lower elevations in the southwestern desert rather than in higher-elevation forests.
 
-**Is it a Crow or a Raven?** Ravens are larger than Crows with longer wings and heavier beaks. Ravens have a wedge-shaped tail; Crows have a short, square tail. Ravens have a ruff of feathers on their throat; Crows don't. Ravens are solitary and are not normally found in urban areas; Crows are seen in larger groups and are often found in cities. Ravens glide, whereas Crows rhythmically flap their wings.
+**Is it a [Crow]({{< ref "crow.md" >}}) or a Raven?** Ravens are larger than [Crows]({{< ref "crow.md" >}}) with longer wings and heavier beaks. Ravens have a wedge-shaped tail; [Crows]({{< ref "crow.md" >}}) have a short, square tail. Ravens have a ruff of feathers on their throat; [Crows]({{< ref "crow.md" >}}) don't. Ravens are solitary and are not normally found in urban areas; [Crows]({{< ref "crow.md" >}}) are seen in larger groups and are often found in cities. Ravens glide, whereas [Crows]({{< ref "crow.md" >}}) rhythmically flap their wings.
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Crow]({{< ref "amcrow.md" >}}),
-[Black-billed Magpie]({{< ref "blbmagpie.md" >}})
+[Black-billed Magpie]({{< ref "blbmagpie.md" >}}),
+[Crow]({{< ref "crow.md" >}})

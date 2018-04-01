@@ -1,5 +1,5 @@
 ---
-name: "American Tree Sparrow"
+name: "Tree Sparrow"
 group: "sparrow"
 attr: "Eric Bégin"
 attr_link: "https://www.flickr.com/photos/ericbegin/4286589162"

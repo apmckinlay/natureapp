@@ -18,8 +18,8 @@ House Sparrow eat mostly **seeds** but also some **insects** and are very adapta
 
 <!-- generated, do not edit -->
 **See Also:**
-[American Tree Sparrow]({{< ref "amtreespar.md" >}}),
 [Chipping Sparrow]({{< ref "chipspar.md" >}}),
 [Song Sparrow]({{< ref "songspar.md" >}}),
+[Tree Sparrow]({{< ref "treespar.md" >}}),
 [White-crowned Sparrow]({{< ref "whitecspar.md" >}}),
 [White-throated Sparrow]({{< ref "whitetspar.md" >}})
