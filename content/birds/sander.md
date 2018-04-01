@@ -1,5 +1,6 @@
 ---
 name: "Sanderling"
+group: "shore"
 attr: "Derek Keats"
 attr_link: "https://www.flickr.com/photos/93242958@N00/30279752293"
 license: "CC BY"
@@ -12,3 +13,9 @@ In **summer**, Sanderling breed on islands above the Arctic Circle on dry rocky 
 [Dunlin]({{< ref "dunlin.md" >}}) are larger than Sanderling with a longer, downcurved bill. [Piping Plover]({{< ref "pipplov.md" >}}) are smaller, stay higher up on the beach, and don't chase waves. **Western Sandpiper** are smaller and browner than Sanderling.
 
 **Did you know?** After eating, Sanderling will often regurgitate pellets of sand and mollusk and crustacean shells.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Dunlin]({{< ref "dunlin.md" >}}),
+[Piping Plover]({{< ref "pipplov.md" >}}),
+[Spotted Sandpiper]({{< ref "spotsand.md" >}})

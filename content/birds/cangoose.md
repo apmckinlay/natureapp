@@ -13,3 +13,7 @@ The **large** birds (30-43 in) eat **grasses** in spring/summer and **grains**, 
 There are 11 sub-species of Canada Geese, getting smaller to the north and darker to the west. **Cackling Geese** are nearly identical but have a smaller body and beak. They breed further north than the Canada Goose but may be spotted during spring and fall migration.
 
 **Did you know?** The fuzzy yellow goslings leave the nest after just 1-2 days. Nests are built on the ground near water and only the female sits on the eggs.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Snow Goose]({{< ref "snogoose.md" >}})

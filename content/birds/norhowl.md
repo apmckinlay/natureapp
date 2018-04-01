@@ -18,4 +18,5 @@ Northern Hawk Owl can be found **year-round** in the **boreal forests** of Alask
 [Great Gray Owl]({{< ref "gregrowl.md" >}}),
 [Great Horned Owl]({{< ref "grehowl.md" >}}),
 [Long-eared Owl]({{< ref "longowl.md" >}}),
-[Northern Saw-whet Owl]({{< ref "norsowl.md" >}})
+[Northern Saw-whet Owl]({{< ref "norsowl.md" >}}),
+[Snowy Owl]({{< ref "snowyowl.md" >}})

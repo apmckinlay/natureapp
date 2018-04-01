@@ -18,4 +18,5 @@ Gray Jay and <span style="text-decoration:underline;">Steller's Jay</span> share
 
 <!-- generated, do not edit -->
 **See Also:**
-[Blue Jay]({{< ref "blujay.md" >}})
+[Blue Jay]({{< ref "blujay.md" >}}),
+[Stellar's Jay]({{< ref "steljay.md" >}})

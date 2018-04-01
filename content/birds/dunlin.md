@@ -1,5 +1,6 @@
 ---
 name: "Dunlin"
+group: "shore"
 attr: "Jason Crotty"
 attr_link: "https://www.flickr.com/photos/46789814@N05/5074556838"
 license: "CC BY"
@@ -10,3 +11,9 @@ Dunlin (6-9 in) are shorebirds with long black legs and a **long drooping black 
 Dunlin spend the **summer** breeding season on the wet coastal tundra of northern Alaska, Northwest Territories, and Nunavut. They **winter** along the Pacific, Gulf, and Atlantic coastal mudflats and estuaries as far north as New England and southern Alaska.
 
 **Did you know?** Dunlin breeding in northern Alaska migrate down the eastern side of Siberia and Asia to Japan and China.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Piping Plover]({{< ref "pipplov.md" >}}),
+[Sanderling]({{< ref "sander.md" >}}),
+[Spotted Sandpiper]({{< ref "spotsand.md" >}})

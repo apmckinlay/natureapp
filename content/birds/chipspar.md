@@ -17,4 +17,7 @@ Originally found in open pine woods and forest edges, Chipping Sparrow have made
 <!-- generated, do not edit -->
 **See Also:**
 [American Tree Sparrow]({{< ref "amtreespar.md" >}}),
-[House Sparrow]({{< ref "houspar.md" >}})
+[House Sparrow]({{< ref "houspar.md" >}}),
+[Song Sparrow]({{< ref "songspar.md" >}}),
+[White-crowned Sparrow]({{< ref "whitecspar.md" >}}),
+[White-throated Sparrow]({{< ref "whitetspar.md" >}})

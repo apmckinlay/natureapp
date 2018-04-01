@@ -18,4 +18,5 @@ The __Steller's Jay__, found in western North America, has a black head and ches
 
 <!-- generated, do not edit -->
 **See Also:**
-[Gray Jay]({{< ref "grayjay.md" >}})
+[Gray Jay]({{< ref "grayjay.md" >}}),
+[Stellar's Jay]({{< ref "steljay.md" >}})

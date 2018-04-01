@@ -10,8 +10,8 @@ The Great Blue Heron is **North America's largest heron** with a wingspan of 5.5
 
 Great Blue Heron can be found **year-round** in both **fresh** and **saltwater** habitats of the southern United States, British Columbia, New Brunswick, Nova Scotia, Prince Edward Island. In **summer**, they can be found in southern Canada and the central United States.
 
-The birds build **bulky stick nests** in large **treetop colonies** with as many as 500 individual nests. 
+The birds build **bulky stick nests** in large **treetop colonies** with as many as 500 individual nests.
 
 **Great White Heron**, found in southern Florida, are a sub-species of the Great Blue Heron and are  completely white. They are larger than the **Great Egret** that can also be identified by their black legs and orange beak.
 
-**Did you know?** Great Blue Heron hold their head tucked back over their necks with their long legs trailing out behind their tail when flying. [Sandhill Crane]({{< ref "sandhill.md" >}}) and __Whooping Crane__, on the other hand, fly with their neck outstretched, and travel in groups while herons fly solo.
+**Did you know?** Great Blue Heron hold their head tucked back over their necks with their long legs trailing out behind their tail when flying. [Sandhill Crane]({{< ref "sandhill.md" >}}) and [Whooping Crane]({{< ref "whoopcrane.md" >}}), on the other hand, fly with their neck outstretched, and travel in groups while herons fly solo.

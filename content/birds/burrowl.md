@@ -12,7 +12,7 @@ Burrowing Owl live in **treeless areas** with an open view and plenty of holes f
 
 Burrowing Owl turn their head upside down when curious and bob up and down when threatened.
 
-Unlike many owl, Burrowing Owl are **active day and night. [Long-eared Owl]({{< ref "longowl.md" >}}),**, **Short-eared Owl**, and __Snowy Owl__ also live in **grassland areas**, but they're all much larger than the Burrowing Owl. **Short-eared Owl** (15 in) are the most similar, but they have shorter legs, an obvious facial disc, and fly low over the fields rather than walking on the ground.
+Unlike many owl, Burrowing Owl are **active day and night. [Long-eared Owl]({{< ref "longowl.md" >}}),**, **Short-eared Owl**, and [Snowy Owl]({{< ref "snowyowl.md" >}}) also live in **grassland areas**, but they're all much larger than the Burrowing Owl. **Short-eared Owl** (15 in) are the most similar, but they have shorter legs, an obvious facial disc, and fly low over the fields rather than walking on the ground.
 
 **Did you know?** Burrowing Owl often line the entrance to their burrows with animal dung to attract insects that they can catch and eat.
 
@@ -22,4 +22,5 @@ Unlike many owl, Burrowing Owl are **active day and night. [Long-eared Owl]({{< 
 [Great Horned Owl]({{< ref "grehowl.md" >}}),
 [Long-eared Owl]({{< ref "longowl.md" >}}),
 [Northern Hawk Owl]({{< ref "norhowl.md" >}}),
-[Northern Saw-whet Owl]({{< ref "norsowl.md" >}})
+[Northern Saw-whet Owl]({{< ref "norsowl.md" >}}),
+[Snowy Owl]({{< ref "snowyowl.md" >}})

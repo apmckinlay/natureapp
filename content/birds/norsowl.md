@@ -22,4 +22,5 @@ Northern Saw-whet Owl are smaller than **Boreal Owl** with streaks instead of sp
 [Great Gray Owl]({{< ref "gregrowl.md" >}}),
 [Great Horned Owl]({{< ref "grehowl.md" >}}),
 [Long-eared Owl]({{< ref "longowl.md" >}}),
-[Northern Hawk Owl]({{< ref "norhowl.md" >}})
+[Northern Hawk Owl]({{< ref "norhowl.md" >}}),
+[Snowy Owl]({{< ref "snowyowl.md" >}})

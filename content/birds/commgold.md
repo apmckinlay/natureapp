@@ -18,4 +18,5 @@ Common Goldeneye spend their **summers** in Canada and Alaska's **boreal forest*
 **See Also:**
 [Common Loon]({{< ref "commloon.md" >}}),
 [Common Merganser]({{< ref "commmerg.md" >}}),
-[Mallard]({{< ref "mallard.md" >}})
+[Mallard]({{< ref "mallard.md" >}}),
+[Western Grebe]({{< ref "westgrebe.md" >}})

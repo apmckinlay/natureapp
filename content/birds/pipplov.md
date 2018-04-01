@@ -1,5 +1,6 @@
 ---
 name: "Piping Plover"
+group: "shore"
 attr: "Kelly Colgan Azar"
 attr_link: "https://www.flickr.com/photos/puttefin/8713385787"
 license: "CC BY-NC"
@@ -14,3 +15,9 @@ Piping Plover are an endangered species in both Canada and the United States.
 [Killdeer]({{< ref "killdeer.md" >}}) are larger than Piping Plover with a darker back, two black bands on their chest, and a longer bill. [Sanderling]({{< ref "sander.md" >}})  have bills as long as their head or longer.
 
 **Did you know?** Intruders near a Piping Plover nest may be chased or bitten. One [Killdeer]({{< ref "killdeer.md" >}}) was observed limping for an entire summer after getting too close to a nest.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Dunlin]({{< ref "dunlin.md" >}}),
+[Sanderling]({{< ref "sander.md" >}}),
+[Spotted Sandpiper]({{< ref "spotsand.md" >}})

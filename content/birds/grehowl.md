@@ -22,4 +22,5 @@ They hunt at **night** and are fierce predators with prey ranging from birds or 
 [Great Gray Owl]({{< ref "gregrowl.md" >}}),
 [Long-eared Owl]({{< ref "longowl.md" >}}),
 [Northern Hawk Owl]({{< ref "norhowl.md" >}}),
-[Northern Saw-whet Owl]({{< ref "norsowl.md" >}})
+[Northern Saw-whet Owl]({{< ref "norsowl.md" >}}),
+[Snowy Owl]({{< ref "snowyowl.md" >}})

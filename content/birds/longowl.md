@@ -22,4 +22,5 @@ Long-eared Owls don't build their own nests. Instead, they use stick nests built
 [Great Gray Owl]({{< ref "gregrowl.md" >}}),
 [Great Horned Owl]({{< ref "grehowl.md" >}}),
 [Northern Hawk Owl]({{< ref "norhowl.md" >}}),
-[Northern Saw-whet Owl]({{< ref "norsowl.md" >}})
+[Northern Saw-whet Owl]({{< ref "norsowl.md" >}}),
+[Snowy Owl]({{< ref "snowyowl.md" >}})
