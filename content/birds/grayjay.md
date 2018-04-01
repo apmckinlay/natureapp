@@ -12,11 +12,11 @@ Gray Jay are highly **curious** and always on the lookout for **food**, anything
 
 Gray Jay are 10-13 in with a wingspan of 18 in. They have a round head, a short bill, and a long tail. They live **year-round** in the northern forests and **nest in late winter**, incubating eggs at temperatures that may drop below minus 20F.
 
-Gray Jay and <span style="text-decoration:underline;">Steller's Jay</span> share the same habitat but are easy to tell apart as the Steller's Jay has a black head and dark blue body.
+Gray Jay and [Steller's Jay]({{< ref "steljay.md" >}}) share the same habitat but are easy to tell apart as the [Steller's Jay]({{< ref "steljay.md" >}}) has a black head and dark blue body.
 
 **Did you know?** Gray Jay store large quantities of food in bark crevices to eat in winter and use sticky saliva to glue small food items to tree branches.
 
 <!-- generated, do not edit -->
 **See Also:**
 [Blue Jay]({{< ref "blujay.md" >}}),
-[Stellar's Jay]({{< ref "steljay.md" >}})
+[Steller's Jay]({{< ref "steljay.md" >}})

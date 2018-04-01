@@ -10,7 +10,7 @@ Prairie Falcon can be seen **flying low** over western **deserts** and **grassla
 
 Prairie Falcon are **large** (15-18 in, 35-45 in wingspan) with a **light brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
 
-In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__, but in winter they prey on **small birds**, such as **Horned Lark** and __Western Meadowlark__.
+In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__, but in winter they prey on **small birds**, such as **Horned Lark** and [Western Meadowlark]({{< ref "westmlark.md" >}}).
 
 [Peregrine Falcon]({{< ref "peregrine.md" >}}) are a similar size but darker and don't have dark patches under their wings. [American Kestrel]({{< ref "amkestrel.md" >}}) and **Merlin** are both much smaller.
 
@@ -23,4 +23,6 @@ In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__,
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Peregrine Falcon]({{< ref "peregrine.md" >}}),
-[Red-tailed Hawk]({{< ref "redtail.md" >}})
+[Red-tailed Hawk]({{< ref "redtail.md" >}}),
+[Sharp-shinned Hawk]({{< ref "shshawk.md" >}}),
+[Swainson's Hawk]({{< ref "swahawk.md" >}})

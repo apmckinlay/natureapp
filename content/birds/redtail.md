@@ -12,7 +12,7 @@ A **large** bird (18-22 in, wingspan of 42-55 in) with a **rusty-red tail**, Red
 
 Red-tailed Hawk build **bulky stick nests**, usually in a tree or on a cliff ledge. Their diet consists of small mammals, birds, and snakes.
 
-**Red-shouldered Hawk** are smaller with warm red markings on the breast. __Swainson's Hawk__ have a dark chest and dark edges to their wings. __Turkey Vulture__ can look similar from a distance but have longer, more rectangular wings, which they hold above the horizontal to form a V. They are less steady when soaring.
+**Red-shouldered Hawk** are smaller with warm red markings on the breast. [Swainson's Hawk]({{< ref "swahawk.md" >}}) have a dark chest and dark edges to their wings. [Turkey Vulture]({{< ref "turkvult.md" >}}) can look similar from a distance but have longer, more rectangular wings, which they hold above the horizontal to form a V. They are less steady when soaring.
 
 **Did you know?** Birds are amazingly adapted for life in the air. Red-tailed Hawk are one of the largest North American birds, but they weigh at most 3 pounds. Dogs of a similar size weigh 10 times as much.
 
@@ -23,4 +23,6 @@ Red-tailed Hawk build **bulky stick nests**, usually in a tree or on a cliff led
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Peregrine Falcon]({{< ref "peregrine.md" >}}),
-[Prairie Falcon]({{< ref "prafalc.md" >}})
+[Prairie Falcon]({{< ref "prafalc.md" >}}),
+[Sharp-shinned Hawk]({{< ref "shshawk.md" >}}),
+[Swainson's Hawk]({{< ref "swahawk.md" >}})

@@ -10,11 +10,13 @@ Wilson's Warbler are a small warbler (4.5-5 in long) with a **bright yellow face
 
 Wilson's Warblers **move rapidly** from perch to perch searching for **insects**, staying close to the ground and **wagging their tails** up and down. They spend their **summers** in the **mountain meadows** and **thickets near streams or lakes** of Alaska, northern Canada (all provinces); the western mountains, and the coast of Washington, Oregon, and California. They winter in Central America and along the coast of Texas and Louisiana.
 
-__Yellow Warbler__ are slightly larger with a larger bill and yellow edges to their wing feathers.
+[Yellow Warbler]({{< ref "yellwarb.md" >}}) are slightly larger with a larger bill and yellow edges to their wing feathers.
 
 **Did you know?** Wilson's Warblers tend to be brighter yellow in the West and paler yellow in the East.
 
 <!-- generated, do not edit -->
 **See Also:**
 [Cape May Warbler]({{< ref "capewarb.md" >}}),
-[Townsend's Warbler]({{< ref "townwarb.md" >}})
+[Townsend's Warbler]({{< ref "townwarb.md" >}}),
+[Yellow-rumped Warbler]({{< ref "yellrump.md" >}}),
+[Yellow Warbler]({{< ref "yellwarb.md" >}})

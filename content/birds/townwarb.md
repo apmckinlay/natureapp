@@ -19,4 +19,6 @@ Townsend's Warbler search for **insects** in the **tops of trees**. The **males*
 <!-- generated, do not edit -->
 **See Also:**
 [Cape May Warbler]({{< ref "capewarb.md" >}}),
-[Wilson's Warbler]({{< ref "wilswarb.md" >}})
+[Wilson's Warbler]({{< ref "wilswarb.md" >}}),
+[Yellow-rumped Warbler]({{< ref "yellrump.md" >}}),
+[Yellow Warbler]({{< ref "yellwarb.md" >}})

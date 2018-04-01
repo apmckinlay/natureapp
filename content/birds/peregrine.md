@@ -25,4 +25,6 @@ Peregrine Falcon sit on high perches making **swift, steep dives** to catch thei
 [Golden Eagle]({{< ref "goldeagl.md" >}}),
 [Osprey]({{< ref "osprey.md" >}}),
 [Prairie Falcon]({{< ref "prafalc.md" >}}),
-[Red-tailed Hawk]({{< ref "redtail.md" >}})
+[Red-tailed Hawk]({{< ref "redtail.md" >}}),
+[Sharp-shinned Hawk]({{< ref "shshawk.md" >}}),
+[Swainson's Hawk]({{< ref "swahawk.md" >}})

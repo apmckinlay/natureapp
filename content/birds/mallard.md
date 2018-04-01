@@ -21,4 +21,5 @@ Mallard feed by tipping forward and grazing on **underwater plants** (dabbling).
 [Common Goldeneye]({{< ref "commgold.md" >}}),
 [Common Loon]({{< ref "commloon.md" >}}),
 [Common Merganser]({{< ref "commmerg.md" >}}),
-[Western Grebe]({{< ref "westgrebe.md" >}})
+[Western Grebe]({{< ref "westgrebe.md" >}}),
+[Wood Duck]({{< ref "woodduck.md" >}})

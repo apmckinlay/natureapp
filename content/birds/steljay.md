@@ -1,5 +1,5 @@
 ---
-name: "Stellar's Jay"
+name: "Steller's Jay"
 group: "jay"
 attr: "Reago & McClarren"
 attr_link: "https://www.flickr.com/photos/80270393@N06/33981065756"

@@ -16,7 +16,7 @@ Bald Eagle often mate for life after an **aerial courtship display** in which th
 
 Bald Eagle congregate at **communal roosts** and **feeding sites**, particularly in **winter**. They **eat mainly fish** but also animals, gulls, and waterfowl. They **scavenge** many meals by stealing from other birds or eating garbage.
 
-[Golden Eagle]({{< ref "goldeagl.md" >}}) have smaller heads and are found in open areas rather than near water. __Turkey Vulture__ have smaller, darker heads and hold their wings in a V-shape when soaring.
+[Golden Eagle]({{< ref "goldeagl.md" >}}) have smaller heads and are found in open areas rather than near water. [Turkey Vulture]({{< ref "turkvult.md" >}}) have smaller, darker heads and hold their wings in a V-shape when soaring.
 
 **Did you know?** Bald Eagle can reach speeds of up to 100 mph when diving or 40 mph when cruising. Young birds are nomads, exploring vast territories and flying hundreds of miles per day.
 
@@ -27,4 +27,6 @@ Bald Eagle congregate at **communal roosts** and **feeding sites**, particularly
 [Osprey]({{< ref "osprey.md" >}}),
 [Peregrine Falcon]({{< ref "peregrine.md" >}}),
 [Prairie Falcon]({{< ref "prafalc.md" >}}),
-[Red-tailed Hawk]({{< ref "redtail.md" >}})
+[Red-tailed Hawk]({{< ref "redtail.md" >}}),
+[Sharp-shinned Hawk]({{< ref "shshawk.md" >}}),
+[Swainson's Hawk]({{< ref "swahawk.md" >}})

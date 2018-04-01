@@ -12,11 +12,13 @@ This small songbird (4.5-5 in) spends its **summers** in the northern boreal for
 
 The warblers favourite northern food is the **spruce budworm**, although it also eats other insects.
 
-__Yellow-rumped Warblers__ have a long thin tail with bright yellow patches on face, sides, and rump.
+[Yellow-rumped Warblers]({{< ref "yellrump.md" >}}) have a long thin tail with bright yellow patches on face, sides, and rump.
 
 **Did you know?** The Cape May Warbler has a curled, semitubular tongue that it uses to collect flower nectar in the Caribbean during the winter.
 
 <!-- generated, do not edit -->
 **See Also:**
 [Townsend's Warbler]({{< ref "townwarb.md" >}}),
-[Wilson's Warbler]({{< ref "wilswarb.md" >}})
+[Wilson's Warbler]({{< ref "wilswarb.md" >}}),
+[Yellow-rumped Warbler]({{< ref "yellrump.md" >}}),
+[Yellow Warbler]({{< ref "yellwarb.md" >}})

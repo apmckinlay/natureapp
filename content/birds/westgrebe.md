@@ -21,4 +21,5 @@ The birds dive from the surface, **swimming underwater** to catch **fish**, thru
 [Common Goldeneye]({{< ref "commgold.md" >}}),
 [Common Loon]({{< ref "commloon.md" >}}),
 [Common Merganser]({{< ref "commmerg.md" >}}),
-[Mallard]({{< ref "mallard.md" >}})
+[Mallard]({{< ref "mallard.md" >}}),
+[Wood Duck]({{< ref "woodduck.md" >}})
