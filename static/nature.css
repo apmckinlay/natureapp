@@ -383,3 +383,14 @@ img.large {
         margin-top: 2vw;
     }
 }
+
+/* map -------------------------------------------- */
+
+#map {
+    height: 120px;
+    fill: #888888;
+    margin-top: .5em;
+}
+#CA-AB, #CA-BC { /* TODO */
+    fill: green;
+}
