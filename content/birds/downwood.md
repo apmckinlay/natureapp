@@ -5,6 +5,7 @@ attr: "Cephas"
 attr_link: "https://commons.wikimedia.org/wiki/File:Picoides_pubescens_f_CT3.jpg"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
+location: [bc,ab,sk,mb]
 ---
 Just 6 in tall, the Downy Woodpecker is **North America's smallest woodpecker** and is found **year-round** in forests and cities throughout North America. They are **boldly patterned in black and white** with a white belly, a white stripe down the back, a striped head, and checkered wings. **Males** have a small red patch on the back of their head.
 

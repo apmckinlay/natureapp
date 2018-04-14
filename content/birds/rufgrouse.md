@@ -5,6 +5,7 @@ attr: "Mad Tinman"
 attr_link: "https://en.wikipedia.org/wiki/Ruffed_grouse#/media/File:Bonasa-umbellus-001edit1.jpg"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Ruffed Grouse are **small** **chicken-like** birds (17 in) with a short **triangular crest** and a wide, **fan-like tail**. They have short legs and often look slimmer than other grouse. They are reddish-brown to black with white markings with a wide black band near the tip of their tail. Males have a ruff of black neck feathers that stand out straight and surround their head like an umbrella when displaying before a female.
 

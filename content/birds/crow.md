@@ -5,6 +5,7 @@ attr: "Andrew McKinlay "
 attr_link: "https://www.flickr.com/photos/apmckinlay/33823021123"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 American Crows are large (16-21 in) black birds with a thick neck and long legs. They can be found **year-round** in most parts of the United States. Birds spending the **summer** further north in Canada and the north-central United States **winter** a short distance south. They can be found in forests, grasslands, wetlands, and urban areas.
 

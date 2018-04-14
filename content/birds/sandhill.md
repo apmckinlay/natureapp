@@ -5,6 +5,7 @@ attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/31788139424"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Sandhill Crane are a large **gray** bird (3-4 ft) with a **long neck** and **legs** and a wingspan of 5-6.5 ft. Adults have **pale cheeks** and a **crimson cap**, and the feathers may be stained rusty red, possibly from feeding and preening in muddy areas. They have a **loud trumpeting call**; their long windpipe gives it a lower pitch and harmonics.
 

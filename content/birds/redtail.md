@@ -5,6 +5,7 @@ attr: "Mike Baird"
 attr_link: "https://www.flickr.com/photos/mikebaird/323660913/"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Look for Red-tailed Hawk **soaring in circles** over open fields or **perched** on poles and fence posts. They're found across Canada in the **summer** and **year-round** in the United States and are the most commonly seen hawk in North America.
 

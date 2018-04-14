@@ -5,6 +5,7 @@ attr: "Max Rae"
 attr_link: "https://www.flickr.com/photos/14723735@N08/33557937044"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Wilson's Warbler are a small warbler (4.5-5 in long) with a **bright yellow face** and **chest** and an **olive-green back** and **wings**. **Males** have a distinctive black cap, while **females** have varying amounts of black on top of their heads.
 

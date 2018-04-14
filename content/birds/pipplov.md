@@ -5,6 +5,7 @@ attr: "Kelly Colgan Azar"
 attr_link: "https://www.flickr.com/photos/puttefin/8713385787"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [ab,sk,mb]
 ---
 With a **sandy gray back** and **head**, tiny Piping Plover (6.5-7.5 in) are almost invisible until they run along the beach, stop, and tilt their head to pick an insect or worm from the sand. They have a **white belly**, **yellowish-orange legs**, and **large black eyes**. During the **summer** breeding season, they sport a black collar, a black line across their forehead, and a black tip on their short, orange beak. In **winter**, the bill is black and collar is broken and fades to gray.
 

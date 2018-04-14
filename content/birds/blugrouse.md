@@ -4,6 +4,7 @@ aka: "Dusky Grouse, Sooty Grouse"
 group: "grouse"
 attr: "S. King, US NPS"
 attr_link: "https://commons.wikimedia.org/wiki/File:Dendragapus_obscurus_NPS.jpg"
+location: [bc]
 ---
 **Dusky Grouse** and **Sooty Grouse** (previously known as **Blue Grouse**) are large (16-20 in), chicken-like birds, light to dark **gray** with a **black tail**. The **bare skin** on the side of the male's **neck** is purplish-red in **Dusky Grouse** and yellow in **Sooty Grouse**.
 

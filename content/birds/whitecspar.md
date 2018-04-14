@@ -5,6 +5,7 @@ attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/34339748900"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab]
 ---
 White-crowned Sparrow (5.9-6.3 in long) have a gray breast, a black-and-white striped head, and a pale beak. They prefer open areas with trees or shrubs nearby.
 

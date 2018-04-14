@@ -5,6 +5,7 @@ attr: "Andrew McKinlay "
 attr_link: "https://www.flickr.com/photos/apmckinlay/27034486241"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Chipping Sparrow, with a **reddish-brown cap** on a gray head and a **black line** through the **eye**, are a common **summer** visitor in all parts of North America. The small birds (4.5-6 in) have a gray breast and a brown back streaked with black and spend their **winters** along the southern border of the United States.
 

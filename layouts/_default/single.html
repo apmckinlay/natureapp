@@ -4,6 +4,12 @@
 <head lang="en">
     <title>{{ .Params.name }} - Nature Companion</title>
     {{ partial "head.html" . }}
+    <style>
+        {{if in .Params.location "bc"}} #CA-BC { fill: green; } {{end}}
+        {{if in .Params.location "ab"}} #CA-AB { fill: green; } {{end}}
+        {{if in .Params.location "sk"}} #CA-SK { fill: green; } {{end}}
+        {{if in .Params.location "mb"}} #CA-MB { fill: green; } {{end}}
+    </style>
 </head>
 
 <body>

@@ -5,6 +5,7 @@ attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/8180802963"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Northern Hawk Owl are the **only owl with a long tail**, while their head and body are wider than a hawk's. Northern Hawk Owl hunt during the **day**, pouncing on their prey from on high like a hawk. They have a dark, medium-sized (14-17 in) body with white markings and a **pale face** surrounded by a **black border**.
 

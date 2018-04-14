@@ -5,6 +5,7 @@ attr: "ntime60"
 attr_link: "https://www.flickr.com/photos/ntime60/7126066353"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Ring-billed Gull are the **most common inland gull**. They're very comfortable around people and are frequently found in parking lots or **scavenging for food** at landfills.
 

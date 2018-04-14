@@ -5,6 +5,7 @@ attr: "Michael Klotz"
 attr_link: "https://www.flickr.com/photos/michaelklotz/33964770891"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Red Crossbill have a **thick curved bill** with **crossed tips** that they use to extract seeds from evergreen cones. They are a small (5-6.5 in) plump bird that can be found **year-round** in in the **boreal forests** of the north, the west coast, and the western mountainous areas and throughout the United States in **winter**. The birds move in flocks and don't have a set migration but do **travel large distances** in search of **food**.
 

@@ -5,10 +5,11 @@ attr: "Mick Thompson"
 attr_link: "https://www.flickr.com/photos/mickthompson/33480159813"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
-Yellow-rumped Warbler are **gray** with flashes of **white** in their **wings** and patches of **yellow** on the **face**, **sides**, and **rump**. **Females** are duller. Both males and females are a paler brown in **winter** but still have a bright yellow rump. They are a fairly large warbler (4.7-5.5 in) with a large head and long, narrow tail. 
+Yellow-rumped Warbler are **gray** with flashes of **white** in their **wings** and patches of **yellow** on the **face**, **sides**, and **rump**. **Females** are duller. Both males and females are a paler brown in **winter** but still have a bright yellow rump. They are a fairly large warbler (4.7-5.5 in) with a large head and long, narrow tail.
 
-Yellow-rumped Warbler spend the **summer** in **forested areas** in Alaska, Canada, and the Pacific coast and western mountains of continental USA. **Winters** are spent in open woodlands and urban areas with lots of berries and fruit bushes in the southern United States from California, along the Gulf Coast, and up the Atlantic coast to Virginia and Maryland. 
+Yellow-rumped Warbler spend the **summer** in **forested areas** in Alaska, Canada, and the Pacific coast and western mountains of continental USA. **Winters** are spent in open woodlands and urban areas with lots of berries and fruit bushes in the southern United States from California, along the Gulf Coast, and up the Atlantic coast to Virginia and Maryland.
 
 There are two distinct sub-species of Yellow-rumped Warbler. **Myrtle Warbler** (eastern US and Canada's boreal forest) have a white throat and dark ear patches. **Audubon's Warbler** (mountainous west) have a yellow throat, and the males have more white in their wings.
 

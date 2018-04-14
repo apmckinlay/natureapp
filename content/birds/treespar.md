@@ -5,6 +5,7 @@ attr: "Eric Bégin"
 attr_link: "https://www.flickr.com/photos/ericbegin/4286589162"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+location: [bc,ab,sk,mb]
 ---
 American Tree Sparrow are small plump birds (5.5 in) with long thin tails. They have a **rusty-brown cap** and a **rusty-brown stripe** through their **eye**. Their **bill** is **black above** and **yellow below** and they often have a **dark spot** in the **centre of their chest**.
 

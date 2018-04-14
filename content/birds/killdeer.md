@@ -4,8 +4,9 @@ attr: "Curt Hart"
 attr_link: "https://www.flickr.com/photos/8272102@N04/499985853"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [bc,ab,sk,mb]
 ---
-A common sight across Canada and the northern United States in **summer** and in the southern United States and along the west coast **year-round**, Killdeer can often be found at the water's edge but also on open ground with little or no vegetation (lawns, golf courses, roads, beaches). 
+A common sight across Canada and the northern United States in **summer** and in the southern United States and along the west coast **year-round**, Killdeer can often be found at the water's edge but also on open ground with little or no vegetation (lawns, golf courses, roads, beaches).
 
 Killdeer (8-11 in) have a **large round head** with **large eyes** and a short beak. They have a **long**, **pointed tail** and **long wings** (18 in wingspan). They are brown on top and white below with two **black bands** across their **chest** and **black** and **white patches** on their **face**. A bright **orange patch** on their **rump** is visible when flying.
 

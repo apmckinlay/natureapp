@@ -5,6 +5,7 @@ attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/24650337634"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 House Sparrow are one of our most common urban birds. Introduced from Europe in 1851, they are not related to other North American sparrows. They are **chunkier** with a **larger rounded head**, a **shorter tail**, and a **stouter bill** than other sparrows.
 

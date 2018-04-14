@@ -4,6 +4,7 @@ attr: "Andrew McKinlay "
 attr_link: "https://www.flickr.com/photos/apmckinlay/27964840281"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 American Robins are a medium-sized bird (8-11 in) with a gray-brown back, **black head**, **red breast**, **white patch** on lower belly, bright **yellow beak**. The female colors are less bold. Robins can be found throughout Canada and the United States, primarily in **urban areas**, but they can also be found in mountain forests and the Alaska wilderness. Many northern birds migrate south for the **winter** but some remain **year-round**. You're less likely to spot Robins in **winter** when they spend more time in trees than on the ground.
 

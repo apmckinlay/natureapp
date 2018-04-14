@@ -5,6 +5,7 @@ attr: "Paul Tavares"
 attr_link: "https://www.inaturalist.org/observations/8630404"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Listen for the **haunting cry** of the Common Loon on quiet, forested northern lakes in **summer**  when they have a black head and throat, a long (3 ft), flat, black and white checkered body, with a white belly and striped collar. In **winter**, they're gray with a white throat and can be found be found on the Pacific and Atlantic coasts. Common Loons are also known as Great Northern Divers.
 

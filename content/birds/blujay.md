@@ -5,6 +5,7 @@ attr: "Jacob McGinnis"
 attr_link: "https://www.flickr.com/photos/anoldent/5741552212/"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
+location: [ab,sk,mb]
 ---
 With a bright **blue** back, **crest**, and tail and a **noisy** call, Blue Jay (10-12 in) are show-stoppers. They have a white face and a **black band** around the neck and over the top of the head as well as black and white markings on their wings and are light gray underneath. 
 

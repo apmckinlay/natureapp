@@ -4,6 +4,7 @@ attr: "Kevin Cole"
 attr_link: "https://commons.wikimedia.org/wiki/File:Belted_Kingfisher.jpg"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Belted Kingfisher can be found **near lakes, ponds, and saltwater estuaries**. They have a **blue-gray** body (11-14 in, wingspan of 19-23 in), a white chest, and a **large head** with a **shaggy crest** and **dagger-like bill**. **Females** have **blue and chestnut bands** across their breast; **males** only have a **blue band**. Listen for their **loud, rattling call**. 
 

@@ -5,8 +5,9 @@ attr: "Kevin Cole"
 attr_link: "https://en.wikipedia.org/wiki/Peregrine_falcon#/media/File:Peregrine_Falcon_in_flight.jpg"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [bc,ab]
 ---
-Peregrine Falcon were disappearing but have made a dramatic recovery and can be seen perched or nesting on **tall buildings** in urban areas. They are also found in **open areas**, often near water, and especially **along the coast**. 
+Peregrine Falcon were disappearing but have made a dramatic recovery and can be seen perched or nesting on **tall buildings** in urban areas. They are also found in **open areas**, often near water, and especially **along the coast**.
 
 In **summer**, Peregrine Falcon are found in Alaska and Canada north of the treeline and in the western mountain region from Idaho and Montana south to Colorado and New Mexico. They migrate to the coast from Texas to North Carolina in **winter** and are also found **year-round** on the west coast from Alaska to California and inland in Arizona, around the Great Lakes, and in the northwestern USA from Pennsylvania to Maine.
 

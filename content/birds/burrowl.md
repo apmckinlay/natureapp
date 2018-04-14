@@ -5,6 +5,7 @@ attr: "Andrew McKinlay "
 attr_link: "https://www.flickr.com/photos/apmckinlay/32856192241"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Burrowing Owl are **tiny (9 in)** with long legs and a short tail. They are mottled brown with **white eyebrows** and **throat**. They are found during the summer in southwestern Canada and the western United States. Northern birds migrate further south for the winter. They can be found year-round in southern California, New Mexico, Arizona, Texas, and the Florida Panhandle.
 

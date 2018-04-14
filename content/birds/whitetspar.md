@@ -5,6 +5,7 @@ attr: "Doug Greenberg"
 attr_link: "https://www.flickr.com/photos/dagberg/39002921480"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
 ---
 White-throated Sparrow (6 1/2 in long) are brown above and gray below with a **black-and-white striped head** (sometimes tan with a dark brown stripe), a **white throat**, and a **yellow patch** between the eye and the bill.
 

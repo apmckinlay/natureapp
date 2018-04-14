@@ -5,6 +5,7 @@ attr: "David Mitchell"
 attr_link: "https://www.flickr.com/photos/firstmac/32485166306"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Northern Saw-whet Owl are **small**  (8 in long), close to the size of a [Robin]({{< ref "robin.md" >}}). They have a **large round head**, big **yellow eyes** surrounded by a **white facial disc**, and no ear tufts. They have a brown back and a white breast with dark brown streaks.
 

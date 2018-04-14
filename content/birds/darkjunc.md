@@ -4,8 +4,9 @@ attr: "Eric Begin"
 attr_link: "https://www.flickr.com/photos/ericbegin/4194414513"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+location: [bc,ab,sk,mb]
 ---
-Dark-eyed Junco are a small (5-6 in) dark gray or brown bird with a **white belly** and **white outer tail feathers**. Color varies considerably, but most have a **dark gray** (eastern United States and Canada) or **brown** (western United States) **hood and chest**. 
+Dark-eyed Junco are a small (5-6 in) dark gray or brown bird with a **white belly** and **white outer tail feathers**. Color varies considerably, but most have a **dark gray** (eastern United States and Canada) or **brown** (western United States) **hood and chest**.
 
 Dark-eyed Junco have **thick bills** for cracking seed and spend much of their time hopping on the ground looking for **seeds** and **insects**.
 

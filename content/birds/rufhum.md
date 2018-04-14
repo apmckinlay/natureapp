@@ -5,6 +5,7 @@ attr: "Nicole Beaulac"
 attr_link: "https://www.flickr.com/photos/nicolebeaulac/13903678766"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+location: [bc]
 ---
 These feisty little birds (2.8-3.5 in) will defend their territory against birds many times their size. They are often seen at backyard hummingbird feeders. **Males** have an orange back and belly and a shiny red throat. **Females** are green with rusty-red sides, rusty patches on the tail, and an orange patch on the throat.
 

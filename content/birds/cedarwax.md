@@ -4,6 +4,7 @@ attr: "Jacob McGinnis"
 attr_link: "https://www.flickr.com/photos/93649757@N07/35556037524"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+location: [bc,ab,sk,mb]
 ---
 A light brown head, crest, and chest fade to blue-gray over the wings and tail. A **black mask** across the eyes, a **yellow tail tip**, and bright **red drops on the wings** add splashes of color. The **crest** often droops over the back of the head. They are a **medium-sized** bird (5.5-6.7 in).
 

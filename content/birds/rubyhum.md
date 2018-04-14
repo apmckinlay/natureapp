@@ -5,6 +5,7 @@ attr: "Rick from Alabama"
 attr_link: "https://www.flickr.com/photos/rick_al/36379154272"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [ab,sk,mb]
 ---
 Ruby-throated Hummingbirds have a **shiny green** **back** and **crown** with a gray-white belly. **Males** have a **ruby-red throat**. These slender, tiny birds (2.8-3.5 in) have a slightly **downcurved** beak and **short wings**.
 

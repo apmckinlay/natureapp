@@ -4,6 +4,7 @@ attr: "Mike Baird"
 attr_link: "https://www.flickr.com/photos/72825507@N00/2351478580"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
+location: [bc,ab,sk,mb]
 ---
 Turkey Vulture are large (25-32 in) dark brown birds with long, broad wings (66-70 in wingspan), a **small, featherless red head**, and a **white-tipped bil**l. The underside of their **wings** is **dark** with a wide **white** border. They hold their **wings slightly raised in a "v"** and fly in wobbly circles.
 
