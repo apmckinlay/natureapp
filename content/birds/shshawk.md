@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/56509109@N04/16088211153"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Sharp-shinned Hawk (Sharpie) are the **smallest North American hawk** (12 in) with a **small head**, **short wings**, **long legs**, and **long tail**. They can be hard to spot as they hide in bushes and wooded areas, ready to leap out and pounce on passing songbirds. However, they can often be seen in large numbers during migration.
 

@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/marthaenpiet/32882723320/"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Long-eared Owl are slender owls (13-16 in) with **long ear tufts** pointing straight up. Their **dark mottled feathers** and **rusty-orange facial disc** provide excellent camouflage when **roosting** during the **day** in **thick stands of trees**.
 

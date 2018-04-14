@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/w4nd3rl0st/8363830530"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [ab,sk]
+visibility: low
 ---
 Whooping Crane are the **tallest North American bird** (5 ft) with a **long neck** and **legs** and a wingspan of over 7 ft. Adults are pure **white** with a **crimson cap** and **mustache**. **Juveniles** have white feathers with rusty-brown streaks.
 

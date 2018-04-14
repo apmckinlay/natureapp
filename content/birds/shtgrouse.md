@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/bryanto/16662891419"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Sharp-tailed Grouse are spotted, **brown and white**, chicken-like birds (18 in). Their **tail feathers** are narrow and pointed with **white edges**.
 

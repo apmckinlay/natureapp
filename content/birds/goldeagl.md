@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/thepcspud/26706532053"
 license: "CC-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
+visibility: low
 ---
 Golden Eagle soar or glide with **wings lifted in a slight V** and **wingtip feathers spread out like fingers** over open, undeveloped **grasslands** near **mountains, hills**, and **cliffs**. These large birds (28-33 in) have a **wingspan of 6-7 ft**. The **adults** are dark brown with golden-brown feathers on the back of their head and neck. The **young** have white patches under their wings and at the base of the tail.
 

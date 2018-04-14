@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/79452129@N02/32982369791"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Great Gray Owl can be found **year-round** in the **evergreen forests** of Alaska and Nnorthern Canada as well as the **western mountain region** stretching from BC through Washington, Idaho, Montana, and parts of California.
 

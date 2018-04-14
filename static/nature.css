@@ -391,4 +391,10 @@ img.large {
     height: 100px;
     fill: #888888;
     margin-top: .5em;
+    margin-right: 2em;
+}
+
+#hard {
+    height: 60px;
+    margin-bottom: 15px;
 }

@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/22306350538"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Western Grebe are a medium-sized waterbird (22-30 in) with a **long, white neck**, a **black head** and **back**, and a **white underside**. They have a **long, thin, yellow bill** and red eyes.
 

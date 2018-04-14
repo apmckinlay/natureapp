@@ -35,7 +35,8 @@
         </div>
         <div class="content">
         {{ .Content }}
-        {{ partial "map.svg" . }}
+        {{ partial "map.svg" }}
+        {{if eq .Params.visibility "low"}}{{ partial "hard.svg" }}{{end}}
         </div>
     </div>
 </body>

@@ -6,6 +6,7 @@ attr_link: "https://commons.wikimedia.org/wiki/File:Falcipennis-canadensis-001.j
 license: "CC-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Spruce Grouse live in the **coniferous forests** of Canada and the northern United States where they eat the needles and buds of spruce and other coniferous trees.
 

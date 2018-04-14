@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/25127563762"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Great Horned Owl are **large** (22 in) with **long earlike tufts** on their head, a **white bib**, and a **dark brown** body with white markings. They have a **deep hooting voice** that is unlike any other North American Owl. The males are smaller than females and have a deeper voice.
 

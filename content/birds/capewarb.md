@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/wildreturn/37443178010"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [ab,sk,mb]
+visibility: low
 ---
 This small songbird (4.5-5 in) spends its **summers** in the northern boreal forests from Alberta, around the Great Lakes, to the Maritimes. It **migrates** through the eastern United States to its **winter** home in the West Indies and Central America and occasionally at the southern tip of the Florida Panhandle.
 

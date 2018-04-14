@@ -5,6 +5,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/16675347443/"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: low
 ---
 Western Meadowlark have a **bright yellow breast** and a **black v-shaped necklace**. Their upperparts are streaky brown and black and their **round-shouldered posture** nearly conceals their neck. They are the size (6-10 in) of a robin but chunkier with a shorter tail.
 
