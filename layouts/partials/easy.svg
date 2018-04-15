@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="easy" viewBox="0 0 421.14 213.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f3;
+      }
+
+      .cls-2 {
+        fill: #f30;
+      }
+
+      .cls-3 {
+        fill: #73fffd;
+      }
+
+      .cls-4 {
+        font-size: 40px;
+        font-family: Arial-Black, Arial Black;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.02em;
+      }
+    </style>
+  </defs>
+  <title>Asset 2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <path class="cls-1" d="M0,210.57H210.57L105.27,28.18A210.49,210.49,0,0,0,0,210.57Z"/>
+        <path class="cls-2" d="M315.87,28.19,210.57,210.57H421.14A210.46,210.46,0,0,0,315.87,28.19Z"/>
+        <path class="cls-3" d="M210.57,0a209.63,209.63,0,0,0-105.3,28.18l105.3,182.39L315.87,28.19A209.54,209.54,0,0,0,210.57,0Z"/>
+      </g>
+      <text class="cls-4" transform="translate(12.26 200.91)">Easy</text>
+      <text class="cls-4" transform="translate(305.33 200.91)">Ha<tspan class="cls-5" x="60" y="0">r</tspan><tspan x="78.75" y="0">d</tspan></text>
+      <path d="M197.18,208.32l0-.08a20,20,0,0,0,2,.93A22,22,0,0,0,217,169a23,23,0,0,0-4.46-1.57L61.16,125.2A2.87,2.87,0,0,0,59,130.47Z"/>
+    </g>
+  </g>
+</svg>

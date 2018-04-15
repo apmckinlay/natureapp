@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/26971952051"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: high
 ---
 With a **loud voice**, a **long tail**, **black** head and back, **white** wing patches and underparts, Black-billed Magpie are easy to spot. These **large** birds (1.5 - 2 ft) are frequently found in **groups** as they are **very social**. You'll often find them **on the ground** in **urban** parks foraging for food (insects, wild fruit, grain, small animals, carrion). 
 

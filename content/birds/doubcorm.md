@@ -5,6 +5,7 @@ attr_link: "https://www.flickr.com/photos/nature80020/28753061111"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+visibility: high
 ---
 The Double-crested Cormorant is a large (28-35 in) **black waterbird** with a **long crooked neck** and a thin hooked beak. The crest isn't noticeable. Their heavy bodies sit very low in the water and they **dive** to catch small fish.
 

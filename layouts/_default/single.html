@@ -37,6 +37,7 @@
         {{ .Content }}
         {{ partial "map.svg" }}
         {{if eq .Params.visibility "low"}}{{ partial "hard.svg" }}{{end}}
+        {{if eq .Params.visibility "high"}}{{ partial "easy.svg" }}{{end}}
         </div>
     </div>
 </body>

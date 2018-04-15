@@ -5,6 +5,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/33537103913"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: high
 ---
 Black-capped Chickadee are lively little birds (4-6 in) with a **large round head**. **Gray** on top and **white** or **light orange/brown** underneath, they have a **black cap and chin** and **white cheeks**. The **wings** have **white edges**. Listen for their **call** (chick-a-dee-dee-dee).
 

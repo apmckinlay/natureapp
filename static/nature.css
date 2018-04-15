@@ -394,7 +394,7 @@ img.large {
     margin-right: 2em;
 }
 
-#hard {
+#hard, #easy {
     height: 60px;
     margin-bottom: 15px;
 }

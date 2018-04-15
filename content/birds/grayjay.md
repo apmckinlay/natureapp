@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/22274688105"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: high
 ---
 **Dark gray** above and **light** **gray** below with a **black patch** on the back of their head and a white cap and throat, Gray Jay (also known as Camp Robber, Canada Jay, Whiskey Jack) are a familiar visitor to **campgrounds** in the **evergreen forests** of Alaska, Canada, and the mountains of the western United States.
 

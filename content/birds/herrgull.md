@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/30198379963"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+visibility: high
 ---
 Herring Gull are one of the most familiar gulls of the **North Atlantic** and can be found along both North American coasts in **winter**. They are found **year-round** along the southern coast of Alaska, around the Great Lakes, along the St. Lawrence River, and on the Atlantic coast from North Carolina to Newfoundland.
 
