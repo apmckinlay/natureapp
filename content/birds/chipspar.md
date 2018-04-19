@@ -1,7 +1,7 @@
 ---
 name: "Chipping Sparrow"
 group: "sparrow"
-attr: "Andrew McKinlay "
+attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/27034486241"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
