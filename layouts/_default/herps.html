@@ -13,7 +13,7 @@
             <div class="header-left">
                 <a href="/">
                     <img id="small-logo" src="images/naturecompanion.svg" /></a>
-                    <span>Birds</span>
+                    <span>Reptiles &amp; Amphibians</span>
             </div>
         </h1>
     </div>
@@ -21,8 +21,8 @@
     <div class="list">
         {{ range $.Site.Pages }}
             {{ if isset .Params "name" }}
-            {{if eq .Section "birds"}}
-            <div class="item">
+            {{if eq .Section "herps"}}
+                <div class="item">
                 <a href="{{ .Section }}/{{ .File.BaseFileName }}.html">
                     <img class="small" 
                         src="photos/{{ .Section }}/small/{{ .File.BaseFileName }}.jpg" />
