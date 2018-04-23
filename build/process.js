@@ -4,15 +4,19 @@
 
 const fs = require('fs');
 
-const dir = 'content/birds/';
 const generated = "<!-- generated, do not edit -->";
 
 let id2name = {}; // e.g. "crow" => "Crow"
 let name2id = {}; // e.g. "Crow" => "crow"
 let groups = {}; // e.g. "corvid" => ["crow", "raven"]
 
-forEachFile(dir, gatherInfo);
-forEachFile(dir, updateFiles);
+process('content/birds/');
+process('content/herps/');
+
+function process(dir) {
+    forEachFile(dir, gatherInfo);
+    forEachFile(dir, updateFiles);
+}
 
 function forEachFile(dir, fn) {
     // TODO handle directory tree

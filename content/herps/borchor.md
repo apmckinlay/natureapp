@@ -19,3 +19,10 @@ Boreal Chorus Frog have a **wide range** from British Columbia to Quebec and ext
 __Western Chorus Frog__ are almost identical, but their range is confined to southwestern Ontario, from Michigan to New York, and south to Tennessee. __Pacific Treefrog__ are often referred to as Pacific Chorus Frog as there are similarities, but they are not found in the same areas.
 
 **Did you know?** Boreal Chorus Frog are hard to see but easy to hear. The chorus of high-pitched trills has been compared to a fingernail running along the edge of a plastic comb.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Canadian Toad]({{< ref "cantoad.md" >}}),
+[Columbia Spotted Frog]({{< ref "colsfrog.md" >}}),
+[Northern Leopard Frog]({{< ref "norlfrog.md" >}}),
+[Northern Leopard Frog]({{< ref "pactfrog.md" >}})
