@@ -15,3 +15,10 @@ Long-toed Salamander are **nocturnal** and spend most of their time underground,
 Long-toed Salamander eat insects, tadpoles, worms, and beetles. In colder areas, they hibernate in groups underground in winter.
 
 **Did you know?** The Long-toed Salamander's tail serves two purposes. It stores fat for the salamander to use as food during hard times and, if a predator tries to bite the tail, it receives a mouthful of sticky poison.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Rough-skinned Newt]({{< ref "rounewt.md" >}}),
+[Short-horned Lizard]({{< ref "shortliz.md" >}}),
+[Tiger Salamander]({{< ref "tigsal.md" >}}),
+[Western Skink]({{< ref "westskink.md" >}})

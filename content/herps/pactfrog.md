@@ -22,4 +22,7 @@ Pacific Treefrog are often referred to as **Pacific Chorus Frog** as there are s
 [Boreal Chorus Frog]({{< ref "borchor.md" >}}),
 [Canadian Toad]({{< ref "cantoad.md" >}}),
 [Columbia Spotted Frog]({{< ref "colsfrog.md" >}}),
-[Northern Leopard Frog]({{< ref "norlfrog.md" >}})
+[Northern Leopard Frog]({{< ref "norlfrog.md" >}}),
+[Plains Spadefoot Toad]({{< ref "plainspade.md" >}}),
+[Western Toad]({{< ref "westtoad.md" >}}),
+[Wood Frog]({{< ref "woodfrog.md" >}})

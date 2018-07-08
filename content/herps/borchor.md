@@ -25,4 +25,7 @@ __Western Chorus Frog__ are almost identical, but their range is confined to sou
 [Canadian Toad]({{< ref "cantoad.md" >}}),
 [Columbia Spotted Frog]({{< ref "colsfrog.md" >}}),
 [Northern Leopard Frog]({{< ref "norlfrog.md" >}}),
-[Northern Leopard Frog]({{< ref "pactfrog.md" >}})
+[Pacific Tree Frog]({{< ref "pactfrog.md" >}}),
+[Plains Spadefoot Toad]({{< ref "plainspade.md" >}}),
+[Western Toad]({{< ref "westtoad.md" >}}),
+[Wood Frog]({{< ref "woodfrog.md" >}})

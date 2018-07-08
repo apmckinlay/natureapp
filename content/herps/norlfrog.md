@@ -21,4 +21,7 @@ __Pickerel Frog__, found in southeast Canada and the United States, are similar 
 [Boreal Chorus Frog]({{< ref "borchor.md" >}}),
 [Canadian Toad]({{< ref "cantoad.md" >}}),
 [Columbia Spotted Frog]({{< ref "colsfrog.md" >}}),
-[Northern Leopard Frog]({{< ref "pactfrog.md" >}})
+[Pacific Tree Frog]({{< ref "pactfrog.md" >}}),
+[Plains Spadefoot Toad]({{< ref "plainspade.md" >}}),
+[Western Toad]({{< ref "westtoad.md" >}}),
+[Wood Frog]({{< ref "woodfrog.md" >}})
