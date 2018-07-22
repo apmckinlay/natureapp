@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/usfwspacific/19150984675"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk]
-habitat: [desert]
+habitat: [desert,grassland]
 visibility: low
 ---
 Short-horned Lizard, also known as **Horned Toad** or **Horny Toad**, are **small** (3.5-4 in), **flat**, and **round** with a **short, pointed tail**. They have a **crown of short, pointy scales** (horns) on their head and **short, pointed scales** on their **back**. Their coloring varies from yellow to gray to reddish-brown to match their environment.
