@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/stuartwildlife/4669446198/"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [wetland,grassland,forest]
 visibility: high
 ---
 Boreal Chorus Frog breed very early in the **spring**, even before the snow and ice melts, and you can hear them calling day and night. They prefer to lay their eggs in **small ponds** and **ditches** that will dry out as there are less predators. During the **summer** they can be found in moist, grassy or wooded areas.

@@ -6,6 +6,7 @@ attr_link: ""
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,sk]
+habitat: [desert,forest,grassland]
 visibility: low
 ---
 North American Racer are **fast-moving**, active snakes that can be found across the United States and in parts of southern BC, SK, and ON. They are 2-5 ft long and **slender** with **large, round eyes**. The back is solid blue, gray, or brown with a light-colored belly (white or yellow). The young are blotchy and a few sub-species are patterned.

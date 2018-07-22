@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/138578145@N04/33355933094"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk]
+habitat: [desert,grassland]
 visibility: low
 ---
 Bullsnake, also known as **Gopher Snake**, are 3-8 ft long. They have a **large head**, **large eyes**, and a **narrow neck**. They are light brown to yellow with a cream-colored belly and dark blotches on their back and sides. An enlarged nose shield helps them to burrow in the sand.

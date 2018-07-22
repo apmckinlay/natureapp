@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/8821265392"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
+habitat: [forest,grassland]
 visibility: low
 ---
 Western Skink are **long**, **narrow** lizards (8 in) with **smooth**, **shiny scales**, a **pointed head**, and **short legs**. The **tail**, especially in young Skink, is bright **blue**. They have a dark brown body, a light-colored belly, and **4 creamy stripes** running from **head to tail**. The chin and side of the face often have an orange tint during breeding season.

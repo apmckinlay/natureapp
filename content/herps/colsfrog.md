@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/usfws_pacificsw/21834164080"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab]
+habitat: [mountain,wetland]
 visibility: low
 ---
 Columbia Spotted Frog (2-4 in) can be found in the **mountainous** regions of the **Pacific Northwest**. They are light brown to olive green with dark brown spots. Their underside is pink, red, or yellow. Two **ridges** of skin run down their **head** and partway along their **back**. A **white** or **yellow stripe** runs along their **upper lip** and their **eyes** are **angled slightly upwards**.

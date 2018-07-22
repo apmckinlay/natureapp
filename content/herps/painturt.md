@@ -6,9 +6,10 @@ attr_link: "https://www.flickr.com/photos/johnclare/14574506604"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [urban,wetland]
 visibility: high
 ---
-Painted Turtles are one of North America's most **common** turtles and can be found from **southern Canada to northern Mexico**. They have **red markings** on the edge of a **dark shell** (3.5-10 in long) and bright **yellow streaks** on their **head**, **neck**, **tail**, and **legs**. 
+Painted Turtles are one of North America's most **common** turtles and can be found from **southern Canada to northern Mexico**. They have **red markings** on the edge of a **dark shell** (3.5-10 in long) and bright **yellow streaks** on their **head**, **neck**, **tail**, and **legs**.
 
 Painted Turtle live in slow-moving, shallow water, such as **ponds** or **marshes**. You can often spot them **sunning** themselves on a rock or log in the middle of a pond.  In colder climates, they hibernate over the winter in the muddy bottoms of ponds or lakes.
 

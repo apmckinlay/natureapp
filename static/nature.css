@@ -391,10 +391,11 @@ img.large {
     height: 100px;
     fill: #888888;
     margin-top: .5em;
-    margin-right: 2em;
 }
 
-#hard, #easy {
+#hard, #easy, #desert, #forest, #grassland, #mountain, #ocean, #urban, #wetland {
     height: 60px;
     margin-bottom: 15px;
+    margin-left: 15px;
+    margin-top: 1em;
 }

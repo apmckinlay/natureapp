@@ -38,6 +38,14 @@
         {{ partial "map.svg" }}
         {{if eq .Params.visibility "low"}}{{ partial "hard.svg" }}{{end}}
         {{if eq .Params.visibility "high"}}{{ partial "easy.svg" }}{{end}}
+
+        {{if in .Params.habitat "desert"}}{{ partial "desert.svg" }}{{end}}
+        {{if in .Params.habitat "forest"}}{{ partial "forest.svg" }}{{end}}
+        {{if in .Params.habitat "grassland"}}{{ partial "grassland.svg" }}{{end}}
+        {{if in .Params.habitat "mountain"}}{{ partial "mountain.svg" }}{{end}}
+        {{if in .Params.habitat "ocean"}}{{ partial "ocean.svg" }}{{end}}
+        {{if in .Params.habitat "urban"}}{{ partial "urban.svg" }}{{end}}
+        {{if in .Params.habitat "wetland"}}{{ partial "wetland.svg" }}{{end}}
         </div>
     </div>
 </body>

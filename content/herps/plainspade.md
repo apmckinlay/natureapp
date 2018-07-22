@@ -6,9 +6,10 @@ attr_link: "https://www.flickr.com/photos/63265212@N03/8737793410/"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
+habitat: [desert,grassland]
 visibility: low
 ---
-Plains Spadefoot are toads with a **round body** (1.5-2.5 in), **short legs**, a **bony lump** between the **eyes**, and a **vertical pupil**. The skin is relatively smooth and moist.They are tan to dark brown with small orange/yellow spots and a white belly. They often have **4 white stripes** down their **back**. 
+Plains Spadefoot are toads with a **round body** (1.5-2.5 in), **short legs**, a **bony lump** between the **eyes**, and a **vertical pupil**. The skin is relatively smooth and moist.They are tan to dark brown with small orange/yellow spots and a white belly. They often have **4 white stripes** down their **back**.
 
 Plains Spadefoot can be found on **short-grass prairie** with sandy or gravelly soil for burrowing from **southern AB**, **SK**, and **MB** south through the **central plains** to New Mexico, Oklahoma, and West Texas.
 

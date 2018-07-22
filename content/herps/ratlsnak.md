@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/138578145@N04/27149135354"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk]
+habitat: [desert,grassland,mountain,wetland]
 visibility: low
 ---
 Rattlesnake have a **thick body** with a **triangular head** and are 1-8 ft long. The scales usually form a dark geometrical pattern on a light background. They are found in **southern BC**, **AB**, and **SK** and throughout the **United States**; however, the majority live in the **deserts** of the **American southwest** and northern Mexico. Arizona has 13 species of Rattlesnake, more than any other area in North America.

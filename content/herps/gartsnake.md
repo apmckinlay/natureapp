@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/usfwsmidwest/37741563212"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [grassland,urban,wetland]
 visibility: high
 ---
 Garter Snake are **long** (1.5-4.5 ft), **slender** snakes and usually have **3 stripes** on their **back**. There are, however, many regional variations in appearance. For example, **Terrestrial Gartersnake**, found in northern Arizona, have one creamy stripe down their back.
