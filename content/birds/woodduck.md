@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/8494177899"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,wetland]
 ---
 **Male** Wood Duck sport shiny blue, green, and purple stripes with white stripes on the head and chin in **summer**. **Females** and **juveniles** are brownish-gray with a large white patch around the eye. The birds (18-21 in) have a **boxy crested head**, a **thin neck**, and a **long broad tail**.
 

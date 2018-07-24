@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/firstmac/6807997084"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [grassland]
 ---
 The largest North American owl (20-28 in, 50-57 in wingspan), Snowy Owl have a round head and yellow eyes in a **white facial disc**. **Males** can be pure white, but **females** have mixed white and brown feathers.
 

@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/mickthompson/33480159813"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,urban]
 ---
 Yellow-rumped Warbler are **gray** with flashes of **white** in their **wings** and patches of **yellow** on the **face**, **sides**, and **rump**. **Females** are duller. Both males and females are a paler brown in **winter** but still have a bright yellow rump. They are a fairly large warbler (4.7-5.5 in) with a large head and long, narrow tail.
 

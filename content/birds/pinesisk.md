@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/9368779003"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,urban]
 ---
 Pine Siskin are **small** (4-5 ½ in), **streaky-brown** birds with **yellow edging** on their **wings** and **tail**. They have a **sharp, pointed beak** and a **short, notched tail**.
 

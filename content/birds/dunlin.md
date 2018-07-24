@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/46789814@N05/5074556838"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc]
+habitat: [ocean]
 ---
 Dunlin (6-9 in) are shorebirds with long black legs and a **long drooping black bill**. Their **winte**r coat is plain with a brown back and pale belly, but in **summer** the **rusty-red** feathers on their **back** and **head** and a **black patch** on their **white belly** are noticeable. In flight, large flocks turn and bank in unison.
 

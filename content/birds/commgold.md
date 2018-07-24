@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/56509109@N04/32982024581"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,ocean,wetland]
 visibility: high
 ---
 Common Goldeneye are a medium-sized duck (16-20 in) with a **bright yellow eye** and a **large puffy head**. **Males** have a black back and white sides. Their glossy green head often appears black, and there is a large white spot near the bill and below the eye. **Females** have a brown head and gray back and wings. Both males and females display a **large white patch** on their **wings** when **flying** and their wings make a **whistling sound** as they fly.

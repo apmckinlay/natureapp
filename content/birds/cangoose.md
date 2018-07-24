@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/7237662248"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [wetland,urban]
 visibility: high
 ---
 Canada Geese, with their **black head**, **long black neck**, and **white cheeks** and **chin**, are a familiar sight in many parts of North America. They spend as much time on land as in the water and are increasingly found on large urban lawns (parks and golf courses).

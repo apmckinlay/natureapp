@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/8770829187"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [ocean,wetland]
 visibility: high
 ---
 A **very large** hawk (21-23 in) with a 5 to 6 ft wingspan, Osprey spend their **summers** on the rivers, lakes, and coast of Alaska, Canada, and the Rocky Mountains of the northern United States. If you're lucky, you'll spot an Osprey plunging feet-first into a lake to catch a fish in its claws. They **winter** along the coast of southern California and the Gulf of Mexico.

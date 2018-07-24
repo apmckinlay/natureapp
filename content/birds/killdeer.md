@@ -5,6 +5,7 @@ attr_link: "https://www.flickr.com/photos/8272102@N04/499985853"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [grassland,wetland]
 ---
 A common sight across Canada and the northern United States in **summer** and in the southern United States and along the west coast **year-round**, Killdeer can often be found at the water's edge but also on open ground with little or no vegetation (lawns, golf courses, roads, beaches).
 

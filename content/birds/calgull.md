@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/18088254048"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [ocean,wetland]
 ---
 California Gulls can be found in **summer** on inland lakes and marshes from southern NWT through AB, SK, southwest MB, and the northern parts of Montana and North Dakota. In **winter** they can be found along the Pacific coast. Some can be found **year-round** in Washington, Oregon, and Idaho. They **breed on islands** and levees on inland lakes and rivers and **forage in any open area**, from farms and pastures to garbage dumps.
 

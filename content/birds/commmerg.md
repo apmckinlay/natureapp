@@ -6,6 +6,7 @@ attr_link: "https://en.wikipedia.org/wiki/Common_merganser#/media/File:Mergus_me
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,wetland]
 ---
 **Male** Common Merganser have gray bodies with white bellies (21-28 in) and a dark green head. The **females** are equally colorful with a gray body, rusty-red head and crest, and a white chin and chest. Both males and females have a slender, red bill.
 

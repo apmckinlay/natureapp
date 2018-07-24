@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/9371564340"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
+habitat: [forest,mountain]
 ---
 Townsend's Warblers are small songbirds (4.7 in) with a **yellow** **face** and **chest** and a **dark cap** and **eye patch**. They have a **white** belly, undertail, and wingbars.
 

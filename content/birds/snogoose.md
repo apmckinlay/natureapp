@@ -6,6 +6,7 @@ attr_link: "https://commons.wikimedia.org/w/index.php?curid=10216497"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,sk]
+habitat: [grassland,wetland]
 ---
 Huge flocks of Snow Geese heading south or north are a sure sign that the seasons are changing. Snow Goose are medium-sized geese (27-33 in, 54 in wingspan) with a long, thick neck. Most of them are **white** with black wingtips and a dark line along their pink bill. However, some, known as the **Blue Goose**, are gray-brown with a white head and white under the tail.
 

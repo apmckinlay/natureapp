@@ -5,6 +5,7 @@ attr_link: "https://commons.wikimedia.org/wiki/File:Trumpeter_Swan_Sasata.jpg"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab]
+habitat: [ocean,wetland]
 ---
 Trumpeter Swan are **white** with a l**ong straight neck**, straight **black beak**, and **black legs** (young birds are gray). They're North America's largest native waterfowl, up to 6 ft long weighing more than 25 lbs with an 8 ft wingspan.
 

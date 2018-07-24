@@ -6,6 +6,7 @@ attr_link: "https://commons.wikimedia.org/wiki/File:Glaucous-winged_Gull_RWD1.jp
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc]
+habitat: [ocean,urban]
 ---
 Glaucous-winged Gull are **large** birds (20-23 in, 47-56 in wingspan) found year-round on the **north Pacific coast**. They rarely head inland. Some spend the **summer** along the coast of Alaska and northern BC, heading to Oregon and California for the **winter**. Others remain **year-round** along the coast from Alaska to Washington.
 

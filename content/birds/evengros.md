@@ -6,6 +6,7 @@ attr_link: "https://commons.wikimedia.org/wiki/File:Hesperiphona_vespertina_CT3.
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,mountain,urban]
 ---
 Evening Grosbeak flock to **bird feeders** and **trees with berries** in winter. **Males** are yellow and black with a large white patch on their wings. **Females** and **young birds** are light gray with a yellow collar and small white patches on their wings and tail. They're **chunky** birds (6.3-7.1 in).
 

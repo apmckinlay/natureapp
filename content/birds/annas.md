@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/nicolebeaulac/33668014756"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc]
+habitat: [forest,mountain,urban]
 ---
 Common along the **Pacific coast** from British Columbia to California as well as east into Arizona, Anna's Hummingbirds (3.5-4 in) are a stocky hummingbird with a green-gray back. **Males** have a rosy red crown and throat, which can look dull brown or gray if there is no sunlight. **Females** have a small red patch on their throat.
 

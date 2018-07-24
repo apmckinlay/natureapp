@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/9322508856"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,ocean,wetland]
 ---
 Bald Eagle are **large** birds (2-3 ft, 5.5-7.5 ft wingspan) with a **white head** and **tail**, a chocolate-brown body and wings, and a hooked yellow beak. **Young birds** have mottled white on brown markings and their head isn't white.
 

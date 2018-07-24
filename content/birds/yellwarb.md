@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/rosyfinch/33915888394"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,wetland]
 ---
 Yellow Warbler are small (4.7-5.1 in), **yellow** birds with darker wings and tail. They are the only larger warbler with **yellow** (not white) **spots** on the **tail**. The **males** are a brighter yellow with reddish streaks on their chest.
 

@@ -6,6 +6,7 @@ attr_link: "https://en.wikipedia.org/wiki/Peregrine_falcon#/media/File:Peregrine
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab]
+habitat: [ocean,wetland,urban]
 visibility: low
 ---
 Peregrine Falcon were disappearing but have made a dramatic recovery and can be seen perched or nesting on **tall buildings** in urban areas. They are also found in **open areas**, often near water, and especially **along the coast**.

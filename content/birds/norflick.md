@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/acrylicartist/18179718953"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,grassland,urban]
 visibility: high
 ---
 Northern Flicker are a **fairly large** woodpecker (11-14 in) but, unlike other woodpeckers, they are often found **on the ground** foraging for ants and beetles. They also **sit on tree branches** rather than leaning against the trunk.

@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/dfaulder/40446711532"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [forest,mountain,urban]
 ---
 With their **pink head** and **chest**, **male** Pine Grosbeak are easy to identify as they gather around **bird feeders** for sunflowers in **winter**. The **females** are grayer with **yellow** or **pink shading** on their **head** and **rump**. Both are plump-chested (8-10 in) with **2 white wingbars**. Their **thick, stubby, dark beak** easily crushes seeds and nips buds and needles off trees.
 

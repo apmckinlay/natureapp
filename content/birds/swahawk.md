@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/17295589335"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [grassland]
 ---
 Swainson's Hawk  (19-22 in) are a common sight in **summer**, soaring over the prairies and open **grasslands** of western North America. They prefer **wide open spaces** where they can easily spot ground squirrels and other small rodents, their preferred food when they are breeding.
 

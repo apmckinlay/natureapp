@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/mickthompson/34626064573"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk]
+habitat: [ocean,wetland]
 ---
 Mew Gull (also known as Common Gull and Asia) are **one of the smallest** (16-18 in) **white-headed** gulls. They are common along Pacific coast beaches in **winter** but spend **summers** in Alaska and northwestern Canada around lakes in the northern forest. They can be found **year-round** along the coast of BC and southern Alaska.
 

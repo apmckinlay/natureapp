@@ -6,8 +6,9 @@ attr_link: "https://www.flickr.com/photos/56509109@N04/15350048483"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+habitat: [desert,grassland,mountain,urban]
 ---
-**Less than a foot long** with a wingspan under 2 ft, American Kestrels are **North America's smallest falcon**. They're colorful birds with reddish-brown bodies, a pale belly, and two vertical black stripes on either side of their white cheeks. The **males** have a blue-gray head and wings. 
+**Less than a foot long** with a wingspan under 2 ft, American Kestrels are **North America's smallest falcon**. They're colorful birds with reddish-brown bodies, a pale belly, and two vertical black stripes on either side of their white cheeks. The **males** have a blue-gray head and wings.
 
 Kestrel can be found **year-round** in the central and southern United States. In the **summer**, you can spot them  in Canada, Alaska, and the northern plains of Minnesota, Montana, and North Dakota. The migrating birds **winter** in the southern United States (Florida, Louisiana, Texas).
 
