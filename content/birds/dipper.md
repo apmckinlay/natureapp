@@ -4,7 +4,7 @@ attr: "Eric Ellingson"
 attr_link: "https://www.flickr.com/photos/ericellingson/38439617006"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
-location: [bc]
+location: [bc,ab]
 habitat: [forest,mountain,wetland]
 visibility: low
 ---
