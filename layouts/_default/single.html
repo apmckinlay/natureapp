@@ -36,18 +36,132 @@
         <div class="content">
         {{ .Content }}
         {{ partial "map.svg" }}
-        {{if eq .Params.visibility "low"}}{{ partial "hard.svg" }}{{end}}
-        {{if eq .Params.visibility "high"}}{{ partial "easy.svg" }}{{end}}
+        {{if eq .Params.visibility "low"}}
+        <div class="popup_outer" onclick="toggle('hard_def')">
+            {{ partial "hard.svg" }}
+            <div class="popup" id="hard_def">
+                <span>
+                    <b>Hard</b> - can be difficult to spot. They may be few in number 
+                    or not readily visible (for example, underground).</span>
+            </div>
+        </div>
+        {{end}}
+        {{if eq .Params.visibility "high"}}
+        <div class="popup_outer" onclick="toggle('easy_def')">
+            {{ partial "easy.svg" }}
+            <div class="popup" id="easy_def">
+                <span>
+                    <b>Easy</b> - numerous and usually easy to spot 
+                    in the habitats listed at the appropriate time of year.</span>
+            </div>
+        </div>
+        {{end}}
 
-        {{if in .Params.habitat "desert"}}{{ partial "desert.svg" }}{{end}}
-        {{if in .Params.habitat "forest"}}{{ partial "forest.svg" }}{{end}}
-        {{if in .Params.habitat "grassland"}}{{ partial "grassland.svg" }}{{end}}
-        {{if in .Params.habitat "mountain"}}{{ partial "mountain.svg" }}{{end}}
-        {{if in .Params.habitat "ocean"}}{{ partial "ocean.svg" }}{{end}}
-        {{if in .Params.habitat "urban"}}{{ partial "urban.svg" }}{{end}}
-        {{if in .Params.habitat "wetland"}}{{ partial "wetland.svg" }}{{end}}
+        {{if in .Params.habitat "desert"}}
+        <div class="popup_outer" onclick="toggle('desert_def')">
+            {{ partial "desert.svg" }}
+            <div class="popup" id="desert_def">
+                <span><b>Deserts</b> are dry areas covered with sand or rocks and with very 
+                    few plants. There is limited rainfall and it’s usually very hot.</span>
+            </div>
+        </div>
+        {{end}}
+        {{if in .Params.habitat "forest"}}
+        <div class="popup_outer" onclick="toggle('forest_def')">
+           {{ partial "forest.svg" }}
+            <div class="popup" id="forest_def">
+                <span>
+                    <b>Forests</b> are large areas of trees growing close together.</span>
+            </div>
+        </div>
+       {{end}}
+        {{if in .Params.habitat "grassland"}}
+        <div class="popup_outer" onclick="toggle('grassland_def')">
+            {{ partial "grassland.svg" }}
+            <div class="popup" id="grassland_def">
+                <span><b>Grasslands</b> are large open areas covered with grasses. 
+                    They have very few trees or shrubs. This habitat includes prairies
+                    and tundra.</span>
+            </div>
+        </div>
+       {{end}}
+        {{if in .Params.habitat "mountain"}}
+        <div class="popup_outer" onclick="toggle('mountain_def')">
+            {{ partial "mountain.svg" }}
+            <div class="popup" id="mountain_def">
+                <span>
+                    <b>Mountains</b> are very high areas of land with 
+                    steep sides leading to a peak. They are often connected to 
+                    other mountains as part of a mountain range.</span>
+            </div>
+        </div>
+        {{end}}
+        {{if in .Params.habitat "ocean"}}
+        <div class="popup_outer" onclick="toggle('ocean_def')">
+            {{ partial "ocean.svg" }}
+            <div class="popup" id="ocean_def">
+                <span>
+                    <b>Oceans</b> are large bodies of salt water. This habitat includes 
+                    seas and oceans as well as their beaches and coastlines.</span>
+            </div>
+        </div>
+        {{end}}
+        {{if in .Params.habitat "urban"}}
+        <div class="popup_outer" onclick="toggle('urban_def')">
+            {{ partial "urban.svg" }}
+            <div class="popup" id="urban_def">
+                <span>
+                    <b>Urban</b> areas have a large population within a defined 
+                    area. This includes villages, towns, and cities.</span>
+            </div>
+        </div>
+        {{end}}
+        {{if in .Params.habitat "wetland"}}
+        <div class="popup_outer" onclick="toggle('wetland_def')">
+            {{ partial "wetland.svg" }}
+            <div class="popup" id="wetland_def">
+                <span>
+                    <b>Wetlands</b> are low-lying areas that are covered by water 
+                    all or most of the time and support a variety of aquatic plants. This
+                    habitat includes rivers, streams, lakes, ponds, bogs, and marshes.</span>
+            </div>
+        </div>
+        {{end}}
         </div>
     </div>
+    <script>
+        var clicked = null;
+        var timer;
+        function toggle(id) {
+            var elem = document.getElementById(id);
+            if (elem.style.display !== "flex") {
+                close();
+                clicked = elem;
+                elem.style.display = "flex";
+                clearTimeout(timer)
+                timer = setTimeout(function () { elem.style.display = "none" }, 10000);
+            } else
+                close()
+        }
+        window.onclick = function (event) {
+            if (!inPopup(event.target))
+                close();
+        }
+        function close() {
+            if (clicked) {
+                clicked.style.display = "none";
+                clearTimeout(timer);
+                timer = null;
+                clicked = null;
+            }
+        }
+        function inPopup(child, parent) {
+            while ((child = child.parentNode))
+                if (child.className === "popup_outer")
+                    return true;
+            return false;
+        }
+    </script>
 </body>
 
 </html>

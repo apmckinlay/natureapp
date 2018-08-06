@@ -399,3 +399,27 @@ img.large {
     margin-left: 15px;
     margin-top: 1em;
 }
+
+/* popup ------------------------------------------ */
+
+/* Started with absolute position but couldn't figure out
+   how to keep it on the screen whether icon was on left or right edge */
+
+.popup {
+    display: none; 
+    width: 15em;
+    position: fixed;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1; 
+    box-shadow: 5px 5px 5px grey;
+    background-color:yellow; 
+    padding: 5px; 
+    border: 1px solid black;
+}
+
+.popup_outer {
+    display: inline-block;
+    position: relative;
+}
