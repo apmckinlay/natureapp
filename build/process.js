@@ -12,6 +12,7 @@ let groups = {}; // e.g. "corvid" => ["crow", "raven"]
 
 process('content/birds/');
 process('content/herps/');
+process('content/insects/');
 
 function process(dir) {
     forEachFile(dir, gatherInfo);

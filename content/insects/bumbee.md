@@ -7,9 +7,8 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,mountain,urban]
-visibility: high
 ---
-Bumble bees are **large**, **round**, and **furry** with **yellow**, **white**, and **orange stripes**. There are 46 different species in North America. 
+Bumble bees are **large**, **round**, and **furry** with **yellow**, **white**, and **orange stripes**. There are 46 different species in North America.
 
 Like Honey Bees, they form colonies with one queen and many workers. There are approximately 50 bees in a colony and most of them die in winter. However, the colony will have produced multiple new queens who will overwinter and emerge in the spring to start new colonies.
 
