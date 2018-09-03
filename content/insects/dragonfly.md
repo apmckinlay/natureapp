@@ -1,0 +1,19 @@
+---
+name: "Dragonfly"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/42483497320"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
+location: [bc,ab,sk,mb]
+habitat: [wetland]
+visibility: high
+---
+Dragonfly are a common sight in summer as they dart over streams, ponds, and lakes looking for mosquitoes or other insects. They have long narrow bodies (1-5 in) with **two sets of wings** with a 2-5 in wingspan. Large eyes make up most of their head and they can see in every direction except right behind them. They use their legs to grab prey or hold onto plants.
+
+Dragonfly are strong fliers and can fly straight up and down and hover like a helicopter. They can only fly when it's warm, but some species can live for up to a year if they migrate away from the cold.
+
+Dragonfly can be found throughout **North America**. The eggs are laid in water and hatch into naiads that have gills and stay underwater for 2-3 years.
+
+Dragonfly spread their **wings apart** when resting. [Damselfly]({{< ref "damselfly.md" >}}) are slimmer than Dragonfly and keep their wings together.
+
+**Did you know?** Dragonfly and [Damselfly]({{< ref "damselfly.md" >}}) were on earth more than 200 million years ago, even before the dinosaurs.

@@ -15,3 +15,8 @@ There are approximately 130 species of crab spiders in North America and they ar
 Crab Spiders can be found just about anywhere there are insects to eat and places to hide. However, they won't be found in very dry deserts or very cold mountaintops. The spiders live and hunt alone and are usually active during the day.
 
 **Did you know?** Spiders with small, strong jaws, such as the Crab Spider, make small holes in their prey and vomit their digestive fluids into the hole. As a result, they eat the insect from the inside out, leaving behind a hollow shell.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Fishing Spider]({{< ref "fishspid.md" >}}),
+[Garden Spider]({{< ref "gardspid.md" >}})
