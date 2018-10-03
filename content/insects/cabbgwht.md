@@ -19,4 +19,6 @@ Cabbage White are one of the first butterfly to appear in the **spring** and can
 **See Also:**
 [Banded Woolly Bear Caterpillar / Isabella Tiger Moth]({{< ref "bandwb.md" >}}),
 [Clouded Sulfur]({{< ref "cloudsulf.md" >}}),
-[Compton Tortoiseshell]({{< ref "comptort.md" >}})
+[Compton Tortoiseshell]({{< ref "comptort.md" >}}),
+[Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
+[Hawk Moth]({{< ref "hawkmoth.md" >}})

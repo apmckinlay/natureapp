@@ -19,4 +19,6 @@ Crab Spiders can be found just about anywhere there are insects to eat and place
 <!-- generated, do not edit -->
 **See Also:**
 [Fishing Spider]({{< ref "fishspid.md" >}}),
-[Garden Spider]({{< ref "gardspid.md" >}})
+[Garden Spider]({{< ref "gardspid.md" >}}),
+[Grass Spider]({{< ref "gras_spid.md" >}}),
+[Harvestman]({{< ref "harvest.md" >}})

@@ -19,4 +19,6 @@ Compton Tortoiseshell are found in **forests** where the **caterpillars** (pale 
 **See Also:**
 [Banded Woolly Bear Caterpillar / Isabella Tiger Moth]({{< ref "bandwb.md" >}}),
 [Cabbage White]({{< ref "cabbgwht.md" >}}),
-[Clouded Sulfur]({{< ref "cloudsulf.md" >}})
+[Clouded Sulfur]({{< ref "cloudsulf.md" >}}),
+[Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
+[Hawk Moth]({{< ref "hawkmoth.md" >}})
