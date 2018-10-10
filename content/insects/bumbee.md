@@ -10,7 +10,7 @@ habitat: [grassland,mountain,urban]
 ---
 Bumble bees are **large**, **round**, and **furry** with **yellow**, **white**, and **orange stripes**. There are 46 different species in North America.
 
-Like Honey Bees, they form colonies with one queen and many workers. There are approximately 50 bees in a colony and most of them die in winter. However, the colony will have produced multiple new queens who will overwinter and emerge in the spring to start new colonies.
+Like [Honey Bees]({{< ref "honeybee.md" >}}), they form colonies with one queen and many workers. There are approximately 50 bees in a colony and most of them die in winter. However, the colony will have produced multiple new queens who will overwinter and emerge in the spring to start new colonies.
 
 Bumble bees **nest on the ground**, either in a mouse nest or other burrow or under a pile of garden debris.
 
@@ -19,3 +19,10 @@ Bumble bees are very good pollinators as they pass from plant to plant, sucking 
 Bumble bees can even be found in the high Arctic as they are able to control their temperature. On a cool day, bumble bees shiver to raise their temperature enough so that they can fly (30C).
 
 **Did you know?** Cuckoo bumblebees lay their eggs in another bee's nest so that the workers in that nest will rear their young.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Honey Bee]({{< ref "honeybee.md" >}}),
+[Leaf Cutter Bee]({{< ref "leafcbee.md" >}}),
+[Mason Bee]({{< ref "masonbee.md" >}}),
+[Miner Bee]({{< ref "minerbee.md" >}})

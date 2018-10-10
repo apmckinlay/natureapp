@@ -1,5 +1,6 @@
 ---
 name: "Damselfly"
+group: dragonfly
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/37035375665/"
 license: "CC BY-NC"
@@ -15,3 +16,8 @@ Damselfly are smaller with slimmer bodies than [Dragonfly]({{< ref "dragonfly.md
 Damselfly lay their eggs on aquatic plants. The nymphs live underwater, emerging as adults throughout spring, summer, and fall.
 
 **Did you know?** Damselfly catch insects by extending a long hinged lower lip. They hold the prey between their legs so that they can eat while flying.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Dragonfly]({{< ref "dragonfly.md" >}}),
+[Mayfly]({{< ref "mayfly.md" >}})

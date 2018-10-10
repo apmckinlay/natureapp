@@ -21,4 +21,5 @@ Fishing Spider can run across the surface of the water and dive for prey. If an 
 [Crab Spider]({{< ref "crabspid.md" >}}),
 [Garden Spider]({{< ref "gardspid.md" >}}),
 [Grass Spider]({{< ref "gras_spid.md" >}}),
-[Harvestman]({{< ref "harvest.md" >}})
+[Harvestman]({{< ref "harvest.md" >}}),
+[House Spider]({{< ref "houspid.md" >}})

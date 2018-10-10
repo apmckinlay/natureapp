@@ -22,4 +22,5 @@ Grass Spiders can be found outdoors throughout North America. They may come indo
 [Crab Spider]({{< ref "crabspid.md" >}}),
 [Fishing Spider]({{< ref "fishspid.md" >}}),
 [Garden Spider]({{< ref "gardspid.md" >}}),
-[Harvestman]({{< ref "harvest.md" >}})
+[Harvestman]({{< ref "harvest.md" >}}),
+[House Spider]({{< ref "houspid.md" >}})

@@ -18,8 +18,9 @@ The **caterpillars** are green with a horn at the rear end. They rely on honeysu
 
 <!-- generated, do not edit -->
 **See Also:**
-[Banded Woolly Bear Caterpillar / Isabella Tiger Moth]({{< ref "bandwb.md" >}}),
+[Banded Woolly Bear Caterpillar]({{< ref "bandwb.md" >}}),
 [Cabbage White]({{< ref "cabbgwht.md" >}}),
 [Clouded Sulfur]({{< ref "cloudsulf.md" >}}),
 [Compton Tortoiseshell]({{< ref "comptort.md" >}}),
-[Great Spangled Fritillary]({{< ref "greatfrit.md" >}})
+[Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
+[Monarch Butterfly]({{< ref "monarch.md" >}})

@@ -16,8 +16,9 @@ Clouded Sulfur can be found in open areas and are particularly common in fields 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Banded Woolly Bear Caterpillar / Isabella Tiger Moth]({{< ref "bandwb.md" >}}),
+[Banded Woolly Bear Caterpillar]({{< ref "bandwb.md" >}}),
 [Cabbage White]({{< ref "cabbgwht.md" >}}),
 [Compton Tortoiseshell]({{< ref "comptort.md" >}}),
 [Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
-[Hawk Moth]({{< ref "hawkmoth.md" >}})
+[Hawk Moth]({{< ref "hawkmoth.md" >}}),
+[Monarch Butterfly]({{< ref "monarch.md" >}})

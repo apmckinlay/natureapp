@@ -1,5 +1,6 @@
 ---
 name: "Dragonfly"
+group: dragonfly
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/42483497320"
 license: "CC BY-NC"
@@ -17,3 +18,8 @@ Dragonfly can be found throughout **North America**. The eggs are laid in water 
 Dragonfly spread their **wings apart** when resting. [Damselfly]({{< ref "damselfly.md" >}}) are slimmer than Dragonfly and keep their wings together.
 
 **Did you know?** Dragonfly and [Damselfly]({{< ref "damselfly.md" >}}) were on earth more than 200 million years ago, even before the dinosaurs.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Damselfly]({{< ref "damselfly.md" >}}),
+[Mayfly]({{< ref "mayfly.md" >}})

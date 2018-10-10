@@ -1,6 +1,5 @@
 ---
 name: "Crane Fly"
-group: "fly"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/35183714683"
 license: "CC BY-NC"
@@ -14,6 +13,6 @@ The legless, worm-like larvae are rarely seen, spending their time in moist soil
 
 **Did you know?** Crane Fly only live for a few days. They mate, lay eggs for next season's flies, and then die. They may drink some dew or sugary flower nectar, but they eat next to nothing.
 
-<!-- generated, do not edit -->
 **See Also:**
-[Black Fly]({{< ref "blackfly.md" >}})
+[Harvestman]({{< ref "harvest.md" >}}),
+[Mosquito]({{< ref "mosquito.md" >}})
