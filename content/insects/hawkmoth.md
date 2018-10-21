@@ -23,4 +23,9 @@ The **caterpillars** are green with a horn at the rear end. They rely on honeysu
 [Clouded Sulfur]({{< ref "cloudsulf.md" >}}),
 [Compton Tortoiseshell]({{< ref "comptort.md" >}}),
 [Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
-[Monarch Butterfly]({{< ref "monarch.md" >}})
+[Monarch Butterfly]({{< ref "monarch.md" >}}),
+[Mourning Cloak]({{< ref "mournbut.md" >}}),
+[Painted Lady]({{< ref "paintbut.md" >}}),
+[Spring Azure]({{< ref "springbut.md" >}}),
+[Tent Caterpillar]({{< ref "tentcat.md" >}}),
+[Tiger Swallowtail]({{< ref "tigerbut.md" >}})

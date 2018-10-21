@@ -24,4 +24,6 @@ Worker bees sting to protect their colony. They call on other bees to help them 
 [Bumble Bee]({{< ref "bumbee.md" >}}),
 [Leaf Cutter Bee]({{< ref "leafcbee.md" >}}),
 [Mason Bee]({{< ref "masonbee.md" >}}),
-[Miner Bee]({{< ref "minerbee.md" >}})
+[Miner Bee]({{< ref "minerbee.md" >}}),
+[Sweat Bee]({{< ref "sweatbee.md" >}}),
+[Wasp]({{< ref "wasp.md" >}})

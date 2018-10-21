@@ -1,5 +1,6 @@
 ---
 name: "Ladybug"
+group: bug
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/29084810942"
 license: "CC BY-NC"
@@ -17,3 +18,9 @@ The multicolored **Asian Lady Beetle** was introduced to North America in the 19
 Ladybugs hibernate over the winter in dry, warm places (in a house or in decaying leaves beneath a shrub). They deliberately lay their eggs near a good source of food for their young, such as a colony of aphids or other plant-eating insects.
 
 **Did you know?** Ladybugs defend themselves from predators by playing dead and secreting a fluid with a nasty taste and smell from their leg joints (their bright colour is also a warning for predators).
+
+<!-- generated, do not edit -->
+**See Also:**
+[Spittlebug]({{< ref "spitbug.md" >}}),
+[Water Boatman]({{< ref "watboat.md" >}}),
+[Water Strider]({{< ref "watstrid.md" >}})

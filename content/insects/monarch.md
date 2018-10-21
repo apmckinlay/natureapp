@@ -14,7 +14,7 @@ The butterflies have orange **wings** with black veins and a double row of white
 
 Only Monarchs born in late summer or fall will make the migration. Many generations will have been born and died before the Monarchs migrate again the next year and yet somehow they remember the route and the destination.
 
-__Painted Lady__ butterflies are also orange and they migrate to Mexico as well. However, they have splashes and dots of black and white on their wings rather than black veins.
+[Painted Lady]({{< ref "paintbut.md" >}}) butterflies are also orange and they migrate to Mexico as well. However, they have splashes and dots of black and white on their wings rather than black veins.
 
 **Did you know?** Birds and other predators know that Monarchs taste horrible and stay away. The predators also avoid butterflies that mimic the Monarch, such as the **Viceroy**.
 
@@ -25,4 +25,9 @@ __Painted Lady__ butterflies are also orange and they migrate to Mexico as well.
 [Clouded Sulfur]({{< ref "cloudsulf.md" >}}),
 [Compton Tortoiseshell]({{< ref "comptort.md" >}}),
 [Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
-[Hawk Moth]({{< ref "hawkmoth.md" >}})
+[Hawk Moth]({{< ref "hawkmoth.md" >}}),
+[Mourning Cloak]({{< ref "mournbut.md" >}}),
+[Painted Lady]({{< ref "paintbut.md" >}}),
+[Spring Azure]({{< ref "springbut.md" >}}),
+[Tent Caterpillar]({{< ref "tentcat.md" >}}),
+[Tiger Swallowtail]({{< ref "tigerbut.md" >}})

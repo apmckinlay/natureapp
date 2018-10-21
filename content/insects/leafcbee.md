@@ -21,4 +21,6 @@ Leafcutters are **solitary** bees and do not live in large groups like [Bumble B
 [Bumble Bee]({{< ref "bumbee.md" >}}),
 [Honey Bee]({{< ref "honeybee.md" >}}),
 [Mason Bee]({{< ref "masonbee.md" >}}),
-[Miner Bee]({{< ref "minerbee.md" >}})
+[Miner Bee]({{< ref "minerbee.md" >}}),
+[Sweat Bee]({{< ref "sweatbee.md" >}}),
+[Wasp]({{< ref "wasp.md" >}})

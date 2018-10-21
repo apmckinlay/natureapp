@@ -20,4 +20,5 @@ Garden Spiders are commonly found in gardens, fields, and farms where they build
 [Fishing Spider]({{< ref "fishspid.md" >}}),
 [Grass Spider]({{< ref "gras_spid.md" >}}),
 [Harvestman]({{< ref "harvest.md" >}}),
-[House Spider]({{< ref "houspid.md" >}})
+[House Spider]({{< ref "houspid.md" >}}),
+[Wolf Spider]({{< ref "wolfspid.md" >}})

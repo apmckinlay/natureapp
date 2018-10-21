@@ -22,4 +22,9 @@ Compton Tortoiseshell are found in **forests** where the **caterpillars** (pale 
 [Clouded Sulfur]({{< ref "cloudsulf.md" >}}),
 [Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
 [Hawk Moth]({{< ref "hawkmoth.md" >}}),
-[Monarch Butterfly]({{< ref "monarch.md" >}})
+[Monarch Butterfly]({{< ref "monarch.md" >}}),
+[Mourning Cloak]({{< ref "mournbut.md" >}}),
+[Painted Lady]({{< ref "paintbut.md" >}}),
+[Spring Azure]({{< ref "springbut.md" >}}),
+[Tent Caterpillar]({{< ref "tentcat.md" >}}),
+[Tiger Swallowtail]({{< ref "tigerbut.md" >}})

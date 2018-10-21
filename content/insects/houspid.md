@@ -24,4 +24,5 @@ American House Spiders are used to living near people and won't bite unless grab
 [Fishing Spider]({{< ref "fishspid.md" >}}),
 [Garden Spider]({{< ref "gardspid.md" >}}),
 [Grass Spider]({{< ref "gras_spid.md" >}}),
-[Harvestman]({{< ref "harvest.md" >}})
+[Harvestman]({{< ref "harvest.md" >}}),
+[Wolf Spider]({{< ref "wolfspid.md" >}})

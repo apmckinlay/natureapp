@@ -22,4 +22,9 @@ Cabbage White are one of the first butterfly to appear in the **spring** and can
 [Compton Tortoiseshell]({{< ref "comptort.md" >}}),
 [Great Spangled Fritillary]({{< ref "greatfrit.md" >}}),
 [Hawk Moth]({{< ref "hawkmoth.md" >}}),
-[Monarch Butterfly]({{< ref "monarch.md" >}})
+[Monarch Butterfly]({{< ref "monarch.md" >}}),
+[Mourning Cloak]({{< ref "mournbut.md" >}}),
+[Painted Lady]({{< ref "paintbut.md" >}}),
+[Spring Azure]({{< ref "springbut.md" >}}),
+[Tent Caterpillar]({{< ref "tentcat.md" >}}),
+[Tiger Swallowtail]({{< ref "tigerbut.md" >}})

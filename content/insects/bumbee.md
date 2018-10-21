@@ -25,4 +25,6 @@ Bumble bees can even be found in the high Arctic as they are able to control the
 [Honey Bee]({{< ref "honeybee.md" >}}),
 [Leaf Cutter Bee]({{< ref "leafcbee.md" >}}),
 [Mason Bee]({{< ref "masonbee.md" >}}),
-[Miner Bee]({{< ref "minerbee.md" >}})
+[Miner Bee]({{< ref "minerbee.md" >}}),
+[Sweat Bee]({{< ref "sweatbee.md" >}}),
+[Wasp]({{< ref "wasp.md" >}})

@@ -1,5 +1,5 @@
 ---
-name: "Ants"
+name: "Ant"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/14315767915"
 license: "CC BY-NC"
