@@ -34,10 +34,12 @@ html, body {
     display: flex;
     align-items: center;
 }
+
 #title {
     max-width: 50vw;
     flex: 1 1 auto;
 }
+
 #small-title {
     max-width: 50vw;
     flex: 1 1 auto;
@@ -69,7 +71,8 @@ html, body {
 
 .group {
     flex: 0 1 auto;
-    width: 35%; /* two across */
+    width: 35%;
+    /* two across */
     margin-bottom: 3vh;
 }
 
@@ -86,24 +89,32 @@ html, body {
     width: 100%;
     margin-top: .2em;
 }
+
 @media (min-width: 400px) and (orientation: portrait) {
     .label {
-        font-size: 5vw; /* 400px * 5% = 20px */
+        font-size: 5vw;
+        /* 400px * 5% = 20px */
     }
 }
+
 @media (min-width: 800px) and (orientation: portrait) {
     .label {
-        font-size: 40px; /* max @ 800px * 5% */
+        font-size: 40px;
+        /* max @ 800px * 5% */
     }
 }
+
 @media (min-height: 400px) and (orientation: landscape) {
     .label {
-        font-size: 5vh; /* 400px * 5% = 20px */
+        font-size: 5vh;
+        /* 400px * 5% = 20px */
     }
 }
+
 @media (min-height: 800px) and (orientation: landscape) {
     .label {
-        font-size: 40px; /* max @ 800px * 5% */
+        font-size: 40px;
+        /* max @ 800px * 5% */
     }
 }
 
@@ -118,9 +129,11 @@ html, body {
 }
 
 /* larger than phone */
+
 @media (min-width: 550px) {
     .group {
-        width: 26%; /* three across */
+        width: 26%;
+        /* three across */
     }
 }
 
@@ -154,6 +167,7 @@ html, body {
         margin-right: 3vw;
     }
 }
+
 @media (orientation: landscape) {
     .header {
         box-shadow: 0 0 1.5vh 1.5vh rgba(0, 0, 0, .3);
@@ -166,7 +180,7 @@ html, body {
         margin-top: 2vh;
         margin-left: 2vh;
         margin-right: 2vh;
-        }
+    }
     #title {
         margin-top: 2vh;
         max-height: 12vh;
@@ -227,6 +241,7 @@ img.small {
     max-width: 200px;
     border-radius: 20px;
 }
+
 @media (orientation: portrait) {
     #small-logo {
         width: 10vw;
@@ -241,17 +256,20 @@ img.small {
         margin-top: 1vw;
     }
     img.small {
-        width: 40vw; /* reaches max of 200 at width 500 */
+        width: 40vw;
+        /* reaches max of 200 at width 500 */
     }
     .name {
         width: 40vw;
     }
 }
+
 @media (min-width: 600px) and (orientation: portrait) {
     h1 {
         font-size: 48px;
     }
 }
+
 @media (orientation: landscape) {
     #small-logo {
         width: 10vh;
@@ -266,12 +284,14 @@ img.small {
         margin-top: 1vh;
     }
     img.small {
-        width: 40vh; /* reaches max of 200 at height 500 */
+        width: 40vh;
+        /* reaches max of 200 at height 500 */
     }
     .name {
         width: 40vh;
     }
 }
+
 @media (min-height: 600px) and (orientation: landscape) {
     h1 {
         font-size: 48px;
@@ -282,23 +302,28 @@ img.small {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     margin-top: 10px;
-    max-width: 200px; /* same as .small */
+    max-width: 200px;
+    /* same as .small */
 }
+
 @media (orientation: portrait) {
     .name {
-        font-size: 3.6vw; 
+        font-size: 3.6vw;
     }
 }
+
 @media (min-width: 500px) and (orientation: portrait) {
     .name {
         font-size: 18px;
     }
 }
+
 @media (orientation: landscape) {
     .name {
         font-size: 3.6vh;
     }
 }
+
 @media (min-height: 500px) and (orientation: landscape) {
     .name {
         font-size: 18px;
@@ -368,6 +393,7 @@ img.large {
         margin-top: 2vh;
     }
 }
+
 @media (orientation: portrait) {
     img.large {
         width: 50vh;
@@ -406,20 +432,35 @@ img.large {
    how to keep it on the screen whether icon was on left or right edge */
 
 .popup {
-    display: none; 
+    display: none;
     width: 15em;
     position: fixed;
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
-    z-index: 1; 
+    z-index: 1;
     box-shadow: 5px 5px 5px grey;
-    background-color:yellow; 
-    padding: 5px; 
+    background-color: yellow;
+    padding: 5px;
     border: 1px solid black;
 }
 
 .popup_outer {
     display: inline-block;
     position: relative;
+}
+
+input[type=checkbox] {
+    transform: scale(1.5) translateY(-.2em);
+}
+
+.search {
+    margin-top: 1vw;
+    margin-left: 2vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search_checkboxes {
+    margin: 0 5px;
 }

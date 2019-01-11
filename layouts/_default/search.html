@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+
+<head lang="en">
+    {{ partial "head.html" . }}
+    <style type="text/css">
+        .item {
+            display: none;
+        }
+    </style>
+</head>
+
+<body onload="change()"> 
+    <div class="header">
+        <h1>
+            <a href="/help.html">
+                <image id="help" src="images/help.svg" />
+            </a>
+            <div class="header-left">
+                <a href="/">
+                    <img id="small-logo" src="images/naturecompanion.svg" />
+                </a>
+                <span>Search</span>
+            </div>
+        </h1>
+        <div class="search"> 
+            <div class="search_checkboxes">
+                <input class="type" type="checkbox" id="t_birds" onchange="change('t_birds')" />
+                <label for="t_birds">Birds</label>
+                <br />
+                <input class="type" type="checkbox" id="t_herps" onchange="change('t_herps')" />
+                <label for="t_herps">Reptiles &amp; Amphibians</label>
+                <br />
+                <input class="type" type="checkbox" id="t_insects" onchange="change('t_insects')" />
+                <label for="t_insects">Insects</label>
+            </div>
+            <div class="search_checkboxes">
+                <input class="location" type="checkbox" id="l_bc" onchange="change('l_bc')" />
+                <label for="l_bc">British Columbia</label>
+                <br />
+                <input class="location" type="checkbox" id="l_ab" onchange="change('l_ab')" />
+                <label for="l_ab">Alberta</label>
+                <br />
+                <input class="location" type="checkbox" id="l_sk" onchange="change('l_sk')" />
+                <label for="l_sk">Saskatchewan</label>
+                <br />
+                <input class="location" type="checkbox" id="l_mb" onchange="change('l_mb')" />
+                <label for="l_mb">Manitoba</label>
+            </div>
+            <div class="search_checkboxes">
+                <input class="habitat" type="checkbox" id="h_desert" onchange="change('l_mb')" />
+                <label for="h_desert">Desert</label>
+                <br />
+                <input class="habitat" type="checkbox" id="h_forest" onchange="change('l_mb')" />
+                <label for="h_forest">Forest</label>
+                <br />
+                <input class="habitat" type="checkbox" id="h_grassland" onchange="change('l_mb')" />
+                <label for="h_grassland">Grassland</label>
+                <br />
+                <input class="habitat" type="checkbox" id="h_mountain" onchange="change('l_mb')" />
+                <label for="h_mountain">Mountain</label>
+                <br />
+                <input class="habitat" type="checkbox" id="h_ocean" onchange="change('l_mb')" />
+                <label for="h_ocean">Ocean</label>
+                <br />
+                <input class="habitat" type="checkbox" id="h_urban" onchange="change('l_mb')" />
+                <label for="h_urban">Urban</label>
+                <br />
+                <input class="habitat" type="checkbox" id="h_wetland" onchange="change('l_mb')" />
+                <label for="h_wetland">Wetland</label>
+            </div>
+        </div>
+    </div>
+
+    <div class="list">
+        {{ range $.Site.Pages }} {{ if isset .Params "name" }}
+        <div class="item t_{{ .Section }} 
+            {{ range .Params.location }}l_{{ . }} {{ end }}
+            {{ range .Params.habitat }}h_{{ . }} {{ end }}"
+            id="{{ .File.BaseFileName }}">
+            <a href="{{ .Section }}/{{ .File.BaseFileName }}.html">
+                <img class="small" src="photos/{{ .Section }}/small/{{ .File.BaseFileName }}.jpg" />
+                <div class="name">{{ .Params.name }}</div>
+            </a>
+        </div>
+        {{ end }} {{ end }}
+    </div>
+
+    <script>
+        function change(type) {
+            console.log('CHANGE', type)
+            var types = getChecked('type')
+            var locs = getChecked('location')
+            var habs = getChecked('habitat')
+            // make everything visible
+            var x = document.getElementsByClassName('item');
+            for (var i = 0; i < x.length; i++) {
+                item = x[i]
+                classes = item.classList
+                if (match(types, classes) &&
+                    match(locs, classes) &&
+                    match(habs, classes))
+                    item.style.display = 'block';
+                else
+                    item.style.display = 'none';
+            }
+        }
+        function getChecked(className) {
+            let checked = []
+            var x = document.getElementsByClassName(className);
+            for (var i = 0; i < x.length; i++)
+                if (x[i].checked)
+                    checked.push(x[i].id)
+            return checked
+        }
+        function match(checked, classes) {
+            for (let c of checked)
+                if (classes.contains(c))
+                    return true
+            return false
+        }
+    </script>
+
+</body>
+
+</html>

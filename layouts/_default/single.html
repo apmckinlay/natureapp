@@ -15,8 +15,8 @@
 <body>
     <div class="header">
         <h1>
-            <a href="/{{ .Section }}.html"><image id="close" src="/images/close.svg" /></a>
-           <div class="header-left">
+            <image id="close" src="/images/close.svg" onclick="goBack()" />
+            <div class="header-left">
                 <a href="/"><image id="small-logo" src="/images/naturecompanion.svg" /></a>
                 <span>{{ .Params.name }}</span>
             </div>
@@ -130,6 +130,9 @@
         </div>
     </div>
     <script>
+        function goBack() {
+            window.history.back();
+        }
         var clicked = null;
         var timer;
         function toggle(id) {
