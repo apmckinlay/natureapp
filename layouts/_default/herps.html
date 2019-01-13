@@ -7,22 +7,23 @@
 
 <body>
     <div class="header">
+        {{ partial "closebutton.html" . }}
+        {{ partial "helpbutton.html" . }}
+        {{ partial "searchbutton.html" . }}
         <h1>
-            <a href="/help.html"><image id="help" src="images/help.svg" /></a>
-            <a href="/"><image id="search" src="images/search.svg" /></a>
             <div class="header-left">
                 <a href="/">
                     <img id="small-logo" src="images/naturecompanion.svg" /></a>
-                    <span>Reptiles &amp; Amphibians</span>
+                <span>Reptiles &amp; Amphibians</span>
             </div>
         </h1>
     </div>
 
     <div class="list">
-        {{ range $.Site.Pages }}
-            {{ if isset .Params "name" }}
-            {{if eq .Section "herps"}}
-                <div class="item">
+    {{ range $.Site.Pages }}
+        {{ if isset .Params "name" }}
+            {{ if eq .Section "herps" }}
+            <div class="item">
                 <a href="{{ .Section }}/{{ .File.BaseFileName }}.html">
                     <img class="small" 
                         src="photos/{{ .Section }}/small/{{ .File.BaseFileName }}.jpg" />
@@ -30,9 +31,10 @@
                 </a>
             </div>
             {{ end }}
-            {{ end }}
         {{ end }}
+    {{ end }}
     </div>
 
 </body>
+
 </html>

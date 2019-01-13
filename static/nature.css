@@ -31,6 +31,7 @@ html, body {
     box-shadow: 0 0 1.5vmin 1.5vmin rgba(0, 0, 0, .3);
     -webkit-box-shadow: 0 0 1.5vmin 1.5vmin rgba(0, 0, 0, .3);
     margin-bottom: 3vmin;
+    margin-right: 1vmin;
 }
 
 #logo {
@@ -63,24 +64,34 @@ html, body {
 
 #search {
     float: right;
+    height: 6vmin;
     min-height: 30px;
     max-height: 45px;
-    height: 4vmin;
     margin-top: 2.5vmin;
-    margin-right: 3vmin;
+    margin-right: 2vmin;
 }
 
 #help {
     float: right;
+    height: 6vmin;
     min-height: 30px;
     max-height: 45px;
-    height: 4.4vmin;
     margin-top: 2.35vmin;
-    margin-right: 3vmin;
+    margin-right: 2.5vmin;
 }
 
-#search:hover, #help:hover {
-    filter: invert();
+#close {
+    /* see also #search and #help */
+    float: right;
+    height: 5.8vmin;
+    min-height: 29px;
+    max-height: 40px;
+    margin-top: 2.6vmin;
+    margin-right: 2.5vmin;
+}
+
+#search:hover, #help:hover, #close:hover {
+    filter: invert(100);
 }
 
 .container {
@@ -282,20 +293,6 @@ img.large {
 
 .content {
     margin-left: 1vw;
-}
-
-#close {
-    float: right;
-    width: 3.5vmin;
-    min-width: 25px;
-    max-width: 40px;
-    margin-top: 2vmin;
-    margin-left: 1vmin;
-    margin-right: 2vmin;
-}
-
-#close:hover {
-    filter: invert();
 }
 
 @media (orientation: landscape) {

@@ -10,12 +10,11 @@
     </style>
 </head>
 
-<body onload="change()"> 
+<body onload="change()">
     <div class="header">
+        {{ partial "closebutton.html" . }}
+        {{ partial "helpbutton.html" . }}
         <h1>
-            <a href="/help.html">
-                <image id="help" src="images/help.svg" />
-            </a>
             <div class="header-left">
                 <a href="/">
                     <img id="small-logo" src="images/naturecompanion.svg" />
@@ -23,7 +22,7 @@
                 <span>Search</span>
             </div>
         </h1>
-        <div class="search"> 
+        <div class="search">
             <div class="search_checkboxes">
                 <input class="type" type="checkbox" id="t_birds" onchange="change('t_birds')" />
                 <label for="t_birds">Birds</label>
@@ -54,7 +53,8 @@
                 <input class="habitat" type="checkbox" id="h_forest" onchange="change('l_mb')" />
                 <label for="h_forest">Forest</label>
                 <br />
-                <input class="habitat" type="checkbox" id="h_grassland" onchange="change('l_mb')" />
+                <input class="habitat" type="checkbox" id="h_grassland"
+                    onchange="change('l_mb')" />
                 <label for="h_grassland">Grassland</label>
                 <br />
                 <input class="habitat" type="checkbox" id="h_mountain" onchange="change('l_mb')" />
