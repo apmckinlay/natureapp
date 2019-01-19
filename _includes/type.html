@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+
+<head lang="en">
+    {{> head.html }}
+</head>
+
+<body>
+    <div class="header">
+        {{> closebutton.html }}
+        {{> helpbutton.html }}
+        {{> searchbutton.html }}
+        <h1>
+            <div class="header-left">
+                <a href="/">
+                    <img id="small-logo" src="/images/naturecompanion.svg" /></a>
+                <span>{{heading}}</span>
+            </div>
+        </h1>
+    </div>
+    <div class="list">
+        {{#items}}
+        <div class="item">
+            <a href="/{{page.fileSlug}}/{{data.page.fileSlug}}">
+                <img class="small" src="/photos/{{page.fileSlug}}/small/{{data.page.fileSlug}}.jpg" />
+                <div class="name">{{data.name}}</div>
+            </a>
+        </div>
+        {{/items}}
+    </div>
+
+</body>
+
+</html>

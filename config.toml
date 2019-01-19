@@ -1,3 +1,0 @@
-baseUrl = "http://naturecompanion.ca"
-disableKinds = ["RSS", "sitemap", "taxonomy", "taxonomyTerms"]
-uglyurls = true

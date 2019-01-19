@@ -1,14 +1,14 @@
-.PHONY: hugo sync server
+.PHONY: eleventy server sync
 
-hugo:
-	hugo
-
-sync:
-	hugo --cleanDestinationDir
-	aws s3 sync public s3://naturecompanion.ca --exclude "*DS_Store" --acl public-read --delete
+eleventy:
+	eleventy
 
 server:
-	hugo server --disableFastRender --renderToDisk --noHTTPCache
+	eleventy --serve
+
+sync:
+	eleventy
+	aws s3 sync _site s3://naturecompanion.ca --exclude "*DS_Store" --acl public-read --delete
 
 links:
 	node build/process.js

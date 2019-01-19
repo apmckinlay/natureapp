@@ -10,9 +10,9 @@ let id2name = {}; // e.g. "crow" => "Crow"
 let name2id = {}; // e.g. "Crow" => "crow"
 let groups = {}; // e.g. "corvid" => ["crow", "raven"]
 
-process('content/birds/');
-process('content/herps/');
-process('content/insects/');
+process('birds/');
+process('herps/');
+process('insects/');
 
 function process(dir) {
     forEachFile(dir, gatherInfo);
@@ -75,7 +75,7 @@ function addSeeAlso(id, content) {
             let sa = "**See Also:**";
             for (let said of list)
                 if (said != id)
-                    sa += '\n[' + id2name[said] + ']({{< ref "' + said + '.md" >}}),';
+                    sa += '\n[' + id2name[said] + '](/{{section}}/' + said + '),';
             sa = sa.slice(0, -1);
             content += '\n' + generated + '\n' + sa + '\n';
         }
@@ -87,7 +87,7 @@ function namesToLinks(id, content) {
         if (id != id2 && content.includes(name)) {
             let rx = RegExp('([^[])_*(' + name + 's?)_*', 'g');
             content = content.replace(rx,
-                (str, before, name) => before + '[' + name + ']({{< ref "' + id2 + '.md" >}})');
+                (str, before, name) => before + '[' + name + ']({{section}}/' + id2 + ')');
         }
     }
     return content;

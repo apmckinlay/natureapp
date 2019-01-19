@@ -1,0 +1,183 @@
+---js
+{
+bc: function() { return -1 != this.location.indexOf("bc") },
+ab: function() { return -1 != this.location.indexOf("ab") },
+sk: function() { return -1 != this.location.indexOf("sk") },
+mb: function() { return -1 != this.location.indexOf("mb") },
+easy: function () { return this.visibility == "high"},
+hard: function () { return this.visibility == "low"},
+desert: function() { return -1 != this.habitat.indexOf("desert") },
+forest: function() { return -1 != this.habitat.indexOf("forest") },
+grassland: function() { return -1 != this.habitat.indexOf("grassland") },
+mountain: function() { return -1 != this.habitat.indexOf("mountain") },
+ocean: function() { return -1 != this.habitat.indexOf("ocean") },
+urban: function() { return -1 != this.habitat.indexOf("urban") },
+wetland: function() { return -1 != this.habitat.indexOf("wetland") }
+}
+---
+<!doctype html>
+<html>
+
+<head lang="en">
+    <title>{{name}} - Nature Companion</title>
+    {{> head.html }}
+    <style>
+        {{# bc}} #CA-BC { fill: green; } {{/bc}}
+        {{# ab}} #CA-AB { fill: green; } {{/ab}}
+        {{# sk}} #CA-SK { fill: green; } {{/sk}}
+        {{# mb}} #CA-MB { fill: green; } {{/mb}}
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>
+        {{> closebutton.html }}
+        <div class="header-left">
+            <a href="/"><image id="small-logo" src="/images/naturecompanion.svg" /></a>
+            <span>{{ name }}</span>
+        </div>
+        </h1>
+    </div>
+    <div class="single">
+        <div>
+            <img class="large" src="/photos/{{ section }}/large/{{page.fileSlug}}.jpg" />
+            <div class="attribution">
+                {{#attr}}
+                <a href="{{ attr_link }}" target="_blank">photo</a> by {{ attr }}
+                / <a href="{{ license_link }}" target="_blank">{{ license }}</a>
+                {{/attr}}
+            </div>
+        </div>
+        <div class="content">
+        {{{ content }}}
+        {{> map.svg }}
+        {{#hard}}
+        <div class="popup_outer" onclick="toggle('hard_def')">
+            {{> hard.svg }}
+            <div class="popup" id="hard_def">
+                <span>
+                    <b>Hard</b> - can be difficult to spot. They may be few in number 
+                    or not readily visible (for example, underground).</span>
+            </div>
+        </div>
+        {{/hard}}
+        {{#easy}}
+        <div class="popup_outer" onclick="toggle('easy_def')">
+            {{> easy.svg }}
+            <div class="popup" id="easy_def">
+                <span>
+                    <b>Easy</b> - numerous and usually easy to spot 
+                    in the habitats listed at the appropriate time of year.</span>
+            </div>
+        </div>
+        {{/easy}}
+
+        {{#desert}}
+        <div class="popup_outer" onclick="toggle('desert_def')">
+            {{> desert.svg }}
+            <div class="popup" id="desert_def">
+                <span><b>Deserts</b> are dry areas covered with sand or rocks and with very 
+                    few plants. There is limited rainfall and it’s usually very hot.</span>
+            </div>
+        </div>
+        {{/desert}}
+        {{#forest}}
+        <div class="popup_outer" onclick="toggle('forest_def')">
+           {{> forest.svg }}
+            <div class="popup" id="forest_def">
+                <span>
+                    <b>Forests</b> are large areas of trees growing close together.</span>
+            </div>
+        </div>
+        {{/forest}}
+        {{#grassland}}
+        <div class="popup_outer" onclick="toggle('grassland_def')">
+            {{> grassland.svg }}
+            <div class="popup" id="grassland_def">
+                <span><b>Grasslands</b> are large open areas covered with grasses. 
+                    They have very few trees or shrubs. This habitat includes prairies
+                    and tundra.</span>
+            </div>
+        </div>
+        {{/grassland}}
+        {{#mountain}}
+        <div class="popup_outer" onclick="toggle('mountain_def')">
+            {{> mountain.svg }}
+            <div class="popup" id="mountain_def">
+                <span>
+                    <b>Mountains</b> are very high areas of land with 
+                    steep sides leading to a peak. They are often connected to 
+                    other mountains as part of a mountain range.</span>
+            </div>
+        </div>
+        {{/mountain}}
+        {{#ocean}}
+        <div class="popup_outer" onclick="toggle('ocean_def')">
+            {{ > ocean.svg }}
+            <div class="popup" id="ocean_def">
+                <span>
+                    <b>Oceans</b> are large bodies of salt water. This habitat includes 
+                    seas and oceans as well as their beaches and coastlines.</span>
+            </div>
+        </div>
+        {{/ocean}}
+        {{#urban}}
+        <div class="popup_outer" onclick="toggle('urban_def')">
+            {{> urban.svg }}
+            <div class="popup" id="urban_def">
+                <span>
+                    <b>Urban</b> areas have a large population within a defined 
+                    area. This includes villages, towns, and cities.</span>
+            </div>
+        </div>
+        {{/urban}}
+        {{#wetland}}
+        <div class="popup_outer" onclick="toggle('wetland_def')">
+            {{> wetland.svg }}
+            <div class="popup" id="wetland_def">
+                <span>
+                    <b>Wetlands</b> are low-lying areas that are covered by water 
+                    all or most of the time and support a variety of aquatic plants. This
+                    habitat includes rivers, streams, lakes, ponds, bogs, and marshes.</span>
+            </div>
+        </div>
+        {{/wetland}}
+        </div>
+    </div>
+    <script>
+        var clicked = null;
+        var timer;
+        function toggle(id) {
+            var elem = document.getElementById(id);
+            if (elem.style.display !== "flex") {
+                close();
+                clicked = elem;
+                elem.style.display = "flex";
+                clearTimeout(timer)
+                timer = setTimeout(function () { elem.style.display = "none" }, 10000);
+            } else
+                close()
+        }
+        window.onclick = function (event) {
+            if (!inPopup(event.target))
+                close();
+        }
+        function close() {
+            if (clicked) {
+                clicked.style.display = "none";
+                clearTimeout(timer);
+                timer = null;
+                clicked = null;
+            }
+        }
+        function inPopup(child, parent) {
+            while ((child = child.parentNode))
+                if (child.className === "popup_outer")
+                    return true;
+            return false;
+        }
+    </script>
+</body>
+
+</html>
