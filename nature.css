@@ -113,7 +113,6 @@ html, body {
 
 .group:hover {
     color: #FFD15F;
-    Xtext-decoration: underline;
 }
 
 @media (min-width: 550px) {
@@ -187,11 +186,11 @@ h1 {
 .item a {
     color: black;
     text-decoration: inherit;
+    font-weight: bold;
 }
 
 .item a:hover {
-    color: blue;
-    text-decoration: underline;
+    color: #6D9134;
 }
 
 img.small {
