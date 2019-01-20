@@ -14,7 +14,7 @@ help_section: "search"
     </style>
 </head>
 
-<body onload="change()">
+<body onload="start()">
     <div class="header">
         {{> closebutton.html }}
         {{> helpbutton.html }}
@@ -91,16 +91,22 @@ help_section: "search"
     </div>
 
     <script>
+        function start() {
+            for (var t of ["birds", "herps", "insects"])
+                if (window.location.search == "?" + t)
+                    document.getElementById("t_" + t).checked = true;
+            change();
+        }
         function change(type) {
-            console.log('CHANGE', type)
-            var types = getChecked('type')
-            var locs = getChecked('location')
-            var habs = getChecked('habitat')
+            console.log('CHANGE', type);
+            var types = getChecked('type');
+            var locs = getChecked('location');
+            var habs = getChecked('habitat');
             // make everything visible
             var x = document.getElementsByClassName('item');
             for (var i = 0; i < x.length; i++) {
-                item = x[i]
-                classes = item.classList
+                item = x[i];
+                classes = item.classList;
                 if (match(types, classes) &&
                     match(locs, classes) &&
                     match(habs, classes))
@@ -110,18 +116,18 @@ help_section: "search"
             }
         }
         function getChecked(className) {
-            let checked = []
+            let checked = [];
             var x = document.getElementsByClassName(className);
             for (var i = 0; i < x.length; i++)
                 if (x[i].checked)
-                    checked.push(x[i].id)
-            return checked
+                    checked.push(x[i].id);
+            return checked;
         }
         function match(checked, classes) {
             for (let c of checked)
                 if (classes.contains(c))
-                    return true
-            return false
+                    return true;
+            return false;
         }
     </script>
 
