@@ -1,5 +1,5 @@
 ---
-title: "Help - Nature Companion"
+title: "Help"
 description: "Find out more about the plants and animals around you"
 layout: "help.html"
 ---

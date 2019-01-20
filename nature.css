@@ -107,16 +107,13 @@ html, body {
     width: 35%;
     /* two across */
     margin-bottom: 3vh;
-}
-
-.group a {
     color: black;
     text-decoration: inherit;
 }
 
-.group a:hover {
-    color: blue;
-    text-decoration: underline;
+.group:hover {
+    color: #FFD15F;
+    Xtext-decoration: underline;
 }
 
 @media (min-width: 550px) {

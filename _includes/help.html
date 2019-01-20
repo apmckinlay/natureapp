@@ -1,3 +1,8 @@
+---js
+{
+year: function () { return (new Date()).getFullYear() } 
+}
+---
 <!doctype html>
 <html>
 
@@ -8,19 +13,21 @@
 <body>
     <div class="header">
         {{> closebutton.html }}
-        <div class="header-left">
-            <a href="/">
-                <img id="small-logo" src="/images/naturecompanion.svg" />
-            </a>
-            <image id="small-title" src="/images/title.svg" />
-        </div>
+        <h1>
+            <div class="header-left">
+                <a href="/">
+                    <img id="small-logo" src="/images/naturecompanion.svg" />
+                </a>
+                <span>{{title}}</span>
+            </div>
+        </h1>
     </div>
 
     <div class="single">
         <div>
             {{{ content }}}
             <hr />
-            <p>Copyright &copy; 2017-{{ now.Format "2006" }} Andrew &amp; Penny McKinlay</p>
+            <p>Copyright &copy; 2017-{{year}} Andrew &amp; Penny McKinlay</p>
 
             <p>Contact <a href="mailto:naturecompanion@mail.com?Subject=NatureCompanion">naturecompanion@mail.com</a></p>
 
