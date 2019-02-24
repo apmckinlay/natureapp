@@ -21,6 +21,7 @@ Tent Caterpillars can be confused with **Webworms**. However, Tent Caterpillars 
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
 [Cabbage White](/{{section}}/cabbgwht),
 [Clouded Sulfur](/{{section}}/cloudsulf),
@@ -30,5 +31,4 @@ Tent Caterpillars can be confused with **Webworms**. However, Tent Caterpillars 
 [Monarch Butterfly](/{{section}}/monarch),
 [Mourning Cloak](/{{section}}/mournbut),
 [Painted Lady](/{{section}}/paintbut),
-[Spring Azure](/{{section}}/springbut),
 [Tiger Swallowtail](/{{section}}/tigerbut)
