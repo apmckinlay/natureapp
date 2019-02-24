@@ -19,6 +19,7 @@ Painted Lady butterflies migrate every year from northern Mexico to Canada and t
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
 [Cabbage White](/{{section}}/cabbgwht),
 [Clouded Sulfur](/{{section}}/cloudsulf),
@@ -27,6 +28,5 @@ Painted Lady butterflies migrate every year from northern Mexico to Canada and t
 [Hawk Moth](/{{section}}/hawkmoth),
 [Monarch Butterfly](/{{section}}/monarch),
 [Mourning Cloak](/{{section}}/mournbut),
-[Spring Azure](/{{section}}/springbut),
 [Tent Caterpillar](/{{section}}/tentcat),
 [Tiger Swallowtail](/{{section}}/tigerbut)

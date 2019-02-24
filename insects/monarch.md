@@ -20,6 +20,7 @@ Only Monarchs born in late summer or fall will make the migration. Many generati
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
 [Cabbage White](/{{section}}/cabbgwht),
 [Clouded Sulfur](/{{section}}/cloudsulf),
@@ -28,6 +29,5 @@ Only Monarchs born in late summer or fall will make the migration. Many generati
 [Hawk Moth](/{{section}}/hawkmoth),
 [Mourning Cloak](/{{section}}/mournbut),
 [Painted Lady](/{{section}}/paintbut),
-[Spring Azure](/{{section}}/springbut),
 [Tent Caterpillar](/{{section}}/tentcat),
 [Tiger Swallowtail](/{{section}}/tigerbut)

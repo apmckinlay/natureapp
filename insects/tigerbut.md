@@ -18,6 +18,7 @@ In different areas you will find the **Canadian**, **Eastern**, and **Western Ti
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
 [Cabbage White](/{{section}}/cabbgwht),
 [Clouded Sulfur](/{{section}}/cloudsulf),
@@ -27,5 +28,4 @@ In different areas you will find the **Canadian**, **Eastern**, and **Western Ti
 [Monarch Butterfly](/{{section}}/monarch),
 [Mourning Cloak](/{{section}}/mournbut),
 [Painted Lady](/{{section}}/paintbut),
-[Spring Azure](/{{section}}/springbut),
 [Tent Caterpillar](/{{section}}/tentcat)

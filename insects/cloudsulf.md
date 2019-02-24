@@ -16,6 +16,7 @@ Clouded Sulfur can be found in open areas and are particularly common in fields 
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
 [Cabbage White](/{{section}}/cabbgwht),
 [Compton Tortoiseshell](/{{section}}/comptort),
@@ -24,6 +25,5 @@ Clouded Sulfur can be found in open areas and are particularly common in fields 
 [Monarch Butterfly](/{{section}}/monarch),
 [Mourning Cloak](/{{section}}/mournbut),
 [Painted Lady](/{{section}}/paintbut),
-[Spring Azure](/{{section}}/springbut),
 [Tent Caterpillar](/{{section}}/tentcat),
 [Tiger Swallowtail](/{{section}}/tigerbut)

@@ -17,6 +17,7 @@ Cabbage White are one of the first butterfly to appear in the **spring** and can
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
 [Clouded Sulfur](/{{section}}/cloudsulf),
 [Compton Tortoiseshell](/{{section}}/comptort),
@@ -25,6 +26,5 @@ Cabbage White are one of the first butterfly to appear in the **spring** and can
 [Monarch Butterfly](/{{section}}/monarch),
 [Mourning Cloak](/{{section}}/mournbut),
 [Painted Lady](/{{section}}/paintbut),
-[Spring Azure](/{{section}}/springbut),
 [Tent Caterpillar](/{{section}}/tentcat),
 [Tiger Swallowtail](/{{section}}/tigerbut)

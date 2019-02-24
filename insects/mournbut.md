@@ -20,6 +20,7 @@ Mourning Cloak butterflies can be found throughout North America although they a
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
 [Cabbage White](/{{section}}/cabbgwht),
 [Clouded Sulfur](/{{section}}/cloudsulf),
@@ -28,6 +29,5 @@ Mourning Cloak butterflies can be found throughout North America although they a
 [Hawk Moth](/{{section}}/hawkmoth),
 [Monarch Butterfly](/{{section}}/monarch),
 [Painted Lady](/{{section}}/paintbut),
-[Spring Azure](/{{section}}/springbut),
 [Tent Caterpillar](/{{section}}/tentcat),
 [Tiger Swallowtail](/{{section}}/tigerbut)

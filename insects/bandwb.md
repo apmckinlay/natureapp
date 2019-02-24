@@ -19,6 +19,7 @@ Banded Woolly Bear are common across **grasslands** and **urban** areas in south
 
 <!-- generated, do not edit -->
 **See Also:**
+[Azure Butterfly](/{{section}}/azurebut),
 [Cabbage White](/{{section}}/cabbgwht),
 [Clouded Sulfur](/{{section}}/cloudsulf),
 [Compton Tortoiseshell](/{{section}}/comptort),
@@ -27,6 +28,5 @@ Banded Woolly Bear are common across **grasslands** and **urban** areas in south
 [Monarch Butterfly](/{{section}}/monarch),
 [Mourning Cloak](/{{section}}/mournbut),
 [Painted Lady](/{{section}}/paintbut),
-[Spring Azure](/{{section}}/springbut),
 [Tent Caterpillar](/{{section}}/tentcat),
 [Tiger Swallowtail](/{{section}}/tigerbut)
