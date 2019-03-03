@@ -1,6 +1,6 @@
 ---
 name: "Bison"
-group: "bovine"
+group: "ungulate"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/9071649361"
 license: "CC BY-NC"

@@ -18,3 +18,7 @@ visibility: high
 13-lined Ground Squirrel resemble __Chipmunk__, but Chipmunk have stripes on their head and body, longer faces, and internal cheek pouches they can stuff with seeds. __Richardson's Ground Squirrel__ (gophers) are larger and don't have stripes.
 
 **Did you know?** In addition to the long, deep burrows they use for nesting and hibernation, 13-lined Ground Squirrel also dig short,dead-end tunnels where they can escape in an emergency.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Bushy-tailed Woodrat](/{{section}}/buwrat)

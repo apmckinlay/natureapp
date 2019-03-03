@@ -1,6 +1,6 @@
 ---
 name: "Barnacle"
-group: tidal
+group: "tidal"
 attr: "Robert Fuhro"
 attr_link: "https://www.flickr.com/photos/bob_l_f/5539304547"
 license: "CC BY-NC-ND"
@@ -18,3 +18,8 @@ One-eyed larvae grow for 6 months before turning into shrimp-like larvae and loo
 Barnacles are crustaceans and related to Shrimp, Crab, and Lobster. The most common are **Acorn Barnacle** which attach directly to a surface. **Gooseneck Barnacle** have a long muscular stalk topped by a head encased in a hard shell.
 
 **Did you know?** Barnacles are hermaphroditic with both male and female sexual organs; however, the eggs produced by one barnacle are usually fertilized by a different one.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blue Mussel ](/{{section}}/blumussel),
+[Clam](/{{section}}/clam)
