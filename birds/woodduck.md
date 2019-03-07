@@ -20,8 +20,8 @@ The birds pair up in late winter and begin breeding in early spring. They eat mo
 
 <!-- generated, do not edit -->
 **See Also:**
-[Common Goldeneye](/{{section}}/commgold),
 [Common Loon](/{{section}}/commloon),
 [Common Merganser](/{{section}}/commmerg),
+[Goldeneye](/{{section}}/goldeye),
 [Mallard](/{{section}}/mallard),
 [Western Grebe](/{{section}}/westgrebe)

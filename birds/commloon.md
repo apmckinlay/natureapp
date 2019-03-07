@@ -18,8 +18,8 @@ The **monogamous** birds build nests in hidden spots along the lake. They are **
 
 <!-- generated, do not edit -->
 **See Also:**
-[Common Goldeneye](/{{section}}/commgold),
 [Common Merganser](/{{section}}/commmerg),
+[Goldeneye](/{{section}}/goldeye),
 [Mallard](/{{section}}/mallard),
 [Western Grebe](/{{section}}/westgrebe),
 [Wood Duck](/{{section}}/woodduck)
