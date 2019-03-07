@@ -12,7 +12,8 @@ grassland: function() { return -1 != this.habitat.indexOf("grassland") },
 mountain: function() { return -1 != this.habitat.indexOf("mountain") },
 ocean: function() { return -1 != this.habitat.indexOf("ocean") },
 urban: function() { return -1 != this.habitat.indexOf("urban") },
-wetland: function() { return -1 != this.habitat.indexOf("wetland") }
+wetland: function() { return -1 != this.habitat.indexOf("wetland") },
+akas: function() { return this.aka ? this.aka.join(", ") : false }
 }
 ---
 <!doctype html>
@@ -22,10 +23,10 @@ wetland: function() { return -1 != this.habitat.indexOf("wetland") }
     <title>{{name}} - Nature Companion</title>
     {{> head.html }}
     <style>
-        {{# bc}} #CA-BC { fill: green; } {{/bc}}
-        {{# ab}} #CA-AB { fill: green; } {{/ab}}
-        {{# sk}} #CA-SK { fill: green; } {{/sk}}
-        {{# mb}} #CA-MB { fill: green; } {{/mb}}
+        {{#bc}} #CA-BC { fill: green; } {{/bc}}
+        {{#ab}} #CA-AB { fill: green; } {{/ab}}
+        {{#sk}} #CA-SK { fill: green; } {{/sk}}
+        {{#mb}} #CA-MB { fill: green; } {{/mb}}
     </style>
 </head>
 
@@ -50,6 +51,11 @@ wetland: function() { return -1 != this.habitat.indexOf("wetland") }
             </div>
         </div>
         <div class="content">
+        {{#akas}}
+       <p><b>Also Known As: </b>
+        {{.}}
+        </p>
+        {{/akas}}
         {{{ content }}}
         {{> map.svg }}
         {{#hard}}
