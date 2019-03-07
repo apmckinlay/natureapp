@@ -20,8 +20,8 @@ Goldeneye spend their **summers** in Canada and Alaska's **boreal forest** where
 
 <!-- generated, do not edit -->
 **See Also:**
-[Common Loon](/{{section}}/commloon),
 [Common Merganser](/{{section}}/commmerg),
+[Loon](/{{section}}/loon),
 [Mallard](/{{section}}/mallard),
 [Western Grebe](/{{section}}/westgrebe),
 [Wood Duck](/{{section}}/woodduck)
