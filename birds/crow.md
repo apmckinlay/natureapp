@@ -19,5 +19,5 @@ The **Northwestern Crow** is very similar (smaller with hoarser voice) and may b
 
 <!-- generated, do not edit -->
 **See Also:**
-[Black-billed Magpie](/{{section}}/blbmagpie),
+[Magpie](/{{section}}/magpie),
 [Raven](/{{section}}/raven)

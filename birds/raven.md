@@ -21,5 +21,5 @@ Ravens are very clever. They play games, hunt cooperatively, and understand caus
 
 <!-- generated, do not edit -->
 **See Also:**
-[Black-billed Magpie](/{{section}}/blbmagpie),
+[Magpie](/{{section}}/magpie),
 [Crow](/{{section}}/crow)
