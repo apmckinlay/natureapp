@@ -52,9 +52,7 @@ akas: function() { return this.aka ? this.aka.join(", ") : false }
         </div>
         <div class="content">
         {{#akas}}
-       <p><b>Also Known As: </b>
-        {{.}}
-        </p>
+       <p style="text-align: right;"><b>{{.}}</b></p>
         {{/akas}}
         {{{ content }}}
         {{> map.svg }}
