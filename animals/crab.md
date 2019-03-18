@@ -18,3 +18,10 @@ Fertilized eggs are glued onto the female's abdomen and released as newly-hatche
 **Horseshoe Crab** are not a true Crab; instead, they are closely related to Spiders and Scorpions. **Porcelain Crab** look a lot like a Crab, but they only have 4 pairs of legs. They will shed a leg to escape from a predator.
 
 **Did you know?** Crabs communicate with each other by drumming or waving their pincers.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Barnacle](/{{section}}/barnacle),
+[Blue Mussel](/{{section}}/blumussel),
+[Clam](/{{section}}/clam),
+[Harbor Seal](/{{section}}/harbseal)

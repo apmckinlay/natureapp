@@ -18,3 +18,7 @@ The Caribou's hollow-hair fur covers almost the entire body, including the nose,
 **Reindeer** are close relatives of the Caribou but are only found in Russia and Scandinavia.
 
 **Did you know?** Scientists believe that the Caribou's ancestors lived in South America, migrating north across the Isthmus of Panama 5 million years ago.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Elk](/{{section}}/elk)

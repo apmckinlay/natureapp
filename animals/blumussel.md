@@ -1,5 +1,5 @@
 ---
-name: "Blue Mussel "
+name: "Blue Mussel"
 group: "tidal"
 attr: "Inductiveload"
 attr_link: "https://commons.wikimedia.org/wiki/File:Blue_mussel_clump.jpg"
@@ -20,4 +20,6 @@ Blue Mussel can be found in the **shallow waters** of the Arctic, North Pacific,
 <!-- generated, do not edit -->
 **See Also:**
 [Barnacle](/{{section}}/barnacle),
-[Clam](/{{section}}/clam)
+[Clam](/{{section}}/clam),
+[Crab](/{{section}}/crab),
+[Harbor Seal](/{{section}}/harbseal)
