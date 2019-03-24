@@ -16,7 +16,7 @@ Bighorn Sheep are social animals living in **groups**, but the males and females
 
 Arizona's **Desert Bighor**n are adapted to the desert and can go more than 10 days without water, even in summer. They are smaller and slightly lighter-colored than **Rocky Mountain Bighorn**.
 
-__Mountain Goat__ have long creamy white fur and thin black horns that point backwards over their head but don't curl.
+[Mountain Goat](/{{section}}/mountgoat) have long creamy white fur and thin black horns that point backwards over their head but don't curl.
 
 **Did you know?** Bighorn Sheep have very good eyesight and can detect movement at over half a mile.
 

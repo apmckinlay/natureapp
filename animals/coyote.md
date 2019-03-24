@@ -14,7 +14,7 @@ Males and females may mate for life. The female enlarges a rodent or rabbit hole
 
 Coyote are very vocal with a wide range of calls to greet and communicate with each other or warn of danger.
 
-[Wolf]({{section}}/wolf) are larger than Coyote with a broader face, larger nose, smaller ears, and a lower voice. __Red Fox__ are smaller.
+[Wolf](/{{section}}/wolf) are larger than Coyote with a broader face, larger nose, smaller ears, and a lower voice. __Red Fox__ are smaller.
 
 **Did you know?** Coyote are very good swimmers.
 

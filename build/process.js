@@ -88,7 +88,7 @@ function namesToLinks(id, content) {
         if (id != id2 && content.includes(name)) {
             let rx = RegExp('([^[])_*(' + name + 's?)_*', 'g');
             content = content.replace(rx,
-                (str, before, name) => before + '[' + name + ']({{section}}/' + id2 + ')');
+                (str, before, name) => before + '[' + name + '](/{{section}}/' + id2 + ')');
         }
     }
     return content;

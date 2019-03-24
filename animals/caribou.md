@@ -21,4 +21,6 @@ The Caribou's hollow-hair fur covers almost the entire body, including the nose,
 
 <!-- generated, do not edit -->
 **See Also:**
-[Elk](/{{section}}/elk)
+[Elk](/{{section}}/elk),
+[Moose](/{{section}}/moose),
+[Mule Deer](/{{section}}/muledeer)

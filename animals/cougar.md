@@ -1,7 +1,7 @@
 ---
 name: "Cougar"
 group: "cat"
-attr: "Brian [Wolf]({{section}}/wolf)er"
+attr: "Brian [Wolf](/{{section}}/wolf)er"
 attr_link: "https://www.flickr.com/photos/odfw/14610353388"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"

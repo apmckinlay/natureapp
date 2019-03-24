@@ -21,4 +21,6 @@ visibility: high
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bushy-tailed Woodrat](/{{section}}/buwrat)
+[Bushy-tailed Woodrat](/{{section}}/buwrat),
+[Hoary Marmot](/{{section}}/hoarymar),
+[Least Chipmunk](/{{section}}/leastchip)
