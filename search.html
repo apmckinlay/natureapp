@@ -31,6 +31,9 @@ help_section: "search"
                 <input class="type" type="checkbox" id="t_birds" onchange="change('t_birds')" />
                 <label for="t_birds">Birds</label>
                 <br />
+                <input class="type" type="checkbox" id="t_animals" onchange="change('t_animals')" />
+                <label for="t_animals">Animals</label>
+                <br />
                 <input class="type" type="checkbox" id="t_herps" onchange="change('t_herps')" />
                 <label for="t_herps">Reptiles &amp; Amphibians</label>
                 <br />
@@ -92,7 +95,7 @@ help_section: "search"
 
     <script>
         function start() {
-            for (var t of ["birds", "herps", "insects"])
+            for (var t of ["birds", "animals", "herps", "insects"])
                 if (window.location.search == "?" + t)
                     document.getElementById("t_" + t).checked = true;
             change();
