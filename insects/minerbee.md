@@ -7,8 +7,9 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
+aka: ["Mining Bee"]
 ---
-Miner or Mining Bees burrow into the **ground** to make nesting sites. If possible, they choose a bare, sunny, sandy spot. Each female bee creates her own nest and cares for her own eggs, but many species are **sociable** and build their nests close together.
+Miner Bee burrow into the **ground** to make nesting sites. If possible, they choose a bare, sunny, sandy spot. Each female bee creates her own nest and cares for her own eggs, but many species are **sociable** and build their nests close together.
 
 Miner Bees are medium-sized (.4-.8 in long) and brown to reddish-black with velvety hollows beside their **eyes**. They collect pollen and nectar from early-blooming flowers, berry plants, and fruit trees. They have very small stingers that may not even penetrate human skin.
 
