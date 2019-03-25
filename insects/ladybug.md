@@ -8,8 +8,9 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 visibility: high
+aka: ["Ladybird", "Lady Beetle"]
 ---
-Ladybugs, also known as Lady Beetles and Ladybirds, are small (.04-.4 in long) beetles with black **spots** on their red or orange dome-shaped wing covers. Most Ladybugs can be identified by their colour and number of spots; however, some are black, brown, or grey or have stripes instead of spots. The **Seven-Spotted Ladybug** is very common in Europe as well as North America.
+Ladybugs are small (.04-.4 in long) beetles with black **spots** on their red or orange dome-shaped wing covers. Most Ladybugs can be identified by their colour and number of spots; however, some are black, brown, or grey or have stripes instead of spots. The **Seven-Spotted Ladybug** is very common in Europe as well as North America.
 
 Ladybugs usually eat insects that prey on plants (one Ladybug can eat up to 75 Aphids per day); however some are plant-eaters and can damage crops (e.g. Mexican Bean Beetle).
 
