@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high
-aka: ["Pond Skater", "Water Skipper", "Jesus Bug"
+aka: ["Pond Skater", "Water Skipper", "Jesus Bug"]
 ---
 Water Striders gained their many names thanks to their ability to **walk on water**. Water Striders have slender, dark **bodies** (.5 - .75 in long) and 8 long, skinny legs. They can be found throughout Canada and the United States on ponds, lakes, or other bodies of **slow-moving water**.
 
