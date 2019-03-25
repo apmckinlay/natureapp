@@ -8,10 +8,11 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
 visibility: high
+aka: [Isabella Tiger Moth]
 ---
 Banded Woolly Bear are the **caterpillars** of __Isabella Tiger Moths__. They have a fuzzy body, black at either end and rusty red in the middle. They are a familiar sight in autumn as they move around, looking for a sheltered spot to overwinter.
 
-You may be less familiar with the adult **moth**, commonly known as the Isabella Tiger Moth, which are orange-yellow to yellowish-brown with black dots down their upper body.
+You may be less familiar with the adult **moth**, which are orange-yellow to yellowish-brown with black dots down their upper body.
 
 Banded Woolly Bear are common across **grasslands** and **urban** areas in southern Canada and the United States. The caterpillars feed on maple and elm trees, grasses, sunflowers, and clover.
 
