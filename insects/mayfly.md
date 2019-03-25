@@ -8,8 +8,9 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high
+aka: ["Shadfly", "Fishfly"]
 ---
-Mayfly, also known as Shadfly or Fishfly, are small, soft-bodied insects with large **triangular forewings** and a long, thin body (up to 1 in) ending in 2 or 3 **hairlike tails**. They can be found near streams, rivers, pond, and lakes across North America.
+Mayfly are small, soft-bodied insects with large **triangular forewings** and a long, thin body (up to 1 in) ending in 2 or 3 **hairlike tails**. They can be found near streams, rivers, pond, and lakes across North America.
 
 Mayfly nymphs emerge from eggs and then go through two adult stages. The mature adults live only 1-2 days and spend their entire adult life in flight looking for a mate. You may see large swarms of males performing a mating dance over the surface of the water at dawn or dusk. Mayfly will die as soon as they have mated and laid eggs.
 
