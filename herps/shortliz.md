@@ -8,8 +8,9 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk]
 habitat: [desert,grassland]
 visibility: low
+aka: ["Horned Toad, "Horny Toad"]
 ---
-Short-horned Lizard, also known as **Horned Toad** or **Horny Toad**, are **small** (3.5-4 in), **flat**, and **round** with a **short, pointed tail**. They have a **crown of short, pointy scales** (horns) on their head and **short, pointed scales** on their **back**. Their coloring varies from yellow to gray to reddish-brown to match their environment.
+Short-horned Lizard are **small** (3.5-4 in), **flat**, and **round** with a **short, pointed tail**. They have a **crown of short, pointy scales** (horns) on their head and **short, pointed scales** on their **back**. Their coloring varies from yellow to gray to reddish-brown to match their environment.
 
 Short-horned Lizards live on the **deserts** and **semi-arid plains** of the **western United States**. They are rare in Canada and are only found at a few spots in **Alberta** and **Saskatchewan**. They hide behind rocks and burrow in sandy soil. They eat ants, grasshoppers, beetles, and spiders and are active in the **daytime**. The females keep their eggs inside their bodies and give birth to live young.
 
