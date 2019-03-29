@@ -1,5 +1,5 @@
 ---
-name: "Boxelder / Maple Bug"
+name: "Boxelder Bug"
 attr: "Ken Gibson"
 attr_link: "https://www.flickr.com/photos/kengi2000/21849573923"
 license: "CC BY"
