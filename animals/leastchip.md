@@ -21,4 +21,5 @@ __Red-tailed Chipmunk__ are more brightly colored and are found in the forests o
 **See Also:**
 [13-lined Ground Squirrel](/{{section}}/13linegs),
 [Bushy-tailed Woodrat](/{{section}}/buwrat),
-[Hoary Marmot](/{{section}}/hoarymar)
+[Hoary Marmot](/{{section}}/hoarymar),
+[Pika](/{{section}}/pika)

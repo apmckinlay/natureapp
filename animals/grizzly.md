@@ -22,4 +22,5 @@ Grizzly Bears' size and color vary and are not a useful way to distinguish Grizz
 
 <!-- generated, do not edit -->
 **See Also:**
-[Black Bear](/{{section}}/blabear)
+[Black Bear](/{{section}}/blabear),
+[Polar Bear](/{{section}}/polbear)

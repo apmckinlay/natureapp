@@ -1,5 +1,6 @@
 ---
 name: "Badger"
+group: "bigrodent"
 attr: "Larry Lamsa"
 attr_link: "https://www.flickr.com/photos/larry1732/9476840946"
 license: "CC BY"
@@ -13,3 +14,7 @@ Badger have **short, stout bodies** (22-30 in long) and short legs with long cla
 Badgers have excellent vision, sharp hearing, and a strong sense of smell. They eat small prey and are **powerful diggers**, easily tunneling after rodents and snakes. They also dig large underground tunnels and burrows where they sleep, store food, and raise young.
 
 **Did you know?** Badgers don't hibernate, but they do conserve energy by becoming much less active in winter.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Porcupine](/{{section}}/porcupine)

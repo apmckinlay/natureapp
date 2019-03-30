@@ -16,4 +16,5 @@ Black Bear are 5-6 ft long and weigh 200-600 lbs. Their size and color (from whi
 
 <!-- generated, do not edit -->
 **See Also:**
-[Grizzly Bear](/{{section}}/grizzly)
+[Grizzly Bear](/{{section}}/grizzly),
+[Polar Bear](/{{section}}/polbear)
