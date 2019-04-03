@@ -1,6 +1,6 @@
 ---
 name: "Badger"
-group: "bigrodent"
+group: "medium"
 attr: "Larry Lamsa"
 attr_link: "https://www.flickr.com/photos/larry1732/9476840946"
 license: "CC BY"
@@ -17,4 +17,5 @@ Badgers have excellent vision, sharp hearing, and a strong sense of smell. They 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Porcupine](/{{section}}/porcupine)
+[Porcupine](/{{section}}/porcupine),
+[Raccoon](/{{section}}/raccoon)

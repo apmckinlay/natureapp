@@ -1,6 +1,6 @@
 ---
 name: "Porcupine"
-group: "bigrodent"
+group: "medium"
 attr: "Guy Monty"
 attr_link: "https://www.flickr.com/photos/guylmonty/27067557234"
 license: "CC BY-NC-SA"
@@ -18,4 +18,5 @@ Porcupine are solitary animals but may group together in a winter den or around 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Badger](/{{section}}/badger)
+[Badger](/{{section}}/badger),
+[Raccoon](/{{section}}/raccoon)

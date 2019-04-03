@@ -17,4 +17,5 @@ Little Brown Bats live in large **colonies**, leaving their roost at dusk and da
 <!-- generated, do not edit -->
 **See Also:**
 [Hoary Bat](/{{section}}/hoarybat),
-[Northern Long-eared Bat](/{{section}}/norlebat)
+[Northern Long-eared Bat](/{{section}}/norlebat),
+[Red Bat](/{{section}}/redbat)

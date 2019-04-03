@@ -20,4 +20,5 @@ Moose are larger, darker-colored, and more solitary than [Elk](/{{section}}/elk)
 **See Also:**
 [Caribou](/{{section}}/caribou),
 [Elk](/{{section}}/elk),
-[Mule Deer](/{{section}}/muledeer)
+[Mule Deer](/{{section}}/muledeer),
+[Pronghorn](/{{section}}/pronghorn)
