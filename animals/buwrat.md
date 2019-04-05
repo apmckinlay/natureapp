@@ -24,4 +24,6 @@ Bushy-tailed Woodrats are also known as **Pack Rats** (or Packrats) because they
 [13-lined Ground Squirrel](/{{section}}/13linegs),
 [Hoary Marmot](/{{section}}/hoarymar),
 [Least Chipmunk](/{{section}}/leastchip),
-[Pika](/{{section}}/pika)
+[Pika](/{{section}}/pika),
+[Richardson’s Ground Squirrel](/{{section}}/richgs),
+[Red-tailed Chipmunk](/{{section}}/rtchip)

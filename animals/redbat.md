@@ -3,7 +3,7 @@ name: "Red Bat"
 group: "bat"
 attr: "Elvis Herrera Rodríguez"
 attr_link: "https://www.inaturalist.org/photos/652711"
-license: "CC BY-NC-sa"
+license: "CC BY-NC-SA"
 license_link: "https://creativecommons.org/licenses/by-nc-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]

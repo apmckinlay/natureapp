@@ -24,4 +24,5 @@ It can be difficult to distinguish between dogs and Wolves. Dogs' ears are usual
 
 <!-- generated, do not edit -->
 **See Also:**
-[Coyote](/{{section}}/coyote)
+[Coyote](/{{section}}/coyote),
+[Red Fox](/{{section}}/redfox)
