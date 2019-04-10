@@ -17,7 +17,7 @@ Harbor Seal mate from spring to early summer when they're 3-7 years old. The fem
 
 Male **Northern Elephant Seal**, true to their name, have a large nose. They are 10-13 ft long and weigh 1,500-4,500 lbs (females are much smaller than males). They come close to land in December to breed on offshore islands or on remote coastal beaches from Baja California to Alaska.
 
-__Sea Lion__ are larger and have longer flippers than Harbour Seal. __Sea Lion__ have ear flaps while Harbor Seal don't. They can support themselves on their flippers and walk, while Seal inch forward on their belly. __River Otter__ are sometimes found in coastal areas. They have long, slim bodies and tails and are as adept on land as in the water.
+[Sea Lion](/{{section}}/sealion) are larger and have longer flippers than Harbour Seal. [Sea Lion](/{{section}}/sealion) have ear flaps while Harbor Seal don't. They can support themselves on their flippers and walk, while Seal inch forward on their belly. [River Otter](/{{section}}/rivotter) are sometimes found in coastal areas. They have long, slim bodies and tails and are as adept on land as in the water.
 
 **Did you know?** Harbor Seal can swim right-side up or upside down at speeds of up to 12 mph. They can dive to depths of 300 ft and stay underwater for up to 30 minutes.
 
@@ -26,4 +26,10 @@ __Sea Lion__ are larger and have longer flippers than Harbour Seal. __Sea Lion__
 [Barnacle](/{{section}}/barnacle),
 [Blue Mussel](/{{section}}/blumussel),
 [Clam](/{{section}}/clam),
-[Crab](/{{section}}/crab)
+[Crab](/{{section}}/crab),
+[River Otter](/{{section}}/rivotter),
+[Sand Dollar](/{{section}}/sandolr),
+[Sea Anemone](/{{section}}/seaanem),
+[Sea Lion](/{{section}}/sealion),
+[Sea Otter](/{{section}}/seaotter),
+[Sea Urchin](/{{section}}/seaurch)

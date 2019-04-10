@@ -24,5 +24,5 @@ Pika live in **colonies** but are very independent and defend their individual d
 [Bushy-tailed Woodrat](/{{section}}/buwrat),
 [Hoary Marmot](/{{section}}/hoarymar),
 [Least Chipmunk](/{{section}}/leastchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs),
-[Red-tailed Chipmunk](/{{section}}/rtchip)
+[Red-tailed Chipmunk](/{{section}}/retchip),
+[Richardson’s Ground Squirrel](/{{section}}/richgs)

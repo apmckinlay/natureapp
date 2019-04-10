@@ -24,4 +24,10 @@ Fertilized eggs are glued onto the female's abdomen and released as newly-hatche
 [Barnacle](/{{section}}/barnacle),
 [Blue Mussel](/{{section}}/blumussel),
 [Clam](/{{section}}/clam),
-[Harbor Seal](/{{section}}/harbseal)
+[Harbor Seal](/{{section}}/harbseal),
+[River Otter](/{{section}}/rivotter),
+[Sand Dollar](/{{section}}/sandolr),
+[Sea Anemone](/{{section}}/seaanem),
+[Sea Lion](/{{section}}/sealion),
+[Sea Otter](/{{section}}/seaotter),
+[Sea Urchin](/{{section}}/seaurch)

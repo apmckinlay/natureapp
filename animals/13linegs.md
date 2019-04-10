@@ -25,5 +25,5 @@ visibility: high
 [Hoary Marmot](/{{section}}/hoarymar),
 [Least Chipmunk](/{{section}}/leastchip),
 [Pika](/{{section}}/pika),
-[Richardson’s Ground Squirrel](/{{section}}/richgs),
-[Red-tailed Chipmunk](/{{section}}/rtchip)
+[Red-tailed Chipmunk](/{{section}}/retchip),
+[Richardson’s Ground Squirrel](/{{section}}/richgs)

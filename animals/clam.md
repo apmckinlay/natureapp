@@ -23,4 +23,10 @@ Clams are closely related to __Snails__ and __Slugs__ as well as **Oyster** and 
 [Barnacle](/{{section}}/barnacle),
 [Blue Mussel](/{{section}}/blumussel),
 [Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal)
+[Harbor Seal](/{{section}}/harbseal),
+[River Otter](/{{section}}/rivotter),
+[Sand Dollar](/{{section}}/sandolr),
+[Sea Anemone](/{{section}}/seaanem),
+[Sea Lion](/{{section}}/sealion),
+[Sea Otter](/{{section}}/seaotter),
+[Sea Urchin](/{{section}}/seaurch)

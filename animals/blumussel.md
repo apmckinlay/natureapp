@@ -22,4 +22,10 @@ Blue Mussel can be found in the **shallow waters** of the Arctic, North Pacific,
 [Barnacle](/{{section}}/barnacle),
 [Clam](/{{section}}/clam),
 [Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal)
+[Harbor Seal](/{{section}}/harbseal),
+[River Otter](/{{section}}/rivotter),
+[Sand Dollar](/{{section}}/sandolr),
+[Sea Anemone](/{{section}}/seaanem),
+[Sea Lion](/{{section}}/sealion),
+[Sea Otter](/{{section}}/seaotter),
+[Sea Urchin](/{{section}}/seaurch)

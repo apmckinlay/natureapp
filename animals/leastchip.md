@@ -23,5 +23,5 @@ Least Chipmunk are active during the day, spending most of their time looking fo
 [Bushy-tailed Woodrat](/{{section}}/buwrat),
 [Hoary Marmot](/{{section}}/hoarymar),
 [Pika](/{{section}}/pika),
-[Richardson’s Ground Squirrel](/{{section}}/richgs),
-[Red-tailed Chipmunk](/{{section}}/rtchip)
+[Red-tailed Chipmunk](/{{section}}/retchip),
+[Richardson’s Ground Squirrel](/{{section}}/richgs)

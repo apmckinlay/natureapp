@@ -17,7 +17,7 @@ Richardson's Ground Squirrel hibernate for 4-8 months of the year, depending on 
 
 __Prairie Dog__ are larger and have a shorter tail (compared to their body size).
 
-**Did you know?** Each adult female has her own tunnel where she raises her litter without help from the male.  
+**Did you know?** Each adult female has her own tunnel where she raises her litter without help from the male.
 
 <!-- generated, do not edit -->
 **See Also:**
@@ -26,4 +26,4 @@ __Prairie Dog__ are larger and have a shorter tail (compared to their body size)
 [Hoary Marmot](/{{section}}/hoarymar),
 [Least Chipmunk](/{{section}}/leastchip),
 [Pika](/{{section}}/pika),
-[Red-tailed Chipmunk](/{{section}}/rtchip)
+[Red-tailed Chipmunk](/{{section}}/retchip)

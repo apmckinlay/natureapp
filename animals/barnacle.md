@@ -24,4 +24,10 @@ Barnacles are crustaceans and related to Shrimp, [Crab](/{{section}}/crab), and 
 [Blue Mussel](/{{section}}/blumussel),
 [Clam](/{{section}}/clam),
 [Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal)
+[Harbor Seal](/{{section}}/harbseal),
+[River Otter](/{{section}}/rivotter),
+[Sand Dollar](/{{section}}/sandolr),
+[Sea Anemone](/{{section}}/seaanem),
+[Sea Lion](/{{section}}/sealion),
+[Sea Otter](/{{section}}/seaotter),
+[Sea Urchin](/{{section}}/seaurch)
