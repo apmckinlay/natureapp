@@ -6,9 +6,10 @@ attr_link:
 license: 
 license_link: 
 location: [bc,ab,sk,mb]
-habitat: [grassland,forest]
+habitat: [forest,grassland]
 visibility: normal
 aka: [stoat,polecat]
+---
 
 Weasel are small, **thin**, **long-bodied** animals with **short legs**, a small head, and a long tail. They are extremely flexible and can squeeze through tiny holes and along narrow passages. Weasels vary in length from 5-12 in with a reddish-brown back and a white belly. They turn white in **winter** in northern regions. Many but not all North American weasels have a black tip to their tail.
 
@@ -21,7 +22,3 @@ Weasels mate in the summer, but the fertilized embryos will remain dormant until
 Weasel are related to [Mink](/{{section}}/mink) and **Black-tailed Ferret**.
 
 **Did you know?** Weasels are unable to store energy as fat so they need a constant supply of food. They eat 40-60% of their body weight in food every day.
-
-<!-- generated, do not edit -->
-**See Also:**
-[Mink](/{{section}}/mink)
