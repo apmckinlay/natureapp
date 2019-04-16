@@ -1,6 +1,6 @@
 ---
 name: "Marten"
-group: "weasel"
+group: "rodent"
 attr: "SolidElectronics"
 attr_link: "https://www.flickr.com/photos/solidelectronics/4361356844"
 license: "CC BY-NC"
@@ -17,3 +17,14 @@ Solitary inhabitants of the **northern evergreen forests** of Alaska and Canada 
 [Mink](/{{section}}/mink) are a similar size but spend most of their time in or near water. **Fisher** are twice the size of a Marten and don't usually have a chest patch.
 
 **Did you know?** Marten have large foot pads that help them to walk on deep snow in winter. They also grow longer hair between their foot pads in winter, which helps to keep their feet warm.
+
+<!-- generated, do not edit -->
+**See Also:**
+[13-lined Ground Squirrel](/{{section}}/13linegs),
+[Bushy-tailed Woodrat](/{{section}}/buwrat),
+[Hoary Marmot](/{{section}}/hoarymar),
+[Least Chipmunk](/{{section}}/leastchip),
+[Pika](/{{section}}/pika),
+[Red-tailed Chipmunk](/{{section}}/retchip),
+[Richardson’s Ground Squirrel](/{{section}}/richgs),
+[Weasel](/{{section}}/weasel)

@@ -25,5 +25,7 @@ __Prairie Dog__ are larger and have a shorter tail (compared to their body size)
 [Bushy-tailed Woodrat](/{{section}}/buwrat),
 [Hoary Marmot](/{{section}}/hoarymar),
 [Least Chipmunk](/{{section}}/leastchip),
+[Marten](/{{section}}/marten),
 [Pika](/{{section}}/pika),
-[Red-tailed Chipmunk](/{{section}}/retchip)
+[Red-tailed Chipmunk](/{{section}}/retchip),
+[Weasel](/{{section}}/weasel)

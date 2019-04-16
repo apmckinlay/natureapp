@@ -16,7 +16,7 @@ Mink spend a lot of their time in **water** and are very good **swimmers**. They
 
 Mink use scent to mark their territory and **live alone** except when mating. They often make their home in abandoned burrows or muskrat dens.  
 
-__Weasel__ are smaller than Mink. [Marten](/{{section}}/marten) spend much of their time in trees in northern evergreen forests.
+[Weasel](/{{section}}/weasel) are smaller than Mink. [Marten](/{{section}}/marten) spend much of their time in trees in northern evergreen forests.
 
 **Did you know?** Mink often kill more prey than they can eat, storing the surplus for later.
 

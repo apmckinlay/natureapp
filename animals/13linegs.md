@@ -24,6 +24,8 @@ visibility: high
 [Bushy-tailed Woodrat](/{{section}}/buwrat),
 [Hoary Marmot](/{{section}}/hoarymar),
 [Least Chipmunk](/{{section}}/leastchip),
+[Marten](/{{section}}/marten),
 [Pika](/{{section}}/pika),
 [Red-tailed Chipmunk](/{{section}}/retchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs)
+[Richardson’s Ground Squirrel](/{{section}}/richgs),
+[Weasel](/{{section}}/weasel)

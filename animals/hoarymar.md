@@ -21,6 +21,8 @@ Hoary Marmot are larger than __Yellow-bellied Marmot__ and live at higher altitu
 [13-lined Ground Squirrel](/{{section}}/13linegs),
 [Bushy-tailed Woodrat](/{{section}}/buwrat),
 [Least Chipmunk](/{{section}}/leastchip),
+[Marten](/{{section}}/marten),
 [Pika](/{{section}}/pika),
 [Red-tailed Chipmunk](/{{section}}/retchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs)
+[Richardson’s Ground Squirrel](/{{section}}/richgs),
+[Weasel](/{{section}}/weasel)

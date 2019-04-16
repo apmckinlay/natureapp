@@ -22,5 +22,7 @@ Red-tailed Chipmunk are most abundant in **forest** openings or edges where ther
 [Bushy-tailed Woodrat](/{{section}}/buwrat),
 [Hoary Marmot](/{{section}}/hoarymar),
 [Least Chipmunk](/{{section}}/leastchip),
+[Marten](/{{section}}/marten),
 [Pika](/{{section}}/pika),
-[Richardson’s Ground Squirrel](/{{section}}/richgs)
+[Richardson’s Ground Squirrel](/{{section}}/richgs),
+[Weasel](/{{section}}/weasel)
