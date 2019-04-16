@@ -14,6 +14,8 @@ Primarily using flexbox rather than media queries.
 
 Trying *not* to use a lot of external libraries or frameworks.
 
-As of 2017-12-16 this is being built with Hugo (http://gohugo.io)
+2017-12 started building with Hugo <http://gohugo.io>
 
-Favicon setup is from https://realfavicongenerator.net/
+2019-01 started building with eleventy and mustache
+
+Favicon setup is from <https://realfavicongenerator.net/>
