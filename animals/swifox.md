@@ -18,3 +18,9 @@ Unlike other foxes, Swift Fox use their dens year-round for protection. The dens
 Swift Fox are closely related to **Kit Fox** found in southwestern desert regions.
 
 **Did you know?** Swift Fox are rarely seen above ground on windy days.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Coyote](/animals/coyote),
+[Red Fox](/animals/redfox),
+[Wolf](/animals/wolf)

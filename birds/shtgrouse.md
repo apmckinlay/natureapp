@@ -19,7 +19,7 @@ Sharp-tailed Grouse are found in southwestern Canada and the northern United Sta
 
 <!-- generated, do not edit -->
 **See Also:**
-[Blue Grouse](/{{section}}/blugrouse),
-[Greater Sage-Grouse](/{{section}}/gresage),
-[Ruffed Grouse](/{{section}}/rufgrouse),
-[Spruce Grouse](/{{section}}/sprugrouse)
+[Blue Grouse](/birds/blugrouse),
+[Greater Sage-Grouse](/birds/gresage),
+[Ruffed Grouse](/birds/rufgrouse),
+[Spruce Grouse](/birds/sprugrouse)

@@ -14,20 +14,20 @@ Starfish can be found in all the world’s **oceans**. Look for them in tidal po
 
 Most or all of the Starfishes’ vital organs are in their arms, including an eye at the tip of each arm that can detect light and dark. If they lose an arm, they can regrow it, and some Starfish can regrow their entire body. They use seawater instead of blood to transport oxygen around their body.
 
-Starfish are closely related to [Sea Urchin](/{{section}}/seaurch) and [Sand Dollar](/{{section}}/sandolr) that also have radially symmetrical bodies.
+Starfish are closely related to [Sea Urchin](/animals/seaurch) and [Sand Dollar](/{{section}}/sandolr) that also have radially symmetrical bodies.
 
 **Did you know?** If their prey is too big to be swallowed, Starfish will push their stomach out of their mouth and around their prey, breaking down the soft flesh, and swallowing it.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Barnacle](/{{section}}/barnacle),
-[Blue Mussel](/{{section}}/blumussel),
-[Clam](/{{section}}/clam),
-[Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal),
-[River Otter](/{{section}}/rivotter),
-[Sand Dollar](/{{section}}/sandolr),
-[Sea Anemone](/{{section}}/seaanem),
-[Sea Lion](/{{section}}/sealion),
-[Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch)
+[Barnacle](/animals/barnacle),
+[Blue Mussel](/animals/blumussel),
+[Clam](/animals/clam),
+[Crab](/animals/crab),
+[Harbor Seal](/animals/harbseal),
+[River Otter](/animals/rivotter),
+[Sand Dollar](/animals/sandolr),
+[Sea Anemone](/animals/seaanem),
+[Sea Lion](/animals/sealion),
+[Sea Otter](/animals/seaotter),
+[Sea Urchin](/animals/seaurch)

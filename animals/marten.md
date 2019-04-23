@@ -14,17 +14,17 @@ Marten are members of the weasel family. They are about the same **size** as a c
 
 Solitary inhabitants of the **northern evergreen forests** of Alaska and Canada as well as the **mountainous areas** of the northern United States, Marten are active in winter. They are good **climbers** and spend much of their time in **trees**. They often make their nest in a tree where 2-4 young are born in March or April.
 
-[Mink](/{{section}}/mink) are a similar size but spend most of their time in or near water. **Fisher** are twice the size of a Marten and don't usually have a chest patch.
+[Mink](/animals/mink) are a similar size but spend most of their time in or near water. **Fisher** are twice the size of a Marten and don't usually have a chest patch.
 
 **Did you know?** Marten have large foot pads that help them to walk on deep snow in winter. They also grow longer hair between their foot pads in winter, which helps to keep their feet warm.
 
 <!-- generated, do not edit -->
 **See Also:**
-[13-lined Ground Squirrel](/{{section}}/13linegs),
-[Bushy-tailed Woodrat](/{{section}}/buwrat),
-[Hoary Marmot](/{{section}}/hoarymar),
-[Least Chipmunk](/{{section}}/leastchip),
-[Pika](/{{section}}/pika),
-[Red-tailed Chipmunk](/{{section}}/retchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs),
-[Weasel](/{{section}}/weasel)
+[13-lined Ground Squirrel](/animals/13linegs),
+[Bushy-tailed Woodrat](/animals/buwrat),
+[Hoary Marmot](/animals/hoarymar),
+[Least Chipmunk](/animals/leastchip),
+[Pika](/animals/pika),
+[Red-tailed Chipmunk](/animals/retchip),
+[Richardson’s Ground Squirrel](/animals/richgs),
+[Weasel](/animals/weasel)

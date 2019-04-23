@@ -18,5 +18,5 @@ Downy Woodpecker are very active, **acrobatic** birds and will hang upside down 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Northern Flicker](/{{section}}/norflick),
-[Pileated Woodpecker](/{{section}}/pileated)
+[Northern Flicker](/birds/norflick),
+[Pileated Woodpecker](/birds/pileated)

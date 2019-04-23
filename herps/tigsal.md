@@ -19,7 +19,7 @@ Tiger Salamander can be hard to spot as they are **nocturnal** and hide under **
 
 <!-- generated, do not edit -->
 **See Also:**
-[Long-toed Salamander](/{{section}}/ltsalam),
-[Rough-skinned Newt](/{{section}}/rounewt),
-[Short-horned Lizard](/{{section}}/shortliz),
-[Western Skink](/{{section}}/westskink)
+[Long-toed Salamander](/herps/ltsalam),
+[Rough-skinned Newt](/herps/rounewt),
+[Short-horned Lizard](/herps/shortliz),
+[Western Skink](/herps/westskink)

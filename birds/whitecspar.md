@@ -12,14 +12,14 @@ White-crowned Sparrow (5.9-6.3 in long) have a gray breast, a black-and-white st
 
 White-crowned Sparrow spend the summer in Alaska, northern Canada, and the mountains of British Columbia, Montana, Idaho, and Wyoming. Birds along the Pacific coast and in parts of the western interior don't migrate.
 
-[White-throated Sparrow](/{{section}}/whitetspar) have a white throat and a yellow patch beside their eye. [House Sparrow](/{{section}}/houspar), introduced to North America in 1851, are chunkier with a shorter tail and stouter beak (5.9-6.7 in long).
+[White-throated Sparrow](/birds/whitetspar) have a white throat and a yellow patch beside their eye. [House Sparrow](/{{section}}/houspar), introduced to North America in 1851, are chunkier with a shorter tail and stouter beak (5.9-6.7 in long).
 
 **Did you know?** Most White-crowned Sparrow migrate at night. Females tend to winter farther south than males.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Chipping Sparrow](/{{section}}/chipspar),
-[House Sparrow](/{{section}}/houspar),
-[Song Sparrow](/{{section}}/songspar),
-[Tree Sparrow](/{{section}}/treespar),
-[White-throated Sparrow](/{{section}}/whitetspar)
+[Chipping Sparrow](/birds/chipspar),
+[House Sparrow](/birds/houspar),
+[Song Sparrow](/birds/songspar),
+[Tree Sparrow](/birds/treespar),
+[White-throated Sparrow](/birds/whitetspar)

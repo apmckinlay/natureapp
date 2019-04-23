@@ -16,6 +16,6 @@ Dunlin spend the **summer** breeding season on the wet coastal tundra of norther
 
 <!-- generated, do not edit -->
 **See Also:**
-[Piping Plover](/{{section}}/pipplov),
-[Sanderling](/{{section}}/sander),
-[Spotted Sandpiper](/{{section}}/spotsand)
+[Piping Plover](/birds/pipplov),
+[Sanderling](/birds/sander),
+[Spotted Sandpiper](/birds/spotsand)

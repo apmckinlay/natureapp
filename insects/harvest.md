@@ -21,9 +21,9 @@ Every 10 days, Harvestmen shed their body casing. It takes them about 20 minutes
 
 <!-- generated, do not edit -->
 **See Also:**
-[Crab Spider](/{{section}}/crabspid),
-[Fishing Spider](/{{section}}/fishspid),
-[Garden Spider](/{{section}}/gardspid),
-[Grass Spider](/{{section}}/gras_spid),
-[House Spider](/{{section}}/houspid),
-[Wolf Spider](/{{section}}/wolfspid)
+[Crab Spider](/insects/crabspid),
+[Fishing Spider](/insects/fishspid),
+[Garden Spider](/insects/gardspid),
+[Grass Spider](/insects/gras_spid),
+[House Spider](/insects/houspid),
+[Wolf Spider](/insects/wolfspid)

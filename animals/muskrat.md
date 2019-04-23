@@ -14,9 +14,9 @@ Muskrat have large, hairy hind feet that act like paddles when swimming. They ea
 
 Muskrat are most active at dusk and at night. A favorite location is **marshes** with a constant water level and lots of vegetation for eating and nest construction.
 
-Muskrat are smaller than [Beaver](/{{section}}/beaver) with a much thinner tail.
+Muskrat are smaller than [Beaver](/animals/beaver) with a much thinner tail.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Beaver](/{{section}}/beaver),
-[Mink](/{{section}}/mink)
+[Beaver](/animals/beaver),
+[Mink](/animals/mink)

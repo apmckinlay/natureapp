@@ -15,17 +15,17 @@ Osprey are **brown above** and **white below** with a **white head** and a **bro
 
 Osprey build **large stick nests** near water on poles or dead trees. They lay 2-3 eggs per year. The first chick hatches almost 5 days before the last one and the mother stays with the young until they're ready to fly (50-55 days).
 
-[Bald Eagle](/{{section}}/baldeagle) frequent similar habitats, but they are larger, stockier, and don't have the Osprey's clean white underparts.
+[Bald Eagle](/birds/baldeagle) frequent similar habitats, but they are larger, stockier, and don't have the Osprey's clean white underparts.
 
 **Did you know?** Osprey have gripping pads on their feet to help them hold and carry fish for long distances. They are the only North American hawk to eat live fish.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bald Eagle](/{{section}}/baldeagle),
-[Golden Eagle](/{{section}}/goldeagl),
-[Kestrel](/{{section}}/kestrel),
-[Peregrine Falcon](/{{section}}/peregrine),
-[Prairie Falcon](/{{section}}/prafalc),
-[Red-tailed Hawk](/{{section}}/redtail),
-[Sharp-shinned Hawk](/{{section}}/shshawk),
-[Swainson's Hawk](/{{section}}/swahawk)
+[Bald Eagle](/birds/baldeagle),
+[Golden Eagle](/birds/goldeagl),
+[Kestrel](/birds/kestrel),
+[Peregrine Falcon](/birds/peregrine),
+[Prairie Falcon](/birds/prafalc),
+[Red-tailed Hawk](/birds/redtail),
+[Sharp-shinned Hawk](/birds/shshawk),
+[Swainson's Hawk](/birds/swahawk)

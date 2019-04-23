@@ -20,7 +20,7 @@ Glaucous-winged Gull have **wing tips** that are only slightly darker than their
 
 <!-- generated, do not edit -->
 **See Also:**
-[California Gull](/{{section}}/calgull),
-[Herring Gull](/{{section}}/herrgull),
-[Mew Gull](/{{section}}/mewgull),
-[Ring-billed Gull](/{{section}}/ringgull)
+[California Gull](/birds/calgull),
+[Herring Gull](/birds/herrgull),
+[Mew Gull](/birds/mewgull),
+[Ring-billed Gull](/birds/ringgull)

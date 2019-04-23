@@ -16,20 +16,20 @@ Sea Otter give birth in the water to one or sometimes two pups. They nurture the
 
 Sea Otter eat clams, crabs, urchins, and other sea animals. They keep their hands free while hunting by stashing their catch in the loose fur pouches under their armpits. They eat floating on their back, using their belly as a table.
 
-[River Otter](/{{section}}/rivotter) are smaller (10-30 lbs), spend a lot of time on land, and don’t float on their back. [Harbor Seal](/{{section}}/harbseal) are much larger (up to 300 lb) and have a spotted coat.
+[River Otter](/animals/rivotter) are smaller (10-30 lbs), spend a lot of time on land, and don’t float on their back. [Harbor Seal](/{{section}}/harbseal) are much larger (up to 300 lb) and have a spotted coat.
 
 **Did you know?** Sea Otter stay warm in chilly northern waters thanks to their dense fur coat (up to 1 million hairs per square inch).  They spend many hours each day grooming and fluffing their fur to add natural oils from their skin and insulating air bubbles.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Barnacle](/{{section}}/barnacle),
-[Blue Mussel](/{{section}}/blumussel),
-[Clam](/{{section}}/clam),
-[Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal),
-[River Otter](/{{section}}/rivotter),
-[Sand Dollar](/{{section}}/sandolr),
-[Sea Anemone](/{{section}}/seaanem),
-[Sea Lion](/{{section}}/sealion),
-[Sea Urchin](/{{section}}/seaurch),
-[Starfish](/{{section}}/starfish)
+[Barnacle](/animals/barnacle),
+[Blue Mussel](/animals/blumussel),
+[Clam](/animals/clam),
+[Crab](/animals/crab),
+[Harbor Seal](/animals/harbseal),
+[River Otter](/animals/rivotter),
+[Sand Dollar](/animals/sandolr),
+[Sea Anemone](/animals/seaanem),
+[Sea Lion](/animals/sealion),
+[Sea Urchin](/animals/seaurch),
+[Starfish](/animals/starfish)

@@ -20,4 +20,4 @@ Bison run at speeds of up to 40 miles an hour and are good swimmers. They eat gr
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bighorn Sheep](/{{section}}/bighorn)
+[Bighorn Sheep](/animals/bighorn)

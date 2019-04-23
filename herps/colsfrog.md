@@ -17,10 +17,10 @@ Columbia Spotted Frog are **nocturnal** and spend most of their time in cold **m
 
 <!-- generated, do not edit -->
 **See Also:**
-[Boreal Chorus Frog](/{{section}}/borchor),
-[Canadian Toad](/{{section}}/cantoad),
-[Northern Leopard Frog](/{{section}}/norlfrog),
-[Pacific Tree Frog](/{{section}}/pactfrog),
-[Plains Spadefoot Toad](/{{section}}/plainspade),
-[Western Toad](/{{section}}/westtoad),
-[Wood Frog](/{{section}}/woodfrog)
+[Boreal Chorus Frog](/herps/borchor),
+[Canadian Toad](/herps/cantoad),
+[Northern Leopard Frog](/herps/norlfrog),
+[Pacific Tree Frog](/herps/pactfrog),
+[Plains Spadefoot Toad](/herps/plainspade),
+[Western Toad](/herps/westtoad),
+[Wood Frog](/herps/woodfrog)

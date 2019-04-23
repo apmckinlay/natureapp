@@ -18,5 +18,5 @@ Mayfly nymphs emerge from eggs and then go through two adult stages. The mature 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Damselfly](/{{section}}/damselfly),
-[Dragonfly](/{{section}}/dragonfly)
+[Damselfly](/insects/damselfly),
+[Dragonfly](/insects/dragonfly)

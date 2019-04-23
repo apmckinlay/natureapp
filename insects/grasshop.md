@@ -15,11 +15,11 @@ Grasshoppers eat grass and other plants. Only a few (Two-striped, Clear-winged) 
 
 Females are larger than males and have sharp points at the end of their abdomens to help them lay eggs underground. The eggs are usually laid in the fall and hatch as nymphs in the spring. The nymphs resemble adult grasshoppers but have no wings and they'll shed their skins many times as they grow.
 
-Grasshoppers are sometimes called Short-Horned Grasshoppers to distinguish them from [Katydid](/{{section}}/katydid) and [Cricket](/{{section}}/cricket) that have much longer antennae.
+Grasshoppers are sometimes called Short-Horned Grasshoppers to distinguish them from [Katydid](/insects/katydid) and [Cricket](/{{section}}/cricket) that have much longer antennae.
 
 **Did you know?** The Grasshopper's eardrums are located on their abdomen, while their organs for smell are on their antennae.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Cricket](/{{section}}/cricket),
-[Katydid](/{{section}}/katydid)
+[Cricket](/insects/cricket),
+[Katydid](/insects/katydid)

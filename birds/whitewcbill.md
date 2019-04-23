@@ -12,7 +12,7 @@ White-winged Crossbill have a **thick curved bill** with **crossed tips** that t
 
 **Male** White-winged Crossbill have a pinkish-red body with black wings and tail and two large white wingbars. The **females** have yellowish-green bodies with dark brown wings and tail and two large white wingbars.
 
-[Red Crossbill](/{{section}}/redcross) do not have white wingbars, and the males are darker red. [Pine Siskin](/{{section}}/pinesisk) resemble juvenile Crossbill but have a straight, thinner bill and yellow in their wings.
+[Red Crossbill](/birds/redcross) do not have white wingbars, and the males are darker red. [Pine Siskin](/{{section}}/pinesisk) resemble juvenile Crossbill but have a straight, thinner bill and yellow in their wings.
 
 [Pine Grosbeak](/{{section}}/pinegros) are larger with a stubbier bill and longer tail.
 
@@ -20,4 +20,4 @@ White-winged Crossbill have a **thick curved bill** with **crossed tips** that t
 
 <!-- generated, do not edit -->
 **See Also:**
-[Red Crossbill](/{{section}}/redcross)
+[Red Crossbill](/birds/redcross)

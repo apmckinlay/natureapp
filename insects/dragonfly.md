@@ -15,11 +15,11 @@ Dragonfly are strong fliers and can fly straight up and down and hover like a he
 
 Dragonfly can be found throughout **North America**. The eggs are laid in water and hatch into naiads that have gills and stay underwater for 2-3 years.
 
-Dragonfly spread their **wings apart** when resting. [Damselfly](/{{section}}/damselfly) are slimmer than Dragonfly and keep their wings together.
+Dragonfly spread their **wings apart** when resting. [Damselfly](/insects/damselfly) are slimmer than Dragonfly and keep their wings together.
 
 **Did you know?** Dragonfly and [Damselfly](/{{section}}/damselfly) were on earth more than 200 million years ago, even before the dinosaurs.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Damselfly](/{{section}}/damselfly),
-[Mayfly](/{{section}}/mayfly)
+[Damselfly](/insects/damselfly),
+[Mayfly](/insects/mayfly)

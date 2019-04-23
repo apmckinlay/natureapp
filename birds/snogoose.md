@@ -18,4 +18,4 @@ Domestic geese and ducks have orange bills and feet and no black wing feathers. 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Canada Goose](/{{section}}/cangoose)
+[Canada Goose](/birds/cangoose)

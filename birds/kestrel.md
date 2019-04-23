@@ -14,17 +14,17 @@ Kestrel can be found **year-round** in the central and southern United States. I
 
 Kestrel hunt for insects, small rodents, and birds in **open grassy or desert areas** with few trees. They nest in holes of trees, rocks, or buildings. Look for them perched on fence posts and utility poles or hovering over a field on rapidly beating wings.
 
-**Merlin** are larger, bulkier, and browner without the black slashes on the head. [Sharp-shinned Hawk](/{{section}}/shshawk) have broader wings, longer tail, and more defined markings on their chest. **Mourning Dove** are pale brown with a small head and long, pointed tail.
+**Merlin** are larger, bulkier, and browner without the black slashes on the head. [Sharp-shinned Hawk](/birds/shshawk) have broader wings, longer tail, and more defined markings on their chest. **Mourning Dove** are pale brown with a small head and long, pointed tail.
 
 **Did you know?** If Kestrel kill more than they can eat, they hide the excess in holes or under grass clumps and tree roots for days when they're less successful.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bald Eagle](/{{section}}/baldeagle),
-[Golden Eagle](/{{section}}/goldeagl),
-[Osprey](/{{section}}/osprey),
-[Peregrine Falcon](/{{section}}/peregrine),
-[Prairie Falcon](/{{section}}/prafalc),
-[Red-tailed Hawk](/{{section}}/redtail),
-[Sharp-shinned Hawk](/{{section}}/shshawk),
-[Swainson's Hawk](/{{section}}/swahawk)
+[Bald Eagle](/birds/baldeagle),
+[Golden Eagle](/birds/goldeagl),
+[Osprey](/birds/osprey),
+[Peregrine Falcon](/birds/peregrine),
+[Prairie Falcon](/birds/prafalc),
+[Red-tailed Hawk](/birds/redtail),
+[Sharp-shinned Hawk](/birds/shshawk),
+[Swainson's Hawk](/birds/swahawk)

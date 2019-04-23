@@ -15,7 +15,7 @@ Jackrabbits have **large ears** that ensure excellent hearing. In summer, the ea
 
 They bear and shelter their young in shallow depressions in the ground or flattened nests of grass. The babies are born with fur and their eyes are open. They’re **nocturnal** animals and easier to spot at dusk and dawn.
 
-**Black-tailed Jackrabbit**, found in the southwestern and central United States, are slightly smaller and have a black streak on the top of their tail and rump. [Snowshoe Hare](/{{section}}/snowhare) are found in the forests of Canada, Alaska, and northern mountainous areas of the United States and are smaller than other Hares.
+**Black-tailed Jackrabbit**, found in the southwestern and central United States, are slightly smaller and have a black streak on the top of their tail and rump. [Snowshoe Hare](/animals/snowhare) are found in the forests of Canada, Alaska, and northern mountainous areas of the United States and are smaller than other Hares.
 
 Despite their name, Jackrabbits are Hares and are related to [Snowshoe Hares](/{{section}}/snowhare). Hares are larger than **Rabbits** and typically have longer hind legs and bigger ears. Baby Hares are born with fur and their eyes are open. On the other hand, baby rabbits are furless and their eyes are closed when they’re born.
 
@@ -23,4 +23,4 @@ Despite their name, Jackrabbits are Hares and are related to [Snowshoe Hares](/{
 
 <!-- generated, do not edit -->
 **See Also:**
-[Snowshoe Hare](/{{section}}/snowhare)
+[Snowshoe Hare](/animals/snowhare)

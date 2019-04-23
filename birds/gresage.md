@@ -13,13 +13,13 @@ Greater Sage-Grouse are the **largest** North American grouse (26-30 in long). T
 
 Greater Sage-Grouse live on the **sagebrush plains** and **foothills** of western North America. They gather in the spring at **traditional courtship grounds** or **leks**. The males inflate air sacs at their upper chests, puff out their white chest feathers, spread their pointed tail feathers and strut—booming as they go—to intimidate other males and attract females.
 
-[Sharp-tailed Grouse](/{{section}}/shtgrouse) live in grasslands not sagebrush plains.
+[Sharp-tailed Grouse](/birds/shtgrouse) live in grasslands not sagebrush plains.
 
 **Did you know?** Greater Sage-Grouse have a specialized stomach that digests tough sagebrush, their main food. They don't have a gizzard for grinding grains and other hard foods.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Blue Grouse](/{{section}}/blugrouse),
-[Ruffed Grouse](/{{section}}/rufgrouse),
-[Sharp-tailed Grouse](/{{section}}/shtgrouse),
-[Spruce Grouse](/{{section}}/sprugrouse)
+[Blue Grouse](/birds/blugrouse),
+[Ruffed Grouse](/birds/rufgrouse),
+[Sharp-tailed Grouse](/birds/shtgrouse),
+[Spruce Grouse](/birds/sprugrouse)

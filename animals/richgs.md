@@ -21,11 +21,11 @@ __Prairie Dog__ are larger and have a shorter tail (compared to their body size)
 
 <!-- generated, do not edit -->
 **See Also:**
-[13-lined Ground Squirrel](/{{section}}/13linegs),
-[Bushy-tailed Woodrat](/{{section}}/buwrat),
-[Hoary Marmot](/{{section}}/hoarymar),
-[Least Chipmunk](/{{section}}/leastchip),
-[Marten](/{{section}}/marten),
-[Pika](/{{section}}/pika),
-[Red-tailed Chipmunk](/{{section}}/retchip),
-[Weasel](/{{section}}/weasel)
+[13-lined Ground Squirrel](/animals/13linegs),
+[Bushy-tailed Woodrat](/animals/buwrat),
+[Hoary Marmot](/animals/hoarymar),
+[Least Chipmunk](/animals/leastchip),
+[Marten](/animals/marten),
+[Pika](/animals/pika),
+[Red-tailed Chipmunk](/animals/retchip),
+[Weasel](/animals/weasel)

@@ -19,4 +19,4 @@ Snails move by expanding and contracting muscles in the **flat foot** under thei
 
 <!-- generated, do not edit -->
 **See Also:**
-[Slug](/{{section}}/slug)
+[Slug](/animals/slug)

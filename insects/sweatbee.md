@@ -19,9 +19,9 @@ There are several explanations for the Sweat Bee's name. They are attracted to t
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bumble Bee](/{{section}}/bumbee),
-[Honey Bee](/{{section}}/honeybee),
-[Leaf Cutter Bee](/{{section}}/leafcbee),
-[Mason Bee](/{{section}}/masonbee),
-[Miner Bee](/{{section}}/minerbee),
-[Wasp](/{{section}}/wasp)
+[Bumble Bee](/insects/bumbee),
+[Honey Bee](/insects/honeybee),
+[Leaf Cutter Bee](/insects/leafcbee),
+[Mason Bee](/insects/masonbee),
+[Miner Bee](/insects/minerbee),
+[Wasp](/insects/wasp)

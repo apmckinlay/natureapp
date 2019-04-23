@@ -18,14 +18,14 @@ Azure butterfly lay their eggs on shrubs. The **caterpillars**, usually green, e
 
 <!-- generated, do not edit -->
 **See Also:**
-[Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
-[Cabbage White](/{{section}}/cabbgwht),
-[Clouded Sulfur](/{{section}}/cloudsulf),
-[Compton Tortoiseshell](/{{section}}/comptort),
-[Great Spangled Fritillary](/{{section}}/greatfrit),
-[Hawk Moth](/{{section}}/hawkmoth),
-[Monarch Butterfly](/{{section}}/monarch),
-[Mourning Cloak](/{{section}}/mournbut),
-[Painted Lady](/{{section}}/paintbut),
-[Tent Caterpillar](/{{section}}/tentcat),
-[Tiger Swallowtail](/{{section}}/tigerbut)
+[Banded Woolly Bear Caterpillar](/insects/bandwb),
+[Cabbage White](/insects/cabbgwht),
+[Clouded Sulfur](/insects/cloudsulf),
+[Compton Tortoiseshell](/insects/comptort),
+[Great Spangled Fritillary](/insects/greatfrit),
+[Hawk Moth](/insects/hawkmoth),
+[Monarch Butterfly](/insects/monarch),
+[Mourning Cloak](/insects/mournbut),
+[Painted Lady](/insects/paintbut),
+[Tent Caterpillar](/insects/tentcat),
+[Tiger Swallowtail](/insects/tigerbut)

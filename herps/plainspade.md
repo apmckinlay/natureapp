@@ -21,10 +21,10 @@ _Great Basin Spadefoot_ look very similar but are not usually found east of BC a
 
 <!-- generated, do not edit -->
 **See Also:**
-[Boreal Chorus Frog](/{{section}}/borchor),
-[Canadian Toad](/{{section}}/cantoad),
-[Columbia Spotted Frog](/{{section}}/colsfrog),
-[Northern Leopard Frog](/{{section}}/norlfrog),
-[Pacific Tree Frog](/{{section}}/pactfrog),
-[Western Toad](/{{section}}/westtoad),
-[Wood Frog](/{{section}}/woodfrog)
+[Boreal Chorus Frog](/herps/borchor),
+[Canadian Toad](/herps/cantoad),
+[Columbia Spotted Frog](/herps/colsfrog),
+[Northern Leopard Frog](/herps/norlfrog),
+[Pacific Tree Frog](/herps/pactfrog),
+[Western Toad](/herps/westtoad),
+[Wood Frog](/herps/woodfrog)

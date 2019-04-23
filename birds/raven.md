@@ -17,9 +17,9 @@ Ravens are very clever. They play games, hunt cooperatively, and understand caus
 
 **Chihuahuan Raven** are smaller, more social and are found at lower elevations in the southwestern desert rather than in higher-elevation forests.
 
-**Is it a [Crow](/{{section}}/crow) or a Raven?** Ravens are larger than [Crows](/{{section}}/crow) with longer wings and heavier beaks. Ravens have a wedge-shaped tail; [Crows](/{{section}}/crow) have a short, square tail. Ravens have a ruff of feathers on their throat; [Crows](/{{section}}/crow) don't. Ravens are solitary and are not normally found in urban areas; [Crows](/{{section}}/crow) are seen in larger groups and are often found in cities. Ravens glide, whereas [Crows](/{{section}}/crow) rhythmically flap their wings.
+**Is it a [Crow](/birds/crow) or a Raven?** Ravens are larger than [Crows](/{{section}}/crow) with longer wings and heavier beaks. Ravens have a wedge-shaped tail; [Crows](/{{section}}/crow) have a short, square tail. Ravens have a ruff of feathers on their throat; [Crows](/{{section}}/crow) don't. Ravens are solitary and are not normally found in urban areas; [Crows](/{{section}}/crow) are seen in larger groups and are often found in cities. Ravens glide, whereas [Crows](/{{section}}/crow) rhythmically flap their wings.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Crow](/{{section}}/crow),
-[Magpie](/{{section}}/magpie)
+[Crow](/birds/crow),
+[Magpie](/birds/magpie)

@@ -23,7 +23,7 @@ If attacked, Western Skink can cast off their tail. The tail continues to wiggle
 
 <!-- generated, do not edit -->
 **See Also:**
-[Long-toed Salamander](/{{section}}/ltsalam),
-[Rough-skinned Newt](/{{section}}/rounewt),
-[Short-horned Lizard](/{{section}}/shortliz),
-[Tiger Salamander](/{{section}}/tigsal)
+[Long-toed Salamander](/herps/ltsalam),
+[Rough-skinned Newt](/herps/rounewt),
+[Short-horned Lizard](/herps/shortliz),
+[Tiger Salamander](/herps/tigsal)

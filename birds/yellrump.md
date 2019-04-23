@@ -18,7 +18,7 @@ There are two distinct sub-species of Yellow-rumped Warbler. **Myrtle Warbler** 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Cape May Warbler](/{{section}}/capewarb),
-[Townsend's Warbler](/{{section}}/townwarb),
-[Wilson's Warbler](/{{section}}/wilswarb),
-[Yellow Warbler](/{{section}}/yellwarb)
+[Cape May Warbler](/birds/capewarb),
+[Townsend's Warbler](/birds/townwarb),
+[Wilson's Warbler](/birds/wilswarb),
+[Yellow Warbler](/birds/yellwarb)

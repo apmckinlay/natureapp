@@ -19,4 +19,4 @@ Whooping Crane breed in shallow grassy wetlands, stopping over on wide shallow r
 
 <!-- generated, do not edit -->
 **See Also:**
-[Sandhill Crane](/{{section}}/sandhill)
+[Sandhill Crane](/birds/sandhill)

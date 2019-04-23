@@ -11,7 +11,7 @@ visibility: low
 ---
 Great Gray Owl can be found **year-round** in the **evergreen forests** of Alaska and Nnorthern Canada as well as the **western mountain region** stretching from BC through Washington, Idaho, Montana, and parts of California.
 
-Great Gray Owl are the **tallest** (24-33 in) North American owl with the **largest wingspan** (53-60 in) but are mostly fluff and **only half the weight** of a [Snowy Owl](/{{section}}/snowyowl) or [Great Horned Owl](/{{section}}/grehowl).
+Great Gray Owl are the **tallest** (24-33 in) North American owl with the **largest wingspan** (53-60 in) but are mostly fluff and **only half the weight** of a [Snowy Owl](/birds/snowyowl) or [Great Horned Owl](/{{section}}/grehowl).
 
 They have **silvery gray** feathers, a round head with a **large facial disc**, a **black and white bowtie** across the neck, and **yellow** eyes and beak.
 
@@ -22,9 +22,9 @@ Great Gray Owl hunt for rodents and other small mammals during the **day**. They
 
 <!-- generated, do not edit -->
 **See Also:**
-[Burrowing Owl](/{{section}}/burrowl),
-[Great Horned Owl](/{{section}}/grehowl),
-[Long-eared Owl](/{{section}}/longowl),
-[Northern Hawk Owl](/{{section}}/norhowl),
-[Northern Saw-whet Owl](/{{section}}/norsowl),
-[Snowy Owl](/{{section}}/snowyowl)
+[Burrowing Owl](/birds/burrowl),
+[Great Horned Owl](/birds/grehowl),
+[Long-eared Owl](/birds/longowl),
+[Northern Hawk Owl](/birds/norhowl),
+[Northern Saw-whet Owl](/birds/norsowl),
+[Snowy Owl](/birds/snowyowl)

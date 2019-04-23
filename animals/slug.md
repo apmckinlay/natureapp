@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,urban,wetland]
 visibility: easy
 ---
-Slugs are [Snails](/{{section}}/snail) without shells and are found in **moist areas** - gardens, wetlands, and coastal forests. Look for them early in the morning, after it has rained, or under or near heavy forest vegetation. Slugs have a **soft, slimy body**.
+Slugs are [Snails](/animals/snail) without shells and are found in **moist areas** - gardens, wetlands, and coastal forests. Look for them early in the morning, after it has rained, or under or near heavy forest vegetation. Slugs have a **soft, slimy body**.
 
 **Spotted Garden Slug** are yellowish-gray to brown with black spots, up to 8 in long, and almost always found near human habitation. **Banana Slug** are the largest North American slug  and are usually yellow or yellow with brown spots. They are found in the wet coastal forests of the Pacific Northwest.
 
@@ -21,4 +21,4 @@ Slugs have both male and female reproductive organs but usually cross mate. They
 
 <!-- generated, do not edit -->
 **See Also:**
-[Snail](/{{section}}/snail)
+[Snail](/animals/snail)

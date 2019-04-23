@@ -14,16 +14,16 @@ Pacific Treefrog breed in **shallow wetlands** with lots of plant cover that wil
 
 Pacific Treefrog can be found along the **Pacific coast** from southern BC to Mexico and **inland** to parts of Idaho, Nevada, and western Montana.
 
-Pacific Treefrog are often referred to as **Pacific Chorus Frog** as there are similarities. However, [Boreal Chorus Frog](/{{section}}/borchor) don't live in the same areas and don't have toepads.
+Pacific Treefrog are often referred to as **Pacific Chorus Frog** as there are similarities. However, [Boreal Chorus Frog](/herps/borchor) don't live in the same areas and don't have toepads.
 
 **Did you know?** The male's breeding call is surprisingly loud for such a small animal, and it's often used as a soundtrack in movies and cartoons.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Boreal Chorus Frog](/{{section}}/borchor),
-[Canadian Toad](/{{section}}/cantoad),
-[Columbia Spotted Frog](/{{section}}/colsfrog),
-[Northern Leopard Frog](/{{section}}/norlfrog),
-[Plains Spadefoot Toad](/{{section}}/plainspade),
-[Western Toad](/{{section}}/westtoad),
-[Wood Frog](/{{section}}/woodfrog)
+[Boreal Chorus Frog](/herps/borchor),
+[Canadian Toad](/herps/cantoad),
+[Columbia Spotted Frog](/herps/colsfrog),
+[Northern Leopard Frog](/herps/norlfrog),
+[Plains Spadefoot Toad](/herps/plainspade),
+[Western Toad](/herps/westtoad),
+[Wood Frog](/herps/woodfrog)

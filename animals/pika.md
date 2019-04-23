@@ -14,17 +14,17 @@ Pika have thick, peppery-brown fur that usually covers their very short tail. Th
 
 Pika live in **colonies** but are very independent and defend their individual dens. They're active in **daytime** and don't hibernate in winter. Many breed twice, in spring and summer, giving birth to 2-6 young each time.
 
-[Hoary Marmot](/{{section}}/hoarymar) also live in the mountains above the treeline, but they are 3 times as large as Pika.
+[Hoary Marmot](/animals/hoarymar) also live in the mountains above the treeline, but they are 3 times as large as Pika.
 
 **Did you know?** Pika, also known as Rock Rabbit or Coney, are closely related to **Rabbits**, despite looking like a Hamster.
 
 <!-- generated, do not edit -->
 **See Also:**
-[13-lined Ground Squirrel](/{{section}}/13linegs),
-[Bushy-tailed Woodrat](/{{section}}/buwrat),
-[Hoary Marmot](/{{section}}/hoarymar),
-[Least Chipmunk](/{{section}}/leastchip),
-[Marten](/{{section}}/marten),
-[Red-tailed Chipmunk](/{{section}}/retchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs),
-[Weasel](/{{section}}/weasel)
+[13-lined Ground Squirrel](/animals/13linegs),
+[Bushy-tailed Woodrat](/animals/buwrat),
+[Hoary Marmot](/animals/hoarymar),
+[Least Chipmunk](/animals/leastchip),
+[Marten](/animals/marten),
+[Red-tailed Chipmunk](/animals/retchip),
+[Richardson’s Ground Squirrel](/animals/richgs),
+[Weasel](/animals/weasel)

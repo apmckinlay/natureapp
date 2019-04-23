@@ -16,5 +16,5 @@ Cubs are born between late November and early January. The bears' main source of
 
 <!-- generated, do not edit -->
 **See Also:**
-[Black Bear](/{{section}}/blabear),
-[Grizzly Bear](/{{section}}/grizzly)
+[Black Bear](/animals/blabear),
+[Grizzly Bear](/animals/grizzly)

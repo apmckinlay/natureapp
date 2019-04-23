@@ -15,11 +15,11 @@ Rough-skinned Newt can be found along the **Pacific coast** from Alaska to centr
 
 Unlike most amphibians that lay clumps of eggs, Rough-skinned Newt attach single eggs to the stems of vegetation scattered throughout their breeding area.
 
-**Did you know?** The Rough-skinned Newts' eggs and skin are highly poisonous, and they are avoided by most predators apart from [Garter Snake](/{{section}}/gartsnake) that are unaffected by the poison. When threatened, Newt lift their head and tail to display their brightly-colored belly.
+**Did you know?** The Rough-skinned Newts' eggs and skin are highly poisonous, and they are avoided by most predators apart from [Garter Snake](/herps/gartsnake) that are unaffected by the poison. When threatened, Newt lift their head and tail to display their brightly-colored belly.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Long-toed Salamander](/{{section}}/ltsalam),
-[Short-horned Lizard](/{{section}}/shortliz),
-[Tiger Salamander](/{{section}}/tigsal),
-[Western Skink](/{{section}}/westskink)
+[Long-toed Salamander](/herps/ltsalam),
+[Short-horned Lizard](/herps/shortliz),
+[Tiger Salamander](/herps/tigsal),
+[Western Skink](/herps/westskink)

@@ -19,7 +19,7 @@ __White-tailed Deer__ have smaller, rounded ears and a brown face with white rin
 
 <!-- generated, do not edit -->
 **See Also:**
-[Caribou](/{{section}}/caribou),
-[Elk](/{{section}}/elk),
-[Moose](/{{section}}/moose),
-[Pronghorn](/{{section}}/pronghorn)
+[Caribou](/animals/caribou),
+[Elk](/animals/elk),
+[Moose](/animals/moose),
+[Pronghorn](/animals/pronghorn)

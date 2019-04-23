@@ -13,20 +13,20 @@ Blue Mussel can be found in the **shallow waters** of the Arctic, North Pacific,
 
 **California Mussel** are larger (up to 10 in) and have a thicker shell with ribbed lines radiating out from the hinge. They are found in more exposed areas than Blue Mussels. **Hooked Mussel**, found in West Atlantic oyster beds, have a sharp curve at one end.
 
-[Clam](/{{section}}/clam) are related to Mussels but don't attach themselves to a surface, are usually rounder than Mussels, and can be found closer to the surface.
+[Clam](/animals/clam) are related to Mussels but don't attach themselves to a surface, are usually rounder than Mussels, and can be found closer to the surface.
 
 **Did you know?** Blue Mussels can withstand freezing temperatures for several months.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Barnacle](/{{section}}/barnacle),
-[Clam](/{{section}}/clam),
-[Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal),
-[River Otter](/{{section}}/rivotter),
-[Sand Dollar](/{{section}}/sandolr),
-[Sea Anemone](/{{section}}/seaanem),
-[Sea Lion](/{{section}}/sealion),
-[Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch),
-[Starfish](/{{section}}/starfish)
+[Barnacle](/animals/barnacle),
+[Clam](/animals/clam),
+[Crab](/animals/crab),
+[Harbor Seal](/animals/harbseal),
+[River Otter](/animals/rivotter),
+[Sand Dollar](/animals/sandolr),
+[Sea Anemone](/animals/seaanem),
+[Sea Lion](/animals/sealion),
+[Sea Otter](/animals/seaotter),
+[Sea Urchin](/animals/seaurch),
+[Starfish](/animals/starfish)

@@ -12,17 +12,17 @@ Hoary Marmot live in the **mountains** at or above the **treeline**. They are la
 
 Hoary Marmots live in **colonies** with a dominant male, several breeding females, young, and sometimes a few subordinate males. They build a **burrow**, often under a boulder, with several chambers and tunnels and multiple entrances. They are active during the day and eat grass and plants. In most areas, they hibernate from September to April.
 
-Hoary Marmot are larger than __Yellow-bellied Marmot__ and live at higher altitudes. [Pika](/{{section}}/pika) also live in the mountains above the treeline, but they are much smaller than Hoary Marmot.
+Hoary Marmot are larger than __Yellow-bellied Marmot__ and live at higher altitudes. [Pika](/animals/pika) also live in the mountains above the treeline, but they are much smaller than Hoary Marmot.
 
 **Did you know?** Hoary Marmots are also known as Whistlers and Whistle Pigs because of the high-pitched sound they make to warn other marmots in their colony of predators.
 
 <!-- generated, do not edit -->
 **See Also:**
-[13-lined Ground Squirrel](/{{section}}/13linegs),
-[Bushy-tailed Woodrat](/{{section}}/buwrat),
-[Least Chipmunk](/{{section}}/leastchip),
-[Marten](/{{section}}/marten),
-[Pika](/{{section}}/pika),
-[Red-tailed Chipmunk](/{{section}}/retchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs),
-[Weasel](/{{section}}/weasel)
+[13-lined Ground Squirrel](/animals/13linegs),
+[Bushy-tailed Woodrat](/animals/buwrat),
+[Least Chipmunk](/animals/leastchip),
+[Marten](/animals/marten),
+[Pika](/animals/pika),
+[Red-tailed Chipmunk](/animals/retchip),
+[Richardson’s Ground Squirrel](/animals/richgs),
+[Weasel](/animals/weasel)

@@ -21,9 +21,9 @@ Worker bees sting to protect their colony. They call on other bees to help them 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bumble Bee](/{{section}}/bumbee),
-[Leaf Cutter Bee](/{{section}}/leafcbee),
-[Mason Bee](/{{section}}/masonbee),
-[Miner Bee](/{{section}}/minerbee),
-[Sweat Bee](/{{section}}/sweatbee),
-[Wasp](/{{section}}/wasp)
+[Bumble Bee](/insects/bumbee),
+[Leaf Cutter Bee](/insects/leafcbee),
+[Mason Bee](/insects/masonbee),
+[Miner Bee](/insects/minerbee),
+[Sweat Bee](/insects/sweatbee),
+[Wasp](/insects/wasp)

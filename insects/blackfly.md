@@ -19,5 +19,5 @@ Black Fly are small (less than 1/4 in long) with a **humpbacked**, gnat-like app
 
 <!-- generated, do not edit -->
 **See Also:**
-[Horse Fly](/{{section}}/horsefly),
-[House Fly](/{{section}}/housefly)
+[Horse Fly](/insects/horsefly),
+[House Fly](/insects/housefly)

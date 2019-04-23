@@ -25,9 +25,9 @@ Wasps are extremely beneficial as nearly every pest insect is preyed on by a was
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bumble Bee](/{{section}}/bumbee),
-[Honey Bee](/{{section}}/honeybee),
-[Leaf Cutter Bee](/{{section}}/leafcbee),
-[Mason Bee](/{{section}}/masonbee),
-[Miner Bee](/{{section}}/minerbee),
-[Sweat Bee](/{{section}}/sweatbee)
+[Bumble Bee](/insects/bumbee),
+[Honey Bee](/insects/honeybee),
+[Leaf Cutter Bee](/insects/leafcbee),
+[Mason Bee](/insects/masonbee),
+[Miner Bee](/insects/minerbee),
+[Sweat Bee](/insects/sweatbee)

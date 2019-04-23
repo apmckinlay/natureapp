@@ -15,15 +15,15 @@ Burrowing Owl live in **treeless areas** with an open view and plenty of holes f
 
 Burrowing Owl turn their head upside down when curious and bob up and down when threatened.
 
-Unlike many owl, Burrowing Owl are **active day and night. [Long-eared Owl](/{{section}}/longowl)**, **Short-eared Owl**, and [Snowy Owl](/{{section}}/snowyowl) also live in **grassland areas**, but they're all much larger than the Burrowing Owl. **Short-eared Owl** (15 in) are the most similar, but they have shorter legs, an obvious facial disc, and fly low over the fields rather than walking on the ground.
+Unlike many owl, Burrowing Owl are **active day and night. [Long-eared Owl](/birds/longowl)**, **Short-eared Owl**, and [Snowy Owl](/{{section}}/snowyowl) also live in **grassland areas**, but they're all much larger than the Burrowing Owl. **Short-eared Owl** (15 in) are the most similar, but they have shorter legs, an obvious facial disc, and fly low over the fields rather than walking on the ground.
 
 **Did you know?** Burrowing Owl often line the entrance to their burrows with animal dung to attract insects that they can catch and eat.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Great Gray Owl](/{{section}}/gregrowl),
-[Great Horned Owl](/{{section}}/grehowl),
-[Long-eared Owl](/{{section}}/longowl),
-[Northern Hawk Owl](/{{section}}/norhowl),
-[Northern Saw-whet Owl](/{{section}}/norsowl),
-[Snowy Owl](/{{section}}/snowyowl)
+[Great Gray Owl](/birds/gregrowl),
+[Great Horned Owl](/birds/grehowl),
+[Long-eared Owl](/birds/longowl),
+[Northern Hawk Owl](/birds/norhowl),
+[Northern Saw-whet Owl](/birds/norsowl),
+[Snowy Owl](/birds/snowyowl)

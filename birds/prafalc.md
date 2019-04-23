@@ -12,7 +12,7 @@ Prairie Falcon can be seen **flying low** over western **deserts** and **grassla
 
 Prairie Falcon are **large** (15-18 in, 35-45 in wingspan) with a **light brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
 
-In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__, but in winter they prey on **small birds**, such as **Horned Lark** and [Western Meadowlark](/{{section}}/westmlark).
+In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__, but in winter they prey on **small birds**, such as **Horned Lark** and [Western Meadowlark](/birds/westmlark).
 
 [Peregrine Falcon](/{{section}}/peregrine) are a similar size but darker and don't have dark patches under their wings. [Kestrel](/{{section}}/kestrel) and **Merlin** are both much smaller.
 
@@ -20,11 +20,11 @@ In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__,
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bald Eagle](/{{section}}/baldeagle),
-[Golden Eagle](/{{section}}/goldeagl),
-[Kestrel](/{{section}}/kestrel),
-[Osprey](/{{section}}/osprey),
-[Peregrine Falcon](/{{section}}/peregrine),
-[Red-tailed Hawk](/{{section}}/redtail),
-[Sharp-shinned Hawk](/{{section}}/shshawk),
-[Swainson's Hawk](/{{section}}/swahawk)
+[Bald Eagle](/birds/baldeagle),
+[Golden Eagle](/birds/goldeagl),
+[Kestrel](/birds/kestrel),
+[Osprey](/birds/osprey),
+[Peregrine Falcon](/birds/peregrine),
+[Red-tailed Hawk](/birds/redtail),
+[Sharp-shinned Hawk](/birds/shshawk),
+[Swainson's Hawk](/birds/swahawk)

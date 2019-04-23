@@ -21,5 +21,5 @@ Northern Flicker are widespread throughout Alaska, Canada, and the United States
 
 <!-- generated, do not edit -->
 **See Also:**
-[Downy Woodpecker](/{{section}}/downwood),
-[Pileated Woodpecker](/{{section}}/pileated)
+[Downy Woodpecker](/birds/downwood),
+[Pileated Woodpecker](/birds/pileated)

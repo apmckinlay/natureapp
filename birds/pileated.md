@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
 ---
-Pileated Woodpecker are one of the largest North American woodpeckers. The size of an [Crow](/{{section}}/crow) (18 in), they have a **triangular red crest** on top of their head and a **long neck**. They have a black body with **white markings** on the **head** and **neck**. Their chisel-like **bill** is almost as long as their head. **Males** have a red stripe on their cheek.
+Pileated Woodpecker are one of the largest North American woodpeckers. The size of an [Crow](/birds/crow) (18 in), they have a **triangular red crest** on top of their head and a **long neck**. They have a black body with **white markings** on the **head** and **neck**. Their chisel-like **bill** is almost as long as their head. **Males** have a red stripe on their cheek.
 
 Pileated Woodpecker can be found **year-round** in the **forested** areas of northern and eastern Canada, and the west coast and eastern United States. They dig **rectangular holes** in dead wood and standing trees looking for Carpenter Ants and other insects.
 
@@ -16,5 +16,5 @@ Pileated Woodpecker can be found **year-round** in the **forested** areas of nor
 
 <!-- generated, do not edit -->
 **See Also:**
-[Downy Woodpecker](/{{section}}/downwood),
-[Northern Flicker](/{{section}}/norflick)
+[Downy Woodpecker](/birds/downwood),
+[Northern Flicker](/birds/norflick)

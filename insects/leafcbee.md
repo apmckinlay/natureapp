@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
 ---
-Leafcutter Bees are about the size of a [Honey Bee](/{{section}}/honeybee) (.2-1 in) with stout, cigar-shaped **bodies**. They are black with pale-yellow stripes on their abdomen. They carry pollen on the hairs on the underside of their abdomen (not their legs) so the abdomen will look yellow when they are carrying a load.
+Leafcutter Bees are about the size of a [Honey Bee](/insects/honeybee) (.2-1 in) with stout, cigar-shaped **bodies**. They are black with pale-yellow stripes on their abdomen. They carry pollen on the hairs on the underside of their abdomen (not their legs) so the abdomen will look yellow when they are carrying a load.
 
 Leafcutter Bees cut circular pieces of leaves (.25 - .5 in) and carry them to a hole to construct a nest. Their **nests** are often in rotting wood, but they can also be found in snail shells or holes in a concrete wall, in the ground, or in a plant stem. The nests contain several cells, each of which contains a lump of pollen and an egg. The adults overwinter in the nest, chewing their way out in the spring.
 
@@ -18,9 +18,9 @@ Leafcutters are **solitary** bees and do not live in large groups like [Bumble B
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bumble Bee](/{{section}}/bumbee),
-[Honey Bee](/{{section}}/honeybee),
-[Mason Bee](/{{section}}/masonbee),
-[Miner Bee](/{{section}}/minerbee),
-[Sweat Bee](/{{section}}/sweatbee),
-[Wasp](/{{section}}/wasp)
+[Bumble Bee](/insects/bumbee),
+[Honey Bee](/insects/honeybee),
+[Mason Bee](/insects/masonbee),
+[Miner Bee](/insects/minerbee),
+[Sweat Bee](/insects/sweatbee),
+[Wasp](/insects/wasp)

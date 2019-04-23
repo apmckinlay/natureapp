@@ -17,6 +17,6 @@ Eastern and Western Red Bats look very similar and are hard to tell apart. **Eas
 
 <!-- generated, do not edit -->
 **See Also:**
-[Hoary Bat](/{{section}}/hoarybat),
-[Little Brown Bat](/{{section}}/litbrnbat),
-[Northern Long-eared Bat](/{{section}}/norlebat)
+[Hoary Bat](/animals/hoarybat),
+[Little Brown Bat](/animals/litbrnbat),
+[Northern Long-eared Bat](/animals/norlebat)

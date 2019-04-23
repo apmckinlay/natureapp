@@ -18,17 +18,17 @@ Bald Eagle often mate for life after an **aerial courtship display** in which th
 
 Bald Eagle congregate at **communal roosts** and **feeding sites**, particularly in **winter**. They **eat mainly fish** but also animals, gulls, and waterfowl. They **scavenge** many meals by stealing from other birds or eating garbage.
 
-[Golden Eagle](/{{section}}/goldeagl) have smaller heads and are found in open areas rather than near water. [Turkey Vulture](/{{section}}/turkvult) have smaller, darker heads and hold their wings in a V-shape when soaring.
+[Golden Eagle](/birds/goldeagl) have smaller heads and are found in open areas rather than near water. [Turkey Vulture](/{{section}}/turkvult) have smaller, darker heads and hold their wings in a V-shape when soaring.
 
 **Did you know?** Bald Eagle can reach speeds of up to 100 mph when diving or 40 mph when cruising. Young birds are nomads, exploring vast territories and flying hundreds of miles per day.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Golden Eagle](/{{section}}/goldeagl),
-[Kestrel](/{{section}}/kestrel),
-[Osprey](/{{section}}/osprey),
-[Peregrine Falcon](/{{section}}/peregrine),
-[Prairie Falcon](/{{section}}/prafalc),
-[Red-tailed Hawk](/{{section}}/redtail),
-[Sharp-shinned Hawk](/{{section}}/shshawk),
-[Swainson's Hawk](/{{section}}/swahawk)
+[Golden Eagle](/birds/goldeagl),
+[Kestrel](/birds/kestrel),
+[Osprey](/birds/osprey),
+[Peregrine Falcon](/birds/peregrine),
+[Prairie Falcon](/birds/prafalc),
+[Red-tailed Hawk](/birds/redtail),
+[Sharp-shinned Hawk](/birds/shshawk),
+[Swainson's Hawk](/birds/swahawk)

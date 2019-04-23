@@ -19,14 +19,14 @@ Painted Lady butterflies migrate every year from northern Mexico to Canada and t
 
 <!-- generated, do not edit -->
 **See Also:**
-[Azure Butterfly](/{{section}}/azurebut),
-[Banded Woolly Bear Caterpillar](/{{section}}/bandwb),
-[Cabbage White](/{{section}}/cabbgwht),
-[Clouded Sulfur](/{{section}}/cloudsulf),
-[Compton Tortoiseshell](/{{section}}/comptort),
-[Great Spangled Fritillary](/{{section}}/greatfrit),
-[Hawk Moth](/{{section}}/hawkmoth),
-[Monarch Butterfly](/{{section}}/monarch),
-[Mourning Cloak](/{{section}}/mournbut),
-[Tent Caterpillar](/{{section}}/tentcat),
-[Tiger Swallowtail](/{{section}}/tigerbut)
+[Azure Butterfly](/insects/azurebut),
+[Banded Woolly Bear Caterpillar](/insects/bandwb),
+[Cabbage White](/insects/cabbgwht),
+[Clouded Sulfur](/insects/cloudsulf),
+[Compton Tortoiseshell](/insects/comptort),
+[Great Spangled Fritillary](/insects/greatfrit),
+[Hawk Moth](/insects/hawkmoth),
+[Monarch Butterfly](/insects/monarch),
+[Mourning Cloak](/insects/mournbut),
+[Tent Caterpillar](/insects/tentcat),
+[Tiger Swallowtail](/insects/tigerbut)

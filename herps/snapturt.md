@@ -21,4 +21,4 @@ Snapping Turtle are the **largest Canadian turtle**. The largest North American 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Painted Turtle](/{{section}}/painturt)
+[Painted Turtle](/herps/painturt)

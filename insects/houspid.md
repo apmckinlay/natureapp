@@ -20,9 +20,9 @@ American House Spiders are used to living near people and won't bite unless grab
 
 <!-- generated, do not edit -->
 **See Also:**
-[Crab Spider](/{{section}}/crabspid),
-[Fishing Spider](/{{section}}/fishspid),
-[Garden Spider](/{{section}}/gardspid),
-[Grass Spider](/{{section}}/gras_spid),
-[Harvestman](/{{section}}/harvest),
-[Wolf Spider](/{{section}}/wolfspid)
+[Crab Spider](/insects/crabspid),
+[Fishing Spider](/insects/fishspid),
+[Garden Spider](/insects/gardspid),
+[Grass Spider](/insects/gras_spid),
+[Harvestman](/insects/harvest),
+[Wolf Spider](/insects/wolfspid)

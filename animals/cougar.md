@@ -1,7 +1,7 @@
 ---
 name: "Cougar"
 group: "cat"
-attr: "Brian [Wolf](/{{section}}/wolf)er"
+attr: "Brian [Wolf](/animals/wolf)er"
 attr_link: "https://www.flickr.com/photos/odfw/14610353388"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
@@ -22,5 +22,5 @@ Cougar are larger than both [Bobcat](/{{section}}/bobcat) and [Lynx](/{{section}
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bobcat](/{{section}}/bobcat),
-[Lynx](/{{section}}/lynx)
+[Bobcat](/animals/bobcat),
+[Lynx](/animals/lynx)

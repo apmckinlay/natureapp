@@ -23,10 +23,10 @@ __Western Chorus Frog__ are almost identical, but their range is confined to sou
 
 <!-- generated, do not edit -->
 **See Also:**
-[Canadian Toad](/{{section}}/cantoad),
-[Columbia Spotted Frog](/{{section}}/colsfrog),
-[Northern Leopard Frog](/{{section}}/norlfrog),
-[Pacific Tree Frog](/{{section}}/pactfrog),
-[Plains Spadefoot Toad](/{{section}}/plainspade),
-[Western Toad](/{{section}}/westtoad),
-[Wood Frog](/{{section}}/woodfrog)
+[Canadian Toad](/herps/cantoad),
+[Columbia Spotted Frog](/herps/colsfrog),
+[Northern Leopard Frog](/herps/norlfrog),
+[Pacific Tree Frog](/herps/pactfrog),
+[Plains Spadefoot Toad](/herps/plainspade),
+[Western Toad](/herps/westtoad),
+[Wood Frog](/herps/woodfrog)

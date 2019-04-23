@@ -16,6 +16,6 @@ Water Boatman can be seen **swimming right side up** along the bottom of the pon
 
 <!-- generated, do not edit -->
 **See Also:**
-[Ladybug](/{{section}}/ladybug),
-[Spittlebug](/{{section}}/spitbug),
-[Water Strider](/{{section}}/watstrid)
+[Ladybug](/insects/ladybug),
+[Spittlebug](/insects/spitbug),
+[Water Strider](/insects/watstrid)

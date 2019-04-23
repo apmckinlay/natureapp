@@ -20,8 +20,8 @@ Hognose Snake raise their heads and hiss or roll over and play dead when threate
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bullsnake](/{{section}}/bullsnake),
-[Garter Snake](/{{section}}/gartsnake),
-[North American Racer](/{{section}}/naracer),
-[Rattlesnake](/{{section}}/ratlsnak),
-[Rubber Boa](/{{section}}/rubboa)
+[Bullsnake](/herps/bullsnake),
+[Garter Snake](/herps/gartsnake),
+[North American Racer](/herps/naracer),
+[Rattlesnake](/herps/ratlsnak),
+[Rubber Boa](/herps/rubboa)

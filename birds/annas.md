@@ -18,5 +18,5 @@ Anna's Hummingbird are the largest, stockiest hummingbirds in their range. **Cos
 
 <!-- generated, do not edit -->
 **See Also:**
-[Ruby-throated Hummingbird](/{{section}}/rubyhum),
-[Rufous Hummingbird](/{{section}}/rufhum)
+[Ruby-throated Hummingbird](/birds/rubyhum),
+[Rufous Hummingbird](/birds/rufhum)

@@ -15,20 +15,20 @@ Barnacles are attached head-first to a surface by very strong glue. They prefer 
 
 One-eyed larvae grow for 6 months before turning into shrimp-like larvae and looking for a place to attach themselves to something hard and start growing a hard shell.
 
-Barnacles are crustaceans and related to Shrimp, [Crab](/{{section}}/crab), and Lobster. The most common are **Acorn Barnacle** which attach directly to a surface. **Gooseneck Barnacle** have a long muscular stalk topped by a head encased in a hard shell.
+Barnacles are crustaceans and related to Shrimp, [Crab](/animals/crab), and Lobster. The most common are **Acorn Barnacle** which attach directly to a surface. **Gooseneck Barnacle** have a long muscular stalk topped by a head encased in a hard shell.
 
 **Did you know?** Barnacles are hermaphroditic with both male and female sexual organs; however, the eggs produced by one barnacle are usually fertilized by a different one.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Blue Mussel](/{{section}}/blumussel),
-[Clam](/{{section}}/clam),
-[Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal),
-[River Otter](/{{section}}/rivotter),
-[Sand Dollar](/{{section}}/sandolr),
-[Sea Anemone](/{{section}}/seaanem),
-[Sea Lion](/{{section}}/sealion),
-[Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch),
-[Starfish](/{{section}}/starfish)
+[Blue Mussel](/animals/blumussel),
+[Clam](/animals/clam),
+[Crab](/animals/crab),
+[Harbor Seal](/animals/harbseal),
+[River Otter](/animals/rivotter),
+[Sand Dollar](/animals/sandolr),
+[Sea Anemone](/animals/seaanem),
+[Sea Lion](/animals/sealion),
+[Sea Otter](/animals/seaotter),
+[Sea Urchin](/animals/seaurch),
+[Starfish](/animals/starfish)

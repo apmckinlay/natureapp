@@ -20,7 +20,7 @@ The **Mountain Short-horned Lizard** is reddish with prominent horizontal spines
 
 <!-- generated, do not edit -->
 **See Also:**
-[Long-toed Salamander](/{{section}}/ltsalam),
-[Rough-skinned Newt](/{{section}}/rounewt),
-[Tiger Salamander](/{{section}}/tigsal),
-[Western Skink](/{{section}}/westskink)
+[Long-toed Salamander](/herps/ltsalam),
+[Rough-skinned Newt](/herps/rounewt),
+[Tiger Salamander](/herps/tigsal),
+[Western Skink](/herps/westskink)

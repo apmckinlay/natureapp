@@ -13,14 +13,14 @@ North American Racer are **fast-moving**, active snakes that can be found across
 
 Racers prefer open habitat with some cover. Some can climb trees, but they spend most of their time on the ground. They eat small animals, birds, frogs, and insects. Racers are active during the **day**. They hibernate during the winter in burrows, rock piles, old foundations.
 
-Racers rattle their tails in dry leaves and grasses to mimic [Rattlesnake](/{{section}}/ratlsnak) but are harmless to humans.
+Racers rattle their tails in dry leaves and grasses to mimic [Rattlesnake](/herps/ratlsnak) but are harmless to humans.
 
 **Did you know?** Racers are curious and have good vision. They raise their heads to look around them.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bullsnake](/{{section}}/bullsnake),
-[Garter Snake](/{{section}}/gartsnake),
-[Hognose Snake](/{{section}}/hognsnake),
-[Rattlesnake](/{{section}}/ratlsnak),
-[Rubber Boa](/{{section}}/rubboa)
+[Bullsnake](/herps/bullsnake),
+[Garter Snake](/herps/gartsnake),
+[Hognose Snake](/herps/hognsnake),
+[Rattlesnake](/herps/ratlsnak),
+[Rubber Boa](/herps/rubboa)

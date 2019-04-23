@@ -17,17 +17,17 @@ Peregrine Falcon are a medium-sized bird (14 in) with **long pointed wings** (3-
 
 Peregrine Falcon sit on high perches making **swift, steep dives** to catch their prey - ducks and shorebirds or pigeons in the cities.
 
-[Prairie Falcon](/{{section}}/prafalc) are only found in the West. They are brown with a paler breast and dark patches under their wings. **Merlin** are smaller, lack the dark helmet, and target smaller birds.
+[Prairie Falcon](/birds/prafalc) are only found in the West. They are brown with a paler breast and dark patches under their wings. **Merlin** are smaller, lack the dark helmet, and target smaller birds.
 
 **Did you know?** Peregrine Falcon may be the fastest bird in the world reaching speeds of up to 238 mph when diving after prey.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bald Eagle](/{{section}}/baldeagle),
-[Golden Eagle](/{{section}}/goldeagl),
-[Kestrel](/{{section}}/kestrel),
-[Osprey](/{{section}}/osprey),
-[Prairie Falcon](/{{section}}/prafalc),
-[Red-tailed Hawk](/{{section}}/redtail),
-[Sharp-shinned Hawk](/{{section}}/shshawk),
-[Swainson's Hawk](/{{section}}/swahawk)
+[Bald Eagle](/birds/baldeagle),
+[Golden Eagle](/birds/goldeagl),
+[Kestrel](/birds/kestrel),
+[Osprey](/birds/osprey),
+[Prairie Falcon](/birds/prafalc),
+[Red-tailed Hawk](/birds/redtail),
+[Sharp-shinned Hawk](/birds/shshawk),
+[Swainson's Hawk](/birds/swahawk)

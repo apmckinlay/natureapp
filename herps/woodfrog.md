@@ -18,10 +18,10 @@ The males make **small clucking sounds** during mating season. They females atta
 
 <!-- generated, do not edit -->
 **See Also:**
-[Boreal Chorus Frog](/{{section}}/borchor),
-[Canadian Toad](/{{section}}/cantoad),
-[Columbia Spotted Frog](/{{section}}/colsfrog),
-[Northern Leopard Frog](/{{section}}/norlfrog),
-[Pacific Tree Frog](/{{section}}/pactfrog),
-[Plains Spadefoot Toad](/{{section}}/plainspade),
-[Western Toad](/{{section}}/westtoad)
+[Boreal Chorus Frog](/herps/borchor),
+[Canadian Toad](/herps/cantoad),
+[Columbia Spotted Frog](/herps/colsfrog),
+[Northern Leopard Frog](/herps/norlfrog),
+[Pacific Tree Frog](/herps/pactfrog),
+[Plains Spadefoot Toad](/herps/plainspade),
+[Western Toad](/herps/westtoad)

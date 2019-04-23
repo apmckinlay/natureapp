@@ -17,20 +17,20 @@ Sea Lion use their flippers to walk, climb, and swim. They can often be seen in 
 
 Sea Lion give birth to one pup a year between May and July. The pups are nursed by their mothers for 6-12 months.
 
-[Harbor Seal](/{{section}}/harbseal) are smaller, have shorter flippers, and no ear flaps. They are unable to support themselves on their flippers and inch forward on their bellies.
+[Harbor Seal](/animals/harbseal) are smaller, have shorter flippers, and no ear flaps. They are unable to support themselves on their flippers and inch forward on their bellies.
 
 **Did you know?** Sea Lion are very playful and have been known to “surf” breaking waves.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Barnacle](/{{section}}/barnacle),
-[Blue Mussel](/{{section}}/blumussel),
-[Clam](/{{section}}/clam),
-[Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal),
-[River Otter](/{{section}}/rivotter),
-[Sand Dollar](/{{section}}/sandolr),
-[Sea Anemone](/{{section}}/seaanem),
-[Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch),
-[Starfish](/{{section}}/starfish)
+[Barnacle](/animals/barnacle),
+[Blue Mussel](/animals/blumussel),
+[Clam](/animals/clam),
+[Crab](/animals/crab),
+[Harbor Seal](/animals/harbseal),
+[River Otter](/animals/rivotter),
+[Sand Dollar](/animals/sandolr),
+[Sea Anemone](/animals/seaanem),
+[Sea Otter](/animals/seaotter),
+[Sea Urchin](/animals/seaurch),
+[Starfish](/animals/starfish)

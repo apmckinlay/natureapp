@@ -19,7 +19,7 @@ Long-toed Salamander eat insects, tadpoles, worms, and beetles. In colder areas,
 
 <!-- generated, do not edit -->
 **See Also:**
-[Rough-skinned Newt](/{{section}}/rounewt),
-[Short-horned Lizard](/{{section}}/shortliz),
-[Tiger Salamander](/{{section}}/tigsal),
-[Western Skink](/{{section}}/westskink)
+[Rough-skinned Newt](/herps/rounewt),
+[Short-horned Lizard](/herps/shortliz),
+[Tiger Salamander](/herps/tigsal),
+[Western Skink](/herps/westskink)

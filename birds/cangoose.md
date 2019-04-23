@@ -19,4 +19,4 @@ There are 11 sub-species of Canada Geese, getting smaller to the north and darke
 
 <!-- generated, do not edit -->
 **See Also:**
-[Snow Goose](/{{section}}/snogoose)
+[Snow Goose](/birds/snogoose)

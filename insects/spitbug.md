@@ -19,6 +19,6 @@ Spittlebugs suck plant juices with their needle-like mouthparts. **Meadow Spittl
 
 <!-- generated, do not edit -->
 **See Also:**
-[Ladybug](/{{section}}/ladybug),
-[Water Boatman](/{{section}}/watboat),
-[Water Strider](/{{section}}/watstrid)
+[Ladybug](/insects/ladybug),
+[Water Boatman](/insects/watboat),
+[Water Strider](/insects/watstrid)

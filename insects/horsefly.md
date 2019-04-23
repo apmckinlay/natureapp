@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,wetland]
 visibility: high
 ---
-Horse Fly are **larger** than a [House Fly](/{{section}}/housefly) (up to 1 in long) and dark-colored with clear **wings**. They have very large eyes that extend sideways. The females have a nasty bite.
+Horse Fly are **larger** than a [House Fly](/insects/housefly) (up to 1 in long) and dark-colored with clear **wings**. They have very large eyes that extend sideways. The females have a nasty bite.
 
 Horse Fly are most abundant during the **summer** and only fly during the day. They breed in moist areas.
 
@@ -19,5 +19,5 @@ Horse Fly are most abundant during the **summer** and only fly during the day. T
 
 <!-- generated, do not edit -->
 **See Also:**
-[Black Fly](/{{section}}/blackfly),
-[House Fly](/{{section}}/housefly)
+[Black Fly](/insects/blackfly),
+[House Fly](/insects/housefly)

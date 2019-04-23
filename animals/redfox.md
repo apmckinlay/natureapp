@@ -20,5 +20,6 @@ Red Fox normally sleep in the open but find a sheltered spot (burrow, cave, unde
 
 <!-- generated, do not edit -->
 **See Also:**
-[Coyote](/{{section}}/coyote),
-[Wolf](/{{section}}/wolf)
+[Coyote](/animals/coyote),
+[Swift Fox](/animals/swifox),
+[Wolf](/animals/wolf)

@@ -20,8 +20,8 @@ The birds often **nest** in hollow trees or cavities up to 100 feet off the grou
 
 <!-- generated, do not edit -->
 **See Also:**
-[Goldeneye](/{{section}}/goldeye),
-[Loon](/{{section}}/loon),
-[Mallard](/{{section}}/mallard),
-[Western Grebe](/{{section}}/westgrebe),
-[Wood Duck](/{{section}}/woodduck)
+[Goldeneye](/birds/goldeye),
+[Loon](/birds/loon),
+[Mallard](/birds/mallard),
+[Western Grebe](/birds/westgrebe),
+[Wood Duck](/birds/woodduck)

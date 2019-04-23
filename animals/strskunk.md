@@ -22,6 +22,6 @@ Other animals have learned to avoid skunks so that they will not be sprayed with
 
 <!-- generated, do not edit -->
 **See Also:**
-[Badger](/{{section}}/badger),
-[Porcupine](/{{section}}/porcupine),
-[Raccoon](/{{section}}/raccoon)
+[Badger](/animals/badger),
+[Porcupine](/animals/porcupine),
+[Raccoon](/animals/raccoon)

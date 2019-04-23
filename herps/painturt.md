@@ -21,4 +21,4 @@ Different sub-species of Painted Turtle have different markings on their lower s
 
 <!-- generated, do not edit -->
 **See Also:**
-[Snapping Turtle](/{{section}}/snapturt)
+[Snapping Turtle](/herps/snapturt)

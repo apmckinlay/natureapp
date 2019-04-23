@@ -22,6 +22,6 @@ Ladybugs hibernate over the winter in dry, warm places (in a house or in decayin
 
 <!-- generated, do not edit -->
 **See Also:**
-[Spittlebug](/{{section}}/spitbug),
-[Water Boatman](/{{section}}/watboat),
-[Water Strider](/{{section}}/watstrid)
+[Spittlebug](/insects/spitbug),
+[Water Boatman](/insects/watboat),
+[Water Strider](/insects/watstrid)

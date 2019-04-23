@@ -17,6 +17,6 @@ Raccoons are very strong and have excellent problem-solving skills. The 5 toes o
 
 <!-- generated, do not edit -->
 **See Also:**
-[Badger](/{{section}}/badger),
-[Porcupine](/{{section}}/porcupine),
-[Striped Skunk](/{{section}}/strskunk)
+[Badger](/animals/badger),
+[Porcupine](/animals/porcupine),
+[Striped Skunk](/animals/strskunk)

@@ -14,13 +14,13 @@ Gulls are long-winged, white birds with gray and black markings. It can be diffi
 
 California Gull are a **medium-sized** bird (18.5-21 in) with a long yellow bill with a **black band** and a **red spot** near the tip.
 
-[Herring Gull](/{{section}}/herrgull) are larger than California Gull with a thicker beak. [Ring-billed Gull](/{{section}}/ringgull) are smaller with thinner bills that don't have a red dot.
+[Herring Gull](/birds/herrgull) are larger than California Gull with a thicker beak. [Ring-billed Gull](/{{section}}/ringgull) are smaller with thinner bills that don't have a red dot.
 
 **Did you know?** Young California Gulls learn how to catch food by dropping a stick in mid-air and swooping down to catch it.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Glaucous-winged Gull](/{{section}}/glaugull),
-[Herring Gull](/{{section}}/herrgull),
-[Mew Gull](/{{section}}/mewgull),
-[Ring-billed Gull](/{{section}}/ringgull)
+[Glaucous-winged Gull](/birds/glaugull),
+[Herring Gull](/birds/herrgull),
+[Mew Gull](/birds/mewgull),
+[Ring-billed Gull](/birds/ringgull)

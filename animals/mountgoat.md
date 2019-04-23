@@ -15,6 +15,6 @@ They eat grasses, herbs, lichen, and twigs.
 
 Mountain Goat can jump up to 12 ft in a single leap. The females and males spend most of the year in herds. The males are more solitary. The goats mate from November to December and the young are born in late May/early June.
 
-[Bighorn Sheep](/{{section}}/bighorn) have large curving horns and gray-brown fur.
+[Bighorn Sheep](/animals/bighorn) have large curving horns and gray-brown fur.
 
 **Did you know?** In winter, Mountain Goat move to south/southwest-facing slopes and windswept ridges where it will be easier to find food.

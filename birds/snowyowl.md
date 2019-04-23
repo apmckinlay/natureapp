@@ -20,9 +20,9 @@ Fence posts, hay bales, and other **perches** provide good look-out spots for Sn
 
 <!-- generated, do not edit -->
 **See Also:**
-[Burrowing Owl](/{{section}}/burrowl),
-[Great Gray Owl](/{{section}}/gregrowl),
-[Great Horned Owl](/{{section}}/grehowl),
-[Long-eared Owl](/{{section}}/longowl),
-[Northern Hawk Owl](/{{section}}/norhowl),
-[Northern Saw-whet Owl](/{{section}}/norsowl)
+[Burrowing Owl](/birds/burrowl),
+[Great Gray Owl](/birds/gregrowl),
+[Great Horned Owl](/birds/grehowl),
+[Long-eared Owl](/birds/longowl),
+[Northern Hawk Owl](/birds/norhowl),
+[Northern Saw-whet Owl](/birds/norsowl)

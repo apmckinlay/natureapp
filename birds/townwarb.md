@@ -20,7 +20,7 @@ Townsend's Warbler search for **insects** in the **tops of trees**. The **males*
 
 <!-- generated, do not edit -->
 **See Also:**
-[Cape May Warbler](/{{section}}/capewarb),
-[Wilson's Warbler](/{{section}}/wilswarb),
-[Yellow-rumped Warbler](/{{section}}/yellrump),
-[Yellow Warbler](/{{section}}/yellwarb)
+[Cape May Warbler](/birds/capewarb),
+[Wilson's Warbler](/birds/wilswarb),
+[Yellow-rumped Warbler](/birds/yellrump),
+[Yellow Warbler](/birds/yellwarb)

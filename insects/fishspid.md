@@ -18,9 +18,9 @@ Fishing Spider can run across the surface of the water and dive for prey. If an 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Crab Spider](/{{section}}/crabspid),
-[Garden Spider](/{{section}}/gardspid),
-[Grass Spider](/{{section}}/gras_spid),
-[Harvestman](/{{section}}/harvest),
-[House Spider](/{{section}}/houspid),
-[Wolf Spider](/{{section}}/wolfspid)
+[Crab Spider](/insects/crabspid),
+[Garden Spider](/insects/gardspid),
+[Grass Spider](/insects/gras_spid),
+[Harvestman](/insects/harvest),
+[House Spider](/insects/houspid),
+[Wolf Spider](/insects/wolfspid)

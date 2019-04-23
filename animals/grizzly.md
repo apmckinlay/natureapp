@@ -16,11 +16,11 @@ Grizzly Bear are adaptable and can be found on northern tundra, prairies, foothi
 
 Grizzly Bear can hibernate for up to 7 months in cooler climates, but in warmer climates or urban areas bears don't hibernate thanks to plentiful food supply.
 
-Grizzly Bears' size and color vary and are not a useful way to distinguish Grizzly and [Black Bear](/{{section}}/blabear). Check instead for the Grizzly Bears' smaller, rounded **ears** and much larger **claws**.
+Grizzly Bears' size and color vary and are not a useful way to distinguish Grizzly and [Black Bear](/animals/blabear). Check instead for the Grizzly Bears' smaller, rounded **ears** and much larger **claws**.
 
 **Did you know?** Female Grizzlies don't have babies until they are 5-8 years old. They stay with their offspring, avoiding male Grizzlies, for 3 years.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Black Bear](/{{section}}/blabear),
-[Polar Bear](/{{section}}/polbear)
+[Black Bear](/animals/blabear),
+[Polar Bear](/animals/polbear)

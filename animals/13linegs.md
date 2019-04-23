@@ -21,11 +21,11 @@ visibility: high
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bushy-tailed Woodrat](/{{section}}/buwrat),
-[Hoary Marmot](/{{section}}/hoarymar),
-[Least Chipmunk](/{{section}}/leastchip),
-[Marten](/{{section}}/marten),
-[Pika](/{{section}}/pika),
-[Red-tailed Chipmunk](/{{section}}/retchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs),
-[Weasel](/{{section}}/weasel)
+[Bushy-tailed Woodrat](/animals/buwrat),
+[Hoary Marmot](/animals/hoarymar),
+[Least Chipmunk](/animals/leastchip),
+[Marten](/animals/marten),
+[Pika](/animals/pika),
+[Red-tailed Chipmunk](/animals/retchip),
+[Richardson’s Ground Squirrel](/animals/richgs),
+[Weasel](/animals/weasel)

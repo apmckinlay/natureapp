@@ -19,8 +19,8 @@ Rubber Boa are **nocturnal** and rarely seen. They specialize in squeezing and e
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bullsnake](/{{section}}/bullsnake),
-[Garter Snake](/{{section}}/gartsnake),
-[Hognose Snake](/{{section}}/hognsnake),
-[North American Racer](/{{section}}/naracer),
-[Rattlesnake](/{{section}}/ratlsnak)
+[Bullsnake](/herps/bullsnake),
+[Garter Snake](/herps/gartsnake),
+[Hognose Snake](/herps/hognsnake),
+[North American Racer](/herps/naracer),
+[Rattlesnake](/herps/ratlsnak)

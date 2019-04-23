@@ -15,4 +15,4 @@ Mosquitoes eat nectar and other plant sugars, but the females suck blood to prov
 **Did you know?** Mosquitoes home in on their blood hosts using carbon dioxide, body odors, temperature, and movement. They prefer horses, cattle, and birds to humans.
 
 **See Also:**
-[Crane Fly](/{{section}}/cranefly)
+[Crane Fly](/insects/cranefly)

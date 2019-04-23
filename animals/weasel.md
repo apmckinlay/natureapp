@@ -17,17 +17,17 @@ Weasels are ferocious hunters and can kill animals much larger than themselves a
 
 Weasels mate in the summer, but the fertilized embryos will remain dormant until 3-4 weeks before their birth the following spring or summer. The young stay with their mother until they learn to hunt for themselves.
 
-Weasel are related to [Mink](/{{section}}/mink), [Marten](/{{section}}/marten), and **Black-tailed Ferret**.
+Weasel are related to [Mink](/animals/mink), [Marten](/{{section}}/marten), and **Black-tailed Ferret**.
 
 **Did you know?** Weasels are unable to store energy as fat so they need a constant supply of food. They eat 40-60% of their body weight in food every day.
 
 <!-- generated, do not edit -->
 **See Also:**
-[13-lined Ground Squirrel](/{{section}}/13linegs),
-[Bushy-tailed Woodrat](/{{section}}/buwrat),
-[Hoary Marmot](/{{section}}/hoarymar),
-[Least Chipmunk](/{{section}}/leastchip),
-[Marten](/{{section}}/marten),
-[Pika](/{{section}}/pika),
-[Red-tailed Chipmunk](/{{section}}/retchip),
-[Richardson’s Ground Squirrel](/{{section}}/richgs)
+[13-lined Ground Squirrel](/animals/13linegs),
+[Bushy-tailed Woodrat](/animals/buwrat),
+[Hoary Marmot](/animals/hoarymar),
+[Least Chipmunk](/animals/leastchip),
+[Marten](/animals/marten),
+[Pika](/animals/pika),
+[Red-tailed Chipmunk](/animals/retchip),
+[Richardson’s Ground Squirrel](/animals/richgs)

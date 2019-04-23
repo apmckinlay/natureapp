@@ -21,8 +21,8 @@ Garter Snake can be found on rocks or paths, **basking in the sun**, on warm day
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bullsnake](/{{section}}/bullsnake),
-[Hognose Snake](/{{section}}/hognsnake),
-[North American Racer](/{{section}}/naracer),
-[Rattlesnake](/{{section}}/ratlsnak),
-[Rubber Boa](/{{section}}/rubboa)
+[Bullsnake](/herps/bullsnake),
+[Hognose Snake](/herps/hognsnake),
+[North American Racer](/herps/naracer),
+[Rattlesnake](/herps/ratlsnak),
+[Rubber Boa](/herps/rubboa)

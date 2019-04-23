@@ -18,6 +18,6 @@ The Spotted Sandpiper's bill is almost as long as its head and its body tapers t
 
 <!-- generated, do not edit -->
 **See Also:**
-[Dunlin](/{{section}}/dunlin),
-[Piping Plover](/{{section}}/pipplov),
-[Sanderling](/{{section}}/sander)
+[Dunlin](/birds/dunlin),
+[Piping Plover](/birds/pipplov),
+[Sanderling](/birds/sander)

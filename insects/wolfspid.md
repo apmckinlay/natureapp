@@ -16,9 +16,9 @@ Wolf Spiders don't spin webs. They live on the ground and hunt for prey at night
 
 <!-- generated, do not edit -->
 **See Also:**
-[Crab Spider](/{{section}}/crabspid),
-[Fishing Spider](/{{section}}/fishspid),
-[Garden Spider](/{{section}}/gardspid),
-[Grass Spider](/{{section}}/gras_spid),
-[Harvestman](/{{section}}/harvest),
-[House Spider](/{{section}}/houspid)
+[Crab Spider](/insects/crabspid),
+[Fishing Spider](/insects/fishspid),
+[Garden Spider](/insects/gardspid),
+[Grass Spider](/insects/gras_spid),
+[Harvestman](/insects/harvest),
+[House Spider](/insects/houspid)

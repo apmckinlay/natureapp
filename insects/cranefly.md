@@ -7,7 +7,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [urban,wetland]
 ---
-Crane Fly look like giant mosquitoes, which is unfortunate, as they don't bite. They can also be mistaken for [Harvestman](/{{section}}/harvest) (Daddy Long Legs) as they have very long, fragile legs that break off quite easily. Crane Flies have a narrow **body**, long narrow **wings**, and 6 legs. Different species vary greatly in color and size.
+Crane Fly look like giant mosquitoes, which is unfortunate, as they don't bite. They can also be mistaken for [Harvestman](/insects/harvest) (Daddy Long Legs) as they have very long, fragile legs that break off quite easily. Crane Flies have a narrow **body**, long narrow **wings**, and 6 legs. Different species vary greatly in color and size.
 
 The legless, worm-like larvae are rarely seen, spending their time in moist soil, in sand along streams, or in rotting vegetation.
 

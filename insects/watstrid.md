@@ -18,6 +18,6 @@ Water Striders distribute their weight evenly over hairy legs that repel water a
 
 <!-- generated, do not edit -->
 **See Also:**
-[Ladybug](/{{section}}/ladybug),
-[Spittlebug](/{{section}}/spitbug),
-[Water Boatman](/{{section}}/watboat)
+[Ladybug](/insects/ladybug),
+[Spittlebug](/insects/spitbug),
+[Water Boatman](/insects/watboat)

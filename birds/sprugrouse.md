@@ -13,13 +13,13 @@ Spruce Grouse live in the **coniferous forests** of Canada and the northern Unit
 
 They are **dark**, **thick-bodied** birds (15 in) with bold white lines on the chest and belly, a **red comb** above the eyes, and a **white semi-circle** below it.
 
-[Ruffed Grouse](/{{section}}/rufgrouse) have a pale tail with a dark band near the tip and prefer deciduous forests. [Blue Grouse](/{{section}}/blugrouse) (__Dusky Grouse__ found in the Rockies, and __Sooty Grouse__ found on west coast) are both larger.
+[Ruffed Grouse](/birds/rufgrouse) have a pale tail with a dark band near the tip and prefer deciduous forests. [Blue Grouse](/{{section}}/blugrouse) (__Dusky Grouse__ found in the Rockies, and __Sooty Grouse__ found on west coast) are both larger.
 
 **Did you know?** Spruce Grouse can store up to 10% of their body weight in food in their crop to digest overnight.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Blue Grouse](/{{section}}/blugrouse),
-[Greater Sage-Grouse](/{{section}}/gresage),
-[Ruffed Grouse](/{{section}}/rufgrouse),
-[Sharp-tailed Grouse](/{{section}}/shtgrouse)
+[Blue Grouse](/birds/blugrouse),
+[Greater Sage-Grouse](/birds/gresage),
+[Ruffed Grouse](/birds/rufgrouse),
+[Sharp-tailed Grouse](/birds/shtgrouse)

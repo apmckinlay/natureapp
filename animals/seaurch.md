@@ -12,20 +12,20 @@ Sea Urchin look like **round, spiny balls** (usually 1-4 in across. They can be 
 
 Sea Urchin have a mouth on the underside of their body with 5 teeth they can use to grab, scrape, pull, and tear. Sea Urchin eat both plant and animal matter, such as seaweed, algae, and dead animals.
 
-There are many different species of Sea Urchin. **Red Urchin** have long spines and can live more than 200 years. **Green Urchin** have very fine, short spines and can be found in calm areas without too much wave activity. **Purple Urchin** prefer areas with a strong surf and are common in the Atlantic Ocean. [Sand Dollar](/{{section}}/sandolr) are flat, irregularly shaped Sea Urchins.
+There are many different species of Sea Urchin. **Red Urchin** have long spines and can live more than 200 years. **Green Urchin** have very fine, short spines and can be found in calm areas without too much wave activity. **Purple Urchin** prefer areas with a strong surf and are common in the Atlantic Ocean. [Sand Dollar](/animals/sandolr) are flat, irregularly shaped Sea Urchins.
 
 **Did you know?** Sea Urchin breathe through their tube feet.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Barnacle](/{{section}}/barnacle),
-[Blue Mussel](/{{section}}/blumussel),
-[Clam](/{{section}}/clam),
-[Crab](/{{section}}/crab),
-[Harbor Seal](/{{section}}/harbseal),
-[River Otter](/{{section}}/rivotter),
-[Sand Dollar](/{{section}}/sandolr),
-[Sea Anemone](/{{section}}/seaanem),
-[Sea Lion](/{{section}}/sealion),
-[Sea Otter](/{{section}}/seaotter),
-[Starfish](/{{section}}/starfish)
+[Barnacle](/animals/barnacle),
+[Blue Mussel](/animals/blumussel),
+[Clam](/animals/clam),
+[Crab](/animals/crab),
+[Harbor Seal](/animals/harbseal),
+[River Otter](/animals/rivotter),
+[Sand Dollar](/animals/sandolr),
+[Sea Anemone](/animals/seaanem),
+[Sea Lion](/animals/sealion),
+[Sea Otter](/animals/seaotter),
+[Starfish](/animals/starfish)

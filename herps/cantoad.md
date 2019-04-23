@@ -19,10 +19,10 @@ Canadian Toad are easiest to spot in the spring when they congregate at breeding
 
 <!-- generated, do not edit -->
 **See Also:**
-[Boreal Chorus Frog](/{{section}}/borchor),
-[Columbia Spotted Frog](/{{section}}/colsfrog),
-[Northern Leopard Frog](/{{section}}/norlfrog),
-[Pacific Tree Frog](/{{section}}/pactfrog),
-[Plains Spadefoot Toad](/{{section}}/plainspade),
-[Western Toad](/{{section}}/westtoad),
-[Wood Frog](/{{section}}/woodfrog)
+[Boreal Chorus Frog](/herps/borchor),
+[Columbia Spotted Frog](/herps/colsfrog),
+[Northern Leopard Frog](/herps/norlfrog),
+[Pacific Tree Frog](/herps/pactfrog),
+[Plains Spadefoot Toad](/herps/plainspade),
+[Western Toad](/herps/westtoad),
+[Wood Frog](/herps/woodfrog)

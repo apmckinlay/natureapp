@@ -19,9 +19,9 @@ The nest tunnels are just slightly wider than the bee and can be up to a foot lo
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bumble Bee](/{{section}}/bumbee),
-[Honey Bee](/{{section}}/honeybee),
-[Leaf Cutter Bee](/{{section}}/leafcbee),
-[Mason Bee](/{{section}}/masonbee),
-[Sweat Bee](/{{section}}/sweatbee),
-[Wasp](/{{section}}/wasp)
+[Bumble Bee](/insects/bumbee),
+[Honey Bee](/insects/honeybee),
+[Leaf Cutter Bee](/insects/leafcbee),
+[Mason Bee](/insects/masonbee),
+[Sweat Bee](/insects/sweatbee),
+[Wasp](/insects/wasp)

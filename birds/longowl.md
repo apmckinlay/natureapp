@@ -13,7 +13,7 @@ Long-eared Owl are slender owls (13-16 in) with **long ear tufts** pointing stra
 
 They hunt in **open grasslands** at **night**, occasionally at dusk, **flying low over the ground** and searching for prey by sight or sound. They eat small mammals, particularly **rodents**.
 
-Long-eared Owls don't build their own nests. Instead, they use stick nests built by [Crow](/{{section}}/crow) and [Magpie](/{{section}}/magpie).
+Long-eared Owls don't build their own nests. Instead, they use stick nests built by [Crow](/birds/crow) and [Magpie](/{{section}}/magpie).
 
 [Great Horned Owl](/{{section}}/grehowl) are larger than Long-eared Owls. Their ear tufts are shorter and point out at an angle rather than straight up and down.
 
@@ -21,9 +21,9 @@ Long-eared Owls don't build their own nests. Instead, they use stick nests built
 
 <!-- generated, do not edit -->
 **See Also:**
-[Burrowing Owl](/{{section}}/burrowl),
-[Great Gray Owl](/{{section}}/gregrowl),
-[Great Horned Owl](/{{section}}/grehowl),
-[Northern Hawk Owl](/{{section}}/norhowl),
-[Northern Saw-whet Owl](/{{section}}/norsowl),
-[Snowy Owl](/{{section}}/snowyowl)
+[Burrowing Owl](/birds/burrowl),
+[Great Gray Owl](/birds/gregrowl),
+[Great Horned Owl](/birds/grehowl),
+[Northern Hawk Owl](/birds/norhowl),
+[Northern Saw-whet Owl](/birds/norsowl),
+[Snowy Owl](/birds/snowyowl)
