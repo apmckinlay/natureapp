@@ -31,4 +31,5 @@ Sea Otter eat clams, crabs, urchins, and other sea animals. They keep their hand
 [Sand Dollar](/{{section}}/sandolr),
 [Sea Anemone](/{{section}}/seaanem),
 [Sea Lion](/{{section}}/sealion),
-[Sea Urchin](/{{section}}/seaurch)
+[Sea Urchin](/{{section}}/seaurch),
+[Starfish](/{{section}}/starfish)

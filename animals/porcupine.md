@@ -19,4 +19,5 @@ Porcupine are solitary animals but may group together in a winter den or around 
 <!-- generated, do not edit -->
 **See Also:**
 [Badger](/{{section}}/badger),
-[Raccoon](/{{section}}/raccoon)
+[Raccoon](/{{section}}/raccoon),
+[Striped Skunk](/{{section}}/strskunk)

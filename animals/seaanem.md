@@ -28,4 +28,5 @@ The **Giant Green Anemone** (up to 7 in across) can be found from Alaska to Pana
 [Sand Dollar](/{{section}}/sandolr),
 [Sea Lion](/{{section}}/sealion),
 [Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch)
+[Sea Urchin](/{{section}}/seaurch),
+[Starfish](/{{section}}/starfish)

@@ -29,4 +29,5 @@ Clams are closely related to [Snails](/{{section}}/snail) and [Slugs](/{{section
 [Sea Anemone](/{{section}}/seaanem),
 [Sea Lion](/{{section}}/sealion),
 [Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch)
+[Sea Urchin](/{{section}}/seaurch),
+[Starfish](/{{section}}/starfish)

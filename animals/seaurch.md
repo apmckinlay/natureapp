@@ -27,4 +27,5 @@ There are many different species of Sea Urchin. **Red Urchin** have long spines 
 [Sand Dollar](/{{section}}/sandolr),
 [Sea Anemone](/{{section}}/seaanem),
 [Sea Lion](/{{section}}/sealion),
-[Sea Otter](/{{section}}/seaotter)
+[Sea Otter](/{{section}}/seaotter),
+[Starfish](/{{section}}/starfish)

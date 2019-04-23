@@ -14,6 +14,8 @@ process('birds/');
 process('herps/');
 process('insects/');
 process('animals/');
+process('plants/');
+process('trees/');
 
 function process(dir) {
     forEachFile(dir, gatherInfo);

@@ -28,4 +28,5 @@ Blue Mussel can be found in the **shallow waters** of the Arctic, North Pacific,
 [Sea Anemone](/{{section}}/seaanem),
 [Sea Lion](/{{section}}/sealion),
 [Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch)
+[Sea Urchin](/{{section}}/seaurch),
+[Starfish](/{{section}}/starfish)

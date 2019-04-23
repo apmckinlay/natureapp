@@ -13,7 +13,7 @@ Sand Dollars are found in the shallow ocean waters of the Atlantic, Pacific, and
 
 Sand Dollars use their short, furry spines to burrow into the sand or move slowly across it. A pattern resembling 5 petals can be seen on their top surface. Each petal is attached to tube feet that are used to breathe. They feed on small food particles in the sand, using their tube feet to transfer particles from the spines to the mouth.
 
-Sand Dollars are related to __Starfish__, Sea Cucumber, and [Sea Urchin](/{{section}}/seaurch).
+Sand Dollars are related to [Starfish](/{{section}}/starfish), Sea Cucumber, and [Sea Urchin](/{{section}}/seaurch).
 
 **Did you know?** Small young Sand Dollars often bunch together for protection. They can halve their size by cloning themselves, becoming harder to spot when threatened.
 
@@ -28,4 +28,5 @@ Sand Dollars are related to __Starfish__, Sea Cucumber, and [Sea Urchin](/{{sect
 [Sea Anemone](/{{section}}/seaanem),
 [Sea Lion](/{{section}}/sealion),
 [Sea Otter](/{{section}}/seaotter),
-[Sea Urchin](/{{section}}/seaurch)
+[Sea Urchin](/{{section}}/seaurch),
+[Starfish](/{{section}}/starfish)
