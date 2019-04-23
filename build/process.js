@@ -7,6 +7,7 @@ const fs = require('fs');
 const generated = "<!-- generated, do not edit -->";
 
 let id2name = {}; // e.g. "crow" => "Crow"
+let id2path = {}; // e.g. "crow" => "animals/crow.md"
 let name2id = {}; // e.g. "Crow" => "crow"
 let groups = {}; // e.g. "corvid" => ["crow", "raven"]
 
@@ -36,7 +37,9 @@ function forEachFile(dir, fn) {
 function gatherInfo(path, id, content) {
     let i = content.indexOf("---", 4);
     let x = front(content.slice(0, i));
+    //console.log(id + " " + path.slice(0, -3));
     id2name[id] = x.name;
+    id2path[id] = path.slice(0, -3)
     name2id[x.name] = id;
     if (x.group) {
         if (!groups[x.group])
@@ -78,7 +81,7 @@ function addSeeAlso(id, content) {
             let sa = "**See Also:**";
             for (let said of list)
                 if (said != id)
-                    sa += '\n[' + id2name[said] + '](/{{section}}/' + said + '),';
+                    sa += '\n[' + id2name[said] + '](/' + id2path[said] + '),';
             sa = sa.slice(0, -1);
             content += '\n' + generated + '\n' + sa + '\n';
         }
@@ -86,11 +89,13 @@ function addSeeAlso(id, content) {
 }
 
 function namesToLinks(id, content) {
+    let rx = /\[(.*?)\]\(.*?\)/;
+    content = content.replace(rx, "$1");
     for (let [id2, name] of Object.entries(id2name)) {
         if (id != id2 && content.includes(name)) {
             let rx = RegExp('([^[])_*(' + name + 's?)_*', 'g');
             content = content.replace(rx,
-                (str, before, name) => before + '[' + name + '](/{{section}}/' + id2 + ')');
+                (str, before, name) => before + '[' + name + '](/' + id2path[id2] + ')');
         }
     }
     return content;
