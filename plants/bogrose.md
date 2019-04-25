@@ -1,13 +1,11 @@
---- 
+---
 name: "Bog Rosemary"
-group: 
 attr: 
 attr_link: 
 license: 
 license_link: 
 location: [bc,ab,sk,mb]
 habitat: [wetland]
-visibility:
 ---
 Bog Rosemary is a **low**, **sprawling**, **evergreen** shrub (8 in to 2 ½ ft) with narrow leathery blue-green **leaves** that roll under (1-2 in long). It has drooping clusters of white or pink bell-shaped **flowers** (¼ in) that bloom in **late May** or **early June**.
 

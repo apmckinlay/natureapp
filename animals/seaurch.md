@@ -12,7 +12,9 @@ Sea Urchin look like **round, spiny balls** (usually 1-4 in across. They can be 
 
 Sea Urchin have a mouth on the underside of their body with 5 teeth they can use to grab, scrape, pull, and tear. Sea Urchin eat both plant and animal matter, such as seaweed, algae, and dead animals.
 
-There are many different species of Sea Urchin. **Red Urchin** have long spines and can live more than 200 years. **Green Urchin** have very fine, short spines and can be found in calm areas without too much wave activity. **Purple Urchin** prefer areas with a strong surf and are common in the Atlantic Ocean. [Sand Dollar](/animals/sandolr) are flat, irregularly shaped Sea Urchins.
+Sea Urchin are closely related to [Starfish](/animals/starfish) and [Sand Dollar](/animals/sandolr) that also have radially symmetrical bodies.
+
+There are many different species of Sea Urchin. **Red Urchin** have long spines and can live more than 200 years. **Green Urchin** have very fine, short spines and can be found in calm areas without too much wave activity. **Purple Urchin** prefer areas with a strong surf and are common in the Atlantic Ocean.
 
 **Did you know?** Sea Urchin breathe through their tube feet.
 

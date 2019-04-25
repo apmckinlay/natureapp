@@ -1,4 +1,4 @@
---- 
+---
 name: "Calypso Orchid"
 attr: 
 attr_link: 
@@ -7,7 +7,7 @@ license_link:
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 visibility: low
-aka: ["Fairy Orchid, Venus Slipper"]
+aka: ["Fairy Orchid", "Venus Slipper"]
 ---
 If you’re hiking through a **pine forest** in the Canadian Rockies at higher elevations from **May** to **July**, you may see a Calypso Orchid. The single, showy **flower** on a long purple **stem** (4-8 in) can also be found in **damp forests** or **bogs** of eastern North America.
 
