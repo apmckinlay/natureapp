@@ -27,4 +27,6 @@ Solitary inhabitants of the **northern evergreen forests** of Alaska and Canada 
 [Pika](/animals/pika),
 [Red-tailed Chipmunk](/animals/retchip),
 [Richardson’s Ground Squirrel](/animals/richgs),
-[Weasel](/animals/weasel)
+[Weasel](/animals/weasel),
+[Yellow-bellied Marmot](/animals/yelbelmar),
+[Yellow-pine Chipmunk](/animals/yelpchip)

@@ -15,7 +15,7 @@ Northern Leopard Frog (3-5 in) are **green-brown** with **dark round spots** on 
 
 __Pickerel Frog__, found in southeast Canada and the United States, are similar in appearance but have square spots arranged in rows and bright yellow or orange patches on the inside of their thighs.
 
-**Did you know?** [Northern Leopard Frog](/{{section}}/pactfrog) will eat anything they can fit in their mouth and have been known to eat small birds and snakes. They sit still, wait for their prey, and then leap and grab it with their long sticky tongue.
+**Did you know?** Northern Leopard Frog will eat anything they can fit in their mouth and have been known to eat small birds and snakes. They sit still, wait for their prey, and then leap and grab it with their long sticky tongue.
 
 <!-- generated, do not edit -->
 **See Also:**

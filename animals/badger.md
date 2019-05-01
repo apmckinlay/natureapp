@@ -19,4 +19,5 @@ Badgers have excellent vision, sharp hearing, and a strong sense of smell. They 
 **See Also:**
 [Porcupine](/animals/porcupine),
 [Raccoon](/animals/raccoon),
-[Striped Skunk](/animals/strskunk)
+[Striped Skunk](/animals/strskunk),
+[Wolverine](/animals/wolver)

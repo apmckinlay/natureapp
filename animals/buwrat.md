@@ -28,4 +28,6 @@ Bushy-tailed Woodrats are also known as **Pack Rats** (or Packrats) because they
 [Pika](/animals/pika),
 [Red-tailed Chipmunk](/animals/retchip),
 [Richardson’s Ground Squirrel](/animals/richgs),
-[Weasel](/animals/weasel)
+[Weasel](/animals/weasel),
+[Yellow-bellied Marmot](/animals/yelbelmar),
+[Yellow-pine Chipmunk](/animals/yelpchip)

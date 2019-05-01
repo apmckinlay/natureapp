@@ -28,4 +28,6 @@ __Prairie Dog__ are larger and have a shorter tail (compared to their body size)
 [Marten](/animals/marten),
 [Pika](/animals/pika),
 [Red-tailed Chipmunk](/animals/retchip),
-[Weasel](/animals/weasel)
+[Weasel](/animals/weasel),
+[Yellow-bellied Marmot](/animals/yelbelmar),
+[Yellow-pine Chipmunk](/animals/yelpchip)

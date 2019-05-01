@@ -27,4 +27,6 @@ Pika live in **colonies** but are very independent and defend their individual d
 [Marten](/animals/marten),
 [Red-tailed Chipmunk](/animals/retchip),
 [Richardson’s Ground Squirrel](/animals/richgs),
-[Weasel](/animals/weasel)
+[Weasel](/animals/weasel),
+[Yellow-bellied Marmot](/animals/yelbelmar),
+[Yellow-pine Chipmunk](/animals/yelpchip)
