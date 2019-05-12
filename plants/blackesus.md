@@ -1,14 +1,12 @@
 ---
 name: "Black-eyed Susan"
-group: 
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/20258881154"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: high
-aka: 
 ---
 Black-eyed Susan has large (up to 3 in across) **flowers** with 10-20 **yellow** petals around a flat, dark brown centre. It has **hairy** leaves and stems (10-30 in). Native to the western plains, it has spread and is now common throughout North America. You’ll find it flowering all summer long in open, sunny locations.
 

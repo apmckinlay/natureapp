@@ -1,10 +1,9 @@
 ---
 name: "Blazing Star"
-group: 
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Aaron Carlson"
+attr_link: "https://www.flickr.com/photos/59003943@N00/9661049840"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [ab,sk,mb]
 habitat: [grassland,wetland]
 visibility: high

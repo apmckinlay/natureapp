@@ -1,10 +1,10 @@
 ---
 name: "Bunchberry"
 group: "berry"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/9120780079"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: high 

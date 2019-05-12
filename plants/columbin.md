@@ -1,9 +1,9 @@
 ---
 name: "Columbine"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Jim Liestman"
+attr_link: "https://www.flickr.com/photos/gods-art/14104292452"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 aka: ["Aquilegia"]

@@ -1,12 +1,13 @@
 ---
 name: "Cattail"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/27568591360"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high
+aka: ["Bulrush"]
 ---
 Clumps of Cattail are a common feature at the edge of marshes, ponds, and ditches throughout North America. The tall sturdy **stalk** (3-5 ft) is topped by a **brown**, **cigar-shaped head** (3-6 in).
 
