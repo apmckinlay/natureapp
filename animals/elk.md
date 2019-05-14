@@ -26,4 +26,5 @@ __Deer__ are smaller than Elk. [Moose](/animals/moose) are larger, darker-colore
 [Caribou](/animals/caribou),
 [Moose](/animals/moose),
 [Mule Deer](/animals/muledeer),
-[Pronghorn](/animals/pronghorn)
+[Pronghorn](/animals/pronghorn),
+[White-tailed Deer](/animals/whtdeer)

@@ -20,4 +20,5 @@ Pronghorn travel in small groups and eat grasses and shrubs. They signal danger 
 [Caribou](/animals/caribou),
 [Elk](/animals/elk),
 [Moose](/animals/moose),
-[Mule Deer](/animals/muledeer)
+[Mule Deer](/animals/muledeer),
+[White-tailed Deer](/animals/whtdeer)
