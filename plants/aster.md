@@ -1,5 +1,6 @@
 ---
-name: "Aster" 
+name: "Aster"
+group: "daisy"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/9573809626"
 license: "CC BY-NC"
