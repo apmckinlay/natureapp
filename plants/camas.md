@@ -1,5 +1,6 @@
 ---
 name: "Camas"
+group: "spike"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/30136871048"
 license: "CC BY-NC"
