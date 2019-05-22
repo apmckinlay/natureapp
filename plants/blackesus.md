@@ -1,5 +1,6 @@
 ---
 name: "Black-eyed Susan"
+group: "daisy"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/20258881154"
 license: "CC BY-NC"
