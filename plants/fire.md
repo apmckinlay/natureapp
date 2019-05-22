@@ -1,5 +1,6 @@
 --- 
 name: "Fireweed"
+group: "spike"
 attr: 
 attr_link: 
 license: 
