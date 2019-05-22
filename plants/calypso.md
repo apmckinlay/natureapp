@@ -1,5 +1,6 @@
 ---
 name: "Calypso Orchid"
+group: "orchid"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/28667450178"
 license: "CC BY-NC"
