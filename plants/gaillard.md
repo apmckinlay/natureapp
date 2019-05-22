@@ -1,5 +1,6 @@
 --- 
 name: "Gaillardia"
+group: "daisy"
 attr: 
 attr_link: 
 license: 
