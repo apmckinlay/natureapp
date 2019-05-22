@@ -1,5 +1,6 @@
 ---
 name: "Blazing Star"
+group: "spike"
 attr: "Aaron Carlson"
 attr_link: "https://www.flickr.com/photos/59003943@N00/9661049840"
 license: "CC BY-SA"
