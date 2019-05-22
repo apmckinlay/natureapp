@@ -1,6 +1,6 @@
 ---
 name: "Bunchberry"
-group: "berry"
+group: ["berry", "evergreen"]
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/9120780079"
 license: "CC BY-NC"
