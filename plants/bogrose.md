@@ -1,5 +1,6 @@
 ---
 name: "Bog Rosemary"
+group: "evergreen"
 attr: "Aaron Carlson"
 attr_link: "https://www.flickr.com/photos/59003943@N00/5738701936"
 license: "CC BY-SA"
