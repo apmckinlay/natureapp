@@ -1,5 +1,6 @@
 --- 
 name: "False Solomon's Seal"
+group: "spike"
 attr: 
 attr_link: 
 license: 
