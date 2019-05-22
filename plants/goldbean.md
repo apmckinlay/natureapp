@@ -1,6 +1,6 @@
 --- 
 name: "Golden Bean"
-group: 
+group: "pea"
 attr: 
 attr_link: 
 license: 
