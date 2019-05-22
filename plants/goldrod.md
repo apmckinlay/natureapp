@@ -1,5 +1,6 @@
 --- 
 name: "Goldenrod"
+group: "spike"
 attr: 
 attr_link: 
 license: 
