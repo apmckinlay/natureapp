@@ -1,0 +1,19 @@
+--- 
+name: "Philadelphia Fleabane"
+group: ["daisy","fleabane"]
+attr: 
+attr_link: 
+license: 
+license_link: 
+location: [bc,ab,sk,mb]
+habitat: [forest,grassland]
+visibility: high 
+---
+Philadelphia Fleabane has tall, hairy, single **stems** (½-3 ft) with clusters of small, daisy-like flowers at the top of the stem. The white to pink **flowers** are ½-¾ in across with up to 100 thread-like petals surrounding a yellow disc. They flower from May to June. The flowers form fluffy **seed heads**. Hairy **leaves** are found at the base of the plant as well as along the stem.
+
+Philadelphia Fleabane grows best in sunny, moist conditions and can be found along roadsides, in fields, and in open woodlands across Canada and the United States.
+
+Tufted Fleabane is shorter than Philadelphia Fleabane with 1-3 larger flowers. Fleabane blooms earlier than Aster and has more petals.
+
+**Did you know?** The name may refer to the fact that people used to believe Fleabane repelled fleas. Or it may refer to the seeds, which are as small as fleas.
+
