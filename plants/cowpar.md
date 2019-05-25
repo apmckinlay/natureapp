@@ -1,9 +1,9 @@
 ---
 name: "Cow Parsnip"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Don Loarie"
+attr_link: "https://www.flickr.com/photos/loarie/24955172256"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 visibility: high

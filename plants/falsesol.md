@@ -1,10 +1,10 @@
 ---
 name: "False Solomon's Seal"
 group: "spike"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/14292613836"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: high 
@@ -13,7 +13,7 @@ False Solomon’s Seal has a long, single, arching **stem** (2-3 ft) with large 
 
 False Solomon’s Seal flowers from **late spring** to **early summer** and can be found in moist, rich, partially shaded woodland areas across North America with the exception of states bordering the Gulf of Mexico. False Solomon’s Seal spreads by underground rhizomes and often forms **large colonies**.
 
-True Solomon’s Seal has similar leaves, but the pairs of flowers dangle from the junctions of leaves and stem. The greenish-white flowers are tube-shaped with a scalloped border and the ripe berries are dark blue. 
+True Solomon’s Seal has similar leaves, but the pairs of flowers dangle from the junctions of leaves and stem. The greenish-white flowers are tube-shaped with a scalloped border and the ripe berries are dark blue.
 
 The leaves of False Solomon’s Seal resemble those of Yellow Lady’s Slipper, and it may be hard to tell them apart if the plant isn’t flowering.
 

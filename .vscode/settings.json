@@ -1,4 +1,4 @@
 {
     "editor.wordWrap": "on",
-    "markdown.extension.preview.autoShowPreviewToSide": true
+    "markdown.extension.preview.autoShowPreviewToSide": false
 }

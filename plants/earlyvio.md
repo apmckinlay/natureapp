@@ -13,12 +13,12 @@ Early Blue Violet is common across Canada and in the northern and western United
 
 The bluish-purple **flowers** (¾ in across) have purple streaks on the 3 lower petals and a white beard on the two side petals. A long spur at the back of the flower may be slightly hooked.
 
-[Northern Bog Violet](/plants/nbogviolet) is taller with larger leaves and grows in moist areas (beside streams or ponds).
+[Northern Bog Violet](/plants/nbogvio) is taller with larger leaves and grows in moist areas (beside streams or ponds).
 
 **Did you know?** Violet leaves are high in Vitamin C and can be used in salads or to make tea.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Crowfoot Violet](/plants/crowviolet),
-[Downy Yellow Violet](/plants/downyviolet),
-[Northern Bog Violet](/plants/nbogviolet)
+[Crowfoot Violet](/plants/crowvio),
+[Downy Yellow Violet](/plants/downvio),
+[Northern Bog Violet](/plants/nbogvio)

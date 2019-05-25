@@ -1,10 +1,10 @@
 ---
 name: "Crowfoot Violet"
 group: "violet"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Brett Whaley"
+attr_link: "https://www.flickr.com/photos/brettwhaley/41441553604"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [forest,grassland]
 ---
@@ -16,6 +16,6 @@ The Crowfoot Violet flowers from **mid-** to **late spring**. The 3 lower petals
 
 <!-- generated, do not edit -->
 **See Also:**
-[Downy Yellow Violet](/plants/downyviolet),
-[Early Blue Violet](/plants/earlyviolet),
-[Northern Bog Violet](/plants/nbogviolet)
+[Downy Yellow Violet](/plants/downvio),
+[Early Blue Violet](/plants/earlyvio),
+[Northern Bog Violet](/plants/nbogvio)

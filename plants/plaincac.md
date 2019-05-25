@@ -18,4 +18,4 @@ The **fruit** are small (1-2 in long) and oval, ranging in colour from yellowish
 
 <!-- generated, do not edit -->
 **See Also:**
-[Pincushion Cactus](/plants/pincactus)
+[Pincushion Cactus](/plants/pincac)
