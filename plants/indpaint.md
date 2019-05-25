@@ -22,5 +22,5 @@ Indian Paintbrush can be found in prairies, open woodlands, and along the banks 
 [Blazing Star](/plants/blazstar),
 [Camas](/plants/camas),
 [False Solomon's Seal](/plants/falsesol),
-[Fireweed](/plants/fire),
+[Fireweed](/plants/fireweed),
 [Goldenrod](/plants/goldrod)
