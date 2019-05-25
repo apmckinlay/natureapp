@@ -15,7 +15,7 @@ Great Horned Owl can be found **year-round** in **forests** from the Arctic to S
 
 They hunt at **night** and are fierce predators with prey ranging from birds or mammals larger than themselves to small insects, mice, and frogs. They use their large, strong talons to break the spine of large prey.
 
-[Great Gray Owl](/birds/gregrowl) are also forest dwellers, but they hunt during the day and don't have ear tufts. [Long-eared Owl](/{{section}}/longowl) prefer open  grasslands and are smaller and slender with ear tufts that point straight up rather than out at a slight angle.
+[Great Gray Owl](/birds/gregrowl) are also forest dwellers, but they hunt during the day and don't have ear tufts. [Long-eared Owl](/birds/longowl) prefer open  grasslands and are smaller and slender with ear tufts that point straight up rather than out at a slight angle.
 
 **Did you know?** Great Horned Owl can look in any direction by swiveling their head 180 degrees.
 

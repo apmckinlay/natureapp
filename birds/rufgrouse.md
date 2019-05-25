@@ -15,7 +15,7 @@ Ruffed Grouse can often be heard before they are seen as they are very good at c
 
 Ruffed Grouse can be found in **deciduous forests** across Canada and in the western and eastern mountain regions and around the Great Lakes of the USA.
 
-[Spruce Grouse](/birds/sprugrouse) are slightly smaller and darker with a short black tail. [Blue Grouse](/{{section}}/blugrouse) are larger.  **Ring-necked Pheasant** are found in more open areas and have a long, thin, pointed tail.
+[Spruce Grouse](/birds/sprugrouse) are slightly smaller and darker with a short black tail. [Blue Grouse](/birds/blugrouse) are larger.  **Ring-necked Pheasant** are found in more open areas and have a long, thin, pointed tail.
 
 **Did you know?** Ruffed Grouse are well adapted for cold winters. They nestle in the snow to keep warm and scales on their toes can spread out and act like snowshoes.
 

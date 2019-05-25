@@ -17,7 +17,7 @@ They bear and shelter their young in shallow depressions in the ground or flatte
 
 **Black-tailed Jackrabbit**, found in the southwestern and central United States, are slightly smaller and have a black streak on the top of their tail and rump. [Snowshoe Hare](/animals/snowhare) are found in the forests of Canada, Alaska, and northern mountainous areas of the United States and are smaller than other Hares.
 
-Despite their name, Jackrabbits are Hares and are related to [Snowshoe Hares](/{{section}}/snowhare). Hares are larger than **Rabbits** and typically have longer hind legs and bigger ears. Baby Hares are born with fur and their eyes are open. On the other hand, baby rabbits are furless and their eyes are closed when they’re born.
+Despite their name, Jackrabbits are Hares and are related to [Snowshoe Hares](/animals/snowhare). Hares are larger than **Rabbits** and typically have longer hind legs and bigger ears. Baby Hares are born with fur and their eyes are open. On the other hand, baby rabbits are furless and their eyes are closed when they’re born.
 
 **Did you know?** White-tailed Jackrabbit can run extremely fast (35-50 mph) and cover 6-10 ft with each bound of their long back legs
 

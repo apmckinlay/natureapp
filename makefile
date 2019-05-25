@@ -12,3 +12,6 @@ sync:
 
 links:
 	node build/process.js
+
+index:
+	node build/index.js

@@ -12,4 +12,10 @@ Crowfoot Violet is a small plant (3-6 in high) growing in **grasslands** and **o
 
 The Crowfoot Violet flowers from **mid-** to **late spring**. The 3 lower petals of the light purple **flowers** (¾ in across) have white beards. The lowest petal is spurred.
 
-**Did you know?** The Crowfoot Violet is also known as the Larkspur Violet because its deeply divided leaves resemble those of the delphinium or larkspur, whereas most violet leaves are heart-shaped. 
+**Did you know?** The Crowfoot Violet is also known as the Larkspur Violet because its deeply divided leaves resemble those of the delphinium or larkspur, whereas most violet leaves are heart-shaped.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Downy Yellow Violet](/plants/downyviolet),
+[Early Blue Violet](/plants/earlyviolet),
+[Northern Bog Violet](/plants/nbogviolet)

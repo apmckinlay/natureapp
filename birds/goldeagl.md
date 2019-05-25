@@ -13,7 +13,7 @@ Golden Eagle soar or glide with **wings lifted in a slight V** and **wingtip fea
 
 Golden Eagle **usually nest on cliffs** but may nest in trees or tall human-made structures. They **hunt mostly small animals** (rabbits, hares, ground squirrels, prairie dogs). They can be found **year-round** in western North America's mountainous regions. Migrating birds spend the **summer** in northern Canada and Alaska, heading to the midwestern United States from North Dakota to Texas in **winter**.
 
-[Bald Eagle](/birds/baldeagle) have a larger head and soar with wings flat like a board. [Turkey Vulture](/{{section}}/turkvult) have a much smaller head and hold their wings in a pronounced V-shape.
+[Bald Eagle](/birds/baldeagle) have a larger head and soar with wings flat like a board. [Turkey Vulture](/birds/turkvult) have a much smaller head and hold their wings in a pronounced V-shape.
 
 **Did you know?** The Golden Eagle's territorial/courtship display is known as sky dancing and consists of a series of steep dives and upward swoops.
 

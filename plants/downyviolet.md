@@ -15,3 +15,9 @@ The Downy Yellow Violet is a **spring** flower (¾ in wide) with 5 bright yellow
 The **fruit**, an egg-shaped capsule (⅓ in long), turns brown and splits into 3 sections when ripe, shooting the seeds several feet from the plant.
 
 **Did you know?** Yellow Violet attracts a wide variety of bees. The seeds are eaten by various birds, while the leaves and stems are eaten by small mammals and the Wood Turtle.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Crowfoot Violet](/plants/crowviolet),
+[Early Blue Violet](/plants/earlyviolet),
+[Northern Bog Violet](/plants/nbogviolet)

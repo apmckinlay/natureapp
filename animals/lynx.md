@@ -14,7 +14,7 @@ Lynx are **solitary**, seldom-seen cats found in **northern boreal forests**, pr
 
 Lynx's **large furry paws** act like snowshoes, making it easier for them to move around in deep snow. Lynx feed almost exclusively on [Snowshoe Hare](/animals/snowhare), although they will eat other small animals if there aren't many Hare. They are very territorial, refusing to share their territory with other Lynx and only come together to mate.
 
-[Bobcat](/{{section}}/bobcat) are similar in appearance but have smaller feet, shorter legs, spotted fur, and smaller tufts on their ears. [Bobcat](/{{section}}/bobcat) have black stripes around their tail and the tip is black on top but white underneath. They are also more common further south. [Cougar](/{{section}}/cougar) are twice as long as Lynx.
+[Bobcat](/animals/bobcat) are similar in appearance but have smaller feet, shorter legs, spotted fur, and smaller tufts on their ears. [Bobcat](/animals/bobcat) have black stripes around their tail and the tip is black on top but white underneath. They are also more common further south. [Cougar](/animals/cougar) are twice as long as Lynx.
 
 **Did you know?** Lynx hunt at night and are so well adapted to the darkness that they can spot prey from 250 feet away.
 

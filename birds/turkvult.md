@@ -13,6 +13,6 @@ Turkey Vulture eat dead animals and are common near roadsides, farm fields, and 
 
 Unlike most other birds, Turkey Vultures have a good sense of smell. With their wide nasal openings, they can sniff rotting flesh 50 miles away. They are social feeders, with several birds gathering at one carcass. Their bare head helps them to stay clean when scavenging.
 
-**Black Vulture** have a shorter tail, a dark gray head, and hold their wings nearly flat. [Red-tailed Hawk](/birds/redtail) usually have pale undersides, with shorter tails, and shorter broader wings that they hold flat as they soar. [Bald Eagle](/{{section}}/baldeagle) have feathers on their head, soar steadily on flat wings, and lack the two-toned underwing. [Golden Eagle](/{{section}}/goldeagl) are larger, fly smoothly, and don't have a two-toned underwing.
+**Black Vulture** have a shorter tail, a dark gray head, and hold their wings nearly flat. [Red-tailed Hawk](/birds/redtail) usually have pale undersides, with shorter tails, and shorter broader wings that they hold flat as they soar. [Bald Eagle](/birds/baldeagle) have feathers on their head, soar steadily on flat wings, and lack the two-toned underwing. [Golden Eagle](/birds/goldeagl) are larger, fly smoothly, and don't have a two-toned underwing.
 
 **Did you know?** On cold mornings, Turkey Vulture spread their wings open in the sun to warm up. On hot days, they dribble urine down their legs to cool off.

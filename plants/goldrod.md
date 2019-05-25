@@ -1,4 +1,4 @@
---- 
+---
 name: "Goldenrod"
 group: "spike"
 attr: 
@@ -14,3 +14,11 @@ You know that summer will soon be over when the Goldenrod flowers appear. Golden
 Goldenrod grows across North America.
 
 **Did you know?** Goldenrod doesn’t cause hay fever as the pollen is slightly sticky and can’t blow on the wind.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blazing Star](/plants/blazstar),
+[Camas](/plants/camas),
+[False Solomon's Seal](/plants/falsesol),
+[Fireweed](/plants/fire),
+[Indian Paintbrush](/plants/indpaint)

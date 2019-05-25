@@ -15,7 +15,7 @@ Bullsnake are harmless to humans. They eat mainly rodents but also birds and liz
 
 Bullsnake prefer the loose sandy soil of **prairies**, **deserts**, and **agricultural areas** and can be found wherever **rodents** are abundant.
 
-Bullsnake can be mistaken for [Rattlesnake](/herps/ratlsnak) which they mimic by flattening their head and rattling their tail in bushes or leaves. [Rattlesnake](/{{section}}/ratlsnak) are shorter with a heavier body and vertical, cat-like eyes.
+Bullsnake can be mistaken for [Rattlesnake](/herps/ratlsnak) which they mimic by flattening their head and rattling their tail in bushes or leaves. [Rattlesnake](/herps/ratlsnak) are shorter with a heavier body and vertical, cat-like eyes.
 
 **Did you know?** Bullsnake spend so much time in the summer sunning themselves that they can develop skin cancer.
 

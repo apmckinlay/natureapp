@@ -13,7 +13,7 @@ Rattlesnake have a **thick body** with a **triangular head** and are 1-8 ft long
 
 It's wise to be careful where you walk, especially around **logs** or **rocky areas** where snakes may be hiding or sunning themselves, but Rattlesnake only strike when provoked and their **bite is not usually fatal**. Before striking, they hiss and rattle the rings at the end of their tail to warn off predators.
 
-Other snakes, such as the [Bullsnake](/herps/bullsnake) and the [North American Racer](/{{section}}/naracer), imitate the Rattlesnake in order to warn off predators.
+Other snakes, such as the [Bullsnake](/herps/bullsnake) and the [North American Racer](/herps/naracer), imitate the Rattlesnake in order to warn off predators.
 
 **Did you know?** Rattlesnake immobilize their prey (rodents, lizards) with a toxic venom before swallowing it whole. Digesting the food makes them sluggish, so they normally hide out for a couple of days after eating.
 

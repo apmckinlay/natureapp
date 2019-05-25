@@ -1,4 +1,4 @@
---- 
+---
 name: "Indian Paintbrush"
 group: "spike"
 attr: 
@@ -15,4 +15,12 @@ There are many different varieties of Indian Paintbrush that can be found throug
 
 Indian Paintbrush can be found in prairies, open woodlands, and along the banks of streams throughout western North America. It flowers from **April** to **July**.
 
-**Did you know?** Indian Paintbrush has green leaves and produces its own food, but it also joins roots with neighboring plants to steal water and nutrients. 
+**Did you know?** Indian Paintbrush has green leaves and produces its own food, but it also joins roots with neighboring plants to steal water and nutrients.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blazing Star](/plants/blazstar),
+[Camas](/plants/camas),
+[False Solomon's Seal](/plants/falsesol),
+[Fireweed](/plants/fire),
+[Goldenrod](/plants/goldrod)

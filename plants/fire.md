@@ -1,4 +1,4 @@
---- 
+---
 name: "Fireweed"
 group: "spike"
 attr: 
@@ -14,3 +14,11 @@ Fireweed  is a **tall**, single-stemmed plant (4-9 ft) with long, narrow **leave
 Fireweed flowers from **June** to **September** in open meadows, along streams or roads and forest edges. It can be found in all parts of Canada and the United States except for the southern states close to the Gulf of Mexico.
 
 **Did you know?** Fireweed is one of the first plants to appear after a fire or in clearcuts. It is common in Alaska and northern Canada.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blazing Star](/plants/blazstar),
+[Camas](/plants/camas),
+[False Solomon's Seal](/plants/falsesol),
+[Goldenrod](/plants/goldrod),
+[Indian Paintbrush](/plants/indpaint)

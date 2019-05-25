@@ -14,4 +14,9 @@ Aster displays clusters of small, daisy-like **flowers** in **late summer** or *
 
 Many North American plants are commonly known as Aster; the height, flower color, and shape of leaves will vary depending on the variety. 
 
-**Did you know?** Recent research indicates that most of the asters growing in North America are not native but have been introduced from Europe or Asia. 
+**Did you know?** Recent research indicates that most of the asters growing in North America are not native but have been introduced from Europe or Asia.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Black-eyed Susan](/plants/blackesus),
+[Gaillardia](/plants/gaillard)

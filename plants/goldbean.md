@@ -1,4 +1,4 @@
---- 
+---
 name: "Golden Bean"
 group: "pea"
 attr: 

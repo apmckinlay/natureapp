@@ -15,4 +15,12 @@ Blue Camas is widespread in the **Pacific Northwest**. Other species can be foun
 
 **Smooth Camas** (White Camas) and **Death Camas** (Mountain Death Camas), found in western North America, are unrelated and poisonous. **Smooth Camas** has white flowers with a green heart at the base of each flower and is slightly poisonous. **Death Camas** has similar flowers but grows at higher altitudes and is very poisonous.
 
-**Did you know?** Camas bulbs (when well cooked) were a staple food for Pacific Northwest First Nations. [Elk](/animals/elk), [Deer](/animals/muledeer), and [Moose](/animals/moose) graze on the leaves, while gophers have been known to nibble on the bulbs and then move them to a different area.
+**Did you know?** Camas bulbs (when well cooked) were a staple food for Pacific Northwest First Nations. [Elk](/animals/elk), Deer, and [Moose](/animals/moose) graze on the leaves, while gophers have been known to nibble on the bulbs and then move them to a different area.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blazing Star](/plants/blazstar),
+[False Solomon's Seal](/plants/falsesol),
+[Fireweed](/plants/fire),
+[Goldenrod](/plants/goldrod),
+[Indian Paintbrush](/plants/indpaint)

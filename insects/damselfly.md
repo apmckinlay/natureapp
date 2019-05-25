@@ -11,7 +11,7 @@ visibility: high
 ---
 Skimming low over slow-moving water, such as streams, ponds, and lakes, Damselfly are found throughout North America. They have a long thin abdomen (2.5-3 in), large eyes, and 2 pairs of **wings** with a wingspan of .7 to 7.5 in.
 
-Damselfly are smaller with slimmer bodies than [Dragonfly](/insects/dragonfly). They hold their **wings close together** above their body when resting, whereas [Dragonfly](/{{section}}/dragonfly) spread their wings apart.
+Damselfly are smaller with slimmer bodies than [Dragonfly](/insects/dragonfly). They hold their **wings close together** above their body when resting, whereas [Dragonfly](/insects/dragonfly) spread their wings apart.
 
 Damselfly lay their eggs on aquatic plants. The nymphs live underwater, emerging as adults throughout spring, summer, and fall.
 

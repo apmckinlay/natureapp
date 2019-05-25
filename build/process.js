@@ -70,7 +70,7 @@ function updateFiles(path, id, content) {
     content = namesToLinks(id, content);
     content = addSeeAlso(id, content);
     if (content != original) {
-        console.log(path);
+        console.log("updated: " + path);
         fs.writeFileSync(path, content, 'utf8');
     }
 }
@@ -89,14 +89,19 @@ function addSeeAlso(id, content) {
 }
 
 function namesToLinks(id, content) {
-    let rx = /\[(.*?)\]\(.*?\)/;
+    let i = content.indexOf("---", 4);
+    let front = content.slice(0, i);
+    content = content.slice(i);
+    
+    let rx = /\[(.*?)\]\(.*?\)/g;
     content = content.replace(rx, "$1");
+    
     for (let [id2, name] of Object.entries(id2name)) {
         if (id != id2 && content.includes(name)) {
-            let rx = RegExp('([^[])_*(' + name + 's?)_*', 'g');
+            let rx = RegExp('\\b_*(' + name + 's?)_*\\b', 'g');
             content = content.replace(rx,
-                (str, before, name) => before + '[' + name + '](/' + id2path[id2] + ')');
+                (str, name) => '[' + name + '](/' + id2path[id2] + ')');
         }
     }
-    return content;
+    return front + content;
 }

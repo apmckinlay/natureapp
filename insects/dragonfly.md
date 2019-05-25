@@ -17,7 +17,7 @@ Dragonfly can be found throughout **North America**. The eggs are laid in water 
 
 Dragonfly spread their **wings apart** when resting. [Damselfly](/insects/damselfly) are slimmer than Dragonfly and keep their wings together.
 
-**Did you know?** Dragonfly and [Damselfly](/{{section}}/damselfly) were on earth more than 200 million years ago, even before the dinosaurs.
+**Did you know?** Dragonfly and [Damselfly](/insects/damselfly) were on earth more than 200 million years ago, even before the dinosaurs.
 
 <!-- generated, do not edit -->
 **See Also:**

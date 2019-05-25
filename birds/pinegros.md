@@ -12,7 +12,7 @@ With their **pink head** and **chest**, **male** Pine Grosbeak are easy to ident
 
 Pine Grosbeak can be found **year-round** in the **forests** of Alaska, Canada (particularly the north and mountain regions), and the mountain regions of the western United States. They travel in **flocks** in **winter**, travelling further south to Alberta, Saskatchewan, the north-central United States, and the Great Lakes region. They feast in **large flocks** on **fruit trees** such as __Rowan__ (Mountain Ash) until the tree is bare. They are slow-moving birds and allow people to come close.
 
-[Evening Grosbeak](/birds/evengros) have a shorter tail and a large pale bill. **House Finch** are smaller with a pale bill and streakier coloring; the male is redder. [White-winged Crossbill](/{{section}}/whitewcbill) have a cross-tipped bill, are smaller with a shorter tail, and females are streakier.
+[Evening Grosbeak](/birds/evengros) have a shorter tail and a large pale bill. **House Finch** are smaller with a pale bill and streakier coloring; the male is redder. [White-winged Crossbill](/birds/whitewcbill) have a cross-tipped bill, are smaller with a shorter tail, and females are streakier.
 
 **Did you know?** Pine Grosbeak eat fruit by biting through and discarding the pulp before crushing the seed.
 

@@ -1,4 +1,4 @@
---- 
+---
 name: "Plains Prickly Pear Cactus"
 group: "cactus"
 attr: 
@@ -14,4 +14,8 @@ Plains Prickly Pear Cactus can be found in dry grasslands, badlands, and eroded 
 
 The **fruit** are small (1-2 in long) and oval, ranging in colour from yellowish-green to red or purple, and are filled with flat, disc-shaped **seeds**. The fruit (tuna) and pads are edible and for sale in southern regions of the United States.
 
-**Did you know?** Many wildlife species, including Pronghorn, Deer, and Box Turtles eat the fruit and pads. The cactus provides protection and cover for small mammals, reptiles, birds, and insects.
+**Did you know?** Many wildlife species, including [Pronghorn](/animals/pronghorn), Deer, and Box Turtles eat the fruit and pads. The cactus provides protection and cover for small mammals, reptiles, birds, and insects.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Pincushion Cactus](/plants/pincactus)

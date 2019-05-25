@@ -14,5 +14,5 @@ The legless, worm-like larvae are rarely seen, spending their time in moist soil
 **Did you know?** Crane Fly only live for a few days. They mate, lay eggs for next season's flies, and then die. They may drink some dew or sugary flower nectar, but they eat next to nothing.
 
 **See Also:**
-[Harvestman](/{{section}}/harvest),
-[Mosquito](/{{section}}/mosquito)
+[Harvestman](/insects/harvest),
+[Mosquito](/insects/mosquito)

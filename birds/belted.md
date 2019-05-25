@@ -15,6 +15,6 @@ Some Kingfisher migrate, spending their **summers** in Alaska and Canada and the
 
 Belted Kingfisher dig a **nest tunnel 1-8 ft deep** in the banks of rivers or streams.
 
-**Green Kingfisher**, found in south Texas and sometimes Arizona, are green and white and half the size of a Belted Kingfisher. **Ringed Kingfisher**, sometimes found in Texas, are much larger (size of a [Crow](/birds/crow)). [Blue Jay](/{{section}}/blujay) are smaller with a peaked crest and a black necklace rather than a blue band across the chest.
+**Green Kingfisher**, found in south Texas and sometimes Arizona, are green and white and half the size of a Belted Kingfisher. **Ringed Kingfisher**, sometimes found in Texas, are much larger (size of a [Crow](/birds/crow)). [Blue Jay](/birds/blujay) are smaller with a peaked crest and a black necklace rather than a blue band across the chest.
 
 **Did you know?** Once Belted Kingfisher catch their prey, they return to their perch and beat it against a branch to soften it. Sometimes they throw the prey into the air to reorient it for easier swallowing. They regurgitate pellets of food they can't digest (fish bones and scales, shells).

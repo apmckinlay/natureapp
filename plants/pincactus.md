@@ -1,4 +1,4 @@
---- 
+---
 name: "Pincushion Cactus"
 group: "cactus"
 attr: 
@@ -15,3 +15,7 @@ Pincushion Cactus usually flowers shortly after it has rained. The **flowers** h
 Pincushion Cactus grows well in hot, dry, sandy, or rocky places from southern Alberta, Saskatchewan, and Manitoba to the southwestern United States.
 
 **Did you know?** Sharp spines offer protection. Soft, dense spines shield the cactus from the hot sun.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Plains Prickly Pear Cactus](/plants/plainscactus)

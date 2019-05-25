@@ -1,4 +1,4 @@
---- 
+---
 name: "False Solomon's Seal"
 group: "spike"
 attr: 
@@ -18,3 +18,11 @@ True Solomon’s Seal has similar leaves, but the pairs of flowers dangle from t
 The leaves of False Solomon’s Seal resemble those of Yellow Lady’s Slipper, and it may be hard to tell them apart if the plant isn’t flowering.
 
 **Did you know?** The mildly fragrant flowers are pollinated by a wide variety of small bees, flies, and beetles.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blazing Star](/plants/blazstar),
+[Camas](/plants/camas),
+[Fireweed](/plants/fire),
+[Goldenrod](/plants/goldrod),
+[Indian Paintbrush](/plants/indpaint)

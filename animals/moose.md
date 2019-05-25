@@ -12,7 +12,7 @@ Moose are the largest (5-6.5 ft at shoulders) members of the deer family and the
 
 Moose eat many different kinds of plants, fruit, and bark. They are so tall that they prefer to browse on higher plants as it can be difficult to bend their head to ground level. They are often seen in **lakes** or **wetlands** feeding on aquatic plants. They have poor eyesight but a strong sense of smell.
 
-Moose are larger, darker-colored, and more solitary than [Elk](/animals/elk). Confusingly, European&nbsp;[Elk](/{{section}}/elk) are related to North American Moose, whereas European Red Deer are closely related to North American [Elk](/{{section}}/elk).
+Moose are larger, darker-colored, and more solitary than [Elk](/animals/elk). Confusingly, European&nbsp;[Elk](/animals/elk) are related to North American Moose, whereas European Red Deer are closely related to North American [Elk](/animals/elk).
 
 **Did you know?** Moose are powerful swimmers and can even dive for food. The young swim well within a few days of being born.
 
