@@ -1,13 +1,14 @@
 ---
 name: "Indian Paintbrush"
 group: "spike"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/27602150245"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
 visibility: high 
+aka: ["Prairie Fire"]
 ---
 Indian Paintbrush produces clusters of spiky, bright red or orange-yellow blooms at the tip of the stem. The **flowers** themselves are hard to spot; it’s the bracts that are brightly colored. 
 

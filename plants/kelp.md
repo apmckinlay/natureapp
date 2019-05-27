@@ -1,9 +1,9 @@
 ---
 name: "Kelp"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "NOAA"
+attr_link: "https://www.flickr.com/photos/noaaphotolib/5077882249"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc]
 habitat: [ocean]
 visibility: high 

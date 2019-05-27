@@ -1,10 +1,10 @@
 ---
 name: "Early Blue Violet"
 group: "violet"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Peter Stevens"
+attr_link: "https://www.flickr.com/photos/nordique/7703278404"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 aka: ["Hooked-spur Violet", "Western Dog Violet"]

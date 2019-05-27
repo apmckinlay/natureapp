@@ -1,10 +1,10 @@
 ---
 name: "Goldenrod"
 group: "spike"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Lotus Johnson"
+attr_link: "https://www.flickr.com/photos/ngawangchodron/15037835181"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain,wetland]
 visibility: high 
