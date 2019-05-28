@@ -1,10 +1,10 @@
 ---
 name: "Philadelphia Fleabane"
 group: ["daisy","fleabane"]
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "D. Gordon E. Robertson"
+attr_link: "https://en.wikipedia.org/wiki/Erigeron_philadelphicus#/media/File:Philadelphia_Fleabane.jpg"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/3.0"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 visibility: high 
@@ -16,4 +16,3 @@ Philadelphia Fleabane grows best in sunny, moist conditions and can be found alo
 Tufted Fleabane is shorter than Philadelphia Fleabane with 1-3 larger flowers. Fleabane blooms earlier than [Aster](/plants/aster) and has more petals.
 
 **Did you know?** The name may refer to the fact that people used to believe Fleabane repelled fleas. Or it may refer to the seeds, which are as small as fleas.
-

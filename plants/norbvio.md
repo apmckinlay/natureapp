@@ -1,10 +1,10 @@
 ---
 name: "Northern Bog Violet"
 group: "violet"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Joshua Mayer"
+attr_link: "https://www.flickr.com/photos/wackybadger/4600729314"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 ---

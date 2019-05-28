@@ -1,9 +1,9 @@
 ---
 name: "Marsh Marigold"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Dan Mullen"
+attr_link: "https://www.flickr.com/photos/8583446@N05/7073771723"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high 

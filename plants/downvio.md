@@ -20,4 +20,4 @@ The **fruit**, an egg-shaped capsule (⅓ in long), turns brown and splits into 
 **See Also:**
 [Crowfoot Violet](/plants/crowvio),
 [Early Blue Violet](/plants/earlyvio),
-[Northern Bog Violet](/plants/nbogvio)
+[Northern Bog Violet](/plants/norbvio)

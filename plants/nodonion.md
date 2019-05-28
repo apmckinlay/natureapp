@@ -1,10 +1,10 @@
 ---
 name: "Nodding Onion"
 group: "onion"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Dan Mullen"
+attr_link: "https://www.flickr.com/photos/8583446@N05/3797267172"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk]
 habitat: [grassland]
 visibility: low 

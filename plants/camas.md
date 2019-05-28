@@ -23,4 +23,4 @@ Blue Camas is widespread in the **Pacific Northwest**. Other species can be foun
 [False Solomon's Seal](/plants/falsesol),
 [Fireweed](/plants/fireweed),
 [Goldenrod](/plants/goldrod),
-[Indian Paintbrush](/plants/indpaint)
+[Indian Paintbrush](/plants/indian)

@@ -25,4 +25,4 @@ The leaves of False Solomon’s Seal resemble those of Yellow Lady’s Slipper, 
 [Camas](/plants/camas),
 [Fireweed](/plants/fireweed),
 [Goldenrod](/plants/goldrod),
-[Indian Paintbrush](/plants/indpaint)
+[Indian Paintbrush](/plants/indian)

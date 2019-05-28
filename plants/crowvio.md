@@ -18,4 +18,4 @@ The Crowfoot Violet flowers from **mid-** to **late spring**. The 3 lower petals
 **See Also:**
 [Downy Yellow Violet](/plants/downvio),
 [Early Blue Violet](/plants/earlyvio),
-[Northern Bog Violet](/plants/nbogvio)
+[Northern Bog Violet](/plants/norbvio)
