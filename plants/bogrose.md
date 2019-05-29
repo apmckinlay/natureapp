@@ -15,3 +15,7 @@ Bog Rosemary grows in acid bogs across Canada, Alaska, Washington, Idaho, and th
 Bog Rosemary leaves have a sharp tip, while the leaves of **Bog Sheep Laurel** are a little wider and not as pointed. Labrador Tea has wider leaves with hairy twigs and a pungent smell when crushed.
 
 **Did you know?** Bog Rosemary has perfumed flowers designed to attract pollinators. However, it’s not dependent on seeds to reproduce as it also spreads through underground rootstock and runners.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Bunchberry](/plants/bunchby)

@@ -15,3 +15,7 @@ Clusters of golden-yellow, pea-type **flowers** appear on the Golden Bean from *
 Golden Bean often forms **large patches** due to running rootstock. It is most commonly found on the western prairies, but some varieties can be found in open aspen forests or meadows in the foothills of the mountains.
 
 **Did you know?** First Nations people used the flowers to make a yellow dye.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Lupin](/plants/lupin)

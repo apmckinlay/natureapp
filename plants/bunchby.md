@@ -1,6 +1,6 @@
 ---
 name: "Bunchberry"
-group: ["berry", "evergreen"]
+group: "evergreen"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/9120780079"
 license: "CC BY-NC"
@@ -14,3 +14,7 @@ Bunchberry is a **low** plant (4-8 in) that usually grows in a **thick carpet** 
 Bunchberry belongs to the same plant family as Pacific Dogwood and has similar leaves and flowers. It is common in shady, cool, moist woodlands, especially **coniferous forests**.
 
 **Did you know?** The berries are much appreciated by wildlife, but humans find them bland and they contain a large stone.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Bog Rosemary](/plants/bogrose)

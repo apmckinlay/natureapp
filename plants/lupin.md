@@ -1,6 +1,6 @@
 ---
 name: "Lupin"
-group: ["pea","spike"]
+group: "pea"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/34917463603"
 license: "CC BY-NC"
@@ -16,3 +16,7 @@ Different species of Lupin are found in many parts of North America, particularl
 Lupin grows well in moist or sandy soils in open areas and flowers from **May** to **June**. Look for it along roadways in BC and Texas or in alpine meadows.
 
 **Did you know?** Lupin derives its name from the Latin word for wolf because it was believed that the plant wolfed or robbed the soil of nutrients. In fact, Lupin improves the soil by adding nitrogen and organic matter.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Golden Bean](/plants/goldbean)
