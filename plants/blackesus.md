@@ -18,4 +18,5 @@ Black-eyed Susan has large (up to 3 in across) **flowers** with 10-20 **yellow**
 <!-- generated, do not edit -->
 **See Also:**
 [Aster](/plants/aster),
-[Gaillardia](/plants/gaillard)
+[Gaillardia](/plants/gaillard),
+[Philadelphia Fleabane](/plants/philflea)

@@ -1,16 +1,16 @@
 ---
 name: "Plains Prickly Pear Cactus"
 group: "cactus"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/29168386145"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [desert,grassland]
 ---
-Plains Prickly Pear Cactus forms a **low mound** (1-2 ft tall) of flat, green, fleshy, **oval pads** with clusters of large needle-like **spines** and small hair-like **prickles**. The bright yellow, papery **flowers** have several layers of petals. The petals often have an apricot tinge and may fade to dusty red. 
+Plains Prickly Pear Cactus forms a **low mound** (1-2 ft tall) of flat, green, fleshy, **oval pads** with clusters of large needle-like **spines** and small hair-like **prickles**. The bright yellow, papery **flowers** have several layers of petals. The petals often have an apricot tinge and may fade to dusty red.
 
-Plains Prickly Pear Cactus can be found in dry grasslands, badlands, and eroded areas from British Columbia, Alberta, and Saskatchewan south to California, Arizona, New Mexico, and Texas. 
+Plains Prickly Pear Cactus can be found in dry grasslands, badlands, and eroded areas from British Columbia, Alberta, and Saskatchewan south to California, Arizona, New Mexico, and Texas.
 
 The **fruit** are small (1-2 in long) and oval, ranging in colour from yellowish-green to red or purple, and are filled with flat, disc-shaped **seeds**. The fruit (tuna) and pads are edible and for sale in southern regions of the United States.
 
