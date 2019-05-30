@@ -18,4 +18,4 @@ Pincushion Cactus grows well in hot, dry, sandy, or rocky places from southern A
 
 <!-- generated, do not edit -->
 **See Also:**
-[Plains Prickly Pear Cactus](/plants/plaincac)
+[Prickly Pear Cactus](/plants/prpcac)
