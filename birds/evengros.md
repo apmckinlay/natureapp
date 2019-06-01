@@ -10,7 +10,7 @@ habitat: [forest,mountain,urban]
 ---
 Evening Grosbeak flock to **bird feeders** and **trees with berries** in winter. **Males** are yellow and black with a large white patch on their wings. **Females** and **young birds** are light gray with a yellow collar and small white patches on their wings and tail. They're **chunky** birds (6.3-7.1 in).
 
-Evening Grosbeak eat **insect larvae** in the summer and **seeds**, **buds**, **berries**, and **small frui**t in winter.
+Evening Grosbeak eat **insect larvae** in the summer and **seeds**, **buds**, **berries**, and **small fruit** in winter.
 
 Evening Grosbeak can be found **year-round** in BC, northern AB, SK, and MB, eastern Canada, and the western mountainous areas of the United States. In **winter**, they can be found on the southern Prairies and most parts of the United States. Large flocks occasionally travel south in **winter** looking for food.
 
