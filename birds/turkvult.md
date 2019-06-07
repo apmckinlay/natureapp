@@ -7,7 +7,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [desert,forest,grassland,mountain]
 ---
-Turkey Vulture are large (25-32 in) dark brown birds with long, broad wings (66-70 in wingspan), a **small, featherless red head**, and a **white-tipped bil**l. The underside of their **wings** is **dark** with a wide **white** border. They hold their **wings slightly raised in a "v"** and fly in wobbly circles.
+Turkey Vulture are large (25-32 in) dark brown birds with long, broad wings (66-70 in wingspan), a **small, featherless red head**, and a **white-tipped bill**. The underside of their **wings** is **dark** with a wide **white** border. They hold their **wings slightly raised in a "v"** and fly in wobbly circles.
 
 Turkey Vulture eat dead animals and are common near roadsides, farm fields, and food sources such as landfills. They can be found **year-round** in the southern United States and in **summer** from southern British Columbia, Alberta, Saskatchewan, and Manitoba south to Arizona, Oklahoma, Ohio, New York, and Maine.
 
