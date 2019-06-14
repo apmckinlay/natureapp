@@ -1,6 +1,6 @@
 --- 
 name: "Wild Strawberry"
-group: “berry”
+group: "berry"
 attr: 
 attr_link: 
 license: 
