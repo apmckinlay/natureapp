@@ -1,6 +1,6 @@
 --- 
 name: "Tufted Fleabane"
-group: “daisy”
+group: "daisy"
 attr: 
 attr_link: 
 license: 
