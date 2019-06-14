@@ -8,7 +8,7 @@ license_link:
 location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: high 
-aka: ["Mexican Hat", “Thimbleflower”]
+aka: ["Mexican Hat", "Thimbleflower"]
 ---
 Prairie Coneflower’s **tall cone** (up to 1 ½ in) of dark tubular florets is surrounded at its base by 4-12 **backward-bending**, **yellow-orange petals**. It’s easy to understand why it’s also known as Mexican Hat and Thimbleflower. 
 
