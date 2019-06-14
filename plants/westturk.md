@@ -1,6 +1,6 @@
 --- 
 name: "Western Turkeybeard"
-group: “spike”
+group: "spike"
 attr: 
 attr_link: 
 license: 
