@@ -1,6 +1,6 @@
 --- 
 name: "Purple Prairie-clover"
-group: “spike”
+group: "spike"
 attr: 
 attr_link: 
 license: 
