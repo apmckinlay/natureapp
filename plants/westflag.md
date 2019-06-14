@@ -7,7 +7,7 @@ license_link:
 location: [bc,ab]
 habitat: [mountain]
 visibility:  
-aka: ["Rocky Mountain Iris", “Missouri Iris”]
+aka: ["Rocky Mountain Iris", "Missouri Iris"]
 ---
 Western Blue Flag can be found in **damp meadows** or **marshy** areas in the **mountainous** regions of British Columbia and Alberta as well as the northern and western United States.
 
