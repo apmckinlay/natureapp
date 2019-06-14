@@ -1,6 +1,6 @@
 --- 
 name: "Wild Licorice"
-group: “pea”
+group: "pea"
 attr: 
 attr_link: 
 license: 
