@@ -1,6 +1,6 @@
 --- 
 name: "Common Juniper"
-group: "berry,conifer,juniper"
+group: "conifer"
 attr: 
 attr_link: 
 license: 
