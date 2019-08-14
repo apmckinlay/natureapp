@@ -23,5 +23,5 @@ Prairie Sunflower is taller with larger flowers and more ray florets (petals) th
 [Black-eyed Susan](/plants/blackesus),
 [Gaillardia](/plants/gaillard),
 [Philadelphia Fleabane](/plants/philflea),
-[Prairie Coneflower](/plants/prairiecone),
+[Prairie Coneflower](/plants/pracone),
 [Tufted Fleabane](/plants/tuftflea)

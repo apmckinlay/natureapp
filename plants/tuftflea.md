@@ -15,7 +15,7 @@ Numerous narrow petals surround a flat yellow center with 1-3 flowers per stem. 
 
 [Philadelphia Fleabane](/plants/philflea) is similar but has a tall, single stem and clusters of small flowers. Fleabane blooms earlier than [Aster](/plants/aster) and has more petals. **Daisy** petals are notched.
 
-**Did you know?** Tufted Fleabane's roots contain a turpentine-like oil that protects the plant from disease and grazing animals. 
+**Did you know?** Tufted Fleabane's roots contain a turpentine-like oil that protects the plant from disease and grazing animals.
 
 <!-- generated, do not edit -->
 **See Also:**
@@ -23,5 +23,5 @@ Numerous narrow petals surround a flat yellow center with 1-3 flowers per stem. 
 [Black-eyed Susan](/plants/blackesus),
 [Gaillardia](/plants/gaillard),
 [Philadelphia Fleabane](/plants/philflea),
-[Prairie Coneflower](/plants/prairiecone),
-[Prairie Sunflower](/plants/prairiesun)
+[Prairie Coneflower](/plants/pracone),
+[Prairie Sunflower](/plants/prasun)

@@ -24,5 +24,5 @@ Prairie Coneflower is 10-24 in tall with multiple stiff, grooved **stems**. The 
 [Black-eyed Susan](/plants/blackesus),
 [Gaillardia](/plants/gaillard),
 [Philadelphia Fleabane](/plants/philflea),
-[Prairie Sunflower](/plants/prairiesun),
+[Prairie Sunflower](/plants/prasun),
 [Tufted Fleabane](/plants/tuftflea)

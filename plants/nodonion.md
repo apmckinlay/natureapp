@@ -13,6 +13,6 @@ Loose clusters (1.5-2 in across) of up to 40 small pinkish-white **flowers** nod
 
 The flower stalks nod when in flower but become erect when **seeds** form.
 
-Nodding Onion is less common than the [Prairie Onion](/plants/prairieonion). It also flowers later in the season and is much taller. The **Pink-flowered Onion** flowers in the same season and some of the same areas, but its flower head is erect and doesn’t nod. 
+Nodding Onion is less common than the [Prairie Onion](/plants/praonion). It also flowers later in the season and is much taller. The **Pink-flowered Onion** flowers in the same season and some of the same areas, but its flower head is erect and doesn’t nod. 
 
 **Did you know?** Bees visit the nodding flower heads. Other insects are reluctant to hang upside down to reach the nectar. Facing downwards may protect the nectar from rain.
