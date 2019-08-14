@@ -1,4 +1,4 @@
---- 
+---
 name: "Prairie Sunflower"
 group: "daisy"
 attr: 
@@ -13,6 +13,15 @@ The Prairie Sunflower is one of many different sunflowers that are native to Nor
 
 Prairie Sunflower is 1-3 ft high with many erect flower-bearing branches. It often grows in clumps and can be seen flowering along dry, sandy roadsides in **late summer**. It is common in most parts of the United States as well as Alberta, Saskatchewan, Manitoba, and Ontario.
 
-Prairie Sunflower is taller with larger flowers and more ray florets (petals) than Black-eyed Susan.
+Prairie Sunflower is taller with larger flowers and more ray florets (petals) than [Black-eyed Susan](/plants/blackesus).
 
 **Did you know?** Sunflower was a common crop of North American Indians as early as 3000 BC in modern-day Arizona and New Mexico. The plants provided dye, flour, and oil.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Aster](/plants/aster),
+[Black-eyed Susan](/plants/blackesus),
+[Gaillardia](/plants/gaillard),
+[Philadelphia Fleabane](/plants/philflea),
+[Prairie Coneflower](/plants/prairiecone),
+[Tufted Fleabane](/plants/tuftflea)

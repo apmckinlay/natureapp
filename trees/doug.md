@@ -1,4 +1,4 @@
---- 
+---
 name: "Douglas-fir"
 group: "conifer"
 attr: 
@@ -15,3 +15,11 @@ Douglas-fir is native to the Rocky Mountains and Pacific Northwest. Its **needle
 **Coast Douglas-fir** is found along the Pacific Northwest coast and is taller (up to 250 ft) and faster-growing than **Rocky Mountain Douglas-fir** (115-150 ft) found in the western mountains.
 
 **Did you know?** Douglas-fir isn’t a fir tree at all - hence the hyphen in its name. It’s a False Hemlock.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Common Juniper](/trees/comjun),
+[Engelmann Spruce](/trees/engel),
+[Jack Pine](/trees/jack),
+[Lodgepole Pine](/trees/lodge)

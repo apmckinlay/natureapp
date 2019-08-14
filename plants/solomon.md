@@ -1,4 +1,4 @@
---- 
+---
 name: "Solomon's Seal"
 attr: 
 attr_link: 

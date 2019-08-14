@@ -1,4 +1,4 @@
---- 
+---
 name: "Western Pasque Flower"
 attr: 
 attr_link: 
@@ -12,6 +12,6 @@ Western Pasque flowers appear soon after the snow melts in the sub-alpine meadow
 
 The **flowers** are creamy-white (1-2 in wide) with a pale blue stain on the underside of the petals. The **seed head** is formed of long, white, feathery strands resembling a mop on a 20-in stem.
 
-The Western Pasque Flower is related to the Prairie Crocus.
+The Western Pasque Flower is related to the [Prairie Crocus](/plants/prairiecrocus).
 
 **Did you know?** This plant is known by many different names, including Old Man of the Mountain, Moptop, and Tow-headed Baby.

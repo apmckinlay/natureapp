@@ -1,4 +1,4 @@
---- 
+---
 name: "Manitoba Maple"
 group: "maple"
 attr: 
@@ -16,6 +16,6 @@ The Manitoba Maple is often found along lakes and streams or in river floodplain
 
 The **flowers** appear as the leaves emerge forming small dangling clusters. In fall, you’ll spot bunches of light brown, winged **seed pods** that spin in the air like helicopters when they fall.
 
-Look for Boxelder Bugs at the base of Manitoba Maples. The small newly-hatched red bugs are particularly noticeable. 
+Look for [Boxelder Bugs](/insects/boxelder) at the base of Manitoba Maples. The small newly-hatched red bugs are particularly noticeable. 
 
 **Did you know?** Manitoba Maple seeds are an important food source for many small mammals and birds.

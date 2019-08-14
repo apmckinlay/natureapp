@@ -1,4 +1,4 @@
---- 
+---
 name: "Red Osier Dogwood"
 group: "dogwood"
 attr: 
@@ -13,6 +13,10 @@ Red Osier Dogwood is a many-branched **shrub** about 6 ft tall. Its **red** stem
 
 Red Osier Dogwood grows throughout North America except for the southeastern United States. It grows well in damp areas (ditches, ravines, stream beds).
 
-There are 30-60 species in the Dogwood family identified by their flowers, fruit, and bark. The Pacific Dogwood is a common tree in British Columbia.
+There are 30-60 species in the Dogwood family identified by their flowers, fruit, and bark. The [Pacific Dogwood](/trees/pacdog) is a common tree in British Columbia.
 
 **Did you know?** Red Osier Dogwood can be used for basket weaving.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Pacific Dogwood](/trees/pacdog)

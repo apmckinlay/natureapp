@@ -1,4 +1,4 @@
---- 
+---
 name: "Pacific Dogwood"
 group: "dogwood"
 attr: 
@@ -16,3 +16,7 @@ Clusters of red **berries** appear in the autumn, and the leaves turn pinkish-re
 Pacific Dogwood is a **medium-sized** tree (50-65 ft tall) and may look like a bush as it can have more than one main trunk. It has oval **leaves** with pointed tips (2-4 in long) in opposite pairs and smooth gray **bark**.
 
 **Did you know?** Birds, beavers, and bears feast on the berries while deer nibble on the young twigs.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Red Osier Dogwood](/trees/reddog)

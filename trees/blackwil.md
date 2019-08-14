@@ -1,4 +1,4 @@
---- 
+---
 name: "Black Willow"
 group: "willow"
 attr: 
@@ -15,6 +15,10 @@ The **leaves** are long  (up to 5 in), narrow, green on both sides, and pointed 
 
 Black Willow can be found from New Brunswick to Manitoba and south to Florida and Texas.
 
-Peachleaf Willow, found from Quebec to British Columbia and south into the United States, is very similar to Black Willow. Peachleaf Willow’s leaves are slightly wider and whitish-green underneath. Its twigs are fairly flexible, while Black Willow’s twigs snap easily.
+[Peachleaf Willow](/trees/peachwil), found from Quebec to British Columbia and south into the United States, is very similar to Black Willow. [Peachleaf Willow](/trees/peachwil)’s leaves are slightly wider and whitish-green underneath. Its twigs are fairly flexible, while Black Willow’s twigs snap easily.
 
 **Did you know?** More than 100 species of Willow are native to North America. The majority grow in moist soil and have flexible branches. Most are shrubs or dwarf trees.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Peachleaf Willow](/trees/peachwil)

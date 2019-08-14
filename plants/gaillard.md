@@ -22,4 +22,7 @@ Gaillardia is found in **dry**, **sunny** spots (such as roadsides) throughout w
 **See Also:**
 [Aster](/plants/aster),
 [Black-eyed Susan](/plants/blackesus),
-[Philadelphia Fleabane](/plants/philflea)
+[Philadelphia Fleabane](/plants/philflea),
+[Prairie Coneflower](/plants/prairiecone),
+[Prairie Sunflower](/plants/prairiesun),
+[Tufted Fleabane](/plants/tuftflea)

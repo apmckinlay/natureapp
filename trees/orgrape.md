@@ -1,4 +1,4 @@
---- 
+---
 name: "Oregon Grape"
 group: "berry"
 attr: 
@@ -17,3 +17,13 @@ Oregon Grape can be found at low to middle elevations in mountainous areas in th
 **Tall Oregon Grape** grows up to 8 ft tall in sunny areas. **Dwarf Oregon Grape** (1-3 ft tall) forms a ground cover in shady areas. **Creeping Oregon Grape** (12-18 in tall) has leaves that are more rounded.
 
 **Did you know?** Oregon Grape berries are sour and contain large seeds but can be used to make jelly.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Bearberry](/trees/bear),
+[Blackberry](/trees/black),
+[Chokecherry](/trees/choke),
+[Elderberry](/trees/elder),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck)

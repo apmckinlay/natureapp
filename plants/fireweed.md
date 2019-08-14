@@ -21,4 +21,6 @@ Fireweed flowers from **June** to **September** in open meadows, along streams o
 [Camas](/plants/camas),
 [False Solomon's Seal](/plants/falsesol),
 [Goldenrod](/plants/goldrod),
-[Indian Paintbrush](/plants/indian)
+[Indian Paintbrush](/plants/indian),
+[Purple Prairie-clover](/plants/pupclover),
+[Western Turkeybeard](/plants/westturk)

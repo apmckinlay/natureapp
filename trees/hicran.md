@@ -1,4 +1,4 @@
---- 
+---
 name: "Highbush Cranberry"
 group: "berry"
 attr: 
@@ -16,3 +16,13 @@ The flat, umbrella-shaped clusters of white **flowers** can be seen from May to 
 There are several varieties of Highbush Cranberry across North America. Some are more edible when cooked than others.
 
 **Did you know?** Highbush Cranberry belongs to the Honeysuckle family and is not actually a cranberry, unlike the true Lowbush Cranberry.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Bearberry](/trees/bear),
+[Blackberry](/trees/black),
+[Chokecherry](/trees/choke),
+[Elderberry](/trees/elder),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape)

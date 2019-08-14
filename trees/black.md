@@ -1,4 +1,4 @@
---- 
+---
 name: "Blackberry"
 group: "berry"
 attr: 
@@ -16,3 +16,13 @@ The **Pacific** or **Trailing Blackberry** is native to the Pacific Northwest wi
 The **Himalayan Blackberry**, also common in the Pacific Northwest, is an introduced species. It is more upright and maintains its leaves all year round. The **Allegheny Blackberry** is common in central and eastern North America and forms an erect shrub.
 
 **Is it a Blackberry or a Black Raspberry?** Raspberry fruit is hollow while Blackberries keep their core and have a white centre. The underside of Black Raspberry leaves is almost white, much lighter than the underside of Blackberry leaves.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Bearberry](/trees/bear),
+[Chokecherry](/trees/choke),
+[Elderberry](/trees/elder),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape)

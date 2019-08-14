@@ -1,4 +1,4 @@
---- 
+---
 name: "Labrador Tea"
 attr: 
 attr_link: 
@@ -14,6 +14,6 @@ Labrador Tea can be found in swamps, muskeg, and moist coniferous forests throug
 
 Clusters of small white **flowers** appear at the tips of branches from May to June.
 
-Labrador Tea bears some similarities to Bog Rosemary, but Bog Rosemary leaves are very narrow with sharp points.
+Labrador Tea bears some similarities to [Bog Rosemary](/plants/bogrose), but [Bog Rosemary](/plants/bogrose) leaves are very narrow with sharp points.
 
 **Did you know?** Labrador Tea was a popular hot drink among North American Indigenous tribes.

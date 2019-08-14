@@ -1,4 +1,4 @@
---- 
+---
 name: "Jack Pine"
 group: "conifer"
 attr: 
@@ -13,6 +13,14 @@ Jack Pine (15-65 ft) is the most widely distributed tree in Canada and is also c
 
 Jack Pine has short **needles** in bunches of two that are spread apart in a V. The **cones** point forward along the branch or curl around it.
 
-Jack Pine needle bunches are v-shaped and less prickly than **Scots Pine**. Lodgepole Pine also has bunches of two needles, but the cones have prickles at the tip and grow at right angles to the branch or face back towards the trunk. However, Lodgepole Pine hybridizes freely with Jack Pine so you may see variations.
+Jack Pine needle bunches are v-shaped and less prickly than **Scots Pine**. [Lodgepole Pine](/trees/lodge) also has bunches of two needles, but the cones have prickles at the tip and grow at right angles to the branch or face back towards the trunk. However, [Lodgepole Pine](/trees/lodge) hybridizes freely with Jack Pine so you may see variations.
 
 **Did you know?** Most Jack Pine cones are sealed with a special resin and only open to release their seeds during a forest fire or in very hot sunlight.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Common Juniper](/trees/comjun),
+[Douglas-fir](/trees/doug),
+[Engelmann Spruce](/trees/engel),
+[Lodgepole Pine](/trees/lodge)

@@ -1,4 +1,4 @@
---- 
+---
 name: "Bur Oak"
 group: "oak"
 attr: 
@@ -13,3 +13,7 @@ Bur Oak can be found farther north than any other American oak. It has a straigh
 The **leaves** are 6-12 in long with deep, irregular lobes. The large **acorns** have cups with a fringed border and provide food for many mammals and birds including white-tailed deer, red squirrels, ducks, and various species of rodents.
 
 **Did you know?** Bur Oak can resist forest fires thanks to its very thick bark. It can also tolerate drought as it has very deep roots.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Garry Oak](/trees/garry)

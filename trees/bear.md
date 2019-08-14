@@ -1,4 +1,4 @@
---- 
+---
 name: "Bearberry"
 group: "berry"
 attr: 
@@ -14,6 +14,16 @@ Bearberry is a **low-lying** shrub with long branches carpeting the ground. It h
 
 Drooping clusters of small, pinkish-white, urn-shaped **flowers** appear in May-June and are followed by bright red **berries** (less than ½ in in diameter) that remain on the branch year-round.
 
-Bearberry is related to Manzanita trees and shrubs such as Arbutus.
+Bearberry is related to Manzanita trees and shrubs such as [Arbutus](/trees/arbutus).
 
 **Did you know?** The berries provide food for bears and birds. North America’s Indigenous people would dry and smoke the leaves.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Blackberry](/trees/black),
+[Chokecherry](/trees/choke),
+[Elderberry](/trees/elder),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape)

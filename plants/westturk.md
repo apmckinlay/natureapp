@@ -1,4 +1,4 @@
---- 
+---
 name: "Western Turkeybeard"
 group: "spike"
 attr: 
@@ -17,3 +17,13 @@ A single, erect **stem** (20-60 in) grows from a large clump of curving, grass-l
 **Eastern Turkeybeard**, only found in the southeastern United States, is a smaller plant with smaller flowers.  **Sacahuista** (Nolina Microcarpa), also known as Beargrass, grows in the dry deserts of Arizona, New Mexico, and southwestern Utah.
 
 **Did you know?** Western Turkeybeard flowers may have a lilac-like perfume.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Blazing Star](/plants/blazstar),
+[Camas](/plants/camas),
+[False Solomon's Seal](/plants/falsesol),
+[Fireweed](/plants/fireweed),
+[Goldenrod](/plants/goldrod),
+[Indian Paintbrush](/plants/indian),
+[Purple Prairie-clover](/plants/pupclover)

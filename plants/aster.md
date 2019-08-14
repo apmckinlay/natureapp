@@ -20,4 +20,7 @@ Many North American plants are commonly known as Aster; the height, flower color
 **See Also:**
 [Black-eyed Susan](/plants/blackesus),
 [Gaillardia](/plants/gaillard),
-[Philadelphia Fleabane](/plants/philflea)
+[Philadelphia Fleabane](/plants/philflea),
+[Prairie Coneflower](/plants/prairiecone),
+[Prairie Sunflower](/plants/prairiesun),
+[Tufted Fleabane](/plants/tuftflea)

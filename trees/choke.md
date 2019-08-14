@@ -1,4 +1,4 @@
---- 
+---
 name: "Chokecherry"
 group: "berry"
 attr: 
@@ -17,5 +17,15 @@ The **trunk** is sometimes twisted or crooked with smooth, grayish-brown **bark*
 
 Chokecherry leaves are widest above the middle of the leaf with a short pointed tip. **Pin Cherry** leaves are widest below the middle of the leaf and taper gradually to a point.
 
-**Did you know?** Bears pull Chokecherry to the ground and tear its branches apart in their eagerness to eat the fruit. Raccoons, chipmunks, mice, and birds also love the fruit but cause less damage. 
+**Did you know?** Bears pull Chokecherry to the ground and tear its branches apart in their eagerness to eat the fruit. [Raccoons](/animals/raccoon), chipmunks, mice, and birds also love the fruit but cause less damage. 
 
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Bearberry](/trees/bear),
+[Blackberry](/trees/black),
+[Elderberry](/trees/elder),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape)

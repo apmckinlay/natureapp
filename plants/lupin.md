@@ -19,4 +19,5 @@ Lupin grows well in moist or sandy soils in open areas and flowers from **May** 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Golden Bean](/plants/goldbean)
+[Golden Bean](/plants/goldbean),
+[Wild Licorice](/plants/wildlic)

@@ -1,4 +1,4 @@
---- 
+---
 name: "Engelmann Spruce"
 group: "conifer"
 attr: 
@@ -13,3 +13,11 @@ Engelmann Spruce is a **high-altitude** tree native to the Coast and Rocky Mount
 The four-sided bluish-green **needles** (1 in long) grow on all sides of the twigs. The light-brown **cones** (1½- 3 in long) hang down from the branches and have papery scales with a ragged outer edge. The reddish to purplish-brown **bark** is loose and scaly.
 
 **Did you know?** Sounding boards for violins, pianos, and guitars are often made with wood from Engelmann Spruce.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Common Juniper](/trees/comjun),
+[Douglas-fir](/trees/doug),
+[Jack Pine](/trees/jack),
+[Lodgepole Pine](/trees/lodge)

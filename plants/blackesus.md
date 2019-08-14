@@ -19,4 +19,7 @@ Black-eyed Susan has large (up to 3 in across) **flowers** with 10-20 **yellow**
 **See Also:**
 [Aster](/plants/aster),
 [Gaillardia](/plants/gaillard),
-[Philadelphia Fleabane](/plants/philflea)
+[Philadelphia Fleabane](/plants/philflea),
+[Prairie Coneflower](/plants/prairiecone),
+[Prairie Sunflower](/plants/prairiesun),
+[Tufted Fleabane](/plants/tuftflea)

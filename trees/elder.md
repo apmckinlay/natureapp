@@ -1,4 +1,4 @@
---- 
+---
 name: "Elderberry"
 group: "berry"
 attr: 
@@ -17,3 +17,13 @@ Elderberry grows along streams and roadsides and in moist woodlands. It’s ofte
 The flowers and ripe fruit are edible (when cooked), but be careful. Many plants in the carrot family have umbrella-shaped flower clusters, some of which (e.g. Water Hemlock) are poisonous.
 
 **Did you know?** Elderberry’s Latin name - Sambucus - refers to a Greek musical instrument as its stems can be hollowed out to make flutes and whistles.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Bearberry](/trees/bear),
+[Blackberry](/trees/black),
+[Chokecherry](/trees/choke),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape)

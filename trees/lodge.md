@@ -1,4 +1,4 @@
---- 
+---
 name: "Lodgepole Pine"
 group: "conifer"
 attr: 
@@ -12,6 +12,14 @@ Lodgepole Pine is the most common and abundant tree in the Rocky Mountains and f
 
 The **needles** are paired and often twisted, forming dense clusters at the ends of branches. The **cones** are small and egg-shaped with prickles at the tip. They grow in small clusters, either at right angles to the branch or facing back towards the trunk
 
-**Shore Pine** and Jack Pine also have bundles of two needles. **Shore Pine**, a variety of Lodgepole Pine, grows along the northern Pacific coast as a short, crooked tree. Jack Pine is widespread in northeastern North America, but the cones don’t have prickles and point forward along the branch or curl around it.
+**Shore Pine** and [Jack Pine](/trees/jack) also have bundles of two needles. **Shore Pine**, a variety of Lodgepole Pine, grows along the northern Pacific coast as a short, crooked tree. [Jack Pine](/trees/jack) is widespread in northeastern North America, but the cones don’t have prickles and point forward along the branch or curl around it.
 
 **Did you know?** In the spring, look for clusters of reddish-green male pollen cones at the tips of branches. The pollen is so abundant it can be seen in patches on lakes or forming a yellow line marking the water level on rocks along the shore.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Common Juniper](/trees/comjun),
+[Douglas-fir](/trees/doug),
+[Engelmann Spruce](/trees/engel),
+[Jack Pine](/trees/jack)

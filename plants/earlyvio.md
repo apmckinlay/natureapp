@@ -21,4 +21,5 @@ The bluish-purple **flowers** (¾ in across) have purple streaks on the 3 lower 
 **See Also:**
 [Crowfoot Violet](/plants/crowvio),
 [Downy Yellow Violet](/plants/downvio),
-[Northern Bog Violet](/plants/norbvio)
+[Northern Bog Violet](/plants/norbvio),
+[Western Canada Violet](/plants/westcanvio)

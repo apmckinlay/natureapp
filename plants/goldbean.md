@@ -18,4 +18,5 @@ Golden Bean often forms **large patches** due to running rootstock. It is most c
 
 <!-- generated, do not edit -->
 **See Also:**
-[Lupin](/plants/lupin)
+[Lupin](/plants/lupin),
+[Wild Licorice](/plants/wildlic)

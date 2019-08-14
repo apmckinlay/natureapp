@@ -20,4 +20,5 @@ The [Early Blue Violet](/plants/earlyvio) looks very similar but is shorter, has
 **See Also:**
 [Crowfoot Violet](/plants/crowvio),
 [Downy Yellow Violet](/plants/downvio),
-[Early Blue Violet](/plants/earlyvio)
+[Early Blue Violet](/plants/earlyvio),
+[Western Canada Violet](/plants/westcanvio)

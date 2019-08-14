@@ -13,7 +13,7 @@ Philadelphia Fleabane has tall, hairy, single **stems** (½-3 ft) with clusters 
 
 Philadelphia Fleabane grows best in sunny, moist conditions and can be found along roadsides, in fields, and in open woodlands across Canada and the United States.
 
-Tufted Fleabane is shorter than Philadelphia Fleabane with 1-3 larger flowers. Fleabane blooms earlier than [Aster](/plants/aster) and has more petals.
+[Tufted Fleabane](/plants/tuftflea) is shorter than Philadelphia Fleabane with 1-3 larger flowers. Fleabane blooms earlier than [Aster](/plants/aster) and has more petals.
 
 **Did you know?** The name may refer to the fact that people used to believe Fleabane repelled fleas. Or it may refer to the seeds, which are as small as fleas.
 
@@ -21,4 +21,7 @@ Tufted Fleabane is shorter than Philadelphia Fleabane with 1-3 larger flowers. F
 **See Also:**
 [Aster](/plants/aster),
 [Black-eyed Susan](/plants/blackesus),
-[Gaillardia](/plants/gaillard)
+[Gaillardia](/plants/gaillard),
+[Prairie Coneflower](/plants/prairiecone),
+[Prairie Sunflower](/plants/prairiesun),
+[Tufted Fleabane](/plants/tuftflea)

@@ -1,4 +1,4 @@
---- 
+---
 name: "Common Juniper"
 group: "conifer"
 attr: 
@@ -16,3 +16,11 @@ Common Juniper grows well on **dry**, **rocky** sites. It’s extremely hardy an
 Rocky Mountain Juniper is a tree and has scale-like needles in overlapping pairs.
 
 **Did you know?** Birds enjoy the fleshy covering on the cones and play an important role in propagating further plants as the seeds only germinate once the fleshy covering has dissolved.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Douglas-fir](/trees/doug),
+[Engelmann Spruce](/trees/engel),
+[Jack Pine](/trees/jack),
+[Lodgepole Pine](/trees/lodge)
