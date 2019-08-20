@@ -1,10 +1,10 @@
 ---
 name: "Prairie Sunflower"
 group: "daisy"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/15096923521"
+license: "CC BY NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [grassland]
 visibility: high 
