@@ -1,9 +1,9 @@
 ---
 name: "Solomon's Seal"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Ruth Hartnup"
+attr_link: "https://www.flickr.com/photos/ruthanddave/36304969"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [sk,mb]
 habitat: [forest]
 visibility: high 
@@ -14,4 +14,4 @@ Large oval **leaves** (2-6 in) zigzag up the long, arching **stem** (1-3 ft). Th
 
 The plant flowers from **late spring** to **early summer** with pairs of greenish-white, tube-shaped **flowers** dangling from the junction of leaves and stem. The green **berries** turn dark blue-violet when ripe.
 
-**Did you know?** False Solomon’s Seal has similar leaves, but the flower clusters develop at the tip of the stem, the flowers are small and star-like, and the berries are golden. 
+**Did you know?** False Solomon’s Seal has similar leaves, but the flower clusters develop at the tip of the stem, the flowers are small and star-like, and the berries are golden.
