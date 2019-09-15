@@ -17,6 +17,21 @@ Western Redcedar can live for up to 1000 years if left undisturbed and can repro
 
 **Yellow-cedar** is very similar but has drooping branches and very small (¼-½ in) berry-like cones that become brown and woody when mature. Redcedar’s bark comes off in long strips while Yellow-cedar’s gray-white to gray-brown bark flakes off in smaller sections.
 
-The needles and bark of Rocky Mountain Juniper are similar to those of Western Redcedar; however, Rocky Mountain Juniper has blue berry-like fruit while Western Redcedar has small, egg-like cones. 
+The needles and bark of [Rocky Mountain Juniper](/trees/rockyjun) are similar to those of Western Redcedar; however, [Rocky Mountain Juniper](/trees/rockyjun) has blue berry-like fruit while Western Redcedar has small, egg-like cones. 
 
 **Did you know?** This tree isn’t actually a cedar. True cedars are only found in the Mediterranean; however, other trees are given this name if they are very fragrant.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Common Juniper](/trees/comjun),
+[Douglas-fir](/trees/doug),
+[Engelmann Spruce](/trees/engel),
+[Jack Pine](/trees/jack),
+[Lodgepole Pine](/trees/lodge),
+[Rocky Mountain Juniper](/trees/rockyjun),
+[Spruce](/trees/spruce),
+[Tamarack](/trees/tam),
+[Western Hemlock](/trees/westhem),
+[Western Larch](/trees/westlarch),
+[Whitebark Pine](/trees/whbark)

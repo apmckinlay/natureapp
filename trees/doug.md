@@ -22,4 +22,11 @@ Douglas-fir is native to the Rocky Mountains and Pacific Northwest. Its **needle
 [Common Juniper](/trees/comjun),
 [Engelmann Spruce](/trees/engel),
 [Jack Pine](/trees/jack),
-[Lodgepole Pine](/trees/lodge)
+[Lodgepole Pine](/trees/lodge),
+[Western Redcedar](/trees/redcd),
+[Rocky Mountain Juniper](/trees/rockyjun),
+[Spruce](/trees/spruce),
+[Tamarack](/trees/tam),
+[Western Hemlock](/trees/westhem),
+[Western Larch](/trees/westlarch),
+[Whitebark Pine](/trees/whbark)

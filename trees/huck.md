@@ -21,7 +21,11 @@ Huckleberry flowers in early spring, bearing fruit in mid- to late summer. **Wes
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
 [Blackberry](/trees/black),
+[Silver Buffaloberry](/trees/buffalo),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
-[Oregon Grape](/trees/orgrape)
+[Oregon Grape](/trees/orgrape),
+[Snowberry](/trees/snow),
+[Saskatoon Berry](/trees/stoon),
+[Thimbleberry](/trees/thimble)

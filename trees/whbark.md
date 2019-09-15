@@ -17,4 +17,19 @@ Whitebark Pine is a long-lived species, often living for more than 500 years.
 
 **Limber Pine** is very similar in appearance, but the cones are larger (2.4-4.7 in long), green when immature, and open to release their seeds. **Western White Pine** has longer needles (2-4 in long) and cones (4-10 in). 
 
-**Did you know?** Whitebark Pine provides food and shelter for many birds and mammals. It has a special relationship with Clark’s Nutcracker. The bird uses its long, slender, curved beak to break open the cones and remove the seeds. It then buries the seeds for winter food, often forgetting where it has left them. Grizzly Bear then find and eat the seeds.
+**Did you know?** Whitebark Pine provides food and shelter for many birds and mammals. It has a special relationship with Clark’s Nutcracker. The bird uses its long, slender, curved beak to break open the cones and remove the seeds. It then buries the seeds for winter food, often forgetting where it has left them. [Grizzly Bear](/animals/grizzly) then find and eat the seeds.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Common Juniper](/trees/comjun),
+[Douglas-fir](/trees/doug),
+[Engelmann Spruce](/trees/engel),
+[Jack Pine](/trees/jack),
+[Lodgepole Pine](/trees/lodge),
+[Western Redcedar](/trees/redcd),
+[Rocky Mountain Juniper](/trees/rockyjun),
+[Spruce](/trees/spruce),
+[Tamarack](/trees/tam),
+[Western Hemlock](/trees/westhem),
+[Western Larch](/trees/westlarch)

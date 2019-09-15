@@ -23,4 +23,11 @@ Jack Pine needle bunches are v-shaped and less prickly than **Scots Pine**. [Lod
 [Common Juniper](/trees/comjun),
 [Douglas-fir](/trees/doug),
 [Engelmann Spruce](/trees/engel),
-[Lodgepole Pine](/trees/lodge)
+[Lodgepole Pine](/trees/lodge),
+[Western Redcedar](/trees/redcd),
+[Rocky Mountain Juniper](/trees/rockyjun),
+[Spruce](/trees/spruce),
+[Tamarack](/trees/tam),
+[Western Hemlock](/trees/westhem),
+[Western Larch](/trees/westlarch),
+[Whitebark Pine](/trees/whbark)

@@ -11,7 +11,7 @@ aka: ["Poplar", "Trembling Poplar", "Golden Aspen", "Mountain Aspen", "Quaking A
 ---
 Trembling Aspen is a slender tree (20-80 ft tall) with heart-shaped **leaves** that turn yellow in the fall. The leaf stem is flat and set at a 90-degree angle to the leaf, causing them to tremble in even a gentle breeze.
 
-Trembling Aspen has greenish-white **bark** with dark ridges on older trees. It often grows alongside Balsam Poplar and Birch.
+Trembling Aspen has greenish-white **bark** with dark ridges on older trees. It often grows alongside [Balsam Poplar](/trees/balpop) and [Birch](/trees/birch).
 
 Trembling Aspen is widely distributed throughout North America. It is found at higher altitudes in more southern areas and doesn’t grow in the Gulf Coast states. 
 

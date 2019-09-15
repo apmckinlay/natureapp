@@ -23,7 +23,11 @@ Oregon Grape can be found at low to middle elevations in mountainous areas in th
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
 [Blackberry](/trees/black),
+[Silver Buffaloberry](/trees/buffalo),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
-[Huckleberry](/trees/huck)
+[Huckleberry](/trees/huck),
+[Snowberry](/trees/snow),
+[Saskatoon Berry](/trees/stoon),
+[Thimbleberry](/trees/thimble)

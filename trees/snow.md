@@ -18,3 +18,17 @@ Snowberry can be found in most parts of Canada and the United States except for 
 **Wolfberry** (Buckbrush), a related species, is a small shrub (2-4 ft tall) found in dry western prairie areas. It has leathery, oval leaves and pinkish-white berries. **Mountain Snowberry** is a low-growing shrub (2-4 ft tall) with spreading, sometimes trailing, branches found in the western mountain ranges of Alberta and British Columbia south to California and New Mexico.
 
 **Did you know?** Snowberry is high in saponins and Indigenous people use to used it as a shampoo and antiperspirant.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Bearberry](/trees/bear),
+[Blackberry](/trees/black),
+[Silver Buffaloberry](/trees/buffalo),
+[Chokecherry](/trees/choke),
+[Elderberry](/trees/elder),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape),
+[Saskatoon Berry](/trees/stoon),
+[Thimbleberry](/trees/thimble)

@@ -12,4 +12,4 @@ Sagebrush is a woody **shrub** with hairy, silvery **leaves** that stay green al
 
 Sagebrush is usually found in cold deserts with sandy or powdery soil and has a sharp odor (turpentine and camphor), especially after it rains. 
 
-**Did you know?** Sagebrush provides food and habitat for many creatures, including Sage Grouse, Deer, Elk, Pronghorn, Bighorn Sheep, and Jack Rabbit.
+**Did you know?** Sagebrush provides food and habitat for many creatures, including Sage Grouse, Deer, [Elk](/animals/elk), [Pronghorn](/animals/pronghorn), [Bighorn Sheep](/animals/bighorn), and Jack Rabbit.

@@ -22,7 +22,11 @@ There are several varieties of Highbush Cranberry across North America. Some are
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
 [Blackberry](/trees/black),
+[Silver Buffaloberry](/trees/buffalo),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Huckleberry](/trees/huck),
-[Oregon Grape](/trees/orgrape)
+[Oregon Grape](/trees/orgrape),
+[Snowberry](/trees/snow),
+[Saskatoon Berry](/trees/stoon),
+[Thimbleberry](/trees/thimble)

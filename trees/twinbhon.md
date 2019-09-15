@@ -15,3 +15,7 @@ It has small tubular yellow **flowers** that bloom in pairs from June to July. T
 The bright green oval-shaped **leaves** (¾-1 ½ in wide) are hairy along the edges and underside.
 
 **Did you know?** Native Americans used the berries to dye hair and other materials.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Twining Honeysuckle](/trees/twihon)

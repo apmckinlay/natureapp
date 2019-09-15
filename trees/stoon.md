@@ -18,3 +18,17 @@ Deer, elk, and moose eat the tips of branches in winter and the leaves in summer
 The **berries** are sweet and a good source of Vitamin C. They can be eaten raw or cooked - Saskatoon Berry pie is very popular.  
 
 **Did you know?** Saskatoon Berry is known by many different names - Serviceberry, Juneberry, Shadbush, and Chuckley Pear.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Wild Strawberry](/plants/wildstraw),
+[Bearberry](/trees/bear),
+[Blackberry](/trees/black),
+[Silver Buffaloberry](/trees/buffalo),
+[Chokecherry](/trees/choke),
+[Elderberry](/trees/elder),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape),
+[Snowberry](/trees/snow),
+[Thimbleberry](/trees/thimble)

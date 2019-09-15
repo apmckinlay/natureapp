@@ -22,4 +22,11 @@ The **needles** are paired and often twisted, forming dense clusters at the ends
 [Common Juniper](/trees/comjun),
 [Douglas-fir](/trees/doug),
 [Engelmann Spruce](/trees/engel),
-[Jack Pine](/trees/jack)
+[Jack Pine](/trees/jack),
+[Western Redcedar](/trees/redcd),
+[Rocky Mountain Juniper](/trees/rockyjun),
+[Spruce](/trees/spruce),
+[Tamarack](/trees/tam),
+[Western Hemlock](/trees/westhem),
+[Western Larch](/trees/westlarch),
+[Whitebark Pine](/trees/whbark)

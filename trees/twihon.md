@@ -15,3 +15,7 @@ Clusters of yellow-orange trumpet-shaped **flowers** form between the pairs of l
 Twining Honeysuckle grows in woody or rocky areas. 
 
 **Did you know?** The trumpet-shaped flowers are popular with hummingbirds.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Twinberry Honeysuckle](/trees/twinbhon)

@@ -24,7 +24,11 @@ Chokecherry leaves are widest above the middle of the leaf with a short pointed 
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
 [Blackberry](/trees/black),
+[Silver Buffaloberry](/trees/buffalo),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
 [Huckleberry](/trees/huck),
-[Oregon Grape](/trees/orgrape)
+[Oregon Grape](/trees/orgrape),
+[Snowberry](/trees/snow),
+[Saskatoon Berry](/trees/stoon),
+[Thimbleberry](/trees/thimble)

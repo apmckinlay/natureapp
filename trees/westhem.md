@@ -16,3 +16,18 @@ The **needles** are short, flat, and of unequal length with a soft, feathery app
 **Mountain Hemlock** is less common and usually found at higher elevations. Its blue-green needles are all the same size and uniformly arranged around the twig; small clusters can appear star-like. Its cones are cylindrical and 2-3 times larger than those of Western Hemlock.
 
 **Did you know?** Western Hemlock has a very shallow root system. It can be blown over in a wind storm and is easily damaged by fire.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Balsam Fir](/trees/balfir),
+[Common Juniper](/trees/comjun),
+[Douglas-fir](/trees/doug),
+[Engelmann Spruce](/trees/engel),
+[Jack Pine](/trees/jack),
+[Lodgepole Pine](/trees/lodge),
+[Western Redcedar](/trees/redcd),
+[Rocky Mountain Juniper](/trees/rockyjun),
+[Spruce](/trees/spruce),
+[Tamarack](/trees/tam),
+[Western Larch](/trees/westlarch),
+[Whitebark Pine](/trees/whbark)
