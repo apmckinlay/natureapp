@@ -16,7 +16,7 @@ The marmots spend their days above ground where they lie in the sun and graze on
 
 Yellow-bellied Marmot are smaller than [Hoary Marmot](/animals/hoarymar) and usually live at lower elevations.
 
-**Did you know?** Yellow-bellied Marmots use noises to communicate. They whistle to alert the others of danger, scream when they’re scared or excited, and chatter their teeth as a threat.
+**Did you know?** Yellow-bellied Marmots use noises to communicate. They whistle to alert the others of danger, scream when they're scared or excited, and chatter their teeth as a threat.
 
 <!-- generated, do not edit -->
 **See Also:**
@@ -27,6 +27,6 @@ Yellow-bellied Marmot are smaller than [Hoary Marmot](/animals/hoarymar) and usu
 [Marten](/animals/marten),
 [Pika](/animals/pika),
 [Red-tailed Chipmunk](/animals/retchip),
-[Richardson’s Ground Squirrel](/animals/richgs),
+[Richardson's Ground Squirrel](/animals/richgs),
 [Weasel](/animals/weasel),
 [Yellow-pine Chipmunk](/animals/yelpchip)

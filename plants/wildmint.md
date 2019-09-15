@@ -12,4 +12,4 @@ You may smell Wild Mint before you spot it, especially if you brush past the pla
 
 Wild Mint can be found across North America from Alaska in the north to Texas in the south. It flowers from **July** to **September**.
 
-**Did you know?** Flies and wasps visit the flowers for nectar. However, the mint oil’s anti-bacterial properties may cause indigestion in cattle and livestock.
+**Did you know?** Flies and wasps visit the flowers for nectar. However, the mint oil's anti-bacterial properties may cause indigestion in cattle and livestock.

@@ -10,7 +10,7 @@ habitat: [forest,wetland]
 visibility: low
 aka: ["Fairy Slipper", "Venus Slipper"]
 ---
-If you’re hiking through a **pine forest** in the Canadian Rockies at higher elevations from **May** to **July**, you may see a Calypso Orchid. The single, showy **flower** on a long purple **stem** (4-8 in) can also be found in **damp forests** or **bogs** of eastern North America.
+If you're hiking through a **pine forest** in the Canadian Rockies at higher elevations from **May** to **July**, you may see a Calypso Orchid. The single, showy **flower** on a long purple **stem** (4-8 in) can also be found in **damp forests** or **bogs** of eastern North America.
 
 The Calypso Orchid does not grow well if disturbed and has been reduced to small colonies in remote locations.
 

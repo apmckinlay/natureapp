@@ -18,7 +18,7 @@ Other animals have learned to avoid skunks so that they will not be sprayed with
 
 **Spotted Skunk** have white blotches on their head and body and can be found across the continental United States and occasionally in southern British Columbia.
 
-**Did you know?** The Striped Skunk’s size (18-32 in from head to tail) and weight (1.5-13 lbs) can vary tremendously. They can lose up to 50% of their weight over the winter.
+**Did you know?** The Striped Skunk's size (18-32 in from head to tail) and weight (1.5-13 lbs) can vary tremendously. They can lose up to 50% of their weight over the winter.
 
 <!-- generated, do not edit -->
 **See Also:**

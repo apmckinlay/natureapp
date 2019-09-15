@@ -13,4 +13,4 @@ Shrubby Cinquefoil flowers from **June** to **September**. The yellow **flowers*
 
 Related bushes with flowers of various colors (white, pink, red) are often grown in home gardens. 
 
-**Did you know?** Stands of Shrubby Cinquefoil provide cover for mule deer, game birds, and small mammals. They’re an important nesting site for songbirds.
+**Did you know?** Stands of Shrubby Cinquefoil provide cover for mule deer, game birds, and small mammals. They're an important nesting site for songbirds.

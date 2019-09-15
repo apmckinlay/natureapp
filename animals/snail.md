@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,ocean,urban,wetland]
 visibility: easy
 ---
-**Land** snails, **freshwater** snails, and **sea** snails are found throughout North America. They have a **soft body** protected by a **hard shell** and can vary tremendously in size, from less than an inch to 12 inches. They retreat into their shell when disturbed or in hot weather to prevent their body from drying out. They are most active at night or on cloudy days and prefer moist, cool conditions. They hibernate when it’s cold.
+**Land** snails, **freshwater** snails, and **sea** snails are found throughout North America. They have a **soft body** protected by a **hard shell** and can vary tremendously in size, from less than an inch to 12 inches. They retreat into their shell when disturbed or in hot weather to prevent their body from drying out. They are most active at night or on cloudy days and prefer moist, cool conditions. They hibernate when it's cold.
 
 Snails move by expanding and contracting muscles in the **flat foot** under their body. They also secrete **slime** to make it easier to slide along the ground. They usually eat plants, but some of the larger snails eat other animals. Thousands of tiny tooth-like structures on their ribbon-like tongue rip food apart.
 

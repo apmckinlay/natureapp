@@ -10,7 +10,7 @@ habitat: [forest,grassland,mountain]
 visibility: high 
 aka: ["Prairie Fire"]
 ---
-Indian Paintbrush produces clusters of spiky, bright red or orange-yellow blooms at the tip of the stem. The **flowers** themselves are hard to spot; it’s the bracts that are brightly colored. 
+Indian Paintbrush produces clusters of spiky, bright red or orange-yellow blooms at the tip of the stem. The **flowers** themselves are hard to spot; it's the bracts that are brightly colored. 
 
 There are many different varieties of Indian Paintbrush that can be found throughout North America. Height varies from 6 in to 3 ft, depending on the species. The plant often forms a cluster of individual, erect **stems**. The **leaves** are long, narrow, and pointed.
 

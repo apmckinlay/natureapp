@@ -14,4 +14,4 @@ The drooping bell-like **flowers** have 5 upward spurred petals (1-2 in) around 
 
 **Garden Columbine** comes in a wider range of colours, such as pink and blue, and is not native to North America.
 
-**Did you know?** The spurred petals are said to resemble eagle talons, hence the Columbine’s official name, Aquilegia, from the Latin word aquila meaning eagle. 
+**Did you know?** The spurred petals are said to resemble eagle talons, hence the Columbine's official name, Aquilegia, from the Latin word aquila meaning eagle. 

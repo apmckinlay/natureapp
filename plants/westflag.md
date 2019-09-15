@@ -15,4 +15,4 @@ The tall, slim **stems** (1-2 ft) bear 1-4 **flowers** with 9 petal-like segment
 
 The rectangular **seed pod** (¾-2 in long) splits open on 3 sides when ripe, releasing dark brown seeds.
 
-**Did you know?** Western Blue Flag is widespread in the western United States but has a very limited distribution in Canada, primarily along the southeastern edge of the Rocky Mountains. It is Alberta’s only native iris.
+**Did you know?** Western Blue Flag is widespread in the western United States but has a very limited distribution in Canada, primarily along the southeastern edge of the Rocky Mountains. It is Alberta's only native iris.

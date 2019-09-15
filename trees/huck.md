@@ -12,7 +12,7 @@ Huckleberry is a name given to various small shrubs bearing red, blue, or black 
 
 There are both **evergreen** and **deciduous** varieties. The  bushes (1-6 ft tall)  have small, rounded oval **leaves** that are often thick and leathery. 
 
-Huckleberry flowers in early spring, bearing fruit in mid- to late summer. **Western Huckleberry** has single, intensely flavorful berries that dangle below the leaves on new shoots. **Eastern Huckleberry** has clusters of berries. **Blueberry** has clusters of fruit on old growth and can be commercialized, whereas Huckleberry can’t.
+Huckleberry flowers in early spring, bearing fruit in mid- to late summer. **Western Huckleberry** has single, intensely flavorful berries that dangle below the leaves on new shoots. **Eastern Huckleberry** has clusters of berries. **Blueberry** has clusters of fruit on old growth and can be commercialized, whereas Huckleberry can't.
 
 **Did you know?** A good place to look for Western Huckleberry is in clearcuts on lower mountain slopes.
 

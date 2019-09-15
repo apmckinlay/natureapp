@@ -1,5 +1,5 @@
 ---
-name: "Richardson’s Ground Squirrel"
+name: "Richardson's Ground Squirrel"
 group: "rodent"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/26761392767"

@@ -17,7 +17,7 @@ Four-sided **needles** are arranged in a spiral around the stem. The needles are
 
 Spruce needles are shorter than **Pine** needles. **Fir** branches look flat as the needles grow out of two sides of the branch; Spruce needles grow on all sides of the branch.
 
-**Did you know?** Young green tips, the tree’s new spring growth, can be used to make tea.
+**Did you know?** Young green tips, the tree's new spring growth, can be used to make tea.
 
 <!-- generated, do not edit -->
 **See Also:**

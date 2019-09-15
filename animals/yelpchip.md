@@ -25,6 +25,6 @@ Yellow-pine Chipmunk (7-9 in long) are brown to cinnamon in color with 5 dark st
 [Marten](/animals/marten),
 [Pika](/animals/pika),
 [Red-tailed Chipmunk](/animals/retchip),
-[Richardson’s Ground Squirrel](/animals/richgs),
+[Richardson's Ground Squirrel](/animals/richgs),
 [Weasel](/animals/weasel),
 [Yellow-bellied Marmot](/animals/yelbelmar)
