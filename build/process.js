@@ -20,6 +20,8 @@ process('trees/');
 
 function process(dir) {
     forEachFile(dir, gatherInfo);
+    console.log(name2id["Solomon's Seal"] + " = " + id2name['solomon'])
+    console.log(name2id["False Solomon's Seal"] + " = " + id2name['falsesol'])
     forEachFile(dir, updateFiles);
 }
 
@@ -93,14 +95,22 @@ function namesToLinks(id, content) {
     let front = content.slice(0, i);
     content = content.slice(i);
     
+    // remove old links
     let rx = /\[(.*?)\]\(.*?\)/g;
     content = content.replace(rx, "$1");
     
-    for (let [id2, name] of Object.entries(id2name)) {
+    names = Object.values(id2name)
+    names.sort(function (a, b) {
+        return b.length - a.length || a < b
+    });
+    
+    // add links
+    for (let name of names) {
+        id2 = name2id[name]
         if (id != id2 && content.includes(name)) {
-            let rx = RegExp('\\b_*(' + name + 's?)_*\\b', 'g');
+            let rx = RegExp('([^\\[]|^)\\b_*(' + name + 's?)_*\\b(?!])', 'g');
             content = content.replace(rx,
-                (str, name) => '[' + name + '](/' + id2path[id2] + ')');
+                (str, pre, name) => pre + '[' + name + '](/' + id2path[id2] + ')');
         }
     }
     return front + content;
