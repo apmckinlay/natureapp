@@ -104,14 +104,20 @@ function namesToLinks(id, content) {
         return b.length - a.length || a < b
     });
     
-    // add links
+    // change names to links
     for (let name of names) {
         id2 = name2id[name]
-        if (id != id2 && content.includes(name)) {
+        if (content.includes(name)) {
+            // Complicated by names that are a prefix/suffix of another.
+            // Still won't handle a name that is inside another.
             let rx = RegExp('([^\\[]|^)\\b_*(' + name + 's?)_*\\b(?!])', 'g');
             content = content.replace(rx,
                 (str, pre, name) => pre + '[' + name + '](/' + id2path[id2] + ')');
         }
     }
+    // remove links from current item
+    let name = id2name[id]
+    let rx2 = RegExp('\\[(' + name + 's?)\\]\\(/' + id2path[id] + '\\)', 'g')
+    content = content.replace(rx2, "$1")
     return front + content;
 }
