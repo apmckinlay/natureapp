@@ -16,3 +16,7 @@ Umbrella-shaped clusters of 15-30 small white bell-shaped **flowers** (1/4 in lo
 Nodding Wild Onion is taller, the flower stem is bent, and it flowers in mid-summer.
 
 **Did you know?** Unlike the domestic onion, the Prairie Onion has flat, solid (not hollow) leaves.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Nodding Onion](/plants/nodonion)
