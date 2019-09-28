@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
-visibility: high 
+visibility: high
 aka: ["Buffalo Bean"]
 ---
 Clusters of golden-yellow, pea-type **flowers** appear on the Golden Bean from **mid-May** to **early June**. The plant is 5-20 in tall and branching with clusters of 3 dark green **leaflets** as well as 2 large leaflets at the base of each stalk. Later in the year, you'll spot the grayish-brown, curved, flattened **seed pods**. Both the flowers and seeds are poisonous.

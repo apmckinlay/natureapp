@@ -1,12 +1,12 @@
 ---
 name: "Pacific Rhododendron"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc]
 habitat: [forest,mountain]
-visibility: high 
+visibility: high
 ---
 Pacific Rhododendron has thick, leathery evergreen **leaves** (3-8 in long). Clusters of pink bell-shaped **flowers** with wavy edges and 5 indentations bloom from **May** to **July**.
 

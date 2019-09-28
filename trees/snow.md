@@ -1,15 +1,15 @@
 ---
 name: "Snowberry"
 group: "berry"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
-visibility: high 
+visibility: high
 ---
-Snowberry has clusters of white, waxy **berries** that remain on the shrub and are easy to spot in winter. The **shrub** has multiple branches and is 2-6 ft tall. The opposite, oval **leaves** are up to 2 in long. 
+Snowberry has clusters of white, waxy **berries** that remain on the shrub and are easy to spot in winter. The **shrub** has multiple branches and is 2-6 ft tall. The opposite, oval **leaves** are up to 2 in long.
 
 Clusters of small, pinkish-white, bell-shaped **flowers** appear at the end of stems from mid-May to July. The flowers attract hummingbirds but are mostly pollinated by bees.
 

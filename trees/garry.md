@@ -1,10 +1,10 @@
 ---
 name: "Garry Oak"
 group: "oak"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc]
 habitat: [grassland,ocean]
 aka: ["Oregon White Oak"]

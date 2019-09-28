@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
-visibility: high 
+visibility: high
 ---
 Fireweed  is a **tall**, single-stemmed plant (4-9 ft) with long, narrow **leaves** (up to 8 in long) and a tall spike of 50 or more pink to purple **flowers**. The flowers wither quickly and are replaced by long, narrow, purplish-red **pods** containing 300-500 seeds. The **seeds**, with their tuft of white hair, are readily picked up by the wind when the pod splits open.
 

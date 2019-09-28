@@ -1,13 +1,13 @@
 ---
 name: "Western Larch"
 group: "conifer"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab]
 habitat: [forest]
-visibility: high 
+visibility: high
 ---
 Western Larch has bunches of 15-30 light green, feathery **needles** (less than 2 in long) at the end of short spurs. The needles turn bright yellow before dropping in autumn. The tree is up to 150-200 ft tall and 4-7 ft in diameter. The first **branches** are often 50 ft up the tree. It is found in moist locations on northern mountain slopes and valley bottoms.
 

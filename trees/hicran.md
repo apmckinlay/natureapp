@@ -1,13 +1,13 @@
 ---
 name: "Highbush Cranberry"
 group: "berry"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
-visibility: high 
+visibility: high
 ---
 Highbush Cranberry grows in moist areas of North America's boreal forest. A large **shrub** - 8-15 ft high and almost as wide - it has large (2-4 in long), 3-lobed **leaves** that resemble maple leaves but are more wrinkled. The leaves are glossy green in summer turning red in autumn.
 

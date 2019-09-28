@@ -7,7 +7,7 @@ license: "CC BY NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [grassland]
-visibility: high 
+visibility: high
 ---
 The Prairie Sunflower is one of many different sunflowers that are native to North America. It has large showy **flowers** (1½-3 in across) with 12-25 yellow ray petals surrounding a brown central disc. The central disc later forms a head of ¼ in brown **seeds** that are enjoyed by birds.
 

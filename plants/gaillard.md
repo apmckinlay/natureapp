@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
-visibility: high 
+visibility: high
 aka: ["Blanket Flower"]
 ---
 Gaillardia is a medium-sized plant (2-4 ft) with multiple individual **flower** stalks. Yellow, orange-red, or bi-colored ray florets surround a reddish-brown central disc (1.5-3 in across). Each ray floret has 3 lobes or prongs. Long **leaves** are arranged alternately along the hairy **stem**.

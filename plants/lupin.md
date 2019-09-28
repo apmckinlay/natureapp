@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk]
 habitat: [grassland,mountain]
-visibility: high 
+visibility: high
 ---
 Wild Lupin has tall, showy spikes of pea-like **flowers** (20 in). The **leaves**, formed of 6-11 leaflets radiating from a central point, are usually found at the base of the plant and are covered with soft, silver hairs. A hairy **seed pod** (2 in long) turns black when mature.
 

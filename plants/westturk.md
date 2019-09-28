@@ -1,13 +1,13 @@
 ---
 name: "Western Turkeybeard"
 group: "spike"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab]
 habitat: [mountain]
-visibility: low 
+visibility: low
 aka: ["Beargrass"]
 ---
 12 different plants are commonly called Beargrass, so it can get confusing. Western Turkeybeard (xerophyllum tenax) is found just **below the treeline** in the northwestern mountain ranges from British Columbia south to California and east to Alberta, Idaho, Montana, and Wyoming.

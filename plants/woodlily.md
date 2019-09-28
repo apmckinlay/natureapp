@@ -1,13 +1,13 @@
 ---
 name: "Wood Lily"
 group: "lily"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
-visibility: high 
+visibility: high
 aka: ["Prairie Lily","Western Red Lily"]
 ---
 The Wood Lily is a familiar sight on the grasslands and open woodlands of Canada and much of the United States. It flowers from **June** to **August** with groups of 1-3 bright orange **flowers** perched on top of a tall straight **stem** (up to 3 ft). The goblet-shaped flowers have 6 petals with purplish-brown spots at their base. Long, slender **leaves** alternate at the bottom of the stem and circle around it near the top

@@ -1,15 +1,15 @@
 ---
 name: "Tamarack"
 group: "conifer"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab,sk,mb]
 habitat: [mountain,wetland]
 aka: ["Eastern Larch"]
 ---
-Tamarack is found across Canada and in the northeastern United States. Unlike most conifers, its **needles** turn golden and drop in the fall, growing new greenish-blue needles every spring. The needles are 5-7 in long and grow in clusters of 15-25. 
+Tamarack is found across Canada and in the northeastern United States. Unlike most conifers, its **needles** turn golden and drop in the fall, growing new greenish-blue needles every spring. The needles are 5-7 in long and grow in clusters of 15-25.
 
 Tamarack is a thin, medium-sized tree (50-65 ft) with reddish-brown **bark** that becomes scaly as the tree ages. It is often found alongside Black [Spruce](/trees/spruce) in bogs or marshes or on cool, moist, north-facing slopes.
 

@@ -1,10 +1,10 @@
 ---
 name: "Lodgepole Pine"
 group: "conifer"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab,sk]
 habitat: [forest,mountain]
 ---

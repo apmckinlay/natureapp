@@ -7,7 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
-visibility: high 
+visibility: high
 ---
 Philadelphia Fleabane has tall, hairy, single **stems** (½-3 ft) with clusters of small, daisy-like flowers at the top of the stem. The white to pink **flowers** are ½-¾ in across with up to 100 thread-like petals surrounding a yellow disc. They flower from May to June. The flowers form fluffy **seed heads**. Hairy **leaves** are found at the base of the plant as well as along the stem.
 

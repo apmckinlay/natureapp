@@ -1,10 +1,10 @@
 ---
 name: "Hazelnut"
 group: "nut"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab,sk,mb]
 habitat: [forest]
 ---

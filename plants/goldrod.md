@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain,wetland]
-visibility: high 
+visibility: high
 ---
 You know that summer will soon be over when the Goldenrod flowers appear. Goldenrod has clusters of bright yellow **flowers** (shaped like a spike or a pyramid) at the top of a tall **stalk** with long, narrow green **leaves**. The plant's height varies from a few inches to over 6 ft, but 2-3 ft is common.
 

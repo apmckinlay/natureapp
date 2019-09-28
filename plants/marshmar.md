@@ -6,7 +6,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
-visibility: high 
+visibility: high
 ---
 Marsh Marigold's shiny yellow, saucer-shaped **flowers** brighten up shallow wetlands across Canada and much of the United States in **spring** and **early summer**. The name is somewhat confusing as the flowers resemble buttercups, not marigolds.
 

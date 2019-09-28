@@ -1,13 +1,13 @@
 ---
 name: "Oregon Grape"
 group: "berry"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab]
 habitat: [forest,mountain]
-visibility: high 
+visibility: high
 aka: ["Mahonia"]
 ---
 Oregon Grape has shiny green spiny **leaflets** that stay green all year round. Large clusters of small yellow **flowers** appear in the spring, turning to dark blue **berries** in late summer.

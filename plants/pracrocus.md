@@ -1,6 +1,6 @@
 ---
 name: "Prairie Crocus"
-group: 
+group:
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/17118685418"
 license: "CC BY NC"

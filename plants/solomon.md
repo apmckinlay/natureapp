@@ -6,7 +6,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [sk,mb]
 habitat: [forest]
-visibility: high 
+visibility: high
 ---
 Solomon's Seal (not to be confused with [False Solomon's Seal](/plants/falsesol)) can be found in **moist**, woodland areas throughout the eastern and midwestern United States and Canada.
 

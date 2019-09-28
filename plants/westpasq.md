@@ -1,9 +1,9 @@
 ---
 name: "Western Pasque Flower"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab]
 habitat: [mountain]
 aka: ["Western Anemone"]

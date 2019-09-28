@@ -1,17 +1,17 @@
 ---
 name: "Black Willow"
 group: "willow"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [mb]
 habitat: [wetland]
-visibility: high 
+visibility: high
 ---
 Black Willow is the largest native willow in North America (10-60 ft tall). It prefers moist sites, such as riverbanks, and tolerates seasonal flooding. It's a fast-growing tree with several trunks growing out from the root and an open crown.
 
-The **leaves** are long  (up to 5 in), narrow, green on both sides, and pointed at both ends. The dark gray-brown **bark** is deeply furrowed, while the **twigs** are light red and slender. Yellow-green **catkins** flower in March and April (later in northern areas). 
+The **leaves** are long  (up to 5 in), narrow, green on both sides, and pointed at both ends. The dark gray-brown **bark** is deeply furrowed, while the **twigs** are light red and slender. Yellow-green **catkins** flower in March and April (later in northern areas).
 
 Black Willow can be found from New Brunswick to Manitoba and south to Florida and Texas.
 

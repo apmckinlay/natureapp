@@ -1,13 +1,13 @@
 ---
 name: "Jack Pine"
 group: "conifer"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab,sk,mb]
 habitat: [forest]
-visibility: high 
+visibility: high
 ---
 Jack Pine (15-65 ft) is the most widely distributed tree in Canada and is also common in the northeastern United States. It grows well in poor soil and is often short, gnarled, and crooked when growing in shallow, rocky soil.
 

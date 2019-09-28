@@ -1,10 +1,10 @@
 ---
 name: "Engelmann Spruce"
 group: "conifer"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc,ab]
 habitat: [forest,mountain]
 ---

@@ -1,13 +1,13 @@
 ---
 name: "Blackberry"
 group: "berry"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr:
+attr_link:
+license:
+license_link:
 location: [bc]
 habitat: [forest,mountain,ocean,urban]
-visibility: high 
+visibility: high
 ---
 Blackberry bushes are very common in the Pacific Northwest. Up to 9 ft tall, they form **dense**, **thorny thickets** in sunny areas beside roads and streams or in fields and waste areas. They grow best in regions with cool temperatures and lots of moisture.
 

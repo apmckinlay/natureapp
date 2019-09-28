@@ -10,7 +10,7 @@ habitat: [forest,wetland]
 ---
 Wood Frog are **small** (1-3 in long), red or brown, with prominent **ridges** on their **back**, a **black mask** over the **eyes**, and a white belly. Some have a white stripe down their back. Wood Frog can change color very rapidly, turning dark when cold to absorb more heat.
 
-Wood Frog are widely distributed in **moist woodland areas** throughout **Canada** as well as **eastern** and **north-central United States**. They are the only frog found north of the Arctic Circle and are one of the few frogs found in **Alaska**.  
+Wood Frog are widely distributed in **moist woodland areas** throughout **Canada** as well as **eastern** and **north-central United States**. They are the only frog found north of the Arctic Circle and are one of the few frogs found in **Alaska**.
 
 The males make **small clucking sounds** during mating season. They females attach up to 2,000 eggs to underwater vegetation. The tadpoles eat plants, while the adults use their long, sticky tongue to help capture insects, spiders, slugs, worms, and snails.
 

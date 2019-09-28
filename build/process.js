@@ -94,16 +94,16 @@ function namesToLinks(id, content) {
     let i = content.indexOf("---", 4);
     let front = content.slice(0, i);
     content = content.slice(i);
-    
+
     // remove old links
     let rx = /\[(.*?)\]\(.*?\)/g;
     content = content.replace(rx, "$1");
-    
+
     names = Object.values(id2name)
     names.sort(function (a, b) {
         return b.length - a.length || a < b
     });
-    
+
     // change names to links
     for (let name of names) {
         id2 = name2id[name]
