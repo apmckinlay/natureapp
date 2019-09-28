@@ -20,8 +20,6 @@ process('trees/');
 
 function process(dir) {
     forEachFile(dir, gatherInfo);
-    console.log(name2id["Solomon's Seal"] + " = " + id2name['solomon'])
-    console.log(name2id["False Solomon's Seal"] + " = " + id2name['falsesol'])
     forEachFile(dir, updateFiles);
 }
 
