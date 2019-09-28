@@ -1,10 +1,10 @@
 ---
 name: "Tufted Fleabane"
 group: "daisy"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Andrey Zharkikh"
+attr_link: "https://www.flickr.com/photos/zharkikh/7627771196"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: high

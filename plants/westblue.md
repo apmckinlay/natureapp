@@ -1,9 +1,9 @@
 ---
 name: "Western Blue Flag"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Gail Hampshire"
+attr_link: "https://www.flickr.com/photos/gails_pictures/10267406234"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab]
 habitat: [mountain]
 visibility:

@@ -1,9 +1,9 @@
 ---
 name: "Western Pasque Flower"
-attr:
-attr_link:
-license:
-license_link:
+attr: "J Brew"
+attr_link: "https://www.flickr.com/photos/brewbooks/2676331867"
+license: "CC BY SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab]
 habitat: [mountain]
 aka: ["Western Anemone"]

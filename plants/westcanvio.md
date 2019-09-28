@@ -1,10 +1,10 @@
 ---
 name: "Western Canada Violet"
 group: “violet”
-attr:
-attr_link:
-license:
-license_link:
+attr: "Carol Jacobs-Carre"
+attr_link: "https://www.flickr.com/photos/carolannie/3531897071"
+license: "CC BY NC ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
 aka: ["Canadian White Violet", “Creepingroot Violet”, "Wood Violet"]
