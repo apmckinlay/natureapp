@@ -1,10 +1,10 @@
 ---
 name: "Western Turkeybeard"
 group: "spike"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/14929331906"
+license: "CC BY NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [mountain]
 visibility: low
