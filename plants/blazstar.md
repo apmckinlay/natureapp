@@ -18,10 +18,10 @@ Blazing Star (2-4 ft) grow in clumps in sunny areas. The grass-like **leaves** a
 
 <!-- generated, do not edit -->
 **See Also:**
+[Beargrass](/plants/beargras),
 [Camas](/plants/camas),
 [False Solomon's Seal](/plants/falsesol),
 [Fireweed](/plants/fireweed),
 [Goldenrod](/plants/goldrod),
 [Indian Paintbrush](/plants/indian),
-[Purple Prairie-clover](/plants/pupclover),
-[Western Turkeybeard](/plants/westturk)
+[Purple Prairie-clover](/plants/pupclover)

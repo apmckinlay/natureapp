@@ -17,10 +17,10 @@ Purple Prairie-clover flowers from **June** to **August** and can be found acros
 
 <!-- generated, do not edit -->
 **See Also:**
+[Beargrass](/plants/beargras),
 [Blazing Star](/plants/blazstar),
 [Camas](/plants/camas),
 [False Solomon's Seal](/plants/falsesol),
 [Fireweed](/plants/fireweed),
 [Goldenrod](/plants/goldrod),
-[Indian Paintbrush](/plants/indian),
-[Western Turkeybeard](/plants/westturk)
+[Indian Paintbrush](/plants/indian)

@@ -17,10 +17,10 @@ Fireweed flowers from **June** to **September** in open meadows, along streams o
 
 <!-- generated, do not edit -->
 **See Also:**
+[Beargrass](/plants/beargras),
 [Blazing Star](/plants/blazstar),
 [Camas](/plants/camas),
 [False Solomon's Seal](/plants/falsesol),
 [Goldenrod](/plants/goldrod),
 [Indian Paintbrush](/plants/indian),
-[Purple Prairie-clover](/plants/pupclover),
-[Western Turkeybeard](/plants/westturk)
+[Purple Prairie-clover](/plants/pupclover)
