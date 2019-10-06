@@ -1,10 +1,10 @@
 ---
 name: "Wood Lily"
 group: "lily"
-attr:
-attr_link:
-license:
-license_link:
+attr: "David Samson"
+attr_link: "https://www.flickr.com/photos/69003091@N00/23061089"
+license: "CC BY NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 visibility: high

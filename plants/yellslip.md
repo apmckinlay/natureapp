@@ -1,10 +1,10 @@
 ---
 name: "Yellow Lady's Slipper"
 group: "orchid"
-attr:
-attr_link:
-license:
-license_link:
+attr: "USFWS"
+attr_link: "https://www.flickr.com/photos/usfwsmtnprairie/14509203871"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,wetland]
 visibility: low

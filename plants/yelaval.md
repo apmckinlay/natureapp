@@ -1,10 +1,10 @@
 ---
 name: "Yellow Avalanche Lily"
 group: "lily"
-attr:
-attr_link:
-license:
-license_link:
+attr: "pfly"
+attr_link: "https://www.flickr.com/photos/pfly/187393912"
+license: "CC BY SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab]
 habitat: [mountain]
 visibility: high

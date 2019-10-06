@@ -1,10 +1,10 @@
 ---
 name: "Wild Strawberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "John Bebbington"
+attr_link: "https://www.flickr.com/photos/71183136@N08/7093083685"
+license: "CC BY NC SA"
+license_link: "https://creativecommons.org/licenses/by-nc-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 aka: ["Virginia Strawberry"]
