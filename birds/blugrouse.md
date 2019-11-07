@@ -1,6 +1,6 @@
 ---
 name: "Blue Grouse"
-aka: "Dusky Grouse, Sooty Grouse"
+aka: ["Dusky Grouse", "Sooty Grouse"]
 group: "grouse"
 attr: "S. King, US NPS"
 attr_link: "https://commons.wikimedia.org/wiki/File:Dendragapus_obscurus_NPS.jpg"
