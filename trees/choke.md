@@ -1,10 +1,10 @@
 ---
 name: "Chokecherry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Nadiatalent"
+attr_link: "https://commons.wikimedia.org/wiki/File:Prunus_virginiana_flowers.jpg"
+license: "public domain"
+license_link: "https://en.wikipedia.org/wiki/en:public_domain"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
 visibility: high

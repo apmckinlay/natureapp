@@ -8,6 +8,7 @@ license_link:
 location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: high
+aka: ["Bull Berry", "Thorny Buffaloberry"]
 ---
 Silver Buffaloberry (3-20 ft) is a thorny **shrub** with silvery-green **leaves**. The small yellow **flowers** bloom close to the stem and are inconspicuous. The shrub is often found growing along rivers and streams, especially on the northern Great Plains. It's slow to lose its leaves in autumn.
 

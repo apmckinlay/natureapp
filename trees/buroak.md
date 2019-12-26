@@ -1,10 +1,10 @@
 ---
 name: "Bur Oak"
 group: "oak"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Mary PK Burns"
+attr_link: "https://www.flickr.com/photos/maryburns/4581485909"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [grassland]
 ---

@@ -1,10 +1,10 @@
 ---
 name: "Black Willow"
 group: "willow"
-attr:
-attr_link:
-license:
-license_link:
+attr: "ecopunk"
+attr_link: "https://www.inaturalist.org/photos/57487138"
+license: "CC BY-NC"
+license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [mb]
 habitat: [wetland]
 visibility: high

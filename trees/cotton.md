@@ -1,9 +1,9 @@
 ---
 name: "Cottonwood"
-attr:
-attr_link:
-license:
-license_link:
+attr: "John"
+attr_link: "https://www.flickr.com/photos/johngiez-/4465251113"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,wetland]
 visibility: high
