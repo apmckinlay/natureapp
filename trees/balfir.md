@@ -1,10 +1,10 @@
 ---
 name: "Balsam Fir"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Wikipedia"
+attr_link: "https://en.wikipedia.org/wiki/Abies_balsamea#/media/File:Abies_balsamea_cones_Niapiskau_02.jpg"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/3.0"
 location: [ab,sk,mb]
 habitat: [forest]
 visibility: high

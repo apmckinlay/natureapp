@@ -1,14 +1,14 @@
 ---
 name: "Bearberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "J Brew"
+attr_link: "https://www.flickr.com/photos/brewbooks/14926892819"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
 visibility: high
-aka: ["Kinnikinnick"]
+aka: ["Kinnikinnick", "Pinemat Manzanita"]
 ---
 Bearberry is a **low-lying** shrub with long branches carpeting the ground. It has small (⅓-⅔ in long), leathery evergreen **leaves** and grows well in dry forests and exposed sandy areas with lots of sun in Canada, the northern United States, and the Rocky Mountains.
 

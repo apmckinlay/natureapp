@@ -1,9 +1,9 @@
 ---
 name: "Balsam Poplar"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Ryan Hodnett"
+attr_link: "https://www.inaturalist.org/photos/57110334"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/4.0"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 visibility: high

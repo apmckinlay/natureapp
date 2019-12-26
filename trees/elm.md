@@ -1,9 +1,9 @@
 ---
 name: "Elm"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Wikipedia"
+attr_link: "https://commons.wikimedia.org/wiki/File:American_Elm,_Western_Massachusetts_-_September_2016.jpg"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/4.0"
 location: [sk,mb]
 habitat: [forest,urban]
 visibility: high

@@ -1,10 +1,10 @@
 ---
 name: "Blackberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "chmod007"
+attr_link: "https://www.inaturalist.org/photos/7817299"
+license: "CC BY-NC"
+license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc]
 habitat: [forest,mountain,ocean,urban]
 visibility: high

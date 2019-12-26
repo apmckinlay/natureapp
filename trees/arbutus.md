@@ -1,9 +1,9 @@
 ---
 name: "Arbutus"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Lotus Johnson"
+attr_link: "https://www.flickr.com/photos/ngawangchodron/15376793403"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [ocean,urban]
 visibility: high
