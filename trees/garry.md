@@ -1,10 +1,10 @@
 ---
 name: "Garry Oak"
 group: "oak"
-attr:
-attr_link:
-license:
-license_link:
+attr: "J Brew"
+attr_link: "https://www.flickr.com/photos/brewbooks/178394483"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc]
 habitat: [grassland,ocean]
 aka: ["Oregon White Oak"]

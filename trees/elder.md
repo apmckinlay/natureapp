@@ -1,10 +1,10 @@
 ---
 name: "Elderberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Franco Folini"
+attr_link: "https://www.flickr.com/photos/livenature/4654531348"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: high

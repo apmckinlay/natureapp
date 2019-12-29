@@ -1,10 +1,10 @@
 ---
 name: "Engelmann Spruce"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Dave Powell USDAFS"
+attr_link: "https://commons.wikimedia.org/wiki/File:Picea_engelmannii_UGA1.jpg"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
 ---

@@ -1,10 +1,10 @@
 ---
 name: "Highbush Cranberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Steve Burt"
+attr_link: "https://www.flickr.com/photos/steveburt1947/2924902451"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 visibility: high
