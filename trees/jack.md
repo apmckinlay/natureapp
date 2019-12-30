@@ -1,10 +1,10 @@
 ---
 name: "Jack Pine"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "USDA FS"
+attr_link: "https://commons.wikimedia.org/wiki/File:Pinus_banksiana_cones.jpg"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/3.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: high

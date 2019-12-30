@@ -1,9 +1,9 @@
 ---
 name: "Linden"
-attr:
-attr_link:
-license:
-license_link:
+attr: "tghoward"
+attr_link: "https://www.inaturalist.org/photos/387083"
+license: "CC BY-NC"
+license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 visibility: high

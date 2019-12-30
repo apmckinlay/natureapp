@@ -1,10 +1,10 @@
 ---
 name: "Lodgepole Pine"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/8754296688"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk]
 habitat: [forest,mountain]
 ---
