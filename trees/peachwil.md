@@ -1,10 +1,10 @@
 ---
 name: "Peachleaf Willow"
 group: "willow"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Will Van Hemessen"
+attr_link: "https://www.inaturalist.org/photos/43255111"
+license: "CC BY-NC"
+license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high

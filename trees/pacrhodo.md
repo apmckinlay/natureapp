@@ -1,9 +1,9 @@
 ---
 name: "Pacific Rhododendron"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Walter Siegmund"
+attr_link: "https://commons.wikimedia.org/wiki/File:Rhododendron_macrophyllum_4861.JPG"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0"
 location: [bc]
 habitat: [forest,mountain]
 visibility: high

@@ -1,10 +1,10 @@
 ---
 name: "Pacific Dogwood"
 group: "dogwood"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/42047994744"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [forest,urban]
 visibility: high

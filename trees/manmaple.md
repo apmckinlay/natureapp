@@ -1,10 +1,10 @@
 ---
 name: "Manitoba Maple"
 group: "maple"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Denis Davydov"
+attr_link: "https://www.inaturalist.org/photos/43419526"
+license: "CC BY-NC"
+license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [urban,wetland]
 visibility: high

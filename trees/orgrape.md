@@ -1,10 +1,10 @@
 ---
 name: "Oregon Grape"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "sarahnwilson"
+attr_link: "https://www.inaturalist.org/photos/21080615"
+license: "CC BY-NC"
+license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
 visibility: high
