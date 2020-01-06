@@ -1,10 +1,10 @@
 ---
 name: "Saskatoon Berry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Travis Wiens"
+attr_link: "https://www.flickr.com/photos/traviswiens/3881729719"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain,urban]
 visibility: high

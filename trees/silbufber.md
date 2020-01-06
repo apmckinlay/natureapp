@@ -1,10 +1,10 @@
 ---
 name: "Silver Buffaloberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Johnida Dockens"
+attr_link: "https://www.flickr.com/photos/johnida/218639925"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: high

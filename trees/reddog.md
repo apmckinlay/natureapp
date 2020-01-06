@@ -1,10 +1,10 @@
 ---
 name: "Red Osier Dogwood"
 group: "dogwood"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Susannah Anderson"
+attr_link: "https://www.flickr.com/photos/wanderin_weeta/3004455623"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high

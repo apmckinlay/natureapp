@@ -1,9 +1,9 @@
 ---
 name: "Shrubby Cinquefoil"
-attr:
-attr_link:
-license:
-license_link:
+attr: "J Brew"
+attr_link: "https://www.flickr.com/photos/brewbooks/344087312"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,wetland]
 ---
