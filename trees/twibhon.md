@@ -1,10 +1,10 @@
 ---
 name: "Twinberry Honeysuckle"
 group: "honeysuckle"
-attr:
-attr_link:
-license:
-license_link:
+attr: "John Rusk"
+attr_link: "https://www.flickr.com/photos/john_d_rusk/14147883880"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 ---

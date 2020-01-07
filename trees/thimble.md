@@ -1,10 +1,10 @@
 ---
 name: "Thimbleberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Kirill Ignatyev"
+attr_link: "https://www.flickr.com/photos/bushman_k/14468178624"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [forest]
 visibility: high

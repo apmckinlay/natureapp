@@ -1,10 +1,10 @@
 ---
 name: "Snowberry"
 group: "berry"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Andrew Fogg"
+attr_link: "https://www.flickr.com/photos/ndrwfgg/262863429"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
 visibility: high
