@@ -20,14 +20,14 @@ Similar species are the Subalpine Fir which grows at higher elevations and the S
 <!-- generated, do not edit -->
 **See Also:**
 [Common Juniper](/trees/comjun),
-[Douglas-fir](/trees/doug),
+[Douglas-fir](/trees/dougfir),
 [Engelmann Spruce](/trees/engel),
 [Jack Pine](/trees/jack),
 [Lodgepole Pine](/trees/lodge),
-[Western Redcedar](/trees/redcd),
 [Rocky Mountain Juniper](/trees/rockyjun),
 [Spruce](/trees/spruce),
 [Tamarack](/trees/tam),
 [Western Hemlock](/trees/westhem),
-[Western Larch](/trees/westlarch),
+[Western Larch](/trees/westlar),
+[Western Redcedar](/trees/westred),
 [Whitebark Pine](/trees/whbark)

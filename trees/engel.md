@@ -18,13 +18,13 @@ The four-sided bluish-green **needles** (1 in long) grow on all sides of the twi
 **See Also:**
 [Balsam Fir](/trees/balfir),
 [Common Juniper](/trees/comjun),
-[Douglas-fir](/trees/doug),
+[Douglas-fir](/trees/dougfir),
 [Jack Pine](/trees/jack),
 [Lodgepole Pine](/trees/lodge),
-[Western Redcedar](/trees/redcd),
 [Rocky Mountain Juniper](/trees/rockyjun),
 [Spruce](/trees/spruce),
 [Tamarack](/trees/tam),
 [Western Hemlock](/trees/westhem),
-[Western Larch](/trees/westlarch),
+[Western Larch](/trees/westlar),
+[Western Redcedar](/trees/westred),
 [Whitebark Pine](/trees/whbark)

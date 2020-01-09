@@ -1,10 +1,10 @@
 ---
 name: "Western Hemlock"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "S. Rae"
+attr_link: "https://www.flickr.com/photos/35142635@N05/5474361145"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
 visibility: high
@@ -21,13 +21,13 @@ The **needles** are short, flat, and of unequal length with a soft, feathery app
 **See Also:**
 [Balsam Fir](/trees/balfir),
 [Common Juniper](/trees/comjun),
-[Douglas-fir](/trees/doug),
+[Douglas-fir](/trees/dougfir),
 [Engelmann Spruce](/trees/engel),
 [Jack Pine](/trees/jack),
 [Lodgepole Pine](/trees/lodge),
-[Western Redcedar](/trees/redcd),
 [Rocky Mountain Juniper](/trees/rockyjun),
 [Spruce](/trees/spruce),
 [Tamarack](/trees/tam),
-[Western Larch](/trees/westlarch),
+[Western Larch](/trees/westlar),
+[Western Redcedar](/trees/westred),
 [Whitebark Pine](/trees/whbark)

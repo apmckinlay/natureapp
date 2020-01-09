@@ -22,12 +22,12 @@ The clusters of red **berries** are sweeter and more edible (especially in jams 
 **See Also:**
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
-[Blackberry](/trees/black),
+[Blackberry](/trees/blackber),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
 [Huckleberry](/trees/huck),
 [Oregon Grape](/trees/orgrape),
+[Saskatoon Berry](/trees/saskber),
 [Snowberry](/trees/snow),
-[Saskatoon Berry](/trees/stoon),
 [Thimbleberry](/trees/thimble)

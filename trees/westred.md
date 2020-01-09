@@ -1,10 +1,10 @@
 ---
 name: "Western Redcedar"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Jon. D. Anderson"
+attr_link: "https://www.flickr.com/photos/jon_d_anderson/15330728010"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab]
 habitat: [forest]
 visibility: high
@@ -25,7 +25,7 @@ The needles and bark of [Rocky Mountain Juniper](/trees/rockyjun) are similar to
 **See Also:**
 [Balsam Fir](/trees/balfir),
 [Common Juniper](/trees/comjun),
-[Douglas-fir](/trees/doug),
+[Douglas-fir](/trees/dougfir),
 [Engelmann Spruce](/trees/engel),
 [Jack Pine](/trees/jack),
 [Lodgepole Pine](/trees/lodge),
@@ -33,5 +33,5 @@ The needles and bark of [Rocky Mountain Juniper](/trees/rockyjun) are similar to
 [Spruce](/trees/spruce),
 [Tamarack](/trees/tam),
 [Western Hemlock](/trees/westhem),
-[Western Larch](/trees/westlarch),
+[Western Larch](/trees/westlar),
 [Whitebark Pine](/trees/whbark)

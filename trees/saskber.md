@@ -23,12 +23,12 @@ The **berries** are sweet and a good source of Vitamin C. They can be eaten raw 
 **See Also:**
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
-[Blackberry](/trees/black),
-[Silver Buffaloberry](/trees/buffalo),
+[Blackberry](/trees/blackber),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
 [Huckleberry](/trees/huck),
 [Oregon Grape](/trees/orgrape),
+[Silver Buffaloberry](/trees/silbufber),
 [Snowberry](/trees/snow),
 [Thimbleberry](/trees/thimble)

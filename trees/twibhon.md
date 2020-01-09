@@ -18,4 +18,4 @@ The bright green oval-shaped **leaves** (¾-1 ½ in wide) are hairy along the ed
 
 <!-- generated, do not edit -->
 **See Also:**
-[Twining Honeysuckle](/trees/twihon)
+[Twining Honeysuckle](/trees/twinhon)

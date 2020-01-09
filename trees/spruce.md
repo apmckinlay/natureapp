@@ -23,13 +23,13 @@ Spruce needles are shorter than **Pine** needles. **Fir** branches look flat as 
 **See Also:**
 [Balsam Fir](/trees/balfir),
 [Common Juniper](/trees/comjun),
-[Douglas-fir](/trees/doug),
+[Douglas-fir](/trees/dougfir),
 [Engelmann Spruce](/trees/engel),
 [Jack Pine](/trees/jack),
 [Lodgepole Pine](/trees/lodge),
-[Western Redcedar](/trees/redcd),
 [Rocky Mountain Juniper](/trees/rockyjun),
 [Tamarack](/trees/tam),
 [Western Hemlock](/trees/westhem),
-[Western Larch](/trees/westlarch),
+[Western Larch](/trees/westlar),
+[Western Redcedar](/trees/westred),
 [Whitebark Pine](/trees/whbark)

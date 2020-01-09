@@ -1,12 +1,13 @@
 ---
 name: "Twining Honeysuckle"
 group: "honeysuckle"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Rob Routledge"
+attr_link: "https://commons.wikimedia.org/wiki/File:Lonicera_dioica_5473501.jpg"
+license: "CC BY"
+license_link: "https://creativecommons.org/licenses/by/3.0"
 location: [bc,ab,sk,mb]
 habitat: [forest]
+aka: ["Limber Honeysuckle", "Glaucous Honeysuckle"]
 ---
 Twining Honeysuckle is a climbing **vine** (3-9 ft) with pairs of leaves. The pairs of **leaves** join and form a cup around the stem.
 
@@ -18,4 +19,4 @@ Twining Honeysuckle grows in woody or rocky areas.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Twinberry Honeysuckle](/trees/twinbhon)
+[Twinberry Honeysuckle](/trees/twibhon)

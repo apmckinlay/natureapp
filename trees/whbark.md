@@ -1,13 +1,14 @@
 ---
 name: "Whitebark Pine"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Matt Lavin"
+attr_link: "https://www.flickr.com/photos/plant_diversity/7888769364"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
 visibility: low
+aka: ["White Pine", "Pitch Pine", "Scrub Pine", "Creeping Pine"]
 ---
 Whitebark Pine is a small to medium-sized conifer (40-60 ft) found close to the tree line in the western mountain ranges of Canada and the United States. The tree varies in shape from a **small tree** with a broad crown to a **shrub** with multiple stems and upswept branches. The **branches** are twisted and gnarled if the tree is exposed to strong winds.
 
@@ -23,13 +24,13 @@ Whitebark Pine is a long-lived species, often living for more than 500 years.
 **See Also:**
 [Balsam Fir](/trees/balfir),
 [Common Juniper](/trees/comjun),
-[Douglas-fir](/trees/doug),
+[Douglas-fir](/trees/dougfir),
 [Engelmann Spruce](/trees/engel),
 [Jack Pine](/trees/jack),
 [Lodgepole Pine](/trees/lodge),
-[Western Redcedar](/trees/redcd),
 [Rocky Mountain Juniper](/trees/rockyjun),
 [Spruce](/trees/spruce),
 [Tamarack](/trees/tam),
 [Western Hemlock](/trees/westhem),
-[Western Larch](/trees/westlarch)
+[Western Larch](/trees/westlar),
+[Western Redcedar](/trees/westred)

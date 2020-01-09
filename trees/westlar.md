@@ -1,10 +1,10 @@
 ---
 name: "Western Larch"
 group: "conifer"
-attr:
-attr_link:
-license:
-license_link:
+attr: "Jon. D. Anderson"
+attr_link: "https://www.flickr.com/photos/jon_d_anderson/44803671115"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab]
 habitat: [forest]
 visibility: high
@@ -21,13 +21,13 @@ Western Larch has thick grooved **bark** with reddish-orange scales. The small, 
 **See Also:**
 [Balsam Fir](/trees/balfir),
 [Common Juniper](/trees/comjun),
-[Douglas-fir](/trees/doug),
+[Douglas-fir](/trees/dougfir),
 [Engelmann Spruce](/trees/engel),
 [Jack Pine](/trees/jack),
 [Lodgepole Pine](/trees/lodge),
-[Western Redcedar](/trees/redcd),
 [Rocky Mountain Juniper](/trees/rockyjun),
 [Spruce](/trees/spruce),
 [Tamarack](/trees/tam),
 [Western Hemlock](/trees/westhem),
+[Western Redcedar](/trees/westred),
 [Whitebark Pine](/trees/whbark)

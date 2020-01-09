@@ -23,12 +23,12 @@ Snowberry can be found in most parts of Canada and the United States except for 
 **See Also:**
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
-[Blackberry](/trees/black),
-[Silver Buffaloberry](/trees/buffalo),
+[Blackberry](/trees/blackber),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
 [Huckleberry](/trees/huck),
 [Oregon Grape](/trees/orgrape),
-[Saskatoon Berry](/trees/stoon),
+[Saskatoon Berry](/trees/saskber),
+[Silver Buffaloberry](/trees/silbufber),
 [Thimbleberry](/trees/thimble)

@@ -21,12 +21,12 @@ The **Himalayan Blackberry**, also common in the Pacific Northwest, is an introd
 **See Also:**
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
-[Silver Buffaloberry](/trees/buffalo),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
 [Huckleberry](/trees/huck),
 [Oregon Grape](/trees/orgrape),
+[Saskatoon Berry](/trees/saskber),
+[Silver Buffaloberry](/trees/silbufber),
 [Snowberry](/trees/snow),
-[Saskatoon Berry](/trees/stoon),
 [Thimbleberry](/trees/thimble)

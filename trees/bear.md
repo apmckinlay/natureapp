@@ -21,13 +21,13 @@ Bearberry is related to Manzanita trees and shrubs such as [Arbutus](/trees/arbu
 <!-- generated, do not edit -->
 **See Also:**
 [Wild Strawberry](/plants/wildstraw),
-[Blackberry](/trees/black),
-[Silver Buffaloberry](/trees/buffalo),
+[Blackberry](/trees/blackber),
 [Chokecherry](/trees/choke),
 [Elderberry](/trees/elder),
 [Highbush Cranberry](/trees/hicran),
 [Huckleberry](/trees/huck),
 [Oregon Grape](/trees/orgrape),
+[Saskatoon Berry](/trees/saskber),
+[Silver Buffaloberry](/trees/silbufber),
 [Snowberry](/trees/snow),
-[Saskatoon Berry](/trees/stoon),
 [Thimbleberry](/trees/thimble)

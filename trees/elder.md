@@ -22,12 +22,12 @@ The flowers and ripe fruit are edible (when cooked), but be careful. Many plants
 **See Also:**
 [Wild Strawberry](/plants/wildstraw),
 [Bearberry](/trees/bear),
-[Blackberry](/trees/black),
-[Silver Buffaloberry](/trees/buffalo),
+[Blackberry](/trees/blackber),
 [Chokecherry](/trees/choke),
 [Highbush Cranberry](/trees/hicran),
 [Huckleberry](/trees/huck),
 [Oregon Grape](/trees/orgrape),
+[Saskatoon Berry](/trees/saskber),
+[Silver Buffaloberry](/trees/silbufber),
 [Snowberry](/trees/snow),
-[Saskatoon Berry](/trees/stoon),
 [Thimbleberry](/trees/thimble)
