@@ -1,14 +1,14 @@
 ---
 name: "Blazing Star"
 group: "spike"
-attr: "Aaron Carlson"
-attr_link: "https://www.flickr.com/photos/59003943@N00/9661049840"
-license: "CC BY-SA"
-license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/28546696954"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [grassland,wetland]
 visibility: high
-aka: ["Liatris"]
+aka: ["Gayfeather", "Liatris"]
 ---
 Blazing Star has a tall spike (6-12 in) of fluffy purple **flowers**. It flowers in late summer and can be found across Western Canada, Ontario, and the east/central United States.
 
