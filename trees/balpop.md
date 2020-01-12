@@ -1,9 +1,9 @@
 ---
 name: "Balsam Poplar"
-attr: "Ryan Hodnett"
-attr_link: "https://www.inaturalist.org/photos/57110334"
-license: "CC BY-SA"
-license_link: "https://creativecommons.org/licenses/by-sa/4.0"
+attr: "USDA"
+attr_link: "https://commons.wikimedia.org/wiki/File:Populus_balsamifera.jpg"
+license: "Public Domain"
+license_link: "https://commons.wikimedia.org/wiki/Public_domain"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 visibility: high
