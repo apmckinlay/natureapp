@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,wetland]
 visibility: low
+aka: ["Mole Salamander"]
 ---
 Tiger Salamander are **thick-bodied** amphibians with a **short snout**, **sturdy legs**, and a **long tail**. They have **yellow dots**, **stripes**, or **blotches** on a **moist dark background**. They are usually 6-8 in long but can be up to 14 in. Unlike **lizards**, salamanders don't have ear holes or claws.
 
