@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 visibility: high
 ---
-They may look a lot like a spider, but Daddy Longlegs, also known as Harvestmen, are not spiders. Their **body** is a simple oval without a clear differentiation between head and abdomen, and they have 2 eyes not 8.
+They may look a lot like a spider, but Harvestmen, also known as Daddy Longlegs, are not spiders. Their **body** is a simple oval without a clear differentiation between head and abdomen, and they have 2 eyes not 8.
 
 Harvestmen don't build webs as they don't have silk glands. They don't produce venom and their mouths are too small to bite people, but they do make a weird **smell** when disturbed.
 
