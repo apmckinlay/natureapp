@@ -11,7 +11,7 @@ visibility: high
 ---
 Honey Bees were brought from Europe to North America as honey producers in the early 1600s. Because of their numbers, they have become the most important agricultural pollinator world-wide.
 
-Honey Bees have a small body and thin wings. __Bumblebees__ are round and furry with thick wings. __Leafcutter Bees__ are the same size as a Honey Bee but darker, with a larger head and eyes, and furrier belly.
+Honey Bees have a small body and thin wings. Bumble Bee are round and furry with thick wings. Leafcutter Bee are the same size as a Honey Bee but darker, with a larger head and eyes, and furrier belly.
 
 Honey Bees create large **communal nests** made of wax where they store their honey. The queen is the largest bee in the colony. She only leaves the nest in order to mate and then returns to the nest laying over 1,500 eggs per day. The female worker bees are responsible for collecting pollen and looking after the larvae. The male drones' only job is to mate with queens from other colonies.
 
