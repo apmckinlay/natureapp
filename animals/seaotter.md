@@ -10,7 +10,7 @@ habitat: [ocean]
 ---
 Sea Otter are North America's **smallest marine animal** and can be found from southern Alaska to southern California. Sea Otter are 4 ft long and weigh 50-100 pounds. They have dark brown fur and a lighter-colored face.
 
-Sea Otter spend most of their time in the water, only occasionally coming ashore. They sometimes wrap themselves in long strands of __Kelp__ to keep them anchored while they sleep on their backs.
+Sea Otter spend most of their time in the water, only occasionally coming ashore. They sometimes wrap themselves in long strands of [Kelp](/plants/kelp) to keep them anchored while they sleep on their backs.
 
 Sea Otter give birth in the water to one or sometimes two pups. They nurture their young while lying on their backs on the surface of the water.
 

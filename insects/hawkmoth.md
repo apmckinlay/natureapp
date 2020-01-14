@@ -12,7 +12,7 @@ Hawk Moths fly and move like hummingbirds and can be seen hovering in front of a
 
 There are 4 species of Hawk Moths in North America, also known as Sphinx, Clearwing, or Hornworm moths. They have **fast-beating wings** and a **furry, broad body** and can be found in gardens, meadows, and near forests across Canada and the United States.
 
-The **caterpillars** are green with a horn at the rear end. They rely on honeysuckle (Twinberry Honeysuckle, Twining Honeysuckle), hawthorn, cherry, and plum trees for food.
+The **caterpillars** are green with a horn at the rear end. They rely on honeysuckle ([Twinberry Honeysuckle](/trees/twibhon), [Twining Honeysuckle](/trees/twinhon)), hawthorn, cherry, and plum trees for food.
 
 **Did you know?** When the caterpillars are fully grown, they drop to the ground, spin a loose cocoon, and overwinter under leaf litter.
 

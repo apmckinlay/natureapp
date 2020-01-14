@@ -12,7 +12,7 @@ Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body pa
 
 Wolf Spiders don't spin webs. They live on the ground and hunt for prey at night. Some dig burrows in the ground, some make holes under rocks, and others have nowhere to retreat.
 
-**Did you know?** Wolf spiders have three tiny hooks at the end of their legs to help them grip and hold when running and climbing.
+**Did you know?** Wolf Spiders have three tiny hooks at the end of their legs to help them grip and hold when running and climbing.
 
 <!-- generated, do not edit -->
 **See Also:**

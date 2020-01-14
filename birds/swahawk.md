@@ -12,7 +12,7 @@ Swainson's Hawk  (19-22 in) are a common sight in **summer**, soaring over the p
 
 Swainson's Hawk can vary in color, but they usually have a **dark breast**, a **light-colored belly**, and brown or gray upper parts. Most **males** have **gray** heads, while most **females** have **brown** heads. Their **underwings**, with **large white patches edged with black flight feathers** help to identify them when they are in flight.
 
-They eat lots of large insects (grasshoppers, dragonflies), hence their alternate name of **Grasshopper Hawk**. They build their large, loose nests in treetops.
+They eat lots of large insects (grasshoppers, dragonflies), hence their alternate name of **[Grasshopper](/insects/grasshop) Hawk**. They build their large, loose nests in treetops.
 
 Swainson's Hawk are slimmer and longer-winged than other hawks. [Red-tailed Hawk](/birds/redtail) have shorter, wider wings without the light-dark contrast on the underside. **Ferruginous Hawk** have a light-coloured chest and abdomen and are entirely white under the wings. **Rough-legged Hawk** have a black-and-white tail pattern and feathery legs.
 

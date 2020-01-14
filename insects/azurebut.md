@@ -14,7 +14,7 @@ When the Azure are flying, you see the light blue upper surface of their wings. 
 
 Azure butterfly lay their eggs on shrubs. The **caterpillars**, usually green, eat the flowers and developing fruit. After a winter hibernation, the butterflies emerge from their chrysalids. Different species emerge at different times. The **Spring Azure** is the first to appear in April to mid-June while you'll spot **Summer Azure** in July.
 
-**Did you know?** The caterpillars of blue butterflies are often tended by ants who provide some protection in return for eating a sweet liquid secreted by the caterpillars.
+**Did you know?** The caterpillars of blue butterflies are often tended by [Ants](/insects/ants) who provide some protection in return for eating a sweet liquid secreted by the caterpillars.
 
 <!-- generated, do not edit -->
 **See Also:**

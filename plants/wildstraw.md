@@ -14,3 +14,17 @@ Wild Strawberry is better known for its tiny, very flavorful red **fruit** which
 Wild Strawberry can be found in grasslands and open forested areas throughout North America. It can often be found in patches as it spreads by sending out runners to form new plants.
 
 **Did you know?** The small seeds on the surface of the strawberry are the actual fruit. The red berry is just a receptacle for the seeds.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Bearberry](/trees/bear),
+[Blackberry](/trees/blackber),
+[Chokecherry](/trees/choke),
+[Elderberry](/trees/elder),
+[Highbush Cranberry](/trees/hicran),
+[Huckleberry](/trees/huck),
+[Oregon Grape](/trees/orgrape),
+[Saskatoon Berry](/trees/saskber),
+[Silver Buffaloberry](/trees/silbufber),
+[Snowberry](/trees/snow),
+[Thimbleberry](/trees/thimble)

@@ -2,6 +2,11 @@
 // * convert group: in front matter to See Also: in content
 // * convert references e.g. Raven(s) to links
 
+// TODO need a way to prevent Grasshopper Hawk 
+// from having Grasshopper turned into a link
+// And Wolf in Wolf spiders
+// (since the whole thing isn't linked to itself)
+
 const fs = require('fs');
 
 const generated = "<!-- generated, do not edit -->";
@@ -11,20 +16,13 @@ let id2path = {}; // e.g. "crow" => "animals/crow.md"
 let name2id = {}; // e.g. "Crow" => "crow"
 let groups = {}; // e.g. "corvid" => ["crow", "raven"]
 
-process('birds/');
-process('herps/');
-process('insects/');
-process('animals/');
-process('plants/');
-process('trees/');
-
-function process(dir) {
+let dirs = ['birds/', 'herps/', 'insects/', 'animals/', 'plants/', 'trees/']
+for (let dir of dirs)
     forEachFile(dir, gatherInfo);
+for (let dir of dirs)
     forEachFile(dir, updateFiles);
-}
 
 function forEachFile(dir, fn) {
-    // TODO handle directory tree
     fs.readdirSync(dir).forEach(file => {
         if (file.endsWith('.md')) {
             let id = file.slice(0, -3); // strip '.md'
@@ -37,7 +35,7 @@ function forEachFile(dir, fn) {
 function gatherInfo(path, id, content) {
     let i = content.indexOf("---", 4);
     let x = front(content.slice(0, i));
-    //console.log(id + " " + path.slice(0, -3));
+    //console.log(path, x.name);
     id2name[id] = x.name;
     id2path[id] = path.slice(0, -3)
     name2id[x.name] = id;

@@ -14,7 +14,7 @@ Gulls are long-winged, white birds with gray and black markings. It can be diffi
 
 The Mew Gull have an **unmarked yellow bill**, **yellow legs**, and black wing tips with white spots.
 
-**Did you know?** Mew Gull often perch in __Spruce__ trees and may even build their nest in trees.
+**Did you know?** Mew Gull often perch in [Spruce](/trees/spruce) trees and may even build their nest in trees.
 
 <!-- generated, do not edit -->
 **See Also:**
