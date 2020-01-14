@@ -19,7 +19,7 @@ The nest tunnels are just slightly wider than the bee and can be up to a foot lo
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bumble Bee](/insects/bumbee),
+[Bumblebee](/insects/bumbee),
 [Honey Bee](/insects/honeybee),
 [Leaf Cutter Bee](/insects/leafcbee),
 [Mason Bee](/insects/masonbee),
