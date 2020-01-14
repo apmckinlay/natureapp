@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 visibility: high
+aka: ["Funnel Weaver Spider"]
 ---
 Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. Grass Spiders are fairly large (.25 in body). They are usually **brown** or **gray** with **stripes near the head** and a **pattern on their back**. There are often bands of different colors on their legs.
 
