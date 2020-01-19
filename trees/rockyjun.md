@@ -17,7 +17,7 @@ The small, berry-like **cones** are found at the end of branches. They're green 
 
 Rocky Mountain Juniper is also known as Rocky Mountain Redcedar. Its needles and bark are similar to those of [Western Redcedar](/trees/westred); however, Rocky Mountain Juniper has blue berry-like fruit while [Western Redcedar](/trees/westred) has small, egg-like cones.
 
-**Did you know?** Rocky Mountain Juniper's berries are an important food source for deer, mountain goats, and other animals. Many birds choose to nest in its branches.
+**Did you know?** Rocky Mountain Juniper's berries are an important food source for Deer, Mountain Goats, and other animals. Many birds choose to nest in its branches.
 
 <!-- generated, do not edit -->
 **See Also:**
