@@ -15,7 +15,7 @@ The flat, umbrella-shaped clusters of white **flowers** can be seen from May to 
 
 There are several varieties of Highbush Cranberry across North America. Some are more edible when cooked than others.
 
-**Did you know?** Highbush Cranberry belongs to the Honeysuckle family and is not actually a cranberry, unlike the true Lowbush Cranberry.
+**Did you know?** Highbush Cranberry belongs to the Honeysuckle family (Twinberry Honeysuckle, Twining Honeysuckle) and is not actually a cranberry, unlike the true Lowbush Cranberry.
 
 <!-- generated, do not edit -->
 **See Also:**
