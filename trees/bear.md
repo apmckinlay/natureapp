@@ -14,7 +14,7 @@ Bearberry is a **low-lying** shrub with long branches carpeting the ground. It h
 
 Drooping clusters of small, pinkish-white, urn-shaped **flowers** appear in May-June and are followed by bright red **berries** (less than ½ in in diameter) that remain on the branch year-round.
 
-Bearberry is related to Manzanita trees and shrubs such as [Arbutus](/trees/arbutus).
+Bearberry is related to **Manzanita** trees and shrubs such as [Arbutus](/trees/arbutus).
 
 **Did you know?** The berries provide food for bears and birds. North America's Indigenous people would dry and smoke the leaves.
 
