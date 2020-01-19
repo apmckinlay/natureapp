@@ -11,7 +11,7 @@ visibility: high
 ---
 Peachleaf Willow is a **medium-sized** tree (35-40 ft), often growing in clumps, alongside streams and ponds in southern Canada from Quebec to British Columbia and south through most of the central and western United States. It usually has a single trunk. The **leaves** are long (2-5.5 in) and pointed, yellowish-green on top and whitish-green underneath. Male and female **catkins** dangle from the branches as leaves appear in early spring. Male flowers are longer and fall from the tree once they've released their pollen.
 
-Rabbits, moose, deer, and elk eat the bark, leaves, and twigs. [Beavers](/animals/beaver) enjoy eating willow twigs, and the flowers are a source of nectar and pollen for bees.
+Rabbits, Moose, Deer, and Elk eat the bark, leaves, and twigs. [Beavers](/animals/beaver) enjoy eating willow twigs, and the flowers are a source of nectar and pollen for bees.
 
 [Black Willow](/trees/blackwil), found from New Brunswick to Manitoba and south to Florida and Texas, is very similar to Peachleaf Willow. [Black Willow](/trees/blackwil)'s leaves are narrower and are not whitish-green underneath. [Black Willow](/trees/blackwil) twigs snap easily while the Peachleaf Willow twigs are more flexible.
 
