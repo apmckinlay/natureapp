@@ -16,7 +16,7 @@ Gaillardia is found in **dry**, **sunny** spots (such as roadsides) throughout w
 
 [Black-eyed Susan](/plants/blackesus) has similar flowers, but they are yellow and the ray florets aren't divided into 3 prongs.
 
-**Did you know?** Butterflies, bees, and beetles are attracted to the flowers for food, rest, and shelter. Goldfinch enjoy the seeds.
+**Did you know?** Butterflies, bees, and beetles are attracted to the flowers for food, rest, and shelter. **Goldfinch** enjoy the seeds.
 
 <!-- generated, do not edit -->
 **See Also:**
