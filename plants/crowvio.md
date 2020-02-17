@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [forest,grassland]
+aka: ["Larkspur Violet"]
 ---
 Crowfoot Violet is a small plant (3-6 in high) growing in **grasslands** and **open woods**. It can be found across Canada's prairie provinces and Ontario as well as in the central United States. The **leaves** are 1-3 in long and deeply divided so that there appear to be several smaller leaves.
 
