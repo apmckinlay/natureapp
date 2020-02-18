@@ -14,9 +14,7 @@ Bighorn Sheep's feet are specially adapted to high-cliff living. The hard outer 
 
 Bighorn Sheep are social animals living in **groups**, but the males and females only mingle during the fall mating season. The males have head-butting contests in the fall to establish dominance. The winner mates with more females. The ewes have their babies in the spring on cliffs that are hard to reach. The babies can walk and climb on their first day.
 
-Arizona's **Desert Bighor**n are adapted to the desert and can go more than 10 days without water, even in summer. They are smaller and slightly lighter-colored than **Rocky Mountain Bighorn**.
-
-[Mountain Goat](/animals/mountgoat) have long creamy white fur and thin black horns that point backwards over their head but don't curl.
+Arizona's **Desert Bighor**n are adapted to the desert and can go more than 10 days without water, even in summer. They are smaller and slightly lighter-colored than **Rocky Mountain Bighorn**. [Mountain Goat](/animals/mountgoat) have long creamy white fur and thin black horns that point backwards over their head but don't curl.
 
 **Did you know?** Bighorn Sheep have very good eyesight and can detect movement at over half a mile.
 
