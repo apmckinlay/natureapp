@@ -1,5 +1,6 @@
 ---
 name: "Big Brown Bat"
+group: "bat"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/14026503129"
 license: "CC BY-NC"
