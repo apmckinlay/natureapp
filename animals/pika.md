@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [mountain]
+aka: ["Coney", "Rock Rabbit"]
 ---
 Pika are very vocal small mammals (7-8 in long) with **large ears** that can be found on rock faces and cliffs near mountain meadows **above the treeline** in western North America.
 
@@ -16,7 +17,7 @@ Pika live in **colonies** but are very independent and defend their individual d
 
 [Hoary Marmot](/animals/hoarymar) also live in the mountains above the treeline, but they are 3 times as large as Pika.
 
-**Did you know?** Pika, also known as Rock Rabbit or Coney, are closely related to **Rabbits**, despite looking like a Hamster.
+**Did you know?** Pika are closely related to **Rabbits**, despite looking like a Hamster.
 
 <!-- generated, do not edit -->
 **See Also:**
