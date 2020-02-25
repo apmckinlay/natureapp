@@ -14,7 +14,7 @@ Yellow Warbler can often be heard singing from the tops of willows or other smal
 
 **American Goldfinch** have shorter, thicker beaks and a more deeply notched tail. [Wilson's Warbler](/birds/wilswarb) are smaller and have a black cap.
 
-**Did you know?** The Brown-headed Cowbird often lays its eggs in a Yellow Warbler's nest. The Yellow Warbler responds by building another nest on top of the old one. Sometimes there are 6 nests one on top of another.
+**Did you know?** The **Brown-headed Cowbird** often lays its eggs in a Yellow Warbler's nest. The Yellow Warbler responds by building another nest on top of the old one. Sometimes there are 6 nests one on top of another.
 
 <!-- generated, do not edit -->
 **See Also:**
