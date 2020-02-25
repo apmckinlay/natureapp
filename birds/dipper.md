@@ -7,8 +7,9 @@ license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain,wetland]
 visibility: low
+aka: ["Water Ouzel"]
 ---
-American Dipper (also known as a Water Ouzel) are commonly found **perched on a rock** in the middle of a rushing **mountain stream**. A stocky, medium-sized gray bird (5.5-8 in), they're constantly **bobbing up and down**. They catch aquatic insects by **diving**, **swimming**, or **walking in streams**. An extra eyelid enables them to see underwater.
+American Dipper are commonly found **perched on a rock** in the middle of a rushing **mountain stream**. A stocky, medium-sized gray bird (5.5-8 in), they're constantly **bobbing up and down**. They catch aquatic insects by **diving**, **swimming**, or **walking in streams**. An extra eyelid enables them to see underwater.
 
 Dipper can be found **year-round** in fast-moving, unpolluted mountain streams in northwestern North America.
 
