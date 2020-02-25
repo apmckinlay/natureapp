@@ -8,7 +8,7 @@ location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high
 ---
-Red-winged Blackbird (7-9 in) are one of the most abundant birds in North America. They can be found in **cattail marshes**, **wet meadows**, and **ditches** in Canada and the northern United States in the **summer** and all **year round** in the rest of the United States.
+Red-winged Blackbird (7-9 in) are one of the most abundant birds in North America. They can be found in **Cattail marshes**, **wet meadows**, and **ditches** in Canada and the northern United States in the **summer** and all **year round** in the rest of the United States.
 
 **Males** are **glossy black** with **red and yellow shoulder patches**. **Females** are streaky-brown with a **white stripe over the eye** and an **orange patch** on the **upper chest**. They eat **insects** in summer and **seeds** in winter.
 
