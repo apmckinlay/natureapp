@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [ocean,wetland]
 ---
-California Gulls can be found in **summer** on inland lakes and marshes from southern NWT through AB, SK, southwest MB, and the northern parts of Montana and North Dakota. In **winter** they can be found along the Pacific coast. Some can be found **year-round** in Washington, Oregon, and Idaho. They **breed on islands** and levees on inland lakes and rivers and **forage in any open area**, from farms and pastures to garbage dumps.
+California Gulls can be found in **summer** on inland lakes and marshes from southern Northwest Territories through Alberta, Saskatchewan, southwest Manitoba, and the northern parts of Montana and North Dakota. In **winter** they can be found along the Pacific coast. Some can be found **year-round** in Washington, Oregon, and Idaho. They **breed on islands** and levees on inland lakes and rivers and **forage in any open area**, from farms and pastures to garbage dumps.
 
 Gulls are long-winged, white birds with gray and black markings. It can be difficult to tell them apart as they take **up to 4 years to develop their adult plumage**. In addition, gulls often mate with each other, so there are **hybrids** with characteristics of two species.
 
