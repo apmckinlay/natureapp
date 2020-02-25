@@ -12,7 +12,7 @@ With a bright **blue** back, **crest**, and tail and a **noisy** call, Blue Jay 
 
 Blue Jay are present **year-round** in **northeastern** Canada and the United States. Birds from **northern areas** often **migrate** to the southern United States although not every year and not always to the same location. Large flocks can sometimes be seen **migrating along the Great Lakes** and **Atlantic coast**.
 
-Blue Jay are forest birds, favoring oak and beech trees for their nuts. They also eat insects, fruit, and grain. They are often found at forest edges and in urban areas.
+Blue Jay are forest birds, favoring **Oak** and **Beech** trees for their nuts. They also eat insects, fruit, and grain. They are often found at forest edges and in urban areas.
 
 The [Steller's Jay](/birds/steljay), found in western North America, has a black head and chest and no white markings.
 
