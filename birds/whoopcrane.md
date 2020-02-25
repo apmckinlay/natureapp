@@ -11,7 +11,7 @@ visibility: low
 ---
 Whooping Crane are the **tallest North American bird** (5 ft) with a **long neck** and **legs** and a wingspan of over 7 ft. Adults are pure **white** with a **crimson cap** and **mustache**. **Juveniles** have white feathers with rusty-brown streaks.
 
-Whooping Crane are an endangered species. A small naturally-occurring group spends the **summer** in AB and the NWT, travelling south to Texas for the **winter**. A reintroduced group spends the **summer** in Wisconsin and the **winter** in Florida, while another spends the **summer** in Idaho and the **winter** in New Mexico. There are **year-round** flocks in Florida and Louisiana.
+Whooping Crane are an endangered species. A small naturally-occurring group spends the **summer** in Alberta and the Northwest Territories, travelling south to Texas for the **winter**. A reintroduced group spends the **summer** in Wisconsin and the **winter** in Florida, while another spends the **summer** in Idaho and the **winter** in New Mexico. There are **year-round** flocks in Florida and Louisiana.
 
 Whooping Crane breed in shallow grassy wetlands, stopping over on wide shallow river flats during migration. They spend their winters in coastal marshes and estuaries.
 
