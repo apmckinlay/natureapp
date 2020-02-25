@@ -13,7 +13,7 @@ This small songbird (4.5-5 in) spends its **summers** in the northern boreal for
 
 **Males** have a **yellow throat** and **breast** with streaky black markings. **Orange-brown cheek patches** are less distinctive out of the breeding season. **Females** are grayer overall with a **pale yellow breast**. Both males and females have a **black stripe** through the **eye**.
 
-The warblers favourite northern food is the **spruce budworm**, although it also eats other insects.
+The warblers favourite northern food is the **Spruce Budworm**, although it also eats other insects.
 
 [Yellow-rumped Warblers](/birds/yellrump) have a long thin tail with bright yellow patches on face, sides, and rump.
 
