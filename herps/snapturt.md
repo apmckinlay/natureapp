@@ -9,7 +9,7 @@ location: [ab,sk,mb]
 habitat: [wetland]
 visibility: low
 ---
-Snapping Turtle have a brown to black, **flat** shell (8-14 in), a **big head** and **leg**s, and a long tail with triangular spikes. They can be found in **shallow lakes** and **streams** in **southern Canada** from Alberta to Nova Scotia and in the **eastern** and **central United States**. In cold climates, they hibernate over the winter in muddy lake bottoms.
+Snapping Turtle have a brown-to-black **flat** shell (8-14 in), a **big head** and **legs**, and a long tail with triangular spikes. They can be found in **shallow lakes** and **streams** in **southern Canada** from Alberta to Nova Scotia and in the **eastern** and **central United States**. In cold climates, they hibernate over the winter in muddy lake bottoms.
 
 Snapping Turtle can be hard to spot as they **hide behind plants** and **bury themselves in mud**. There is often algae on their shell as they spend so much time hiding. You may see them with their head above water in early morning or evening. They extend their neck and snap when threatened.
 
