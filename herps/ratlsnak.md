@@ -9,7 +9,7 @@ location: [bc,ab,sk]
 habitat: [desert,grassland,mountain,wetland]
 visibility: low
 ---
-Rattlesnake have a **thick body** with a **triangular head** and are 1-8 ft long. The scales usually form a dark geometrical pattern on a light background. They are found in **southern BC**, **AB**, and **SK** and throughout the **United States**; however, the majority live in the **deserts** of the **American southwest** and northern Mexico. Arizona has 13 species of Rattlesnake, more than any other area in North America.
+Rattlesnake have a **thick body** with a **triangular head** and are 1-8 ft long. The scales usually form a dark geometrical pattern on a light background. They are found in **southern British Columbia**, **Alberta**, and **Saskatchewan** and throughout the **United States**; however, the majority live in the **deserts** of the **American southwest** and northern Mexico. Arizona has 13 species of Rattlesnake, more than any other area in North America.
 
 It's wise to be careful where you walk, especially around **logs** or **rocky areas** where snakes may be hiding or sunning themselves, but Rattlesnake only strike when provoked and their **bite is not usually fatal**. Before striking, they hiss and rattle the rings at the end of their tail to warn off predators.
 
