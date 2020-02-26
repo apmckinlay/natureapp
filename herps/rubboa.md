@@ -11,7 +11,7 @@ visibility: low
 ---
 Rubber Boa have small, smooth scales giving them a **shiny, loose skin** that resembles rubber. They are **small** (1-2.5 ft) and **thick-bodied** with a light-brown back and a pale yellow belly. A **small cap** on the **blunt tail** makes it hard to distinguish head from tail.
 
-Rubber Boa can be found from **southern BC** to **California** and as far **east** as **Idaho**, **western Utah**, and **Montana**. They don't tolerate heat as well as other snakes and prefer **cool, moist areas**. They prefer **sandy soils** where they can burrow.
+Rubber Boa can be found from **southern British Columbia** to **California** and as far **east** as **Idaho**, **western Utah**, and **Montana**. They don't tolerate heat as well as other snakes and prefer **cool, moist areas**. They prefer **sandy soils** where they can burrow.
 
 Rubber Boa are **nocturnal** and rarely seen. They specialize in squeezing and eating baby rodents, consuming whole nests when they find them.
 
