@@ -11,7 +11,7 @@ visibility: low
 ---
 Unlike other Salamanders, Rough-skinned Newt have **dry, bumpy skin**. They grow up to 8 in long and have a brown head and back and a **bright yellow** or **orange belly**.
 
-Rough-skinned Newt can be found along the **Pacific coast** from Alaska to central California with small populations in **Idaho** and **Montana**. They live in **forested** areas near **ponds** and **lakes** where the larvae and young often hide in the muddy bottom. Some Newt live in water year round or during the summer and can be seen swimming near the surface.
+Rough-skinned Newt can be found along the **Pacific coast** from Alaska to central California with small populations in **Idaho** and **Montana**. They live in **forested** areas near **ponds** and **lakes** where the larvae and young often hide in the muddy bottom. Some Rough-skinned Newt live in water year round or during the summer and can be seen swimming near the surface.
 
 Unlike most amphibians that lay clumps of eggs, Rough-skinned Newt attach single eggs to the stems of vegetation scattered throughout their breeding area.
 
