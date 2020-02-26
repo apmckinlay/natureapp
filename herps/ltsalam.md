@@ -13,7 +13,7 @@ Long-toed Salamander have a **long fourth toe** on their **hind feet**. They hav
 
 Long-toed Salamander are **nocturnal** and spend most of their time underground, often in rodent burrows. The easiest time to spot them is during breeding season. They prefer **valley bottoms** and **moist forests** not far from water. They lay their eggs before the ice has disappeared in large, shallow lakes and ponds with boggy edges.
 
-Long-toed Salamander eat insects, tadpoles, worms, and beetles. In colder areas, they hibernate in groups underground in winter.
+Long-toed Salamander eat insects, tadpoles, worms, and beetles. In colder areas, they hibernate in groups underground during the winter.
 
 **Did you know?** The Long-toed Salamander's tail serves two purposes. It stores fat for the salamander to use as food during hard times and, if a predator tries to bite the tail, it receives a mouthful of sticky poison.
 
