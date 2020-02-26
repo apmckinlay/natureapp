@@ -13,7 +13,7 @@ Western Skink are **long**, **narrow** lizards (8 in) with **smooth**, **shiny s
 
 When they aren't hunting for insects or sunning themselves, Western Skink stay under cover - either in a burrow or under leaves, logs, or rocks. They hibernate over winter in communal dens, often with lizards or snakes as well as other skinks.
 
-Western Skink are found in **south-central BC** **south** to **Baja California** and **east** to **Montana**, **Utah**, and **Arizona**. They can be found in **grasslands** and **forested** areas where there is plenty of **plant cove**r as well as on south-facing slopes or rocks during their winter hibernation.
+Western Skink are found in **south-central British Columbia** south to **Baja California** and east to **Montana**, **Utah**, and **Arizona**. They can be found in **grasslands** and **forested** areas where there is plenty of **plant cover** as well as on south-facing slopes or rocks during their winter hibernation.
 
 If attacked, Western Skink can cast off their tail. The tail continues to wiggle, distracting the predator, and giving the skink a chance to escape. The tail will grow back, but it will be darker and less evenly shaped.
 
