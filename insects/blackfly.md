@@ -15,7 +15,7 @@ Black Fly lay their eggs in water where the larvae attach themselves to rocks or
 
 Black Fly are small (less than 1/4 in long) with a **humpbacked**, gnat-like appearance and **clear, broad wings**. Not all are black. Some are yellowish orange or brownish gray.
 
-**Did you know?** Black fly are valuable pollinators of wild Blueberries and an important fish food.
+**Did you know?** Black fly are valuable pollinators of wild **Blueberries** and an important fish food.
 
 <!-- generated, do not edit -->
 **See Also:**
