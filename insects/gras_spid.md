@@ -16,7 +16,7 @@ Grass Spiders are also called Funnel Weaver Spiders as they construct a flat, **
 
 Grass Spiders can be found outdoors throughout North America. They may come indoors in autumn to escape the cold.
 
-**Did you know?** Funnel webs are permanent. The Grass Spiders' only leave their web if they're frequently disturbed.
+**Did you know?** Funnel webs are permanent. Grass Spiders only leave their web if they're frequently disturbed.
 
 <!-- generated, do not edit -->
 **See Also:**
