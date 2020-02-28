@@ -11,7 +11,7 @@ visibility: low
 ---
 Adult Spittlebugs are hard to spot as they are small (.25 in long) and jump or fly very fast when disturbed. However, you have probably spotted the **white frothy masses of foam** on plants and bushes that surround and protect immature Spittlebugs from other insects.
 
-Spittlebugs are common throughout North America, although they prefer warmer climates so you won't find very many in northern Canada although they can be found in Alaska.
+Spittlebugs are common throughout North America. They prefer warmer climates, so you won't find very many in northern Canada although they can be found in Alaska.
 
 Spittlebugs suck plant juices with their needle-like mouthparts. **Meadow Spittlebug** usually feed on leafy plants, while **Western Pine Spittlebug** feed on conifers and neighboring plants in western forests.
 
