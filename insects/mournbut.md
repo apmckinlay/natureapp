@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 ---
-If you spot a butterfly in **early spring**, even before the snow has melted, it could very well be a Mourning Cloak butterfly. Mourning Cloak butterflies have dark reddish brown **wings** with a light brown border and a row of small blue dots (2.25 - 4 in wingspan) on the upper surface while the lower surface is dark brown with thin wavy black lines.
+If you spot a butterfly in **early spring**, even before the snow has melted, it could very well be a Mourning Cloak butterfly. Mourning Cloak butterflies have dark reddish-brown **wings** with a light-brown border and a row of small blue dots on the upper surface while the lower surface is dark brown with thin wavy black lines (2.25 - 4 in wingspan).
 
 Mourning Cloak Butterfly overwinter as adults in tree cavities, under bark, or in unheated buildings. Once they come out of hibernation, the males perch in a sunny spot and wait for a female to flutter by so that they can mate. They die soon after the eggs are laid.
 
