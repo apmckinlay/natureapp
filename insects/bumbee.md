@@ -23,7 +23,7 @@ Bumblebees can even be found in the high Arctic as they are able to control thei
 <!-- generated, do not edit -->
 **See Also:**
 [Honey Bee](/insects/honeybee),
-[Leaf Cutter Bee](/insects/leafcbee),
+[Leafcutter Bee](/insects/leafcbee),
 [Mason Bee](/insects/masonbee),
 [Miner Bee](/insects/minerbee),
 [Sweat Bee](/insects/sweatbee),

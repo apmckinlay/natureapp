@@ -14,7 +14,7 @@ Sea Otter spend most of their time in the water, only occasionally coming ashore
 
 Sea Otter give birth in the water to one or sometimes two pups. They nurture their young while lying on their backs on the surface of the water.
 
-Sea Otter eat Clams, Crabs, Sea Urchins, and other sea animals. They keep their hands free while hunting by stashing their catch in the loose fur pouches under their armpits. They eat floating on their back, using their belly as a table.
+Sea Otter eat [Clams](/animals/clam), [Crabs](/animals/crab), [Sea Urchins](/animals/seaurch), and other sea animals. They keep their hands free while hunting by stashing their catch in the loose fur pouches under their armpits. They eat floating on their back, using their belly as a table.
 
 [River Otter](/animals/rivotter) are smaller (10-30 lbs), spend a lot of time on land, and don't float on their back. [Harbor Seal](/animals/harbseal) are much larger (up to 300 lb) and have a spotted coat.
 

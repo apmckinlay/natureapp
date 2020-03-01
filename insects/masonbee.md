@@ -20,7 +20,7 @@ Mason Bees are **solitary** and nest in crevices (hollow plant stems, empty snai
 **See Also:**
 [Bumblebee](/insects/bumbee),
 [Honey Bee](/insects/honeybee),
-[Leaf Cutter Bee](/insects/leafcbee),
+[Leafcutter Bee](/insects/leafcbee),
 [Miner Bee](/insects/minerbee),
 [Sweat Bee](/insects/sweatbee),
 [Wasp](/insects/wasp)

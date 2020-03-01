@@ -13,7 +13,7 @@ Prairie Onion has a distinctive onion smell and  is most commonly found in Canad
 
 Umbrella-shaped clusters of 15-30 small pink bell-shaped **flowers** (1/4 in long) bloom from **May** to **July** at the top of a 4-10 in stalk. One or two narrow **leaves** appear before the flowers. Later in the season, you'll find capsules of 4-6 **seeds**.
 
-Nodding Onion is taller, the flower stem is bent, and it flowers in mid-summer.
+[Nodding Onion](/plants/nodonion) is taller, the flower stem is bent, and it flowers in mid-summer.
 
 **Did you know?** Unlike the domestic onion, the Prairie Onion has flat, solid (not hollow) leaves.
 

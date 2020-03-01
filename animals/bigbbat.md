@@ -15,3 +15,10 @@ Big Brown Bats fly very fast and can reach speeds up to 40 mph. They have strong
 Females set up nursery colonies with 20-300 bats to raise their young. Babies are born blind with no fur, but they grow quickly and are able to fly within 4-6 weeks. The bats hibernate in small groups in winter.
 
 **Did you know?** A baby bat weighs up to 25% of its mother's body weight when it's born. That's like a human mother giving birth to a 30 lb baby.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Hoary Bat](/animals/hoarybat),
+[Little Brown Bat](/animals/litbrnbat),
+[Northern Long-eared Bat](/animals/norlebat),
+[Red Bat](/animals/redbat)

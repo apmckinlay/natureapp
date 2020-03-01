@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: low
 ---
-Spruce Grouse live in the **coniferous forests** of Canada and the northern United States where they eat the needles and buds of Spruce and other coniferous trees.
+Spruce Grouse live in the **coniferous forests** of Canada and the northern United States where they eat the needles and buds of [Spruce](/trees/spruce) and other coniferous trees.
 
 They are **dark**, **thick-bodied** birds (15 in) with bold white lines on the chest and belly, a **red comb** above the eyes, and a **white semi-circle** below it.
 

@@ -14,7 +14,7 @@ Saskatoon Berry grows throughout Alaska, Canada, northwestern and central United
 
 Saskatoon Berry is a **low shrub** to **small tree** (up to 20 ft) with oval, alternating **leaves**. It grows wild in a wide variety of habitats so long as there is sufficient moisture, and it can usually be found in large patches. It is also cultivated in home gardens and on farms.
 
-Deer, Elk, and Moose eat the tips of branches in winter and the leaves in summer. Thickets provide cover for birds and animals.
+Deer, [Elk](/animals/elk), and [Moose](/animals/moose) eat the tips of branches in winter and the leaves in summer. Thickets provide cover for birds and animals.
 
 The **berries** are sweet and a good source of Vitamin C. They can be eaten raw or cooked - Saskatoon Berry pie is very popular.
 

@@ -17,6 +17,7 @@ Hoary Bats roost in **trees**, often evergreens, coming out at night to hunt fly
 
 <!-- generated, do not edit -->
 **See Also:**
+[Big Brown Bat](/animals/bigbbat),
 [Little Brown Bat](/animals/litbrnbat),
 [Northern Long-eared Bat](/animals/norlebat),
 [Red Bat](/animals/redbat)

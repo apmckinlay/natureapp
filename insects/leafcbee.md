@@ -1,5 +1,5 @@
 ---
-name: "Leaf Cutter Bee"
+name: "Leafcutter Bee"
 group: "bee"
 attr: "Ian Marsman"
 attr_link: "https://www.flickr.com/photos/imarsman/26410003"

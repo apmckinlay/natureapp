@@ -17,6 +17,7 @@ Northern Long-eared Bats roost under tree bark or in tree cavities and tend to b
 
 <!-- generated, do not edit -->
 **See Also:**
+[Big Brown Bat](/animals/bigbbat),
 [Hoary Bat](/animals/hoarybat),
 [Little Brown Bat](/animals/litbrnbat),
 [Red Bat](/animals/redbat)

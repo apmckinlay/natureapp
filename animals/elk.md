@@ -17,7 +17,7 @@ Elk are social animals, spending most of the year in single-sex groups. In mount
 
 Male Elk **bellow loudly** during mating season and use their antlers to fight other males in order to dominate the herd and attract females. Older, more successful males will then protect a small herd of approximately 6 females and their young.
 
-__Deer__ are smaller than Elk. [Moose](/animals/moose) are larger, darker-colored, and solitary. Confusingly, European Red Deer are closely related to North American Elk, whereas European Elk are related to North American [Moose](/animals/moose).
+Deer are smaller than Elk. [Moose](/animals/moose) are larger, darker-colored, and solitary. Confusingly, European Red Deer are closely related to North American Elk, whereas European Elk are related to North American [Moose](/animals/moose).
 
 **Did you know?** Male Elk shed their antlers in March and start growing new ones in May. The antlers grow very quickly - up to 1 inch a day in summer - and may be 4 ft long by summer's end.
 
