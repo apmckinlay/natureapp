@@ -1,8 +1,8 @@
 ---
 name: "Pine Siskin"
 group: ""
-attr: "Andrew McKinlay"
-attr_link: "https://www.flickr.com/photos/apmckinlay/9368779003"
+attr: "Felip1"
+attr_link: "https://www.flickr.com/photos/flipflik/32153104427"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
