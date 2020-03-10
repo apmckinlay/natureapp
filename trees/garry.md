@@ -13,7 +13,7 @@ Garry Oak grows in a narrow strip along the eastern coast of Vancouver Island, t
 
 Garry Oak's **shape** varies from tall, straight trees (50-60 ft) to clumps of short, twisted, multi-stemmed trees. It has shiny green, deeply indented **leaves** and grayish-black **bark** with thick grooves or scales. The **acorns** are set in a shallow, scaly cup.
 
-**Did you know?** Garry Oak is the only species of oak native to BC. It can be found in Pacific Rim National Park, Victoria, and Cowichan Garry Oak Preserve on Vancouver Island.
+**Did you know?** Garry Oak is the only species of oak native to British Columbia. It can be found in Pacific Rim National Park, Victoria, and Cowichan Garry Oak Preserve on Vancouver Island.
 
 <!-- generated, do not edit -->
 **See Also:**
