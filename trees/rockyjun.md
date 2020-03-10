@@ -13,7 +13,7 @@ Rocky Mountain Juniper grows in the mountainous areas of western North America. 
 
 The small, berry-like **cones** are found at the end of branches. They're green when young, ripening to a dark blue with a whitish bloom.
 
-[Common Juniper](/trees/comjun) is a low-lying shrub with sharp green needles in groups of three.
+[Common Juniper](/trees/comjun) is a low-lying shrub with sharp, green needles in groups of three.
 
 Rocky Mountain Juniper is also known as Rocky Mountain Redcedar. Its needles and bark are similar to those of [Western Redcedar](/trees/westred); however, Rocky Mountain Juniper has blue berry-like fruit while [Western Redcedar](/trees/westred) has small, egg-like cones.
 
