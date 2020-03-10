@@ -10,7 +10,7 @@ habitat: [forest]
 visibility: high
 aka: ["Elder"]
 ---
-Elderberry is 5-12 ft tall and wide with long **stems** arching out from the base. Large (10 in or more in diameter), flat-topped, umbrella-shaped clusters of fragrant, white **flowers** appear from May to July followed in late summer or early fall by drooping clusters of dark purple to black **berries**. The **leaves** are composed of 5-11 leaflets up to 12 in long.
+Elderberry is 5-12 ft tall and wide with long **stems** arching out from the base. Large, flat-topped, umbrella-shaped clusters (10 in or more in diameter) of fragrant, white **flowers** appear from May to July followed in late summer or early fall by drooping clusters of dark purple to black **berries**. The **leaves** are composed of 5-11 leaflets up to 12 in long.
 
 Elderberry grows along streams and roadsides and in moist woodlands. It's often found in **large clumps** as it spreads by root suckers. Elderberry can be found throughout  North America although it is less common in the prairie provinces, the Gulf states, and the North.
 
