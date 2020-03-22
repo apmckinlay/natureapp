@@ -1,5 +1,6 @@
 {
-    "name": "",
+    "name": "Nature Companion",
+    "short_name": "Nature Companion",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
