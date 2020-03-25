@@ -3,7 +3,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("photos");
     return {
         templateFormats: ["html", "md", "mustache",
-            "png", "xml", "ico", "json", "css", "txt"],
+            "png", "xml", "ico", "json", "css", "txt", "js"],
         markdownTemplateEngine: "mustache",
         htmlTemplateEngine: "mustache",
         passthroughFileCopy: true
