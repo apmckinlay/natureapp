@@ -13,4 +13,4 @@ Wolf-willow is a small **shrub** (under 7 ft) with silver oval **leaves** and sm
 
 Wolf-willow isn't a willow at all but belongs to the **Oleaster** (wild olive) family and is related to [Silver Buffaloberry](/trees/silbufber). [Silver Buffaloberry](/trees/silbufber), however, has thorns and red berries.
 
-**Did you know?** Indigenous people used the large, yellow-striped seeds to make necklaces and the fibrous bark can be twisted to make rope.
+**Did you know?** Indigenous peoples of North America used the large, yellow-striped seeds to make necklaces and the fibrous bark can be twisted to make rope.
