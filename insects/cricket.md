@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 ---
-Cricket are medium-sized insects (.25 - 2 in long) with larger back **legs**, long thin **antennae**, and **wings** bent down against their body. Most are brown, but some are green or black. From above, they may look flat. Not all of them are able to fly.
+Cricket are medium-sized insects (.25-2 in long) with larger back **legs**, long thin **antennae**, and **wings** bent down against their body. Most are brown, but some are green or black. From above, they may look flat. Not all of them are able to fly.
 
 Field Cricket are common in grasslands, forests, and urban areas, hiding under rocks or plants. They can be found in Canada below the 55th Parallel and across the United States. Most species are **nocturnal** and feed on plant and animal matter.
 
