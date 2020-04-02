@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest]
 aka: ["Hazel"]
 ---
-Hazelnut is a bushy **multi-stemmed shrub** up to 12 ft tall. The dangling light brown **catkins** appear well before the leaves and release yellow pollen in early spring. Small tassels of red **flowers** also appear in the spring. The broad oval **leaves** (2-7 ½ in long) come to a point and have jagged edges. The small **nuts** are enclosed in green wrappings and can be hard to spot beneath the leaves. They are often in clusters
+Hazelnut is a bushy **multi-stemmed shrub** up to 12 ft tall. The dangling light brown **catkins** appear well before the leaves and release yellow pollen in early spring. Small tassels of red **flowers** also appear in the spring. The broad oval **leaves** (2-7.5 in long) come to a point and have jagged edges. The small **nuts** are enclosed in green wrappings and can be hard to spot beneath the leaves. They are often in clusters.
 
 Two varieties of Hazelnut are native to North America. The **Beaked Hazelnut** can be found across Canada and the northern United States as well as along the east and west coasts. The **American Hazelnut** is found in Manitoba, Ontario, and Quebec as well as the eastern and central United States.
 
