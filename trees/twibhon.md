@@ -12,9 +12,9 @@ Twinberry Honeysuckle is an upright, bushy **shrub** (4-12 ft) that grows in moi
 
 It has small tubular yellow **flowers** that bloom in pairs from June to July. They develop into pairs of shiny black **berries** cupped by purple-red bracts.
 
-The bright green oval-shaped **leaves** (¾-1 ½ in wide) are hairy along the edges and underside.
+The bright green oval-shaped **leaves** (.75-1.5 in wide) are hairy along the edges and underside.
 
-**Did you know?** Native Americans used the berries to dye hair and other materials.
+**Did you know?** Indigenous peoples of North America used the berries to dye hair and other materials.
 
 <!-- generated, do not edit -->
 **See Also:**
