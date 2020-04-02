@@ -16,7 +16,7 @@ Drooping clusters of small, pinkish-white, urn-shaped **flowers** appear in May-
 
 Bearberry is related to **Manzanita** trees and shrubs such as [Arbutus](/trees/arbutus).
 
-**Did you know?** The berries provide food for bears and birds. North America's Indigenous people would dry and smoke the leaves.
+**Did you know?** The berries provide food for bears and birds. Indigenous peoples in North America used to dry and smoke the leaves.
 
 <!-- generated, do not edit -->
 **See Also:**
