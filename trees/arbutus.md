@@ -15,4 +15,4 @@ Found along the **west coast** from British Columbia's Lower Mainland to Mexico,
 
 Clusters of small, bell-shaped white **flowers** droop from the end of stems in April/May. They smell strongly of honey, making them very attractive to bees. The **berries** are rough-skinned and reddish-orange.
 
-**Did you know?** Arbutus usually only grows within 8 km of the ocean and is often found on exposed rocky bluffs.
+**Did you know?** Arbutus usually only grows within 5 miles of the ocean and is often found on exposed rocky bluffs.
