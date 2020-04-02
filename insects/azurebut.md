@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban,wetland]
 ---
-Blue Azure butterflies can be found in almost all parts of North America apart from the Arctic. There are many different species of these small butterflies (1 - 1.5 in) that can be found in **open woodlands**, **urban gardens** and **parks**, or **marshy areas**.
+Blue Azure butterflies can be found in almost all parts of North America apart from the Arctic. There are many different species of these small butterflies (1-1.5 in) that can be found in **open woodlands**, **urban gardens** and **parks**, or **marshy areas**.
 
 When the Azure are flying, you see the light blue upper surface of their wings. When they are perched, you see the bottom of their wings, which is gray.
 
