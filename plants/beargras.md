@@ -16,7 +16,7 @@ aka: ["Indian Basket Grass", "Western Turkeybeard"]
 
  There are a number of other plants that are also referred to as Beargrass. **Eastern Turkeybeard**, only found in the southeastern United States, is a smaller plant with smaller flowers.  Several other species can be found in the southwestern United States and Florida, such as **Sacahuista** that grows in the dry deserts of Arizona, New Mexico, and southwestern Utah.
 
- **Did you know?** Indigenous people in the Pacific Northwest frequently used Beargrass leaves to weave baskets.
+ **Did you know?** Indigenous peoples in the Pacific Northwest frequently used Beargrass leaves to weave baskets.
 
 <!-- generated, do not edit -->
 **See Also:**
