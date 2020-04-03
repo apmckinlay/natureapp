@@ -14,4 +14,4 @@ Cow Parsnip flowers from **June** to **August**. It grows best in **moist**, **s
 
 Cow Parsnip can be mistaken for Hemlock, which is very poisonous. **Poison Hemlock** has fern-like leaves. **Water Hemlock** has small, oval leaflets with jagged edges. **Wild Parsnip** has a smooth stem with few hairs (1-2 in thick). Its sap increases skin sensitivity to sun and can result in rashes and blisters.
 
-**Did you know?** Cow Parsnip was a valuable food source for the Aboriginals of British Columbia. It is also known as Indian Celery and Wild Rhubarb.
+**Did you know?** Cow Parsnip was a valuable food source for the Indigenous peoples of British Columbia. It is also known as Indian Celery and Wild Rhubarb.
