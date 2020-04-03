@@ -15,7 +15,7 @@ The **flower** is made up of a shiny yellow open pouch (or slipper) with 3 twist
 
 Yellow Lady's Slipper often grows in **clumps** and can be found in moist, partially shaded meadows, forests, and bogs.
 
-**Did you know?** Don't pick or try to transplant Yellow Lady's Slipper as it is not common, slow growing, and has very specific soil and habitat requirements.
+**Did you know?** Don't pick or try to transplant Yellow Lady's Slipper as it is not relatively rare, slow growing, and has very specific soil and habitat requirements.
 
 <!-- generated, do not edit -->
 **See Also:**
