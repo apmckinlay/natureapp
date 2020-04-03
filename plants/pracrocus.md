@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: high
 ---
-Prairie Crocus flowers appear **as soon as the snow melts** in sunny, open areas and sandy hillsides from British Columbia to Ontario and south through the central United States. The upright, bluish-purple **flowers** are cup-shaped with 5-7 petal-like sepals (1½ in across). The flowers appear before the leaves and very close to the ground.
+Prairie Crocus flowers appear **as soon as the snow melts** in sunny, open areas and sandy hillsides from British Columbia to Ontario and south through the central United States. The upright, bluish-purple **flowers** are cup-shaped with 5-7 petal-like sepals (1.5 in across). The flowers appear before the leaves and very close to the ground.
 
 The low-lying plant has gray-green **leaves** with many separate leaflets and is covered in woolly white hairs. The flowers turn into long, feathery clusters of **seeds**.
 
