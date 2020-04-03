@@ -9,7 +9,7 @@ location: [ab,sk,mb]
 habitat: [grassland]
 visibility: high
 ---
-The Prairie Sunflower is one of many different sunflowers that are native to North America. It has large showy **flowers** (1.5-3 in across) with 12-25 yellow ray petals surrounding a brown central disc. The central disc later forms a head of .25 in brown **seeds** that are enjoyed by birds.
+The Prairie Sunflower is one of many different sunflowers that are native to North America. It has large showy **flowers** (1.5-3 in across) with 12-25 yellow ray petals surrounding a brown central disc. The central disc later forms a head of brown **seeds** (.25 in) that are enjoyed by birds.
 
 Prairie Sunflower is 1-3 ft high with many erect flower-bearing branches. It often grows in clumps and can be seen flowering along dry, sandy roadsides in **late summer**. It is common in most parts of the United States as well as Alberta, Saskatchewan, Manitoba, and Ontario.
 
