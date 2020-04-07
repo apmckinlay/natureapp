@@ -6,6 +6,12 @@
 </head>
 
 <body>
+    <div class="install">
+        <p>Install this app locally?<br>
+            <button type="button" class="install_yes">Yes Please</button>
+            <button type="button" class="install_no">No Thanks</button>
+        </p>
+    </div>
     <div class="header">
         {{> helpbutton.html }}
         {{> searchbutton.html }}
@@ -50,7 +56,63 @@
                     });
             });
         }
-    </script>
-</body>
+        
+        const install = document.querySelector('.install');
+        const installYes = install.querySelector('.install_yes');
+        const installNo = install.querySelector('.install_no');
+        let installEvent;
 
+        function getVisited() {
+            return localStorage.getItem('install-prompt');
+        }
+
+        function setVisited() {
+            localStorage.setItem('install-prompt', true);
+        }
+        
+        // this event will only fire if the user does not have the pwa installed
+        window.addEventListener('beforeinstallprompt', (event) => {
+            console.log("beforeinstallprompt")
+            event.preventDefault();
+
+            // if no localStorage is set, first time visitor
+            if (!getVisited()) {
+                // show the install banner
+                install.style.display = 'block';
+
+                // store the event for later use
+                installEvent = event;
+            }
+        });
+
+        installYes.addEventListener('click', () => {
+            // hide the install banner
+            install.style.display = 'none';
+
+            // trigger the prompt to show to the user
+            installEvent.prompt();
+
+            // check what choice the user made
+            installEvent.userChoice.then((choice) => {
+                // if the user declined, we don't want to show the button again
+                // set localStorage to true
+                if (choice.outcome !== 'accepted') {
+                    setVisited();
+                }
+
+                installEvent = null;
+            });
+        });
+
+        installNo.addEventListener('click', () => {
+            // set localStorage to true
+            setVisited();
+
+            // hide the install banner
+            install.style.display = 'none';
+
+            installEvent = null;
+        });
+        </script>
+</body>
 </html>
