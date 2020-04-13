@@ -16,4 +16,4 @@ The birds build **bulky stick nests** in large **treetop colonies** with as many
 
 **Great White Heron**, found in southern Florida, are a sub-species of the Great Blue Heron and are  completely white with light-colored legs and a thick beak. **Great Egret** are smaller than the **Great White Heron** with black legs and a thinner beak.
 
-**Did you know?** Great Blue Heron hold their head tucked back over their necks with their long legs trailing out behind their tail when flying. [Sandhill Crane](/birds/sandhill) and [Whooping Crane](/birds/whoopcrane), on the other hand, fly with their necks outstretched. Cranes travel in groups while herons fly solo.
+**Did you know?** Great Blue Heron hold their head tucked back over their neck with their long legs trailing out behind their tail when flying. [Sandhill Crane](/birds/sandhill) and [Whooping Crane](/birds/whoopcrane), on the other hand, fly with their necks outstretched. Cranes travel in groups while herons fly solo.
