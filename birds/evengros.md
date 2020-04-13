@@ -12,7 +12,7 @@ Evening Grosbeak flock to **bird feeders** and **trees with berries** in winter.
 
 Evening Grosbeak eat **insect larvae** in the summer and **seeds**, **buds**, **berries**, and **small fruit** in winter.
 
-Evening Grosbeak can be found **year-round** in British Columbia, northern Alberta, Saskatchewan, and Manitoba, eastern Canada, and the western mountainous areas of the United States. In **winter**, they can be found on the southern Prairies and most parts of the United States. Large flocks occasionally travel south in **winter** looking for food.
+Evening Grosbeak can be found **year-round** in British Columbia, northern Alberta, Saskatchewan, and Manitoba, eastern Canada, and the western mountainous areas of the United States. In **winter**, they can be found in the southern Prairies and most parts of the United States. Large flocks occasionally travel south in **winter** looking for food.
 
 **American Goldfinch** are much smaller with smaller, darker bills. Female and immature male [Pine Grosbeak](/birds/pinegros) have shorter, darker bills and lack the boldly patterned wings.
 
