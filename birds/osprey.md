@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [ocean,wetland]
 visibility: high
 ---
-A **very large** hawk (21-23 in) with a 5 to 6 ft wingspan, Osprey spend their **summers** on the rivers, lakes, and coast of Alaska, Canada, and the Rocky Mountains of the northern United States. If you're lucky, you'll spot an Osprey plunging feet-first into a lake to catch a fish in its claws. They **winter** along the coast of southern California and the Gulf of Mexico.
+A **very large** hawk (21-23 in) with a 5 to 6 ft wingspan, Osprey spend their **summers** on the rivers, lakes, and coast of Alaska, Canada, and the Rocky Mountains of the northern United States. If you're lucky, you'll spot an Osprey plunging feet first into a lake to catch a fish in its claws. They **winter** along the coast of southern California and the Gulf of Mexico.
 
 Osprey are **brown above** and **white below** with a **white head** and a **brown stripe** across the **eyes** and **cheeks**. When they **fly**, there is a distinctive **kink in their wings** in the shape of an M.
 
