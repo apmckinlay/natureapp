@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 visibility: high
 habitat: [forest,grassland,mountain,wetland,urban]
 ---
-American Crows are large (16-21 in) black birds with a thick neck and long legs. They can be found **year-round** in most parts of the United States. Birds spending the **summer** further north in Canada and the north-central United States **winter** a short distance south. They can be found in forests, grasslands, wetlands, and urban areas.
+American Crow are large (16-21 in) black birds with a thick neck and long legs. They can be found **year-round** in most parts of the United States. Birds spending the **summer** further north in Canada and the north-central United States **winter** a short distance south. They can be found in forests, grasslands, wetlands, and urban areas.
 
 Crows have a **loud "caw caw" call** and **thrive around people**. They **eat almost anything** - from seeds and nuts to insects and garbage. They are **sociable**, congregating in large numbers and sleeping in communal roosts in winter. They are **very clever** and can make and use tools.
 
