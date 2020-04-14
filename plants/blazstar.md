@@ -24,4 +24,4 @@ Blazing Star (2-4 ft) grows in clumps in sunny areas. The grass-like **leaves** 
 [Fireweed](/plants/fireweed),
 [Goldenrod](/plants/goldrod),
 [Indian Paintbrush](/plants/indian),
-[Purple Prairie-clover](/plants/pupclover)
+[Purple Prairie Clover](/plants/pupclover)

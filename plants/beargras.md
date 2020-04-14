@@ -26,4 +26,4 @@ aka: ["Indian Basket Grass", "Western Turkeybeard"]
 [Fireweed](/plants/fireweed),
 [Goldenrod](/plants/goldrod),
 [Indian Paintbrush](/plants/indian),
-[Purple Prairie-clover](/plants/pupclover)
+[Purple Prairie Clover](/plants/pupclover)
