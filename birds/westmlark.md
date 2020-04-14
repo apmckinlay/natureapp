@@ -8,9 +8,9 @@ location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: low
 ---
-Western Meadowlark have a **bright yellow breast** and a **black v-shaped necklace**. Their upperparts are streaky brown and black and their **round-shouldered posture** nearly conceals their neck. They are the size (6-10 in) of a robin but chunkier with a shorter tail.
+Western Meadowlark have a **bright yellow breast** and a **black v-shaped necklace**. Their upperparts are streaky brown and black and their **round-shouldered posture** nearly conceals their neck. They are the size (6-10 in) of a Robin but chunkier with a shorter tail.
 
-Western Meadowlark spend their **summers** in the open grasslands and fields of southern Canada and the United States from the west coast as far east as the Great Lakes. They can be found **year-round** in the west-central United States. Northern birds migrate to the southern part of the range in winter.
+Western Meadowlark spend their **summers** in the open grasslands and fields of southern Canada and the United States from the west coast as far east as the Great Lakes. They can be found **year-round** in the west-central United States. Northern birds migrate to the southern part of the range in **winter**.
 
 Western Meadowlark forage on the **ground** for **insects** and **seeds**. They require some cover to shield their nests so numbers have declined in intensive agricultural areas. Males sit on **fence posts** and other high points and **sing** to defend their breeding territory in **spring** and **summer**.
 
