@@ -1,6 +1,6 @@
-.PHONY: eleventy server fb s3 links index
+.PHONY: build server fb s3 links index
 
-eleventy:
+build:
 	eleventy
 
 server:
@@ -18,3 +18,10 @@ links:
 
 index:
 	node build/index.js
+	
+help:
+	# make build - build the site
+	# make server - run a local server with reload on modify
+	# make fb - deploy to Google Firebase
+	# make s3 - sync to Amazon S3
+	# make links - update the links and See Also's
