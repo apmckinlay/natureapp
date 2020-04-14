@@ -8,9 +8,9 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 ---
-**Male** Wood Duck sport shiny blue, green, and purple stripes with white stripes on the head and chin in **summer**. **Females** and **juveniles** are brownish-gray with a large white patch around the eye. The birds (18-21 in) have a **boxy crested head**, a **thin neck**, and a **long broad tail**.
+Wood Duck (18-21 in) have a boxy, crested **head**, a thin **neck**, short **wings**, and a long broad **tail**. **Male** Wood Duck have a glossy green head with white stripes on the head and chin in **summer**. **Females** and **juveniles** are brownish-gray with a large white patch around the eye.
 
-Wood Duck prefer areas with a mix of water and forest, such as woodland ponds or river swamps. They perch and nest in trees and are comfortable flying through woods. They spend their summers in southern Canada and the northern USA. They can be found year-round along the west coast and in the southeastern USA.
+Wood Duck prefer areas with a mix of water and forest, such as woodland ponds or river swamps. They perch and nest in trees and are comfortable flying through woods. They spend their **summers** in southern Canada and the northern USA. They can be found **year-round** along the west coast and in the southern USA.
 
 The birds pair up in late winter and begin breeding in early spring. They eat mostly plant materials.
 
