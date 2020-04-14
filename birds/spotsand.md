@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [ocean,wetland]
 ---
-Most sandpipers nest in the far north, but the Spotted Sandpiper is common near rivers, lakes, and streams and coastlines across North America in **summer**. Some **winter** along the Pacific coast and the southern United States, while others head even further south.
+Most sandpipers nest in the far north, but Spotted Sandpiper are common near rivers, lakes, and streams and coastlines across North America in **summer**. Some **winter** along the Pacific coast and the southern United States, while others head even further south.
 
 A medium-sized (7.5 in) shorebird, Spotted Sandpiper **bob their tails up and down** while walking.
 
