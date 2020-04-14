@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban,wetland]
 ---
-Song Sparrow are chubby, medium-sized (5-.7 in) **streaky-brown** birds with a paler breast with bold brown streaks. They have a **dark streak** on **either side of their beak** and often have a **dark patch** in the **centre of their breast**.
+Song Sparrow are chubby, medium-sized (4.7-5.7 in) **streaky-brown** birds with a paler breast with bold brown streaks. They have a **dark streak** on **either side of their beak** and often have a **dark patch** in the **centre of their breast**.
 
 Song Sparrow are common across North America, but their **appearance can vary** greatly from one area to another. Pacific Northwest Song Sparrows are dark and heavily streaked, while Song Sparrow in the Southwest desert region are pale.
 
