@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [grassland,mountain,wetland]
 visibility: high
 ---
-Northern Leopard Frog are found near **ponds** and **marshes** across Canada and in most parts of the United States. They can be found as far north as Great Slave Lake and in the mountains. They are also known as **Meadow** or **Grass Frog** because they sometimes hop up onto lawns and golf courses in the summer when they've finished breeding.
+Northern Leopard Frog are found near **ponds** and **marshes** across Canada and in most parts of the United States. They can be found as far north as Great Slave Lake as well as in the mountains. They are also known as **Meadow** or **Grass Frog** because they sometimes hop up onto lawns and golf courses in the summer when they've finished breeding.
 
 Northern Leopard Frog (3-5 in) are **green-brown** with **dark round spots** on their back and legs and a **white belly**. Prominent **light-colored folds of skin** run down either side of their **back**. They breed from mid- to late spring, laying 3,500 to 7,000 eggs in slow-moving water. The tadpoles are green or brown with yellow or black speckles and a white belly and hatch in 1-3 weeks, depending on the temperature. They turn into frogs in mid- to late summer.
 
