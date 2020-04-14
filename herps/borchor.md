@@ -15,7 +15,7 @@ Boreal Chorus Frog are **small** (1.5 in), smooth-skinned frogs. They are gray-g
 
 The females lay their eggs in clusters, and they hatch quickly in 1-4 weeks. The tadpoles turn into frogs after about 2 months.
 
-Boreal Chorus Frog have a **wide range** from British Columbia to Quebec and extending up into the Yukon and NWT. They are found in the central United States as far south as Arizona.
+Boreal Chorus Frog have a **wide range** from British Columbia to Quebec and extending up into the Yukon and Northwest Territories. They are found in the central United States as far south as Arizona.
 
 __Western Chorus Frog__ are almost identical, but their range is confined to southwestern Ontario, from Michigan to New York, and south to Tennessee. [Pacific Tree Frog](/herps/pactfrog) are often referred to as Pacific Chorus Frog as there are similarities, but they are not found in the same areas.
 
