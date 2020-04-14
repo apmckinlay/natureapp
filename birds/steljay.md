@@ -9,7 +9,7 @@ location: [bc,ab]
 habitat: [forest,mountain]
 visibility: high
 ---
-Steller's Jay are frequent **scavengers** in picnic areas and campgrounds in the **northwest forests** and **central mountains** from Alaska to Arizona and New Mexico. These noisy, social birds (12-13.5 in long) have a **charcoal head** and a **blue body**, **wings**, and **tail**. The tail is long and they have a **large triangular crest** on top of their head.
+Steller's Jay are frequent **scavengers** in picnic areas and campgrounds in the **northwest forests** and **central mountains** from Alaska to Arizona and New Mexico. These noisy, social birds (12-13.5 in long) have a **charcoal head** and a **blue body**, **wings**, and **tail**. The tail is long, and they have a **large triangular crest** on top of their head.
 
 Steller's Jay live in flocks except when nesting. They can be seen hopping on the ground or on tree branches, stopping frequently to cock their heads and look around them. They eat pine seeds, nuts, berries, insects, and occasionally spiders, small rodents, or lizards.
 
