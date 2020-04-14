@@ -10,7 +10,7 @@ habitat: [grassland]
 ---
 Swainson's Hawk  (19-22 in) are a common sight in **summer**, soaring over the prairies and open **grasslands** of western North America. They prefer **wide open spaces** where they can easily spot ground squirrels and other small rodents, their preferred food when they are breeding.
 
-Swainson's Hawk can vary in color, but they usually have a **dark breast**, a **light-colored belly**, and brown or gray upper parts. Most **males** have **gray** heads, while most **females** have **brown** heads. Their **underwings**, with **large white patches edged with black flight feathers** help to identify them when they are in flight.
+Swainson's Hawk can vary in color, but they usually have a **dark breast**, a **light-colored belly**, and brown or gray upper parts. Most **males** have **gray** heads, while most **females** have **brown** heads. The **large white patches edged with black flight feathers** on their underwings help to identify them when they are in flight.
 
 They eat lots of large insects (grasshoppers, dragonflies), hence their alternate name of **[Grasshopper](/insects/grasshop) Hawk**. They build their large, loose nests in treetops.
 
