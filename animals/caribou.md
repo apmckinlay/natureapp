@@ -1,6 +1,6 @@
 ---
 name: "Caribou"
-group: "deer"
+group: "bigdeer"
 attr: "Samuel Brinker"
 attr_link: "https://www.inaturalist.org/photos/14555819"
 license: "CC BY-NC"
