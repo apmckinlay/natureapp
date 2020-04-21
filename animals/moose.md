@@ -1,6 +1,6 @@
 ---
 name: "Moose"
-group: "deer"
+group: "bigdeer"
 attr: "Don McLelland"
 attr_link: "https://inaturalist.ca/photos/22887906"
 license: "CC BY-NC"
