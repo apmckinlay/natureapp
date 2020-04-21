@@ -1,6 +1,6 @@
 ---
 name: "Bighorn Sheep"
-group: "ungulate"
+group: "mtndeer"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/12865119453"
 license: "CC BY-NC"
