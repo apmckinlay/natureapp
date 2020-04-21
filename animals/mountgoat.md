@@ -1,5 +1,6 @@
 ---
 name: "Mountain Goat"
+group: "mtndeer"
 attr: "Tony's Takes"
 attr_link: "https://www.flickr.com/photos/tonystakes/34892510064"
 license: "CC BY-NC-ND"
