@@ -1,6 +1,6 @@
 ---
 name: "Elk"
-group: "deer"
+group: "bigdeer"
 attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/9120735555"
 license: "CC BY-NC"
