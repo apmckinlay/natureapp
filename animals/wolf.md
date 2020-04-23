@@ -10,7 +10,7 @@ habitat: [desert,forest,grassland,mountain]
 visibility: low
 aka: ["Gray Wolf", "Timber Wolf"]
 ---
-Wolves resemble German Shepherd dogs. Their **fur** is a mix of usually gray mixed with black but can range from white to black. Their body is 3-5 ft long and their **bushy tail**, often with a black tip, is an additional 1-2 ft.
+Wolves resemble German Shepherd dogs. Their **fur** is usually a mix of gray and black but can range from white to black. Their body is 3-5 ft long and their **bushy tail**, often with a black tip, is an additional 1-2 ft.
 
 Wolves require large territories where they can find food, shelter, and protection from persecution. They used to be common across North America, but their range has been reduced to northern Canada, Alaska, the northern Rockies, and the Pacific Northwest. **Mexican Wolves**, a variety of Gray Wolf, have been reintroduced in Arizona and New Mexico.
 
