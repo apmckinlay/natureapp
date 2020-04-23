@@ -10,11 +10,11 @@ habitat: [forest,mountain]
 visibility: low
 aka: ["Mountain Lion", "Puma", "Panther", "Catamount"]
 ---
-Cougar, 6-8 ft long and 2 ft high at the shoulders, are the largest North American wild cat. The majority live in the **western mountainous regions** from BC and AB south to Texas, but small numbers can be found further east. There is a small population of **Florida Panther** on the southern tip of Florida.
+Cougar, 6-8 ft long and 2 ft high at the shoulders, are the largest North American wild cat. The majority live in the **western mountainous regions** from British Columbia and Alberta south to Texas, but small numbers can be found further east. There is a small population of **Florida Panther** on the southern tip of Florida.
 
 Cougar have short red, gray, or brown **fur** with a white belly, chest and throat. They have **large front paws**, large, **powerful back legs**, and a **long tail**.
 
-Cougar prefer isolated areas with dense cover so that they can hide while hunting but they can be found in most habitats. Their preferred prey are deer and elk although they will hunt smaller animals.
+Cougar prefer isolated areas with dense cover where they can hide while hunting, but they can be found in most habitats. Their preferred prey are deer and elk although they will hunt smaller animals.
 
 Cougar are larger than both [Bobcat](/animals/bobcat) and [Lynx](/animals/lynx) and have a much longer tail.
 
