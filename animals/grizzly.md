@@ -14,7 +14,7 @@ aka: ["Brown Bear"]
 
 Grizzly Bear are adaptable and can be found on northern tundra, prairies, foothills, and forests. They eat plants, insects, animals, and fish. One good place to spot them is fishing in an Alaskan river as the salmon swim upstream to spawn.
 
-Grizzly Bear can hibernate for up to 7 months in cooler climates but, in warmer climates or urban areas, bears don't hibernate thanks to a plentiful food supply.
+Grizzly Bear can hibernate for up to 7 months in cooler climates, but in warmer climates or urban areas bears don't hibernate thanks to a plentiful food supply.
 
 Grizzly Bears' size and color vary and are not a useful way to distinguish Grizzly and [Black Bear](/animals/blabear). Check instead for the Grizzly Bears' smaller, rounded **ears** and much larger **claws**.
 
