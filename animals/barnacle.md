@@ -13,9 +13,9 @@ Barnacles have a hard outer **shell** composed of 6 plates forming a circle arou
 
 Barnacles are attached head-first to a surface by very strong glue. They prefer **shallow waters** and **intertidal zones** and are usually attached to rocks but can also be found on docks, boats, whales, or dolphins.
 
-One-eyed larvae grow for 6 months before turning into shrimp-like larvae and looking for a place to attach themselves to something hard and start growing a hard shell.
+One-eyed larvae grow for 6 months before turning into shrimp-like larvae and looking for a place to attach themselves and start growing a hard shell.
 
-Barnacles are crustaceans and related to Shrimp, [Crab](/animals/crab), and Lobster. The most common are **Acorn Barnacle** which attach directly to a surface. **Gooseneck Barnacle** have a long muscular stalk topped by a head encased in a hard shell.
+Barnacles are crustaceans and related to Shrimp, [Crab](/animals/crab), and Lobster. The most common are **Acorn Barnacle**, which attach directly to a surface. **Gooseneck Barnacle** have a long muscular stalk topped by a head encased in a hard shell.
 
 **Did you know?** Barnacles are hermaphroditic with both male and female sexual organs; however, the eggs produced by one barnacle are usually fertilized by a different one.
 
