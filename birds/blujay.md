@@ -1,10 +1,10 @@
 ---
 name: "Blue Jay"
 group: "jay"
-attr: "Jacob McGinnis"
-attr_link: "https://www.flickr.com/photos/anoldent/5741552212/"
-license: "CC BY-SA"
-license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/49788608786"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [forest,urban]
 ---
