@@ -20,4 +20,4 @@ Arizona's **Desert Bighorn** are adapted to the desert and can go more than 10 d
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bison](/animals/bison)
+[Mountain Goat](/animals/mountgoat)

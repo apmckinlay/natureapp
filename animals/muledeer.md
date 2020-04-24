@@ -19,8 +19,5 @@ Mule Deer typically live in **groups** and eat plants, leaves, and twigs from wo
 
 <!-- generated, do not edit -->
 **See Also:**
-[Caribou](/animals/caribou),
-[Elk](/animals/elk),
-[Moose](/animals/moose),
 [Pronghorn](/animals/pronghorn),
 [White-tailed Deer](/animals/whtdeer)

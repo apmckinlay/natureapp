@@ -24,7 +24,4 @@ Deer are smaller than Elk. [Moose](/animals/moose) are larger, darker-colored, a
 <!-- generated, do not edit -->
 **See Also:**
 [Caribou](/animals/caribou),
-[Moose](/animals/moose),
-[Mule Deer](/animals/muledeer),
-[Pronghorn](/animals/pronghorn),
-[White-tailed Deer](/animals/whtdeer)
+[Moose](/animals/moose)

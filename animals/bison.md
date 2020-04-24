@@ -16,7 +16,3 @@ Bison live and travel in **groups** with males in one group and females and calv
 Bison run at speeds of up to 40 miles an hour and are good swimmers. They eat grasses, sedges, shrubs, and twigs.
 
 **Did you know?** Bison are sometimes referred to as "buffalo", but technically **Buffalo** refers to Asian (Water Buffalo) and African (Cape Buffalo) that have smaller heads, larger horns, and don't have a hump between their shoulders or a beard.
-
-<!-- generated, do not edit -->
-**See Also:**
-[Bighorn Sheep](/animals/bighorn)

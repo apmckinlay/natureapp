@@ -19,8 +19,5 @@ White-tailed Deer have reddish-brown fur in **summer** and grayish-brown fur in 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Caribou](/animals/caribou),
-[Elk](/animals/elk),
-[Moose](/animals/moose),
 [Mule Deer](/animals/muledeer),
 [Pronghorn](/animals/pronghorn)

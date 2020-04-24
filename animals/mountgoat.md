@@ -19,3 +19,7 @@ Mountain Goat can jump up to 12 ft in a single leap. The females and males spend
 [Bighorn Sheep](/animals/bighorn) have large curving horns and gray-brown fur.
 
 **Did you know?** In winter, Mountain Goat move to south/southwest-facing slopes and windswept ridges where it will be easier to find food.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Bighorn Sheep](/animals/bighorn)
