@@ -9,7 +9,7 @@ location: [bc,ab]
 habitat: [mountain]
 aka: ["Coney", "Rock Rabbit"]
 ---
-Pika are very vocal small mammals (7-8 in long) with **large ears** that can be found on rock faces and cliffs near mountain meadows **above the treeline** in western North America.
+Pika are very vocal small mammals (7-8 in long) with **large ears**. They can be found on rock faces and cliffs near mountain meadows **above the treeline** in western North America.
 
 Pika have thick, peppery-brown fur that usually covers their very short tail. They use **high-pitched calls** and **whistles** to communicate and protect their territory. They eat grasses, weeds, and tall wildflowers, drying and stacking food for the winter and bringing it into their burrows once winter arrives.
 

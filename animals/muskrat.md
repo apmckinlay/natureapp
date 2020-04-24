@@ -16,6 +16,8 @@ Muskrat are most active at dusk and at night. A favorite location is **marshes**
 
 Muskrat are smaller than [Beaver](/animals/beaver) with a much thinner tail.
 
+**Did you know?** Muskrat are excellent swimmers, moving as fast as 3 miles per hour. They can even swim backwards and can stay underwater for up to 20 minutes.
+
 <!-- generated, do not edit -->
 **See Also:**
 [Beaver](/animals/beaver),

@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by/3.0/"
 location: [bc]
 habitat: [ocean]
 ---
-Sea Urchin look like **round, spiny balls** (usually 1-4 in across. They can be found in **oceans** around the world but are much less common in the cold polar areas. They have hard shells and use their tube feet to crawl along the sea bed. Their spines help protect them from predators but also help them to move about and to trap food particles.
+Sea Urchin look like **round, spiny balls** (usually 1-4 in across). They can be found in **oceans** around the world but are much less common in the cold polar areas. They have hard shells and use their tube feet to crawl along the sea bed. Their spines help protect them from predators but also help them to move about and to trap food particles.
 
 Sea Urchin have a mouth on the underside of their body with 5 teeth they can use to grab, scrape, pull, and tear. Sea Urchin eat both plant and animal matter, such as seaweed, algae, and dead animals.
 

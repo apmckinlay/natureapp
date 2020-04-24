@@ -15,7 +15,7 @@ Slugs are [Snails](/animals/snail) without shells and are found in **moist areas
 
 Slugs have two sets of tentacles. The upper tentacles detect light while the smaller lower ones detect odors. They eat decaying plant matter and play an important role in recycling nutrients into the soil in forests. Slugs bury themselves under leaves and debris so that they don't dry out during hot, dry weather.
 
-Slugs have both male and female reproductive organs but usually cross mate. They twine around each other to mate, usually at night.
+Slugs have both male and female reproductive organs but usually cross-mate by twining around each other, usually at night.
 
 **Did you know?** Slugs use slime to help them slide along the ground. Slime also helps them to breathe as their skin can't respire when it's dry. The slime also helps to deter predators as it acts like an anaesthetic when it comes into contact with a wet surface.
 
