@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [ocean,wetland]
 ---
-Great Blue Heron are **North America's largest heron** with a wingspan of 5.5-6.5 ft. With **long legs**, **long slender neck**, and thick, dagger-like beak, they can often be seen standing motionless in shallow water looking for prey. They are **blue-gray** with a **wide black stripe above the eyes**. In flight, their wings are black and gray. They have shaggy plumes on their neck and wings during breeding season.
+Great Blue Heron are **North America's largest heron** with a wingspan of 5.5-6.6 ft. With **long legs**, **long slender neck**, and thick, dagger-like beak, they can often be seen standing motionless in shallow water looking for prey. They are **blue-gray** with a **wide black stripe above the eyes**. In flight, their wings are black and gray. They have shaggy plumes on their neck and wings during breeding season.
 
 Great Blue Heron can be found **year-round** in both **fresh** and **saltwater** habitats of the southern United States, British Columbia, New Brunswick, Nova Scotia, and Prince Edward Island. In **summer**, they can be found in southern Canada and the central United States.
 
