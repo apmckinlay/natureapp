@@ -1,8 +1,8 @@
 ---
 name: "13-lined Ground Squirrel"
 group: "rodent"
-attr: "Andy Kraemer"
-attr_link: "https://www.flickr.com/photos/38984611@N03/3621170082"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/49876191532"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
