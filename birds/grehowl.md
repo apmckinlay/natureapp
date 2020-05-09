@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 visibility: low
 ---
-Great Horned Owl are **large** (22 in) with **long earlike tufts** on their head, a **white bib**, and a **dark brown** body with white markings. They have a **deep hooting voice** that is unlike any other North American Owl. The males are smaller than females and have a deeper voice.
+Great Horned Owl are **large** (18-25 in) with **long earlike tufts** on their head, a **white bib**, and a **dark brown** body with white markings. They have a **deep hooting voice** that is unlike any other North American Owl. The males are smaller than females and have a deeper voice.
 
 Great Horned Owl can be found **year-round** in **forests** from the Arctic to South America. Their short, wide wings allow them to manoeuvre between the trees.
 
