@@ -1,4 +1,4 @@
-.PHONY: build server fb s3 links index
+.PHONY: build server deploy links index help
 
 build:
 	eleventy
@@ -6,13 +6,10 @@ build:
 server:
 	eleventy --serve
 
-fb:
+deploy:
 	eleventy
 	firebase deploy
 	
-s3:
-	aws s3 sync _site s3://naturecompanion.ca --exclude "*DS_Store" --acl public-read --delete --cache-control max-age=60
-
 links:
 	node build/process.js
 
@@ -22,6 +19,5 @@ index:
 help:
 	# make build - build the site
 	# make server - run a local server with reload on modify
-	# make fb - deploy to Google Firebase
-	# make s3 - sync to Amazon S3
+	# make deploy - deploy to Google Firebase
 	# make links - update the links and See Also's
