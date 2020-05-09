@@ -2,7 +2,7 @@
 name: "Least Chipmunk"
 group: "rodent"
 attr: "Andrew McKinlay"
-attr_link: "https://www.flickr.com/photos/apmckinlay/33537094833"
+attr_link: "https://www.flickr.com/photos/apmckinlay/49875904891"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
