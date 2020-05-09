@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [urban]
 visibility: high
 ---
-House Sparrow are one of our most common urban birds. Introduced from Europe in 1851, they are not related to other North American sparrows. They are **chunkier** with a **larger rounded head**, a **shorter tail**, and a **stouter bill** than other sparrows.
+House Sparrow are one of our most common urban birds. Introduced from Europe in 1851, they are not related to other North American sparrows. They are **chunkier** (6-6.7 in) with a **larger rounded head**, a **shorter tail**, and a **stouter bill** than other sparrows.
 
 **Males** have a gray head, white cheeks, a black throat, and a rusty-colored back. **Females** have a striped light brown back and gray underparts.
 

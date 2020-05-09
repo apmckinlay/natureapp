@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc]
 habitat: [ocean,urban]
 ---
-Glaucous-winged Gull are **large** birds (20-23 in, 47-56 in wingspan) found year-round on the **north Pacific coast**. They rarely head inland. Some spend the **summer** along the coast of Alaska and northern British Columbia, heading to Oregon and California for the **winter**. Others remain **year-round** along the coast from Alaska to Washington.
+Glaucous-winged Gull are **large** birds (20-23 in, 47-56 in wingspan) found year-round on the **north Pacific coast**. They rarely head inland. Some spend the **summer** along the coast of Alaska and northern British Columbia, heading to Oregon and California for the **winter**. Others remain **year-round** along the west coast from Alaska to Washington.
 
 Gulls are long-winged, white birds with gray and black markings. It can be difficult to tell them apart as they take **up to 4 years to develop their adult plumage**. In addition, gulls often mate with each other, so there are **hybrids** with characteristics of two species.
 
