@@ -9,9 +9,9 @@ location: [bc,ab,sk,mb]
 habitat: [ocean,wetland]
 visibility: low
 ---
-Western Grebe are a medium-sized waterbird (22-30 in) with a **long, white neck**, a **black head** and **back**, and a **white underside**. They have a **long, thin, yellow bill** and red eyes.
+[Western Grebe](/birds/westgrebe/) are a medium-sized waterbird (22-30 in) with a **long, white neck**, a **black head** and **back**, and a **white underside**. They have a **long, thin, yellow bill** and red eyes.
 
-Western Grebe **nest** in **colonies** on freshwater **lakes** and **marshes** in **western** Canada and the United States. Flocks **winter** along the **Pacific coast** in sheltered bays or estuaries. Some birds may live **year-round** in the southwest.
+[Western Grebe](/birds/westgrebe/) **nest** in **colonies** on freshwater **lakes** and **marshes** in **western** Canada and the United States. Flocks **winter** along the **Pacific coast** in sheltered bays or estuaries. Some birds may live **year-round** in the southwest.
 
 The birds dive from the surface, **swimming underwater** to catch **fish**, thrusting their neck forward and spearing it with their bill.
 
@@ -21,8 +21,8 @@ The birds dive from the surface, **swimming underwater** to catch **fish**, thru
 
 <!-- generated, do not edit -->
 **See Also:**
-[Common Merganser](/birds/commmerg),
-[Goldeneye](/birds/goldeye),
-[Loon](/birds/loon),
-[Mallard](/birds/mallard),
-[Wood Duck](/birds/woodduck)
+[Common Merganser](/birds/commmerg/),
+[Goldeneye](/birds/goldeye/),
+[Loon](/birds/loon/),
+[Mallard](/birds/mallard/),
+[Wood Duck](/birds/woodduck/)

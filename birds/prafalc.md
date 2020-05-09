@@ -8,23 +8,23 @@ license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk]
 habitat: [desert,grassland,urban]
 ---
-Prairie Falcon can be seen **flying low** over western **deserts** and **grasslands** from southern British Columbia, Alberta, and Saskatchewan south to California, Arizona, and New Mexico. They've adapted well to human habitation and can often be found in cities or farm country in the winter. However, they avoid forested areas and coasts, nesting on ledges or crevices of cliffs.
+[Prairie Falcon](/birds/prafalc/) can be seen **flying low** over western **deserts** and **grasslands** from southern British Columbia, Alberta, and Saskatchewan south to California, Arizona, and New Mexico. They've adapted well to human habitation and can often be found in cities or farm country in the winter. However, they avoid forested areas and coasts, nesting on ledges or crevices of cliffs.
 
-Prairie Falcon are **large** (15-18 in, 35-45 in wingspan) with a **light-brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
+[Prairie Falcon](/birds/prafalc/) are **large** (15-18 in, 35-45 in wingspan) with a **light-brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
 
-In summer, Prairie Falcon catch **small animals**, such as __Ground Squirrels__, but in winter they prey on **small birds**, such as **Horned Lark** and [Western Meadowlark](/birds/westmlark).
+In summer, [Prairie Falcon](/birds/prafalc/) catch **small animals**, such as __Ground Squirrels__, but in winter they prey on **small birds**, such as **Horned Lark** and [Western Meadowlark](/birds/westmlark/).
 
-[Peregrine Falcon](/birds/peregrine) are a similar size but darker and don't have dark patches under their wings. [Kestrel](/birds/kestrel) and **Merlin** are both much smaller.
+[Peregrine Falcon](/birds/peregrine/) are a similar size but darker and don't have dark patches under their wings. [Kestrel](/birds/kestrel/) and **Merlin** are both much smaller.
 
 **Did you know?** During courtship, the male and female spend a month or more visiting potential nest sites together.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bald Eagle](/birds/baldeagle),
-[Golden Eagle](/birds/goldeagl),
-[Kestrel](/birds/kestrel),
-[Osprey](/birds/osprey),
-[Peregrine Falcon](/birds/peregrine),
-[Red-tailed Hawk](/birds/redtail),
-[Sharp-shinned Hawk](/birds/shshawk),
-[Swainson's Hawk](/birds/swahawk)
+[Bald Eagle](/birds/baldeagle/),
+[Golden Eagle](/birds/goldeagl/),
+[Kestrel](/birds/kestrel/),
+[Osprey](/birds/osprey/),
+[Peregrine Falcon](/birds/peregrine/),
+[Red-tailed Hawk](/birds/redtail/),
+[Sharp-shinned Hawk](/birds/shshawk/),
+[Swainson's Hawk](/birds/swahawk/)

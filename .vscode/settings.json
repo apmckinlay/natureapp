@@ -1,4 +1,5 @@
 {
-    "editor.wordWrap": "on",
-    "markdown.extension.preview.autoShowPreviewToSide": false
+    "files.associations": {
+        "service-worker.html": "javascript"
+    }
 }

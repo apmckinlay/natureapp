@@ -10,20 +10,20 @@ habitat: [forest,grassland,mountain]
 visibility: high
 aka: ["Prairie Fire"]
 ---
-Indian Paintbrush produces clusters of spiky, bright red or orange-yellow blooms at the tip of the stem. The **flowers** themselves are hard to spot; it's the bracts that are brightly colored.
+[Indian Paintbrush](/plants/indian/) produces clusters of spiky, bright red or orange-yellow blooms at the tip of the stem. The **flowers** themselves are hard to spot; it's the bracts that are brightly colored.
 
-There are many different varieties of Indian Paintbrush that can be found throughout North America. Height varies from 6 in to 3 ft, depending on the species. The plant often forms a cluster of individual, erect **stems**. The **leaves** are long, narrow, and pointed.
+There are many different varieties of [Indian Paintbrush](/plants/indian/) that can be found throughout North America. Height varies from 6 in to 3 ft, depending on the species. The plant often forms a cluster of individual, erect **stems**. The **leaves** are long, narrow, and pointed.
 
-Indian Paintbrush can be found in prairies, open woodlands, and along the banks of streams throughout western North America. It flowers from **April** to **July**.
+[Indian Paintbrush](/plants/indian/) can be found in prairies, open woodlands, and along the banks of streams throughout western North America. It flowers from **April** to **July**.
 
-**Did you know?** Indian Paintbrush has green leaves and produces its own food, but it also joins roots with neighboring plants to steal water and nutrients.
+**Did you know?** [Indian Paintbrush](/plants/indian/) has green leaves and produces its own food, but it also joins roots with neighboring plants to steal water and nutrients.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Beargrass](/plants/beargras),
-[Blazing Star](/plants/blazstar),
-[Camas](/plants/camas),
-[False Solomon's Seal](/plants/falsesol),
-[Fireweed](/plants/fireweed),
-[Goldenrod](/plants/goldrod),
-[Purple Prairie Clover](/plants/pupclover)
+[Beargrass](/plants/beargras/),
+[Blazing Star](/plants/blazstar/),
+[Camas](/plants/camas/),
+[False Solomon's Seal](/plants/falsesol/),
+[Fireweed](/plants/fireweed/),
+[Goldenrod](/plants/goldrod/),
+[Purple Prairie Clover](/plants/pupclover/)

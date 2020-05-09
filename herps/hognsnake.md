@@ -10,18 +10,18 @@ habitat: [desert,forest,grassland]
 visibility: low
 aka: ["Hog-nosed Snake"]
 ---
-Hognose Snake are **short** (2-4 ft) and **stout**. They have an **upturned, pointed snout** they use to dig in the sand. Their color and pattern are extremely variable.
+[Hognose Snake](/herps/hognsnake/) are **short** (2-4 ft) and **stout**. They have an **upturned, pointed snout** they use to dig in the sand. Their color and pattern are extremely variable.
 
-Hognose Snake can be found across the **United States** and parts of **southern Canada** in woodlands, prairies, farmlands, and coastal areas. They prefer loose **sandy soil**. They eat rodents and lizards, although **Eastern Hognose** specialize in eating toads.
+[Hognose Snake](/herps/hognsnake/) can be found across the **United States** and parts of **southern Canada** in woodlands, prairies, farmlands, and coastal areas. They prefer loose **sandy soil**. They eat rodents and lizards, although **Eastern Hognose** specialize in eating toads.
 
-Hognose Snake raise their heads and hiss or roll over and play dead when threatened. Their saliva occasionally causes localized swelling and blistering in humans but isn't poisonous.
+[Hognose Snake](/herps/hognsnake/) raise their heads and hiss or roll over and play dead when threatened. Their saliva occasionally causes localized swelling and blistering in humans but isn't poisonous.
 
 **Did you know?** Snakes taste and smell the world using their tongues. They can tell which direction the scent is coming from because their tongue is forked.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bullsnake](/herps/bullsnake),
-[Garter Snake](/herps/gartsnake),
-[North American Racer](/herps/naracer),
-[Rattlesnake](/herps/ratlsnak),
-[Rubber Boa](/herps/rubboa)
+[Bullsnake](/herps/bullsnake/),
+[Garter Snake](/herps/gartsnake/),
+[North American Racer](/herps/naracer/),
+[Rattlesnake](/herps/ratlsnak/),
+[Rubber Boa](/herps/rubboa/)

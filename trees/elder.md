@@ -10,24 +10,24 @@ habitat: [forest]
 visibility: high
 aka: ["Elder"]
 ---
-Elderberry is 5-12 ft tall and wide with long **stems** arching out from the base. Large, flat-topped, umbrella-shaped clusters (10 in or more in diameter) of fragrant, white **flowers** appear from May to July followed in late summer or early fall by drooping clusters of dark purple to black **berries**. The **leaves** are composed of 5-11 leaflets up to 12 in long.
+[Elderberry](/trees/elder/) is 5-12 ft tall and wide with long **stems** arching out from the base. Large, flat-topped, umbrella-shaped clusters (10 in or more in diameter) of fragrant, white **flowers** appear from May to July followed in late summer or early fall by drooping clusters of dark purple to black **berries**. The **leaves** are composed of 5-11 leaflets up to 12 in long.
 
-Elderberry grows along streams and roadsides and in moist woodlands. It's often found in **large clumps** as it spreads by root suckers. Elderberry can be found throughout  North America although it is less common in the prairie provinces, the Gulf states, and the North.
+[Elderberry](/trees/elder/) grows along streams and roadsides and in moist woodlands. It's often found in **large clumps** as it spreads by root suckers. [Elderberry](/trees/elder/) can be found throughout  North America although it is less common in the prairie provinces, the Gulf states, and the North.
 
 The flowers and ripe fruit are edible (when cooked), but be careful. Many plants in the carrot family have umbrella-shaped flower clusters, some of which (e.g. **Water Hemlock**) are poisonous.
 
-**Did you know?** Elderberry's Latin name - Sambucus - refers to a Greek musical instrument as its stems can be hollowed out to make flutes and whistles.
+**Did you know?** [Elderberry](/trees/elder/)'s Latin name - Sambucus - refers to a Greek musical instrument as its stems can be hollowed out to make flutes and whistles.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Wild Strawberry](/plants/wildstraw),
-[Bearberry](/trees/bear),
-[Blackberry](/trees/blackber),
-[Chokecherry](/trees/choke),
-[Highbush Cranberry](/trees/hicran),
-[Huckleberry](/trees/huck),
-[Oregon Grape](/trees/orgrape),
-[Saskatoon Berry](/trees/saskber),
-[Silver Buffaloberry](/trees/silbufber),
-[Snowberry](/trees/snow),
-[Thimbleberry](/trees/thimble)
+[Wild Strawberry](/plants/wildstraw/),
+[Bearberry](/trees/bear/),
+[Blackberry](/trees/blackber/),
+[Chokecherry](/trees/choke/),
+[Highbush Cranberry](/trees/hicran/),
+[Huckleberry](/trees/huck/),
+[Oregon Grape](/trees/orgrape/),
+[Saskatoon Berry](/trees/saskber/),
+[Silver Buffaloberry](/trees/silbufber/),
+[Snowberry](/trees/snow/),
+[Thimbleberry](/trees/thimble/)

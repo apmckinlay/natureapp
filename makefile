@@ -1,13 +1,13 @@
-.PHONY: build server deploy links index help
+.PHONY: build server deploy links index files help
 
 build:
-	eleventy
+	rm -r _site
+	eleventy --quiet
 
-server:
+serve:
 	eleventy --serve
 
-deploy:
-	eleventy
+deploy: files
 	firebase deploy
 	
 links:
@@ -15,6 +15,13 @@ links:
 
 index:
 	node build/index.js
+	
+files:
+	eleventy --quiet
+	find _site -type f | sed '/DS_Store/d ; /404/d ; /offline/d ; \
+		s/_site// ; s/index.html// ; s/.*/"&",/' \
+		| sort > _includes/files.mustache
+	eleventy --quiet
 	
 help:
 	# make build - build the site

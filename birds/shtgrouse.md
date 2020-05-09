@@ -9,9 +9,9 @@ location: [bc,ab,sk,mb]
 habitat: [grassland,mountain]
 visibility: low
 ---
-Sharp-tailed Grouse are spotted, **brown and white**, chicken-like birds (18 in). Their **tail feathers** are narrow and pointed with **white edges**.
+[Sharp-tailed Grouse](/birds/shtgrouse/) are spotted, **brown and white**, chicken-like birds (18 in). Their **tail feathers** are narrow and pointed with **white edges**.
 
-Sharp-tailed Grouse are found in southwestern Canada and the northern United States. They live in **open, grassy areas** during the **summer** and **sheltered, wooded areas** during the **winter**. Their diet includes seeds, buds, and leaves as well as insects, berries, and grains.
+[Sharp-tailed Grouse](/birds/shtgrouse/) are found in southwestern Canada and the northern United States. They live in **open, grassy areas** during the **summer** and **sheltered, wooded areas** during the **winter**. Their diet includes seeds, buds, and leaves as well as insects, berries, and grains.
 
 **Ring-necked Pheasant** are larger and don't have narrow, pointed, white-edged tail feathers.
 
@@ -19,7 +19,7 @@ Sharp-tailed Grouse are found in southwestern Canada and the northern United Sta
 
 <!-- generated, do not edit -->
 **See Also:**
-[Blue Grouse](/birds/blugrouse),
-[Greater Sage-Grouse](/birds/gresage),
-[Ruffed Grouse](/birds/rufgrouse),
-[Spruce Grouse](/birds/sprugrouse)
+[Blue Grouse](/birds/blugrouse/),
+[Greater Sage-Grouse](/birds/gresage/),
+[Ruffed Grouse](/birds/rufgrouse/),
+[Spruce Grouse](/birds/sprugrouse/)

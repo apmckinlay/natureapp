@@ -14,18 +14,18 @@ When the Azure are flying, you see the light blue upper surface of their wings. 
 
 Azure butterfly lay their eggs on shrubs. The **caterpillars**, usually green, eat the flowers and developing fruit. After a winter hibernation, the butterflies emerge from their chrysalids. Different species emerge at different times. The **Spring Azure** is the first to appear in April to mid-June while you'll spot **Summer Azure** in July.
 
-**Did you know?** The caterpillars of blue butterflies are often tended by [Ants](/insects/ants) who provide some protection in return for eating a sweet liquid secreted by the caterpillars.
+**Did you know?** The caterpillars of blue butterflies are often tended by [Ants](/insects/ants/) who provide some protection in return for eating a sweet liquid secreted by the caterpillars.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Banded Woolly Bear Caterpillar](/insects/bandwb),
-[Cabbage White](/insects/cabbgwht),
-[Clouded Sulfur](/insects/cloudsulf),
-[Compton Tortoiseshell](/insects/comptort),
-[Great Spangled Fritillary](/insects/greatfrit),
-[Hawk Moth](/insects/hawkmoth),
-[Monarch Butterfly](/insects/monarch),
-[Mourning Cloak](/insects/mournbut),
-[Painted Lady](/insects/paintbut),
-[Tent Caterpillar](/insects/tentcat),
-[Tiger Swallowtail](/insects/tigerbut)
+[Banded Woolly Bear Caterpillar](/insects/bandwb/),
+[Cabbage White](/insects/cabbgwht/),
+[Clouded Sulfur](/insects/cloudsulf/),
+[Compton Tortoiseshell](/insects/comptort/),
+[Great Spangled Fritillary](/insects/greatfrit/),
+[Hawk Moth](/insects/hawkmoth/),
+[Monarch Butterfly](/insects/monarch/),
+[Mourning Cloak](/insects/mournbut/),
+[Painted Lady](/insects/paintbut/),
+[Tent Caterpillar](/insects/tentcat/),
+[Tiger Swallowtail](/insects/tigerbut/)

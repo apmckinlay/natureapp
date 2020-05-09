@@ -1,0 +1,42 @@
+---
+permalink: "service-worker.js"
+---
+'use strict';
+
+// update cache version number to invalidate caches
+const CACHE_NAME = 'static-cache-v4';
+
+const FILES = [
+    {{> files }}
+];
+
+// NOTE: This is "install" of the service worker, not the app
+self.addEventListener('install', (evt) => {
+    evt.waitUntil(
+        caches.open(CACHE_NAME).then((c) => {
+            return c.addAll(FILES);
+        })
+    );
+    self.skipWaiting();
+});
+
+self.addEventListener('activate', (evt) => {
+    evt.waitUntil(
+        caches.keys().then((keyList) => {
+            return Promise.all(keyList.map((key) => {
+                if (key !== CACHE_NAME) {
+                    return caches.delete(key);
+                }
+            }));
+        })
+    ); self.clients.claim();
+});
+
+self.addEventListener('fetch', (e) => {
+    e.respondWith(
+        // return from cache if present else fetch
+        caches.match(e.request, {ignoreSearch: true}).then((r) => {
+            return r || fetch(e.request)
+        })
+    );
+});

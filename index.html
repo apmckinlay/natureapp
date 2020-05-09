@@ -1,3 +1,10 @@
+---js
+{
+    built: function () { 
+        return 'Built ' + (new Date).toLocaleString('en-US', { hour12: false }) 
+    }
+}
+---
 <!doctype html>
 <html class="photobgnd">
 
@@ -6,12 +13,6 @@
 </head>
 
 <body>
-    <div class="install">
-        <p>Install this app locally?<br>
-            <button type="button" class="install_yes">Yes Please</button>
-            <button type="button" class="install_no">No Thanks</button>
-        </p>
-    </div>
     <div class="header">
         {{> helpbutton.html }}
         {{> searchbutton.html }}
@@ -20,29 +21,32 @@
             <image id="title" src="images/title.svg" />
         </div>
     </div>
+    <div style="position:absolute; right: 5px; bottom: 5px; color: white;">
+        {{built}}
+    </div>
 
     <div class="container">
-        <a href="birds" class="group">
+        <a href="birds/" class="group">
             <image class="icon" src="images/birds.svg" />
             <div class="label">Birds</div>
         </a>
-        <a href="animals" class="group">
+        <a href="animals/" class="group">
             <image class="icon" src="images/animals.svg" />
             <div class="label">Animals</div>
         </a>
-        <a href="plants" class="group">
+        <a href="plants/" class="group">
             <image class="icon" src="images/plants.svg" />
             <div class="label">Plants</div>
         </a>
-        <a href="herps" class="group">
+        <a href="herps/" class="group">
             <image class="icon" src="images/herps.svg" />
             <div class="label">Reptiles&nbsp;&amp;<br />Amphibians</div>
         </a>
-        <a href="insects" class="group">
+        <a href="insects/" class="group">
             <image class="icon" src="images/insects.svg" />
             <div class="label">Insects&nbsp;&amp;<br />Spiders</div>
         </a>
-        <a href="trees" class="group">
+        <a href="trees/" class="group">
             <image class="icon" src="images/trees.svg" />
             <div class="label">Trees&nbsp;&amp;<br />Shrubs</div>
         </a>
@@ -56,63 +60,6 @@
                     });
             });
         }
-        
-        const install = document.querySelector('.install');
-        const installYes = install.querySelector('.install_yes');
-        const installNo = install.querySelector('.install_no');
-        let installEvent;
-
-        function getVisited() {
-            return localStorage.getItem('install-prompt');
-        }
-
-        function setVisited() {
-            localStorage.setItem('install-prompt', true);
-        }
-        
-        // this event will only fire if the user does not have the pwa installed
-        window.addEventListener('beforeinstallprompt', (event) => {
-            console.log("beforeinstallprompt")
-            event.preventDefault();
-
-            // if no localStorage is set, first time visitor
-            if (!getVisited()) {
-                // show the install banner
-                install.style.display = 'block';
-
-                // store the event for later use
-                installEvent = event;
-            }
-        });
-
-        installYes.addEventListener('click', () => {
-            // hide the install banner
-            install.style.display = 'none';
-
-            // trigger the prompt to show to the user
-            installEvent.prompt();
-
-            // check what choice the user made
-            installEvent.userChoice.then((choice) => {
-                // if the user declined, we don't want to show the button again
-                // set localStorage to true
-                if (choice.outcome !== 'accepted') {
-                    setVisited();
-                }
-
-                installEvent = null;
-            });
-        });
-
-        installNo.addEventListener('click', () => {
-            // set localStorage to true
-            setVisited();
-
-            // hide the install banner
-            install.style.display = 'none';
-
-            installEvent = null;
-        });
-        </script>
+    </script>
 </body>
 </html>

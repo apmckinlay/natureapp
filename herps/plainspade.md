@@ -21,10 +21,10 @@ To conserve moisture, Plains Spadefoot spend much of their time buried in the sa
 
 <!-- generated, do not edit -->
 **See Also:**
-[Boreal Chorus Frog](/herps/borchor),
-[Canadian Toad](/herps/cantoad),
-[Columbia Spotted Frog](/herps/colsfrog),
-[Northern Leopard Frog](/herps/norlfrog),
-[Pacific Tree Frog](/herps/pactfrog),
-[Western Toad](/herps/westtoad),
-[Wood Frog](/herps/woodfrog)
+[Boreal Chorus Frog](/herps/borchor/),
+[Canadian Toad](/herps/cantoad/),
+[Columbia Spotted Frog](/herps/colsfrog/),
+[Northern Leopard Frog](/herps/norlfrog/),
+[Pacific Tree Frog](/herps/pactfrog/),
+[Western Toad](/herps/westtoad/),
+[Wood Frog](/herps/woodfrog/)

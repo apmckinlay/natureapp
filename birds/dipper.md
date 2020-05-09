@@ -9,8 +9,8 @@ habitat: [forest,mountain,wetland]
 visibility: low
 aka: ["Water Ouzel"]
 ---
-American Dipper are commonly found **perched on a rock** in the middle of a rushing **mountain stream**. A stocky, medium-sized gray bird (5.5-8 in), they're constantly **bobbing up and down**. They catch aquatic insects by **diving**, **swimming**, or **walking in streams**. An extra eyelid enables them to see underwater.
+American [Dipper](/birds/dipper/) are commonly found **perched on a rock** in the middle of a rushing **mountain stream**. A stocky, medium-sized gray bird (5.5-8 in), they're constantly **bobbing up and down**. They catch aquatic insects by **diving**, **swimming**, or **walking in streams**. An extra eyelid enables them to see underwater.
 
-Dipper can be found **year-round** in fast-moving, unpolluted mountain streams in northwestern North America.
+[Dipper](/birds/dipper/) can be found **year-round** in fast-moving, unpolluted mountain streams in northwestern North America.
 
-**Did you know?** Dipper are able to survive in cold water during the winter due to their low metabolic rate, extra oxygen-carrying capacity in their blood, and a thick coat of feathers.
+**Did you know?** [Dipper](/birds/dipper/) are able to survive in cold water during the winter due to their low metabolic rate, extra oxygen-carrying capacity in their blood, and a thick coat of feathers.

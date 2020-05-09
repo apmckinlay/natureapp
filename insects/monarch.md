@@ -14,20 +14,20 @@ The butterflies have orange **wings** with black veins and a double row of white
 
 Only Monarchs born in late summer or fall will make the migration. Many generations will have been born and died before the Monarchs migrate again the next year and yet somehow they remember the route and the destination.
 
-[Painted Lady](/insects/paintbut) butterflies are also orange and they migrate to Mexico as well. However, they have splashes and dots of black and white on their wings rather than black veins.
+[Painted Lady](/insects/paintbut/) butterflies are also orange and they migrate to Mexico as well. However, they have splashes and dots of black and white on their wings rather than black veins.
 
 **Did you know?** Birds and other predators know that Monarchs taste horrible and stay away. The predators also avoid butterflies that mimic the Monarch, such as the **Viceroy**.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Azure Butterfly](/insects/azurebut),
-[Banded Woolly Bear Caterpillar](/insects/bandwb),
-[Cabbage White](/insects/cabbgwht),
-[Clouded Sulfur](/insects/cloudsulf),
-[Compton Tortoiseshell](/insects/comptort),
-[Great Spangled Fritillary](/insects/greatfrit),
-[Hawk Moth](/insects/hawkmoth),
-[Mourning Cloak](/insects/mournbut),
-[Painted Lady](/insects/paintbut),
-[Tent Caterpillar](/insects/tentcat),
-[Tiger Swallowtail](/insects/tigerbut)
+[Azure Butterfly](/insects/azurebut/),
+[Banded Woolly Bear Caterpillar](/insects/bandwb/),
+[Cabbage White](/insects/cabbgwht/),
+[Clouded Sulfur](/insects/cloudsulf/),
+[Compton Tortoiseshell](/insects/comptort/),
+[Great Spangled Fritillary](/insects/greatfrit/),
+[Hawk Moth](/insects/hawkmoth/),
+[Mourning Cloak](/insects/mournbut/),
+[Painted Lady](/insects/paintbut/),
+[Tent Caterpillar](/insects/tentcat/),
+[Tiger Swallowtail](/insects/tigerbut/)

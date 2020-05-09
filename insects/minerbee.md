@@ -9,9 +9,9 @@ location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
 aka: ["Mining Bee"]
 ---
-Miner Bees burrow into the **ground** to make nesting sites. If possible, they choose a bare, sunny, sandy spot. Each female bee creates her own nest and cares for her own eggs, but many species are **sociable** and build their nests close together.
+[Miner Bees](/insects/minerbee/) burrow into the **ground** to make nesting sites. If possible, they choose a bare, sunny, sandy spot. Each female bee creates her own nest and cares for her own eggs, but many species are **sociable** and build their nests close together.
 
-Miner Bees are medium-sized (.4-.8 in long) and brown to reddish-black with velvety hollows beside their **eyes**. They collect pollen and nectar from early-blooming flowers, berry plants, and fruit trees. They have very small stingers that may not even penetrate human skin.
+[Miner Bees](/insects/minerbee/) are medium-sized (.4-.8 in long) and brown to reddish-black with velvety hollows beside their **eyes**. They collect pollen and nectar from early-blooming flowers, berry plants, and fruit trees. They have very small stingers that may not even penetrate human skin.
 
 The nest tunnels are just slightly wider than the bee and can be up to a foot long with several branches. At the end of each branch, the female digs a slightly larger chamber, fills it with food, lays an egg, and seals off the chamber.
 
@@ -19,9 +19,9 @@ The nest tunnels are just slightly wider than the bee and can be up to a foot lo
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bumblebee](/insects/bumbee),
-[Honey Bee](/insects/honeybee),
-[Leafcutter Bee](/insects/leafcbee),
-[Mason Bee](/insects/masonbee),
-[Sweat Bee](/insects/sweatbee),
-[Wasp](/insects/wasp)
+[Bumblebee](/insects/bumbee/),
+[Honey Bee](/insects/honeybee/),
+[Leafcutter Bee](/insects/leafcbee/),
+[Mason Bee](/insects/masonbee/),
+[Sweat Bee](/insects/sweatbee/),
+[Wasp](/insects/wasp/)

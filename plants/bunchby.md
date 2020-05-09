@@ -9,12 +9,12 @@ location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: high
 ---
-Bunchberry is a **low** plant (4-8 in) that usually grows in a **thick carpet** due to its creeping underground stems. The prominently veined evergreen **leaves** circle the stem. The small green flowers at the centre of four white petal-like bracts (.5-1 in) develop into a tight cluster of scarlet-red **berries** in August.
+[Bunchberry](/plants/bunchby/) is a **low** plant (4-8 in) that usually grows in a **thick carpet** due to its creeping underground stems. The prominently veined evergreen **leaves** circle the stem. The small green flowers at the centre of four white petal-like bracts (.5-1 in) develop into a tight cluster of scarlet-red **berries** in August.
 
-Bunchberry belongs to the same plant family as [Pacific Dogwood](/trees/pacdog) and has similar leaves and flowers. It is common in shady, cool, moist woodlands, especially **coniferous forests**.
+[Bunchberry](/plants/bunchby/) belongs to the same plant family as [Pacific Dogwood](/trees/pacdog/) and has similar leaves and flowers. It is common in shady, cool, moist woodlands, especially **coniferous forests**.
 
 **Did you know?** The berries are much appreciated by wildlife, but humans find them bland and they contain a large stone.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Bog Rosemary](/plants/bogrose)
+[Bog Rosemary](/plants/bogrose/)

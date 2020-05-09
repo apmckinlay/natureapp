@@ -79,7 +79,7 @@ function addSeeAlso(id, content) {
             let sa = "**See Also:**";
             for (let said of list)
                 if (said != id)
-                    sa += '\n[' + id2name[said] + '](/' + id2path[said] + '),';
+                    sa += '\n[' + id2name[said] + '](/' + id2path[said] + '/),';
             sa = sa.slice(0, -1);
             content += '\n' + generated + '\n' + sa + '\n';
         }
@@ -108,7 +108,7 @@ function namesToLinks(id, content) {
             // Still won't handle a name that is inside another.
             let rx = RegExp('([^\\[]|^)\\b_*(' + name + 's?)_*\\b(?!])', 'g');
             content = content.replace(rx,
-                (str, pre, name) => pre + '[' + name + '](/' + id2path[id2] + ')');
+                (str, pre, name) => pre + '[' + name + '](/' + id2path[id2] + '/)');
         }
     }
     // remove links from current item

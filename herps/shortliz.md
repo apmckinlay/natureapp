@@ -10,17 +10,17 @@ habitat: [desert,grassland]
 visibility: low
 aka: ["Horned Toad", "Horny Toad"]
 ---
-Short-horned Lizard are **small** (3.5-4 in), **flat**, and **round** with a **short, pointed tail**. They have a **crown of short, pointy scales** (horns) on their head and **short, pointed scales** on their **back**. Their coloring varies from yellow to gray to reddish-brown to match their environment.
+[Short-horned Lizard](/herps/shortliz/) are **small** (3.5-4 in), **flat**, and **round** with a **short, pointed tail**. They have a **crown of short, pointy scales** (horns) on their head and **short, pointed scales** on their **back**. Their coloring varies from yellow to gray to reddish-brown to match their environment.
 
-Short-horned Lizards live on the **deserts** and **semi-arid plains** of the **western United States**. They are rare in Canada and are only found at a few spots in **Alberta** and **Saskatchewan**. They hide behind rocks and burrow in sandy soil. They eat ants, grasshoppers, beetles, and spiders and are active in the **daytime**. The females keep their eggs inside their bodies and give birth to live young.
+[Short-horned Lizards](/herps/shortliz/) live on the **deserts** and **semi-arid plains** of the **western United States**. They are rare in Canada and are only found at a few spots in **Alberta** and **Saskatchewan**. They hide behind rocks and burrow in sandy soil. They eat ants, grasshoppers, beetles, and spiders and are active in the **daytime**. The females keep their eggs inside their bodies and give birth to live young.
 
-The **Mountain Short-horned Lizard** is reddish with prominent horizontal spines and ranges from southern Utah and western Colorado through Arizona and New Mexico with rare, localized populations in southeast Alberta.
+The **Mountain [Short-horned Lizard](/herps/shortliz/)** is reddish with prominent horizontal spines and ranges from southern Utah and western Colorado through Arizona and New Mexico with rare, localized populations in southeast Alberta.
 
-**Did you know?** Short-horned Lizards inflate their body to twice its normal size and shoot blood from their eyes to try to ward off predators.
+**Did you know?** [Short-horned Lizards](/herps/shortliz/) inflate their body to twice its normal size and shoot blood from their eyes to try to ward off predators.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Long-toed Salamander](/herps/ltsalam),
-[Rough-skinned Newt](/herps/rounewt),
-[Tiger Salamander](/herps/tigsal),
-[Western Skink](/herps/westskink)
+[Long-toed Salamander](/herps/ltsalam/),
+[Rough-skinned Newt](/herps/rounewt/),
+[Tiger Salamander](/herps/tigsal/),
+[Western Skink](/herps/westskink/)

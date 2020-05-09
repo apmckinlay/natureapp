@@ -9,24 +9,24 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 aka: ["Sphinx", "Clearwing", "Hornworm"]
 ---
-Hawk Moth fly and move like hummingbirds and can be seen hovering in front of a flower while they unfurl their long tongue and insert it in the flower to sip the nectar. They fly and feed at dusk or sometimes during the day. They are most active in **summer** when phlox, monarda (bee balm), honeysuckle, and verbena are in bloom.
+[Hawk Moth](/insects/hawkmoth/) fly and move like hummingbirds and can be seen hovering in front of a flower while they unfurl their long tongue and insert it in the flower to sip the nectar. They fly and feed at dusk or sometimes during the day. They are most active in **summer** when phlox, monarda (bee balm), honeysuckle, and verbena are in bloom.
 
-There are 4 species of Hawk Moth in North America. They have **fast-beating wings** and a **furry, broad body** and can be found in gardens, meadows, and near forests across Canada and the United States.
+There are 4 species of [Hawk Moth](/insects/hawkmoth/) in North America. They have **fast-beating wings** and a **furry, broad body** and can be found in gardens, meadows, and near forests across Canada and the United States.
 
-The **caterpillars** are green with a horn at the rear end. They rely on honeysuckle ([Twinberry Honeysuckle](/trees/twibhon), [Twining Honeysuckle](/trees/twinhon)), hawthorn, cherry, and plum trees for food.
+The **caterpillars** are green with a horn at the rear end. They rely on honeysuckle ([Twinberry Honeysuckle](/trees/twibhon/), [Twining Honeysuckle](/trees/twinhon/)), hawthorn, cherry, and plum trees for food.
 
 **Did you know?** When the caterpillars are fully grown, they drop to the ground, spin a loose cocoon, and overwinter under leaf litter.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Azure Butterfly](/insects/azurebut),
-[Banded Woolly Bear Caterpillar](/insects/bandwb),
-[Cabbage White](/insects/cabbgwht),
-[Clouded Sulfur](/insects/cloudsulf),
-[Compton Tortoiseshell](/insects/comptort),
-[Great Spangled Fritillary](/insects/greatfrit),
-[Monarch Butterfly](/insects/monarch),
-[Mourning Cloak](/insects/mournbut),
-[Painted Lady](/insects/paintbut),
-[Tent Caterpillar](/insects/tentcat),
-[Tiger Swallowtail](/insects/tigerbut)
+[Azure Butterfly](/insects/azurebut/),
+[Banded Woolly Bear Caterpillar](/insects/bandwb/),
+[Cabbage White](/insects/cabbgwht/),
+[Clouded Sulfur](/insects/cloudsulf/),
+[Compton Tortoiseshell](/insects/comptort/),
+[Great Spangled Fritillary](/insects/greatfrit/),
+[Monarch Butterfly](/insects/monarch/),
+[Mourning Cloak](/insects/mournbut/),
+[Painted Lady](/insects/paintbut/),
+[Tent Caterpillar](/insects/tentcat/),
+[Tiger Swallowtail](/insects/tigerbut/)

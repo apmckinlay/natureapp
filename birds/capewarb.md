@@ -13,15 +13,15 @@ This small songbird (4.5-5 in) spends its **summers** in the northern boreal for
 
 **Males** have a **yellow throat** and **breast** with streaky black markings. **Orange-brown cheek patches** are less distinctive out of the breeding season. **Females** are grayer overall with a **pale yellow breast**. Both males and females have a **black stripe** through the **eye**.
 
-The Cape May Warblers' favourite northern food is the **[Spruce](/trees/spruce) Budworm**, although they also eat other insects.
+The [Cape May Warblers](/birds/capewarb/)' favourite northern food is the **[Spruce](/trees/spruce/) Budworm**, although they also eat other insects.
 
-[Yellow-rumped Warblers](/birds/yellrump) have a long thin tail with bright yellow patches on face, sides, and rump.
+[Yellow-rumped Warblers](/birds/yellrump/) have a long thin tail with bright yellow patches on face, sides, and rump.
 
-**Did you know?** Cape May Warbler have a curled, semitubular tongue that they use to collect flower nectar in the Caribbean during the winter.
+**Did you know?** [Cape May Warbler](/birds/capewarb/) have a curled, semitubular tongue that they use to collect flower nectar in the Caribbean during the winter.
 
 <!-- generated, do not edit -->
 **See Also:**
-[Townsend's Warbler](/birds/townwarb),
-[Wilson's Warbler](/birds/wilswarb),
-[Yellow-rumped Warbler](/birds/yellrump),
-[Yellow Warbler](/birds/yellwarb)
+[Townsend's Warbler](/birds/townwarb/),
+[Wilson's Warbler](/birds/wilswarb/),
+[Yellow-rumped Warbler](/birds/yellrump/),
+[Yellow Warbler](/birds/yellwarb/)
