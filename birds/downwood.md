@@ -1,10 +1,10 @@
 ---
 name: "Downy Woodpecker"
 group: "woodpecker"
-attr: "Cephas"
-attr_link: "https://commons.wikimedia.org/wiki/File:Picoides_pubescens_f_CT3.jpg"
-license: "CC BY-SA"
-license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/49848587302"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 ---
