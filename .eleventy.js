@@ -1,9 +1,8 @@
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("photos");
-    eleventyConfig.addPassthroughCopy("manifest.json");
     return {
-        templateFormats: ["html", "md"],
+        templateFormats: ["html", "md", "png", "ico", "json", "xml", "css"],
         markdownTemplateEngine: "mustache",
         htmlTemplateEngine: "mustache",
         passthroughFileCopy: true
