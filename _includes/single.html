@@ -13,7 +13,20 @@ mountain: function() { return -1 != this.habitat.indexOf("mountain") },
 ocean: function() { return -1 != this.habitat.indexOf("ocean") },
 urban: function() { return -1 != this.habitat.indexOf("urban") },
 wetland: function() { return -1 != this.habitat.indexOf("wetland") },
-akas: function() { return this.aka ? this.aka.join(", ") : false }
+akas: function() { return this.aka ? this.aka.join(", ") : false },
+
+next: function() {
+    let items = this.collections[this.section.slice(0,-1)];
+    let i = items.findIndex(x => x.fileSlug == this.page.fileSlug);
+    i = (i + 1) % items.length;
+    return items[i].fileSlug;
+    },
+prev: function() {
+    let items = this.collections[this.section.slice(0,-1)];
+    let i = items.findIndex(x => x.fileSlug == this.page.fileSlug);
+    i = (i + items.length - 1) % items.length;
+    return items[i].fileSlug;
+    }
 }
 ---
 <!doctype html>
@@ -200,6 +213,36 @@ akas: function() { return this.aka ? this.aka.join(", ") : false }
                     return true;
             return false;
         }
+
+        document.addEventListener('touchstart', handleTouchStart, false);
+        document.addEventListener('touchend', handleTouchEnd, false);
+
+        var xDown = null;
+        var yDown = null;
+
+        function handleTouchStart(evt) {
+            xDown = event.changedTouches[0].screenX;
+            yDown = event.changedTouches[0].screenY;
+        };
+
+        const THRESHOLD = 130;
+
+        function handleTouchEnd(evt) {
+            if (!xDown || !yDown)
+                return;
+
+            var xUp = event.changedTouches[0].screenX;
+            var yUp = event.changedTouches[0].screenY;
+
+            var xDiff = xDown - xUp;
+            var yDiff = yDown - yUp;
+
+            if (Math.abs(xDiff) > THRESHOLD && Math.abs(yDiff) < THRESHOLD)
+                window.location.href = 
+                    '/{{section}}/' + (xDiff > 0 ? "{{next}}" : "{{prev}}") + '/';
+            xDown = null;
+            yDown = null;
+        };
     </script>
 </body>
 

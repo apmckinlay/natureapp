@@ -27,7 +27,46 @@
         </div>
         {{/items}}
     </div>
+    <script>
+        const types = ['birds', 'animals', 'plants', 'herps', 'insects', 'trees']
 
+        document.addEventListener('touchstart', handleTouchStart, false);
+        document.addEventListener('touchend', handleTouchEnd, false);
+
+        var xDown = null;
+        var yDown = null;
+
+        function handleTouchStart(evt) {
+            xDown = event.changedTouches[0].screenX;
+            yDown = event.changedTouches[0].screenY;
+        };
+
+        const THRESHOLD = 130;
+
+        function handleTouchEnd(evt) {
+            if (!xDown || !yDown)
+                return;
+
+            var xUp = event.changedTouches[0].screenX;
+            var yUp = event.changedTouches[0].screenY;
+
+            var xDiff = xDown - xUp;
+            var yDiff = yDown - yUp;
+
+            if (Math.abs(xDiff) > THRESHOLD && Math.abs(yDiff) < THRESHOLD) {
+                let i = types.indexOf('{{page.fileSlug}}');
+                if (i != -1) {
+                    if (xDiff > 0)
+                        i = (i + 1) % types.length;
+                    else
+                        i = (i + types.length - 1) % types.length;
+                    window.location.href = '/' + types[i] + '/';
+                }
+            }
+            xDown = null;
+            yDown = null;
+        };
+    </script>
 </body>
 
 </html>
