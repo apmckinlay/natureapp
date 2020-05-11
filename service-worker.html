@@ -1,10 +1,18 @@
----
-permalink: "service-worker.js"
+---js
+{
+    permalink: "service-worker.js",
+    built: function () {
+        let s = (new Date).toLocaleString('en-US', { hour12: false })
+        s = s.slice(0, -3) // remove seconds
+        s = s.replace(',', '').replace(':', '')
+        s = s.replace(/(\d+)\/(\d+)\/(\d+) /, "$3$1$2-")
+        return s
+    }
+}
 ---
 'use strict';
 
-// update cache version number to invalidate caches
-const CACHE_NAME = 'static-cache-v4';
+const CACHE_NAME = "{{built}}";
 
 const FILES = [
     {{> files }}
