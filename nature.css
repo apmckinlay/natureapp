@@ -19,6 +19,24 @@ html, body {
     height: 100%;
 }
 
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kalam'), local('Kalam-Regular'),
+       url('/fonts/kalam-v10-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/kalam-v10-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Kalam Bold'), local('Kalam-Bold'),
+       url('/fonts/kalam-v10-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/kalam-v10-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 /* home page ------------------------------- */
 
 .photobgnd {
@@ -56,7 +74,7 @@ html, body {
 }
 
 #title {
-    margin-top: 2vmin;
+    margin-top: 3vmin;
     max-height: 12vmin;
     max-width: 50vw;
     flex: 1 1 auto;
@@ -138,7 +156,8 @@ html, body {
 
 .label {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Kalam, Arial, Helvetica, sans-serif;
+    line-height: 100%;
     text-align: center;
     font-size: 20px;
     width: 100%;
@@ -176,7 +195,7 @@ html, body {
 h1 {
     margin: 0;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Kalam, Arial, Helvetica, sans-serif;
     color: #FFD25E;
 }
 
@@ -209,17 +228,22 @@ img.small {
 
 #small-logo {
     width: 10vmin;
-    margin-top: 1vmin;
+    margin-top: 1.5vmin;
     margin-left: 1vmin;
-    margin-right: 2vmin;
+    margin-right: 2.5vmin;
 }
 
 h1 {
     font-size: 8vmin;
 }
 
+.header-left a {
+    line-height: 90%
+}
+
 .header-left span {
-    margin-top: 1vmin;
+    margin-top: 3vmin;
+    line-height: 80%;
 }
 
 img.small {
