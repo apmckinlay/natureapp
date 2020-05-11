@@ -32,6 +32,8 @@ akas: function() { return this.aka ? this.aka.join(", ") : false }
 
 <body>
     <div class="header">
+        {{> helpbutton.html }}
+        {{> searchbutton.html }}
         <h1>
         <div class="header-left">
             <a href="/{{ section }}/">
