@@ -5,7 +5,7 @@ build:
 	eleventy --quiet
 
 serve:
-	eleventy --serve
+	eleventy --serve --quiet
 
 deploy: files
 	firebase deploy
@@ -16,8 +16,7 @@ links:
 index:
 	node build/index.js
 	
-files:
-	eleventy --quiet
+files: build
 	find _site -type f | sed '/DS_Store/d ; /404/d ; /offline/d ; \
 		s/_site// ; s/index.html// ; s/.*/"&",/' \
 		| sort > _includes/files.mustache
