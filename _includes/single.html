@@ -35,17 +35,18 @@ akas: function() { return this.aka ? this.aka.join(", ") : false }
         {{> helpbutton.html }}
         {{> searchbutton.html }}
         <h1>
-        <div class="header-left">
-            <a href="/{{ section }}/">
-                <image id="small-logo" src="/images/{{ section }}.svg" />
-            </a>
-            <span>{{ name }}</span>
-        </div>
+            <div class="header-left">
+                <a href="/{{ section }}/">
+                    <image id="small-logo" src="/images/{{ section }}.svg" />
+                </a>
+                <span>{{ name }}</span>
+            </div>
         </h1>
     </div>
     <div class="single">
         <div>
-            <img class="large" src="/photos/{{ section }}/large/{{page.fileSlug}}.jpg" />
+            <img class="large"
+                src="/photos/{{ section }}/large/{{page.fileSlug}}.jpg" />
             <div class="attribution">
                 {{#attr}}
                 <a href="{{ attr_link }}" target="_blank">photo</a> by {{ attr }}
@@ -54,102 +55,117 @@ akas: function() { return this.aka ? this.aka.join(", ") : false }
             </div>
         </div>
         <div class="content">
-        {{#akas}}
-       <p style="text-align: right;"><b>{{.}}</b></p>
-        {{/akas}}
-        {{{ content }}}
-        {{> map.svg }}
-        {{#hard}}
-        <div class="popup_outer" onclick="toggle('hard_def')">
-            {{> hard.svg }}
-            <div class="popup" id="hard_def">
-                <span>
-                    <b>Hard</b> - can be difficult to spot. They may be few in number
-                    or not readily visible (for example, underground).</span>
+            {{#akas}}
+            <p style="text-align: right;"><b>{{.}}</b></p>
+            {{/akas}}
+            {{{ content }}}
+            {{> map.svg }}
+            {{#hard}}
+            <div class="popup_outer" onclick="toggle('hard_def')">
+                {{> hard.svg }}
+                <div class="popup" id="hard_def">
+                    <span>
+                        <b>Hard</b> - can be difficult to spot. They may be few
+                        in number
+                        or not readily visible (for example,
+                        underground).</span>
+                </div>
             </div>
-        </div>
-        {{/hard}}
-        {{#easy}}
-        <div class="popup_outer" onclick="toggle('easy_def')">
-            {{> easy.svg }}
-            <div class="popup" id="easy_def">
-                <span>
-                    <b>Easy</b> - numerous and usually easy to spot
-                    in the habitats listed at the appropriate time of year.</span>
+            {{/hard}}
+            {{#easy}}
+            <div class="popup_outer" onclick="toggle('easy_def')">
+                {{> easy.svg }}
+                <div class="popup" id="easy_def">
+                    <span>
+                        <b>Easy</b> - numerous and usually easy to spot
+                        in the habitats listed at the appropriate time of
+                        year.</span>
+                </div>
             </div>
-        </div>
-        {{/easy}}
+            {{/easy}}
 
-        {{#desert}}
-        <div class="popup_outer" onclick="toggle('desert_def')">
-            {{> desert.svg }}
-            <div class="popup" id="desert_def">
-                <span><b>Deserts</b> are dry areas covered with sand or rocks and with very
-                    few plants. There is limited rainfall and it's usually very hot.</span>
+            {{#desert}}
+            <div class="popup_outer" onclick="toggle('desert_def')">
+                {{> desert.svg }}
+                <div class="popup" id="desert_def">
+                    <span><b>Deserts</b> are dry areas covered with sand or
+                        rocks and with very
+                        few plants. There is limited rainfall and it's usually
+                        very hot.</span>
+                </div>
             </div>
-        </div>
-        {{/desert}}
-        {{#forest}}
-        <div class="popup_outer" onclick="toggle('forest_def')">
-           {{> forest.svg }}
-            <div class="popup" id="forest_def">
-                <span>
-                    <b>Forests</b> are large areas of trees growing close together.</span>
+            {{/desert}}
+            {{#forest}}
+            <div class="popup_outer" onclick="toggle('forest_def')">
+                {{> forest.svg }}
+                <div class="popup" id="forest_def">
+                    <span>
+                        <b>Forests</b> are large areas of trees growing close
+                        together.</span>
+                </div>
             </div>
-        </div>
-        {{/forest}}
-        {{#grassland}}
-        <div class="popup_outer" onclick="toggle('grassland_def')">
-            {{> grassland.svg }}
-            <div class="popup" id="grassland_def">
-                <span><b>Grasslands</b> are large open areas covered with grasses.
-                    They have very few trees or shrubs. This habitat includes prairies
-                    and tundra.</span>
+            {{/forest}}
+            {{#grassland}}
+            <div class="popup_outer" onclick="toggle('grassland_def')">
+                {{> grassland.svg }}
+                <div class="popup" id="grassland_def">
+                    <span><b>Grasslands</b> are large open areas covered with
+                        grasses.
+                        They have very few trees or shrubs. This habitat
+                        includes prairies
+                        and tundra.</span>
+                </div>
             </div>
-        </div>
-        {{/grassland}}
-        {{#mountain}}
-        <div class="popup_outer" onclick="toggle('mountain_def')">
-            {{> mountain.svg }}
-            <div class="popup" id="mountain_def">
-                <span>
-                    <b>Mountains</b> are very high areas of land with
-                    steep sides leading to a peak. They are often connected to
-                    other mountains as part of a mountain range.</span>
+            {{/grassland}}
+            {{#mountain}}
+            <div class="popup_outer" onclick="toggle('mountain_def')">
+                {{> mountain.svg }}
+                <div class="popup" id="mountain_def">
+                    <span>
+                        <b>Mountains</b> are very high areas of land with
+                        steep sides leading to a peak. They are often connected
+                        to
+                        other mountains as part of a mountain range.</span>
+                </div>
             </div>
-        </div>
-        {{/mountain}}
-        {{#ocean}}
-        <div class="popup_outer" onclick="toggle('ocean_def')">
-            {{ > ocean.svg }}
-            <div class="popup" id="ocean_def">
-                <span>
-                    <b>Oceans</b> are large bodies of salt water. This habitat includes
-                    seas and oceans as well as their beaches and coastlines.</span>
+            {{/mountain}}
+            {{#ocean}}
+            <div class="popup_outer" onclick="toggle('ocean_def')">
+                {{ > ocean.svg }}
+                <div class="popup" id="ocean_def">
+                    <span>
+                        <b>Oceans</b> are large bodies of salt water. This
+                        habitat includes
+                        seas and oceans as well as their beaches and
+                        coastlines.</span>
+                </div>
             </div>
-        </div>
-        {{/ocean}}
-        {{#urban}}
-        <div class="popup_outer" onclick="toggle('urban_def')">
-            {{> urban.svg }}
-            <div class="popup" id="urban_def">
-                <span>
-                    <b>Urban</b> areas have a large population within a defined
-                    area. This includes villages, towns, and cities.</span>
+            {{/ocean}}
+            {{#urban}}
+            <div class="popup_outer" onclick="toggle('urban_def')">
+                {{> urban.svg }}
+                <div class="popup" id="urban_def">
+                    <span>
+                        <b>Urban</b> areas have a large population within a
+                        defined
+                        area. This includes villages, towns, and cities.</span>
+                </div>
             </div>
-        </div>
-        {{/urban}}
-        {{#wetland}}
-        <div class="popup_outer" onclick="toggle('wetland_def')">
-            {{> wetland.svg }}
-            <div class="popup" id="wetland_def">
-                <span>
-                    <b>Wetlands</b> are low-lying areas that are covered by water
-                    all or most of the time and support a variety of aquatic plants. This
-                    habitat includes rivers, streams, lakes, ponds, bogs, and marshes.</span>
+            {{/urban}}
+            {{#wetland}}
+            <div class="popup_outer" onclick="toggle('wetland_def')">
+                {{> wetland.svg }}
+                <div class="popup" id="wetland_def">
+                    <span>
+                        <b>Wetlands</b> are low-lying areas that are covered by
+                        water
+                        all or most of the time and support a variety of aquatic
+                        plants. This
+                        habitat includes rivers, streams, lakes, ponds, bogs,
+                        and marshes.</span>
+                </div>
             </div>
-        </div>
-        {{/wetland}}
+            {{/wetland}}
         </div>
     </div>
     <script>
