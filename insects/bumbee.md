@@ -16,7 +16,7 @@ Bumblebee **nest on the ground**, either in a mouse nest or other burrow or unde
 
 Bumblebee are very good pollinators as they pass from plant to plant, sucking up nectar through their long tongue. They have pollen baskets on their hind legs which they pack with a ball of pollen mixed with nectar and saliva.
 
-Bumblebee can even be found in the high Arctic as they are able to control their temperature. On a cool day, bumblebees shiver to raise their temperature enough so that they can fly (30C).
+Bumblebee can even be found in the high Arctic as they are able to control their temperature. On a cool day, bumblebees shiver to raise their temperature enough so that they can fly (86F).
 
 **Did you know?** Cuckoo Bumblebee lay their eggs in another bee's nest so that the workers in that nest will rear their young.
 
