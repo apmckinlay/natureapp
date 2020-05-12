@@ -8,11 +8,11 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban,wetland]
 ---
-Blue Azure butterflies can be found in almost all parts of North America apart from the Arctic. There are many different species of these small butterflies (1-1.5 in) that can be found in **open woodlands**, **urban gardens** and **parks**, or **marshy areas**.
+Blue Azure Butterfly can be found in almost all parts of North America apart from the Arctic. There are many different species of these small butterflies (1-1.5 in) that can be found in **open woodlands**, **urban gardens** and **parks**, or **marshy areas**.
 
-When the Azure are flying, you see the light blue upper surface of their wings. When they are perched, you see the bottom of their wings, which is gray.
+When Azure are flying, you see the light blue upper surface of their wings. When they are perched, you see the bottom of their wings, which is gray.
 
-Azure butterfly lay their eggs on shrubs. The **caterpillars**, usually green, eat the flowers and developing fruit. After a winter hibernation, the butterflies emerge from their chrysalids. Different species emerge at different times. The **Spring Azure** is the first to appear in April to mid-June while you'll spot **Summer Azure** in July.
+Azure Butterfly lay their eggs on shrubs. The **caterpillars**, usually green, eat the flowers and developing fruit. After a winter hibernation, the butterflies emerge from their chrysalids. Different species emerge at different times. The **Spring Azure** is the first to appear in April to mid-June while you'll spot **Summer Azure** in July.
 
 **Did you know?** The caterpillars of blue butterflies are often tended by [Ants](/insects/ants/) who provide some protection in return for eating a sweet liquid secreted by the caterpillars.
 
