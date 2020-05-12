@@ -11,7 +11,7 @@ visibility: high
 ---
 Look for Red-tailed Hawk **soaring in circles** over open fields or **perched** on poles and fence posts. They're found across Canada in the **summer** and **year-round** in the United States and are the most commonly seen hawk in North America.
 
-A **large** bird (18-22 in, wingspan of 42-55 in) with a **rusty-red tail**, Red-tailed Hawk are usually a rich brown color above and pale below with a pale face, but this can vary with some birds much darker than others. They have **broad rounded wings** and a **short wide tail**. A **dark bar** at the **edge of their wings** is visible in **flight**.
+A **large** bird (18-26 in, wingspan of 45-52 in) with a **rusty-red tail**, Red-tailed Hawk are usually a rich brown color above and pale below with a pale face, but this can vary with some birds much darker than others. They have **broad rounded wings** and a **short wide tail**. A **dark bar** at the **edge of their wings** is visible in **flight**.
 
 Red-tailed Hawk build **bulky stick nests**, usually in a tree or on a cliff ledge. Their diet consists of small mammals, birds, and snakes.
 
