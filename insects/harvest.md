@@ -14,7 +14,7 @@ They may look a lot like a spider, but Harvestman are not spiders. Their **body*
 
 Harvestman don't build webs as they don't have silk glands. They don't produce venom and their mouths are too small to bite people, but they do make a weird **smell** when disturbed.
 
-Harvestman have **long wiggly legs** and their body is about .5 in long. They eat everything from worms and aphids to bird droppings and fungi and most species are **nocturnal**. Unlike spiders, they eat solid pieces of food rather than sipping fluids.
+Harvestman have **long wiggly legs** and their body is less than .5 in long. They eat everything from worms and aphids to bird droppings and fungi and most species are **nocturnal**. Unlike spiders, they eat solid pieces of food rather than sipping fluids.
 
 Every 10 days, Harvestman shed their body casing. It takes them about 20 minutes to pull their legs out of the old casings.
 
