@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: low
 ---
-Ruffed Grouse are **small** **chicken-like** birds (17 in) with a short **triangular crest** and a wide, **fan-like tail**. They have short legs and often look slimmer than other grouse. They are reddish-brown to black with white markings with a wide black band near the tip of their tail. Males have a ruff of black neck feathers that stand out straight and surround their head like an umbrella when displaying before a female.
+Ruffed Grouse are **small** **chicken-like** birds (16-20 in) with a short **triangular crest** and a wide, **fan-like tail**. They have short legs and often look slimmer than other grouse. They are reddish-brown to black with white markings with a wide black band near the tip of their tail. Males have a ruff of black neck feathers that stand out straight and surround their head like an umbrella when displaying before a female.
 
 Ruffed Grouse can often be heard before they are seen as they are very good at camouflaging themselves. The **males** stand on a log and beat the air with their wings to make a **deep drumming sound** in spring and sometimes in fall to show where their territory is and attract females.
 
