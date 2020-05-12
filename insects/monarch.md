@@ -1,10 +1,10 @@
 ---
 name: "Monarch Butterfly"
 group: "butterfly"
-attr: "Greg Hewgill"
-attr_link: "https://www.flickr.com/photos/ghewgill/2334074529"
-license: "CC BY"
-license_link: "https://creativecommons.org/licenses/by/2.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/49884575878"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 ---
