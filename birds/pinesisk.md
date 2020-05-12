@@ -12,7 +12,7 @@ Pine Siskin are **small** (4-5.5 in), **streaky-brown** birds with **yellow edgi
 
 Pine Siskin can be found **year-round** in southern Canada and the western United States as well as in northern Canada in the **summer** and the whole of the United States in **winter**.
 
-Pine Siskin nest in the **forest** coming out to fields, shrubby areas, and urban parks and gardens to forage for **seeds**. They congregate in **large flocks**, calling to each other as they eat. You'll often see them clinging **upside-down** to branch tips to eat seeds in cones.
+Pine Siskin nest in the **forest** coming out to fields, shrubby areas, and urban parks and gardens to forage for **seeds**. They congregate in **large flocks**, calling to each other as they eat. You'll often see them clinging **upside down** to branch tips to eat seeds in cones.
 
 Pine Siskin are smaller than a **Sparrow**. Their yellow markings and streaked breast distinguish them from other **Finch** and **Redpoll**.
 
