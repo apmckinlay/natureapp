@@ -7,7 +7,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc]
 habitat: [ocean]
 ---
-Black Turnstone are short-legged shorebirds (9-10 in). They have a dark body, legs, and beak. The **chest** is dark with dark spots right above the **white belly**. Breeding adults have a **white eyebrow** and a **white patch** under their eye. The **white stripes** on their **wings** are visible when flying.
+Black Turnstone are short-legged shorebirds (8.5-10 in). They have a dark body, legs, and beak. The **chest** is dark with dark spots right above the **white belly**. Breeding adults have a **white eyebrow** and a **white patch** under their eye. The **white stripes** on their **wings** are visible when flying.
 
 Black Turnstone use their beaks to pry __Limpet__ and other mollusks from the rocks and poke their beak inside **Acorn [Barnacle](/animals/barnacle/)** to tear them apart. In the **summer**, they eat berries and insects and lay their eggs in grassy patches along the coast.
 
