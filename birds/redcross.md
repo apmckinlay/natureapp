@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 ---
-Red Crossbill have a **thick curved bill** with **crossed tips** that they use to extract seeds from conifer cones. They are a plump, medium-sized songbird (size can vary considerably with a short tail. They can be found **year-round** in the **boreal forests** of the north, the west coast, and the western mountainous areas as well as throughout the United States in **winter**. The birds move in flocks and don't have a set migration but do **travel large distances** in search of **food**.
+Red Crossbill have a **thick curved bill** with **crossed tips** that they use to extract seeds from conifer cones. They are a plump, medium-sized songbird (size can vary considerably) with a short tail. They can be found **year-round** in the **boreal forests** of the north, the west coast, and the western mountainous areas as well as throughout the United States in **winter**. The birds move in flocks and don't have a set migration but do **travel large distances** in search of **food**.
 
 **Males** have a red body and blackish-brown wings and tail. **Females** are gray with an an olive-green chest and rump and blackish-brown wings and tail.
 
