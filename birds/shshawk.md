@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
 visibility: low
 ---
-Sharp-shinned Hawk (Sharpie) are the **smallest North American hawk** (12 in) with a **small head**, **short wings**, **long legs**, and **long tail**. They can be hard to spot as they hide in bushes and wooded areas, ready to leap out and pounce on passing songbirds. However, they can often be seen in large numbers during migration.
+Sharp-shinned Hawk (Sharpie) are the **smallest North American hawk** (9-14 in) with a **small head**, **short wings**, **long legs**, and **long tail**. They can be hard to spot as they hide in bushes and wooded areas, ready to leap out and pounce on passing songbirds. However, they can often be seen in large numbers during migration.
 
 Sharp-shinned Hawk have a **dark gray back** and **head** and a **white breast with reddish-orange streaks**. Juveniles have a **brown back** and **head**. There are **broad dark bands** across their **tail**.
 
