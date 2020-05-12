@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [wetland,urban]
 visibility: high
 ---
-Mallard are large stout birds (20-25 in) and the most abundant, wide-ranging duck on earth. **Male** Mallard have a shiny green head and a bright yellow beak along with a gray body, a brown breast, and a black rear. **Females** are mottled brown with an orange-and-brown bill.
+Mallard are large stout birds (20-26 in) and the most abundant, wide-ranging duck on earth. **Male** Mallard have a shiny green head and a bright yellow beak along with a gray body, a brown breast, and a black rear. **Females** are mottled brown with an orange-and-brown bill.
 
 Mallard prefer **grassy areas around ponds and marshes** but can also be found on lakes, rivers, and in cities.
 
