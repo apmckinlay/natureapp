@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
 ---
-Townsend's Warbler are small songbirds (4.7 in) with a **yellow** **face** and **chest** and a **dark cap** and **eye patch**. They have a **white** belly, undertail, and wingbars.
+Townsend's Warbler are small songbirds (4.5-5 in) with a **yellow** **face** and **chest** and a **dark cap** and **eye patch**. They have a **white** belly, undertail, and wingbars.
 
 Townsend's Warbler spend their **summers** in the coniferous **forests** of the Pacific Northwest from Alaska to Oregon. Some **winter** along the coast of California while others head further south to Mexico and Central America.
 
