@@ -12,7 +12,7 @@ Blue Azure Butterfly can be found in almost all parts of North America apart fro
 
 When Azure are flying, you see the light blue upper surface of their wings. When they are perched, you see the bottom of their wings, which is gray.
 
-Azure Butterfly lay their eggs on shrubs. The **caterpillars**, usually green, eat the flowers and developing fruit. After a winter hibernation, the butterflies emerge from their chrysalids. Different species emerge at different times. The **Spring Azure** is the first to appear in April to mid-June while you'll spot **Summer Azure** in July.
+Azure Butterfly lay their eggs on shrubs. The **caterpillars**, usually green, eat the flowers and developing fruit. After a winter hibernation, the butterflies emerge from their chrysalids. Different species emerge at different times. **Spring Azure** are the first to appear from April to mid-June while you'll spot **Summer Azure** in July.
 
 **Did you know?** The caterpillars of blue butterflies are often tended by [Ants](/insects/ants/) who provide some protection in return for eating a sweet liquid secreted by the caterpillars.
 
