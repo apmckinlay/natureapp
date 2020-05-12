@@ -8,7 +8,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban,wetland]
 visibility: high
 ---
-Mosquitoes are small (up to .5in) **flying** insects with a tube-like mouthpart. They can be found throughout North America wherever there is water for them to lay their eggs. They're active year-round in tropical or sub-tropical areas and in summer in temperate or cold climates.
+Mosquito are small (up to .5in) **flying** insects with a tube-like mouthpart. They can be found throughout North America wherever there is water for them to lay their eggs. They're active year-round in tropical or sub-tropical areas and in summer in temperate or cold climates.
 
 Mosquitoes eat nectar and other plant sugars, but the females suck blood to provide protein for their eggs. Mosquitoes will multiply wherever they can find **stagnant water** to lay their eggs - from flower pots and empty cans to birdbaths and backyard ponds.
 
