@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [grassland,mountain]
 visibility: low
 ---
-Sharp-tailed Grouse are spotted, **brown and white**, chicken-like birds (18 in). Their **tail feathers** are narrow and pointed with **white edges**.
+Sharp-tailed Grouse are spotted, **brown and white**, chicken-like birds (15-19 in). Their **tail feathers** are narrow and pointed with **white edges**.
 
 Sharp-tailed Grouse are found in southwestern Canada and the northern United States. They live in **open, grassy areas** during the **summer** and **sheltered, wooded areas** during the **winter**. Their diet includes seeds, buds, and leaves as well as insects, berries, and grains.
 
