@@ -13,7 +13,7 @@ Peregrine Falcon were disappearing but have made a dramatic recovery and can be 
 
 In **summer**, Peregrine Falcon are found in Alaska and Canada north of the treeline, in the western mountain region from Idaho and Montana south to Colorado and New Mexico, and in various urban areas. They migrate to the coast from Texas to North Carolina in **winter** and are also found **year-round** on the west coast from Alaska to California and inland in Arizona, around the Great Lakes, and in the northwestern USA from Pennsylvania to Maine.
 
-Peregrine Falcon are a medium-sized bird (14 in) with **long pointed wings** (3-3.5 ft wingspan) and tail. They have a **blue-gray** back, a **cream-colored** chest with dark markings, and bright **yellow feet** and **legs**. Dark feathers on the head and sides of the neck look like a **helmet**.
+Peregrine Falcon are a medium-sized bird (14-19 in) with **long pointed wings** (3-3.5 ft wingspan) and tail. They have a **blue-gray** back, a **cream-colored** chest with dark markings, and bright **yellow feet** and **legs**. Dark feathers on the head and sides of the neck look like a **helmet**.
 
 Peregrine Falcon sit on high perches making **swift, steep dives** to catch their prey - ducks and shorebirds or pigeons in the cities.
 
