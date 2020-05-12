@@ -9,15 +9,15 @@ location: [bc,ab,sk,mb]
 habitat: [desert,forest,mountain]
 visibility: high
 ---
-The Common [Raven](/birds/raven/) can be found **year-round** in almost every part of North America. They're less common on the prairies and in cities but can be found around **farms** and **small towns**.
+The Common Raven can be found **year-round** in almost every part of North America. They're less common on the prairies and in cities but can be found around **farms** and **small towns**.
 
-[Ravens](/birds/raven/) are large black birds (22-27 in) with a wide range of calls. They are **solitary** birds and **acrobatic** flyers, alternately soaring, gliding, and flapping. You may spot them cruising highways looking for roadkill. They **eat almost anything**: seeds, fruit, insects, small birds and animals, garbage.
+Ravens are large black birds (22-27 in) with a wide range of calls. They are **solitary** birds and **acrobatic** flyers, alternately soaring, gliding, and flapping. You may spot them cruising highways looking for roadkill. They **eat almost anything**: seeds, fruit, insects, small birds and animals, garbage.
 
-[Ravens](/birds/raven/) are very clever. They play games, hunt cooperatively, and understand cause and effect (e.g. looking for a carcass when they hear a gunshot but ignoring similar noises).
+Ravens are very clever. They play games, hunt cooperatively, and understand cause and effect (e.g. looking for a carcass when they hear a gunshot but ignoring similar noises).
 
-**Chihuahuan [Raven](/birds/raven/)** are smaller, more social, and are found at lower elevations in the southwestern desert rather than in higher-elevation forests.
+**Chihuahuan Raven** are smaller, more social, and are found at lower elevations in the southwestern desert rather than in higher-elevation forests.
 
-**Is it a [Crow](/birds/crow/) or a [Raven](/birds/raven/)?** [Ravens](/birds/raven/) are larger than [Crows](/birds/crow/) with longer wings and heavier beaks. [Ravens](/birds/raven/) have a wedge-shaped tail; [Crows](/birds/crow/) have a short, square tail. [Ravens](/birds/raven/) have a ruff of feathers on their throat; [Crows](/birds/crow/) don't. [Ravens](/birds/raven/) are solitary and are not normally found in urban areas; [Crows](/birds/crow/) are seen in larger groups and are often found in cities. [Ravens](/birds/raven/) glide, whereas [Crows](/birds/crow/) rhythmically flap their wings.
+**Is it a [Crow](/birds/crow/) or a Raven?** Ravens are larger than [Crows](/birds/crow/) with longer wings and heavier beaks. Ravens have a wedge-shaped tail; [Crows](/birds/crow/) have a short, square tail. Ravens have a ruff of feathers on their throat; [Crows](/birds/crow/) don't. Ravens are solitary and are not normally found in urban areas; [Crows](/birds/crow/) are seen in larger groups and are often found in cities. Ravens glide, whereas [Crows](/birds/crow/) rhythmically flap their wings.
 
 <!-- generated, do not edit -->
 **See Also:**

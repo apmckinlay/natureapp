@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 ---
-[Twinberry Honeysuckle](/trees/twibhon/) is an upright, bushy **shrub** (4-12 ft) that grows in moist, shady places throughout the western United States and Canada.
+Twinberry Honeysuckle is an upright, bushy **shrub** (4-12 ft) that grows in moist, shady places throughout the western United States and Canada.
 
 It has small tubular yellow **flowers** that bloom in pairs from June to July. They develop into pairs of shiny black **berries** cupped by purple-red bracts.
 

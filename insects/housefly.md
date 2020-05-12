@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [desert,forest,grassland,mountain,urban,wetland]
 visibility: high
 ---
-If you spot a large black fly (.25 in long, .5 in wingspan), it is probably a [House Fly](/insects/housefly/). They can be **found around humans** on every continent and in every climate.  The large compound **eyes** almost touch in the male but are widely separated in the female.
+If you spot a large black fly (.25 in long, .5 in wingspan), it is probably a House Fly. They can be **found around humans** on every continent and in every climate.  The large compound **eyes** almost touch in the male but are widely separated in the female.
 
 House Flies feed and breed on garbage and excrement and can carry disease but play an important role in breaking down organic matter. Their sponge-like mouthparts are good for soaking up liquids but not solids. Like butterflies, they have taste buds on their legs and feet.
 

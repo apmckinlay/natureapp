@@ -9,13 +9,13 @@ location: [ab,sk,mb]
 habitat: [grassland,wetland]
 aka: ["Dakota Toad"]
 ---
-[Canadian Toad](/herps/cantoad/) (1.5-3 in) are gray-green or brown with brownish-red warts. Unlike other toads found in the same area, they have **gray spots** on a **light-colored belly** and the **raised ridges** on their **head** join to form a **bump** between their eyes.
+Canadian Toad (1.5-3 in) are gray-green or brown with brownish-red warts. Unlike other toads found in the same area, they have **gray spots** on a **light-colored belly** and the **raised ridges** on their **head** join to form a **bump** between their eyes.
 
-[Canadian Toad](/herps/cantoad/) are found in **river valleys** and around **lakes** in the **grasslands**, **aspen parklands**, and **boreal forest** of the Canadian prairies and south to the Dakotas and Minnesota.
+Canadian Toad are found in **river valleys** and around **lakes** in the **grasslands**, **aspen parklands**, and **boreal forest** of the Canadian prairies and south to the Dakotas and Minnesota.
 
-[Canadian Toad](/herps/cantoad/) are easiest to spot in the spring when they congregate at breeding ponds. The males call to the females with a **high-pitched trill** that repeats every 15-20 seconds. Once breeding season is over, the toads spread out into the grasslands and aspen parklands, although they generally stay **close to water**. Their mottled earthy colors are good camouflage.
+Canadian Toad are easiest to spot in the spring when they congregate at breeding ponds. The males call to the females with a **high-pitched trill** that repeats every 15-20 seconds. Once breeding season is over, the toads spread out into the grasslands and aspen parklands, although they generally stay **close to water**. Their mottled earthy colors are good camouflage.
 
-**Did you know?** [Canadian Toad](/herps/cantoad/) hibernate underground below the frost line in burrows they've dug using the bony lumps on their rear legs.
+**Did you know?** Canadian Toad hibernate underground below the frost line in burrows they've dug using the bony lumps on their rear legs.
 
 <!-- generated, do not edit -->
 **See Also:**

@@ -8,9 +8,9 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [desert,grassland]
 ---
-[Prickly Pear Cactus](/plants/prpcac/) forms a **low mound** (1-2 ft tall) of flat, green, fleshy, **oval pads** with clusters of large needle-like **spines** and small hair-like **prickles**. The bright yellow, papery **flowers** have several layers of petals. The petals often have an apricot tinge and may fade to dusty red.
+Prickly Pear Cactus forms a **low mound** (1-2 ft tall) of flat, green, fleshy, **oval pads** with clusters of large needle-like **spines** and small hair-like **prickles**. The bright yellow, papery **flowers** have several layers of petals. The petals often have an apricot tinge and may fade to dusty red.
 
-[Prickly Pear Cactus](/plants/prpcac/) can be found in dry grasslands, badlands, and eroded areas. It is most common in southwestern Canada and the United States but can sometimes be found in dry, sunny, sandy areas in southeastern Ontario and the eastern United States.
+Prickly Pear Cactus can be found in dry grasslands, badlands, and eroded areas. It is most common in southwestern Canada and the United States but can sometimes be found in dry, sunny, sandy areas in southeastern Ontario and the eastern United States.
 
 The **fruit** are small (1-2 in long) and oval, ranging in colour from yellowish-green to red or purple, and are filled with flat, disc-shaped **seeds**. The fruit (tuna) and pads are edible and for sale in southern regions of the United States.
 

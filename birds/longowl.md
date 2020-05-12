@@ -9,15 +9,15 @@ location: [bc,ab,sk,mb]
 habitat: [desert,grassland]
 visibility: low
 ---
-[Long-eared Owl](/birds/longowl/) are slender owls (13-16 in) with **long ear tufts** pointing straight up. Their **dark mottled feathers** and **rusty-orange facial disc** provide excellent camouflage when **roosting** during the **day** in **thick stands of trees**.
+Long-eared Owl are slender owls (13-16 in) with **long ear tufts** pointing straight up. Their **dark mottled feathers** and **rusty-orange facial disc** provide excellent camouflage when **roosting** during the **day** in **thick stands of trees**.
 
 They hunt in **open grasslands** at **night**, occasionally at dusk, **flying low over the ground** and searching for prey by sight or sound. They eat small mammals, particularly **rodents**.
 
-[Long-eared Owl](/birds/longowl/) don't build their own nests. Instead, they use stick nests built by [Crow](/birds/crow/) and [Magpie](/birds/magpie/).
+Long-eared Owl don't build their own nests. Instead, they use stick nests built by [Crow](/birds/crow/) and [Magpie](/birds/magpie/).
 
-[Great Horned Owl](/birds/grehowl/) are larger than the [Long-eared Owl](/birds/longowl/). Their ear tufts are shorter and point out at an angle rather than straight up and down.
+[Great Horned Owl](/birds/grehowl/) are larger than the Long-eared Owl. Their ear tufts are shorter and point out at an angle rather than straight up and down.
 
-**Did you know?** If disturbed on their nest, [Long-eared Owl](/birds/longowl/) raise their ear tufts and compress their feathers to disguise themselves as a broken branch.
+**Did you know?** If disturbed on their nest, Long-eared Owl raise their ear tufts and compress their feathers to disguise themselves as a broken branch.
 
 <!-- generated, do not edit -->
 **See Also:**

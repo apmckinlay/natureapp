@@ -9,11 +9,11 @@ location: [bc,ab,sk,mb]
 habitat: [forest]
 aka: ["Limber Honeysuckle", "Glaucous Honeysuckle"]
 ---
-[Twining Honeysuckle](/trees/twinhon/) is a climbing **vine** (3-9 ft) with pairs of leaves. The pairs of **leaves** join and form a cup around the stem.
+Twining Honeysuckle is a climbing **vine** (3-9 ft) with pairs of leaves. The pairs of **leaves** join and form a cup around the stem.
 
 Clusters of yellow-orange trumpet-shaped **flowers** form between the pairs of leaves at the end of stems from May to July and deepen to purple before developing into clusters of round orange-red **berries**.
 
-[Twining Honeysuckle](/trees/twinhon/) grows in woody or rocky areas.
+Twining Honeysuckle grows in woody or rocky areas.
 
 **Did you know?** The trumpet-shaped flowers are popular with **Hummingbirds**.
 

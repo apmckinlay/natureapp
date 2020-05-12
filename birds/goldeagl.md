@@ -9,13 +9,13 @@ location: [bc,ab]
 habitat: [grassland,mountain]
 visibility: low
 ---
-[Golden Eagle](/birds/goldeagl/) soar or glide with **wings lifted in a slight V** and **wingtip feathers spread out like fingers** over open, undeveloped **grasslands** near **mountains, hills**, and **cliffs**. These large birds (28-34 in) have a **wingspan of 6-7 ft**. The **adults** are dark brown with golden-brown feathers on the back of their head and neck. The **young** have white patches under their wings and at the base of the tail.
+Golden Eagle soar or glide with **wings lifted in a slight V** and **wingtip feathers spread out like fingers** over open, undeveloped **grasslands** near **mountains, hills**, and **cliffs**. These large birds (28-34 in) have a **wingspan of 6-7 ft**. The **adults** are dark brown with golden-brown feathers on the back of their head and neck. The **young** have white patches under their wings and at the base of the tail.
 
-[Golden Eagle](/birds/goldeagl/) **usually nest on cliffs** but may nest in trees or on tall human-made structures. They **hunt mostly small animals** (rabbits, hares, ground squirrels, prairie dogs). They can be found **year-round** in western North America's mountainous regions. Migrating birds spend the **summer** in northern Canada and Alaska, heading to the midwestern United States from North Dakota to Texas in **winter**.
+Golden Eagle **usually nest on cliffs** but may nest in trees or on tall human-made structures. They **hunt mostly small animals** (rabbits, hares, ground squirrels, prairie dogs). They can be found **year-round** in western North America's mountainous regions. Migrating birds spend the **summer** in northern Canada and Alaska, heading to the midwestern United States from North Dakota to Texas in **winter**.
 
 [Bald Eagle](/birds/baldeagle/) have a larger head and soar with wings flat like a board. [Turkey Vulture](/birds/turkvult/) have a much smaller head and hold their wings in a pronounced V-shape.
 
-**Did you know?** The [Golden Eagles](/birds/goldeagl/)' territorial/courtship display is known as sky dancing and consists of a series of steep dives and upward swoops.
+**Did you know?** The Golden Eagles' territorial/courtship display is known as sky dancing and consists of a series of steep dives and upward swoops.
 
 <!-- generated, do not edit -->
 **See Also:**

@@ -12,7 +12,7 @@ aka: ["Gray Wolf", "Timber Wolf"]
 ---
 Wolves resemble German Shepherd dogs. Their **fur** is usually a mix of gray and black but can range from white to black. Their body is 3-5 ft long and their **bushy tail**, often with a black tip, is an additional 1-2 ft.
 
-Wolves require large territories where they can find food, shelter, and protection from persecution. They used to be common across North America, but their range has been reduced to northern Canada, Alaska, the northern Rockies, and the Pacific Northwest. **Mexican Wolves**, a variety of Gray [Wolf](/animals/wolf/), have been reintroduced in Arizona and New Mexico.
+Wolves require large territories where they can find food, shelter, and protection from persecution. They used to be common across North America, but their range has been reduced to northern Canada, Alaska, the northern Rockies, and the Pacific Northwest. **Mexican Wolves**, a variety of Gray Wolf, have been reintroduced in Arizona and New Mexico.
 
 Wolves live in **packs** with an alpha male and female. Only the alpha wolves breed, while the rest of the pack (an average of 7-8 members) help feed the young and watch over them while others hunt. Wolves are carnivores and prefer large hooved animals, such as deer, elk, and moose. They also eat smaller animals as well as animals that are already dead from other causes.
 

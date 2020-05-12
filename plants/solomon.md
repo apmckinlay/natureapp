@@ -8,7 +8,7 @@ location: [sk,mb]
 habitat: [forest]
 visibility: high
 ---
-[Solomon's Seal](/plants/solomon/) (not to be confused with [False Solomon's Seal](/plants/falsesol/)) can be found in **moist**, woodland areas throughout the eastern and midwestern United States and Canada.
+Solomon's Seal (not to be confused with [False Solomon's Seal](/plants/falsesol/)) can be found in **moist**, woodland areas throughout the eastern and midwestern United States and Canada.
 
 Large oval **leaves** (2-6 in) zigzag up the long, arching **stem** (1-3 ft). The leaves resemble those of [Yellow Lady's Slipper](/plants/yellslip/), and it may be hard to tell them apart if the plant isn't flowering.
 

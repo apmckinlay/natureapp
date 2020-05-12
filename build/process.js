@@ -113,7 +113,7 @@ function namesToLinks(id, content) {
     }
     // remove links from current item
     let name = id2name[id]
-    let rx2 = RegExp('\\[(' + name + 's?)\\]\\(/' + id2path[id] + '\\)', 'g')
+    let rx2 = RegExp('\\[(' + name + 's?)\\]\\(/' + id2path[id] + '/\\)', 'g')
     content = content.replace(rx2, "$1")
     return front + content;
 }

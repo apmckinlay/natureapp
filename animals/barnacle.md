@@ -9,15 +9,15 @@ location: [bc]
 habitat: [ocean]
 visibility: high
 ---
-[Barnacles](/animals/barnacle/) have a hard outer **shell** composed of 6 plates forming a circle around the body and another 4 plates forming a lid that can open and close. The lid is closed to conserve moisture when out of water. When underwater, the lid opens and 6 **feathery limbs** stretch out and sift the water for food.
+Barnacles have a hard outer **shell** composed of 6 plates forming a circle around the body and another 4 plates forming a lid that can open and close. The lid is closed to conserve moisture when out of water. When underwater, the lid opens and 6 **feathery limbs** stretch out and sift the water for food.
 
-[Barnacles](/animals/barnacle/) are attached head-first to a surface by very strong glue. They prefer **shallow waters** and **intertidal zones** and are usually attached to rocks but can also be found on docks, boats, whales, or dolphins.
+Barnacles are attached head-first to a surface by very strong glue. They prefer **shallow waters** and **intertidal zones** and are usually attached to rocks but can also be found on docks, boats, whales, or dolphins.
 
 One-eyed larvae grow for 6 months before turning into shrimp-like larvae and looking for a place to attach themselves and start growing a hard shell.
 
-[Barnacles](/animals/barnacle/) are crustaceans and related to Shrimp, [Crab](/animals/crab/), and Lobster. The most common are **Acorn [Barnacle](/animals/barnacle/)**, which attach directly to a surface. **Gooseneck [Barnacle](/animals/barnacle/)** have a long muscular stalk topped by a head encased in a hard shell.
+Barnacles are crustaceans and related to Shrimp, [Crab](/animals/crab/), and Lobster. The most common are **Acorn Barnacle**, which attach directly to a surface. **Gooseneck Barnacle** have a long muscular stalk topped by a head encased in a hard shell.
 
-**Did you know?** [Barnacles](/animals/barnacle/) are hermaphroditic with both male and female sexual organs; however, the eggs produced by one barnacle are usually fertilized by a different one.
+**Did you know?** Barnacles are hermaphroditic with both male and female sexual organs; however, the eggs produced by one barnacle are usually fertilized by a different one.
 
 <!-- generated, do not edit -->
 **See Also:**

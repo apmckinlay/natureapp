@@ -10,15 +10,15 @@ habitat: [forest,grassland,mountain,urban]
 visibility: high
 aka: ["Serviceberry", "Juneberry", "Shadbush", "Chuckley Pear"]
 ---
-[Saskatoon Berry](/trees/saskber/) grows throughout Alaska, Canada, northwestern and central United States. Look for small white **flower clusters** in the spring and dark purple **berries** in early summer.
+Saskatoon Berry grows throughout Alaska, Canada, northwestern and central United States. Look for small white **flower clusters** in the spring and dark purple **berries** in early summer.
 
-[Saskatoon Berry](/trees/saskber/) is a **low shrub** to **small tree** (up to 20 ft) with oval, alternating **leaves**. It grows wild in a wide variety of habitats so long as there is sufficient moisture, and it can usually be found in large patches. It is also cultivated in home gardens and on farms.
+Saskatoon Berry is a **low shrub** to **small tree** (up to 20 ft) with oval, alternating **leaves**. It grows wild in a wide variety of habitats so long as there is sufficient moisture, and it can usually be found in large patches. It is also cultivated in home gardens and on farms.
 
 Deer, [Elk](/animals/elk/), and [Moose](/animals/moose/) eat the tips of branches in winter and the leaves in summer. Thickets provide cover for birds and animals.
 
-The **berries** are sweet and a good source of Vitamin C. They can be eaten raw or cooked - [Saskatoon Berry](/trees/saskber/) pie is very popular.
+The **berries** are sweet and a good source of Vitamin C. They can be eaten raw or cooked - Saskatoon Berry pie is very popular.
 
-**Did you know?** [Saskatoon Berry](/trees/saskber/) is known by many different names - Serviceberry, Juneberry, Shadbush, and Chuckley Pear.
+**Did you know?** Saskatoon Berry is known by many different names - Serviceberry, Juneberry, Shadbush, and Chuckley Pear.
 
 <!-- generated, do not edit -->
 **See Also:**

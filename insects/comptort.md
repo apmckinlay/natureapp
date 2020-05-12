@@ -9,11 +9,11 @@ location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: low
 ---
-[Compton Tortoiseshell](/insects/comptort/) butterflies (2-3 in wingspan) are found in the northern United States and across Canada south of the tundra. The upper surface of the **wings** is orange-brown with black spots and a thin black band with gold spots along the edges. The under surface is a light gray-brown with a dark border.
+Compton Tortoiseshell butterflies (2-3 in wingspan) are found in the northern United States and across Canada south of the tundra. The upper surface of the **wings** is orange-brown with black spots and a thin black band with gold spots along the edges. The under surface is a light gray-brown with a dark border.
 
-[Compton Tortoiseshell](/insects/comptort/) are found in **forests** where the **caterpillars** (pale green and speckled with black spines) feed on the leaves of Aspen ([Trembling Aspen](/trees/tremasp/)), [Cottonwood](/trees/cotton/), Willow ([Black Willow](/trees/blackwil/), [Peachleaf Willow](/trees/peachwil/)), and [Birch](/trees/birch/). The adult butterflies feed on sap, rotting fruit, and the nectar of willow flowers.
+Compton Tortoiseshell are found in **forests** where the **caterpillars** (pale green and speckled with black spines) feed on the leaves of Aspen ([Trembling Aspen](/trees/tremasp/)), [Cottonwood](/trees/cotton/), Willow ([Black Willow](/trees/blackwil/), [Peachleaf Willow](/trees/peachwil/)), and [Birch](/trees/birch/). The adult butterflies feed on sap, rotting fruit, and the nectar of willow flowers.
 
-**Did you know?** [Compton Tortoiseshell](/insects/comptort/) can be found in cottage country where the adults overwinter in tree cavities, under eaves, or in garages and outhouses.
+**Did you know?** Compton Tortoiseshell can be found in cottage country where the adults overwinter in tree cavities, under eaves, or in garages and outhouses.
 
 <!-- generated, do not edit -->
 **See Also:**

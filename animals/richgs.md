@@ -9,11 +9,11 @@ location: [ab,sk,mb]
 habitat: [grassland,urban]
 visibility: high
 ---
-More commonly known as **gophers**, [Richardson's Ground Squirrel](/animals/richgs/) are medium-sized (12 in long), light-brown rodents with a short tail and very small ears. You'll often spot the holes to their burrows when walking on the **grasslands** of southwestern Canada and northwestern United States.
+More commonly known as **gophers**, Richardson's Ground Squirrel are medium-sized (12 in long), light-brown rodents with a short tail and very small ears. You'll often spot the holes to their burrows when walking on the **grasslands** of southwestern Canada and northwestern United States.
 
 Ground Squirrel communicate through a variety of squeaks, chirps, and whistles. They stand up on their hind legs and look around them when they hear an alarm call.
 
-[Richardson's Ground Squirrel](/animals/richgs/) hibernate for 4-8 months of the year, depending on age and sex. You're most likely to spot  them in the spring when the young come above ground and all ages and sexes are active.
+Richardson's Ground Squirrel hibernate for 4-8 months of the year, depending on age and sex. You're most likely to spot  them in the spring when the young come above ground and all ages and sexes are active.
 
 __Prairie Dog__ are larger and have a shorter tail (compared to their body size).
 

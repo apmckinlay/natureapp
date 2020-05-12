@@ -8,9 +8,9 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 ---
-[White-winged Crossbill](/birds/whitewcbill/) have a **thick curved bill** with **crossed tips** that they use to extract seeds from evergreen cones. They are a small (5-6.5 in) plump bird that can be found **year-round** in in the **boreal forests** of Canada and Alaska and in the northern United States in **winter**. The birds move in flocks, **travelling large distances** in search of food.
+White-winged Crossbill have a **thick curved bill** with **crossed tips** that they use to extract seeds from evergreen cones. They are a small (5-6.5 in) plump bird that can be found **year-round** in in the **boreal forests** of Canada and Alaska and in the northern United States in **winter**. The birds move in flocks, **travelling large distances** in search of food.
 
-**Male** [White-winged Crossbill](/birds/whitewcbill/) have a pinkish-red body with black wings and tail and two large white wingbars. The **females** have yellowish-green bodies with dark brown wings and tail and two large white wingbars.
+**Male** White-winged Crossbill have a pinkish-red body with black wings and tail and two large white wingbars. The **females** have yellowish-green bodies with dark brown wings and tail and two large white wingbars.
 
 [Red Crossbill](/birds/redcross/) do not have white wingbars, and the males are darker red. [Pine Siskin](/birds/pinesisk/) resemble juvenile Crossbill but have a straight, thinner bill and yellow in their wings.
 

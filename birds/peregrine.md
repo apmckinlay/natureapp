@@ -9,17 +9,17 @@ location: [bc,ab]
 habitat: [ocean,wetland,urban]
 visibility: low
 ---
-[Peregrine Falcon](/birds/peregrine/) were disappearing but have made a dramatic recovery and can be seen perched or nesting on **tall buildings** in urban areas. They are also found in **open areas**, often near water, and especially **along the coast**.
+Peregrine Falcon were disappearing but have made a dramatic recovery and can be seen perched or nesting on **tall buildings** in urban areas. They are also found in **open areas**, often near water, and especially **along the coast**.
 
-In **summer**, [Peregrine Falcon](/birds/peregrine/) are found in Alaska and Canada north of the treeline, in the western mountain region from Idaho and Montana south to Colorado and New Mexico, and in various urban areas. They migrate to the coast from Texas to North Carolina in **winter** and are also found **year-round** on the west coast from Alaska to California and inland in Arizona, around the Great Lakes, and in the northwestern USA from Pennsylvania to Maine.
+In **summer**, Peregrine Falcon are found in Alaska and Canada north of the treeline, in the western mountain region from Idaho and Montana south to Colorado and New Mexico, and in various urban areas. They migrate to the coast from Texas to North Carolina in **winter** and are also found **year-round** on the west coast from Alaska to California and inland in Arizona, around the Great Lakes, and in the northwestern USA from Pennsylvania to Maine.
 
-[Peregrine Falcon](/birds/peregrine/) are a medium-sized bird (14 in) with **long pointed wings** (3-3.5 ft wingspan) and tail. They have a **blue-gray** back, a **cream-colored** chest with dark markings, and bright **yellow feet** and **legs**. Dark feathers on the head and sides of the neck look like a **helmet**.
+Peregrine Falcon are a medium-sized bird (14 in) with **long pointed wings** (3-3.5 ft wingspan) and tail. They have a **blue-gray** back, a **cream-colored** chest with dark markings, and bright **yellow feet** and **legs**. Dark feathers on the head and sides of the neck look like a **helmet**.
 
-[Peregrine Falcon](/birds/peregrine/) sit on high perches making **swift, steep dives** to catch their prey - ducks and shorebirds or pigeons in the cities.
+Peregrine Falcon sit on high perches making **swift, steep dives** to catch their prey - ducks and shorebirds or pigeons in the cities.
 
 [Prairie Falcon](/birds/prafalc/) are only found in the West. They are brown with a paler breast and dark patches under their wings. **Merlin** are smaller, lack the dark helmet, and target smaller birds.
 
-**Did you know?** [Peregrine Falcon](/birds/peregrine/) may be the fastest bird in the world reaching speeds of up to 238 mph when diving after prey.
+**Did you know?** Peregrine Falcon may be the fastest bird in the world reaching speeds of up to 238 mph when diving after prey.
 
 <!-- generated, do not edit -->
 **See Also:**

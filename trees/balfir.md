@@ -9,13 +9,13 @@ location: [ab,sk,mb]
 habitat: [forest]
 visibility: high
 ---
-[Balsam Fir](/trees/balfir/) is a tall (60-70 ft) **narrow** tree tapering to a skinny point. Its short (1 in) flat **needles** curve upwards, as do the barrel-shaped, grayish-brown **cones**. The cones disintegrate on the tree and don't fall off.
+Balsam Fir is a tall (60-70 ft) **narrow** tree tapering to a skinny point. Its short (1 in) flat **needles** curve upwards, as do the barrel-shaped, grayish-brown **cones**. The cones disintegrate on the tree and don't fall off.
 
-[Balsam Fir](/trees/balfir/) grows from Alberta through to the Maritimes, around the Great Lakes, and along the Atlantic coast from Maine to Virginia.
+Balsam Fir grows from Alberta through to the Maritimes, around the Great Lakes, and along the Atlantic coast from Maine to Virginia.
 
 Similar species are the **Subalpine Fir** which grows at higher elevations and the **Silver Fir** that is found in Northwest coastal rainforests.
 
-**Did you know?** [Balsam Fir](/trees/balfir/)'s thick branches provide winter cover for wildlife. The seeds, twigs, and bark provide food for Mice and Squirrels as well as Bears and [Moose](/animals/moose/).
+**Did you know?** Balsam Fir's thick branches provide winter cover for wildlife. The seeds, twigs, and bark provide food for Mice and Squirrels as well as Bears and [Moose](/animals/moose/).
 
 <!-- generated, do not edit -->
 **See Also:**

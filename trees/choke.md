@@ -9,15 +9,15 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
 visibility: high
 ---
-[Chokecherry](/trees/choke/) flowers from May to June with elongated clusters of small white **flowers** that resemble a bottlebrush. The shiny red to black **berries** ripen in late August.
+Chokecherry flowers from May to June with elongated clusters of small white **flowers** that resemble a bottlebrush. The shiny red to black **berries** ripen in late August.
 
-[Chokecherry](/trees/choke/) is a shrub in northern areas and a small tree (3-26 ft) further south. It grows throughout Canada and the United States except in the northernmost areas and the Gulf states.
+Chokecherry is a shrub in northern areas and a small tree (3-26 ft) further south. It grows throughout Canada and the United States except in the northernmost areas and the Gulf states.
 
 The **trunk** is sometimes twisted or crooked with smooth, grayish-brown **bark**. The **crown** is narrow and irregular. It has long reddish-brown **buds** in winter and broad oval **leaves** with finely toothed edges.
 
-[Chokecherry](/trees/choke/) leaves are widest above the middle of the leaf with a short pointed tip. **Pin Cherry** leaves are widest below the middle of the leaf and taper gradually to a point.
+Chokecherry leaves are widest above the middle of the leaf with a short pointed tip. **Pin Cherry** leaves are widest below the middle of the leaf and taper gradually to a point.
 
-**Did you know?** Bears pull [Chokecherry](/trees/choke/) to the ground and tear its branches apart in their eagerness to eat the fruit. [Raccoons](/animals/raccoon/), chipmunks, mice, and birds also love the fruit but cause less damage.
+**Did you know?** Bears pull Chokecherry to the ground and tear its branches apart in their eagerness to eat the fruit. [Raccoons](/animals/raccoon/), chipmunks, mice, and birds also love the fruit but cause less damage.
 
 <!-- generated, do not edit -->
 **See Also:**

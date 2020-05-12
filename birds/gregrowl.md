@@ -9,17 +9,17 @@ location: [bc,ab,sk,mb]
 habitat: [forest,mountain]
 visibility: low
 ---
-[Great Gray Owl](/birds/gregrowl/) can be found **year-round** in the **evergreen forests** of Alaska and northern Canada as well as the **western mountain region** stretching from British Columbia through Washington, Idaho, Montana, and parts of California.
+Great Gray Owl can be found **year-round** in the **evergreen forests** of Alaska and northern Canada as well as the **western mountain region** stretching from British Columbia through Washington, Idaho, Montana, and parts of California.
 
-[Great Gray Owl](/birds/gregrowl/) are the **tallest** (24-33 in) North American owl with the **largest wingspan** (4.5-5 ft) but are mostly fluff and **only half the weight** of a [Snowy Owl](/birds/snowyowl/) or [Great Horned Owl](/birds/grehowl/).
+Great Gray Owl are the **tallest** (24-33 in) North American owl with the **largest wingspan** (4.5-5 ft) but are mostly fluff and **only half the weight** of a [Snowy Owl](/birds/snowyowl/) or [Great Horned Owl](/birds/grehowl/).
 
 They have **silvery gray** feathers, a round head with a **large facial disc**, a **black and white bowtie** across the neck, and **yellow** eyes and beak.
 
-[Great Gray Owl](/birds/gregrowl/) hunt for rodents and other small mammals during the **day**. They prefer a mix of **dense forest** for nesting and roosting and **open areas** (meadows, clearings) for hunting.
+Great Gray Owl hunt for rodents and other small mammals during the **day**. They prefer a mix of **dense forest** for nesting and roosting and **open areas** (meadows, clearings) for hunting.
 
 [Great Horned Owl](/birds/grehowl/) hunt at night and have earlike tufts on their head. [Northern Hawk Owl](/birds/norhowl/) are also found in northern boreal forests, but they have a long tail and short pointed wings. **Barred Owl** are smaller with dark eyes and no black-and-white throat markings.
 
-**Did you know?** [Great Gray Owl](/birds/gregrowl/) have very good hearing and can detect prey under 2 ft of snow thanks to the facial disc feathers that channel sound to the ears.
+**Did you know?** Great Gray Owl have very good hearing and can detect prey under 2 ft of snow thanks to the facial disc feathers that channel sound to the ears.
 
 <!-- generated, do not edit -->
 **See Also:**

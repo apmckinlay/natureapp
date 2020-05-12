@@ -10,15 +10,15 @@ habitat: [forest,grassland,urban]
 visibility: high
 aka: ["Daddy Longlegs"]
 ---
-They may look a lot like a spider, but [Harvestman](/insects/harvest/) are not spiders. Their **body** is a simple oval without a clear differentiation between head and abdomen, and they have 2 eyes not 8.
+They may look a lot like a spider, but Harvestman are not spiders. Their **body** is a simple oval without a clear differentiation between head and abdomen, and they have 2 eyes not 8.
 
-[Harvestman](/insects/harvest/) don't build webs as they don't have silk glands. They don't produce venom and their mouths are too small to bite people, but they do make a weird **smell** when disturbed.
+Harvestman don't build webs as they don't have silk glands. They don't produce venom and their mouths are too small to bite people, but they do make a weird **smell** when disturbed.
 
-[Harvestman](/insects/harvest/) have **long wiggly legs** and their body is about .5 in long. They eat everything from worms and aphids to bird droppings and fungi and most species are **nocturnal**. Unlike spiders, they eat solid pieces of food rather than sipping fluids.
+Harvestman have **long wiggly legs** and their body is about .5 in long. They eat everything from worms and aphids to bird droppings and fungi and most species are **nocturnal**. Unlike spiders, they eat solid pieces of food rather than sipping fluids.
 
-Every 10 days, [Harvestman](/insects/harvest/) shed their body casing. It takes them about 20 minutes to pull their legs out of the old casings.
+Every 10 days, Harvestman shed their body casing. It takes them about 20 minutes to pull their legs out of the old casings.
 
-**Did you know?** [Harvestman](/insects/harvest/) often shed a leg in order to escape a predator. However, that's a big loss as their legs are loaded with nerves and sensory organs.
+**Did you know?** Harvestman often shed a leg in order to escape a predator. However, that's a big loss as their legs are loaded with nerves and sensory organs.
 
 <!-- generated, do not edit -->
 **See Also:**

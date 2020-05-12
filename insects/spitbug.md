@@ -9,13 +9,13 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain,urban,wetland]
 visibility: low
 ---
-Adult [Spittlebugs](/insects/spitbug/) are hard to spot as they are small (.25 in long) and jump or fly very fast when disturbed. However, you have probably spotted the **white frothy masses of foam** on plants and bushes that surround and protect immature [Spittlebugs](/insects/spitbug/) from other insects.
+Adult Spittlebugs are hard to spot as they are small (.25 in long) and jump or fly very fast when disturbed. However, you have probably spotted the **white frothy masses of foam** on plants and bushes that surround and protect immature Spittlebugs from other insects.
 
-[Spittlebugs](/insects/spitbug/) are common throughout North America. They prefer warmer climates, so you won't find very many in northern Canada although they can be found in Alaska.
+Spittlebugs are common throughout North America. They prefer warmer climates, so you won't find very many in northern Canada although they can be found in Alaska.
 
-[Spittlebugs](/insects/spitbug/) suck plant juices with their needle-like mouthparts. **Meadow [Spittlebug](/insects/spitbug/)** usually feed on leafy plants, while **Western Pine [Spittlebug](/insects/spitbug/)** feed on conifers and neighboring plants in western forests.
+Spittlebugs suck plant juices with their needle-like mouthparts. **Meadow Spittlebug** usually feed on leafy plants, while **Western Pine Spittlebug** feed on conifers and neighboring plants in western forests.
 
-**Did you know?** Newly-hatched [Spittlebugs](/insects/spitbug/) are very active, clambering over the plant or dropping to the ground as they look for a good place to feed.
+**Did you know?** Newly-hatched Spittlebugs are very active, clambering over the plant or dropping to the ground as they look for a good place to feed.
 
 <!-- generated, do not edit -->
 **See Also:**

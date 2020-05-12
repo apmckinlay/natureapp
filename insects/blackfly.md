@@ -9,11 +9,11 @@ location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 visibility: high
 ---
-[Black Fly](/insects/blackfly/) are one of the hazards of heading into **northern forests** and along cold running water as they **bite**. Most abundant from the **middle of Ma**y to **late June**, they can be found throughout northern Canada and the northern United States. Only the females bite, and they use the blood for egg development.
+Black Fly are one of the hazards of heading into **northern forests** and along cold running water as they **bite**. Most abundant from the **middle of Ma**y to **late June**, they can be found throughout northern Canada and the northern United States. Only the females bite, and they use the blood for egg development.
 
-[Black Fly](/insects/blackfly/) lay their eggs in water where the larvae attach themselves to rocks or plants. The adults float upwards in a bubble of air and are ready to fly as soon as they emerge from the water.
+Black Fly lay their eggs in water where the larvae attach themselves to rocks or plants. The adults float upwards in a bubble of air and are ready to fly as soon as they emerge from the water.
 
-[Black Fly](/insects/blackfly/) are small (less than 1/4 in long) with a **humpbacked**, gnat-like appearance and **clear, broad wings**. Not all are black. Some are yellowish orange or brownish gray.
+Black Fly are small (less than 1/4 in long) with a **humpbacked**, gnat-like appearance and **clear, broad wings**. Not all are black. Some are yellowish orange or brownish gray.
 
 **Did you know?** Black fly are valuable pollinators of wild **Blueberries** and an important fish food.
 

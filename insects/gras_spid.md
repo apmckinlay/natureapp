@@ -10,13 +10,13 @@ habitat: [forest,grassland,urban]
 visibility: high
 aka: ["Funnel Weaver Spider"]
 ---
-Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. [Grass Spiders](/insects/gras_spid/) are fairly large (.25 in body). They are usually **brown** or **gray** with **stripes near the head** and a **pattern on their back**. There are often bands of different colors on their legs.
+Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. Grass Spiders are fairly large (.25 in body). They are usually **brown** or **gray** with **stripes near the head** and a **pattern on their back**. There are often bands of different colors on their legs.
 
-[Grass Spiders](/insects/gras_spid/) are also called Funnel Weaver Spiders as they construct a flat, **horizontal web** across the grass or around buildings with a **funnel** on one side where they hide. The funnel is open on both ends so the spider can run away if it's attacked. The web isn't sticky, but it slows down any insects (usually flying ones) that try to cross it. The spider then rushes out from where it is hiding to grab and bite its prey.
+Grass Spiders are also called Funnel Weaver Spiders as they construct a flat, **horizontal web** across the grass or around buildings with a **funnel** on one side where they hide. The funnel is open on both ends so the spider can run away if it's attacked. The web isn't sticky, but it slows down any insects (usually flying ones) that try to cross it. The spider then rushes out from where it is hiding to grab and bite its prey.
 
-[Grass Spiders](/insects/gras_spid/) can be found outdoors throughout North America. They may come indoors in autumn to escape the cold.
+Grass Spiders can be found outdoors throughout North America. They may come indoors in autumn to escape the cold.
 
-**Did you know?** Funnel webs are permanent. [Grass Spiders](/insects/gras_spid/) only leave their web if they're frequently disturbed.
+**Did you know?** Funnel webs are permanent. Grass Spiders only leave their web if they're frequently disturbed.
 
 <!-- generated, do not edit -->
 **See Also:**
