@@ -9,7 +9,7 @@ location: [ab,sk]
 habitat: [desert,grassland]
 visibility: low
 ---
-Bullsnake, also known as **Gopher Snake**, are 3-8 ft long. They have a **large head**, **large eyes**, and a **narrow neck**. They are light brown to yellow with a cream-colored belly and dark blotches on their back and sides. An enlarged nose shield helps them to burrow in the sand.
+Bullsnake, also known as **Gopher Snake**, are 4-7 ft long. They have a **large head**, **large eyes**, and a **narrow neck**. They are light brown to yellow with a cream-colored belly and dark blotches on their back and sides. An enlarged nose shield helps them to burrow in the sand.
 
 Bullsnake are harmless to humans. They eat mainly rodents but also birds and lizards that they squeeze to death. They spend up to 90% of their time in underground dens, hibernating over winter in communal dens.
 
