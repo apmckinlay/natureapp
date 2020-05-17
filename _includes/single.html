@@ -225,7 +225,8 @@ prev: function() {
             yDown = event.changedTouches[0].screenY;
         };
 
-        const THRESHOLD = 130;
+        const X_THRESHOLD = window.screen.width * .25;
+        const Y_THRESHOLD = window.screen.height * .25;
 
         function handleTouchEnd(evt) {
             if (!xDown || !yDown)
@@ -237,7 +238,7 @@ prev: function() {
             var xDiff = xDown - xUp;
             var yDiff = yDown - yUp;
 
-            if (Math.abs(xDiff) > THRESHOLD && Math.abs(yDiff) < THRESHOLD)
+            if (Math.abs(xDiff) > X_THRESHOLD && Math.abs(yDiff) < Y_THRESHOLD)
                 window.location.href = 
                     '/{{section}}/' + (xDiff > 0 ? "{{next}}" : "{{prev}}") + '/';
             xDown = null;
