@@ -1,62 +1,71 @@
-// scan the files to find words to index
+// Build Lunr index
+
+var lunr = require("../lunr.js");
 
 const fs = require('fs');
 
-const generated = "<!-- generated, do not edit -->";
+var map = {}
 
-let wordcount = {} // word => number of entries containing it
+var idx = lunr(function () {
+    this.ref('id')
+    this.field('name', { boost: 2 })
+    this.field('body')
+    
+    index(this, 'birds/');
+    index(this, 'herps/');
+    index(this, 'insects/');
+    index(this, 'animals/');
+    index(this, 'plants/');
+    index(this, 'trees/');
+})
+fs.writeFileSync("idx.js", "var idx = " + JSON.stringify(idx) + '\n')
+fs.writeFileSync("map.js", "var map = " + JSON.stringify(map) + '\n')
 
-index('birds/');
-index('herps/');
-index('insects/');
-index('animals/');
-index('plants/');
-index('trees/');
-
-function index(dir) {
-    forEachFile(dir, scan);
-    let list = []
-    for (w in wordcount)
-        list.push([wordcount[w], w]);
-    list.sort(function (a, b) { return a[0] - b[0] })
-    for (x of list)
-        console.log(x[0] + "\t" + x[1])
-}
-
-function forEachFile(dir, fn) {
+function index(idx, dir) {
     fs.readdirSync(dir).forEach(file => {
         if (file.endsWith('.md')) {
             let id = file.slice(0, -3); // strip '.md'
             let content = fs.readFileSync(dir + file, 'utf8');
-            fn(dir + file, id, content);
-//process.exit(0);
+            add(idx, dir, id, content);
+// process.exit();
         }
     });
 }
 
-function scan(path, id, content) {
-    // console.log(path);
+// called for each item (file)
+function add(idx, dir, id, content) {
+    let name = content.match(/\nname: "([^"]*)"/)[1];
+    map[id] = [dir, name];
+    let aka = content.match(/\naka: \[([^\]]*)\]/);
+    if (aka)
+        name += ' ' + aka[1].replace(/,/g, ' ');
+    let keywords = content.match(/\nkeywords: \[([^\]]*)\]/);
+    if (keywords)
+        name += ' ' + keywords[1].replace(/,/g, ' ');
+    if (dir == "birds/")
+        name += ' ' + 'bird'
+    
+    let habitat = content.match(/\nhabitat: \[([^\]]*)\]/)[1].replace(/,/g, ' ');
+    let location = content.match(/\nlocation: \[([^\]]*)\]/)[1].replace(/,/g, ' ');
+    let body = habitat + "\n" + location + "\n" + clean(content);
+    
+    idx.add({ 'id': id, 'name': name, 'body': body });
+}
 
+
+function clean(content) {
     // remove front matter
     let i = content.indexOf("---", 4);
-    content = content.slice(i);
+    content = content.slice(i+4);
 
     // remove see also
-    i = content.indexOf(generated)
+    const generated = "<!-- generated, do not edit -->";
+    i = content.indexOf(generated);
     content = content.slice(0, i);
 
     // remove links
     let rx = /\[(.*?)\]\(.*?\)/g;
     content = content.replace(rx, "$1");
-
-    //console.log(content);
-
-    content = content.toLowerCase();
-    words = new Set(content.split(/[^a-z]+/));
-    for (var w of words) {
-        if (w.length > 1) {
-            wordcount[w] = wordcount[w] || 0;
-            wordcount[w]++
-        }
-    }
+    
+    return content;
 }
