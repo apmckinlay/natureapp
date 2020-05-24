@@ -35,7 +35,9 @@ function index(idx, dir) {
 // called for each item (file)
 function add(idx, dir, id, content) {
     let name = content.match(/\nname: "([^"]*)"/)[1];
-    map[id] = [dir, name];
+    let habitat = content.match(/\nhabitat: \[([^\]]*)\]/)[1].split(',');
+    let location = content.match(/\nlocation: \[([^\]]*)\]/)[1].split(',');
+    map[id] = [dir, name, habitat, location];
     let aka = content.match(/\naka: \[([^\]]*)\]/);
     if (aka)
         name += ' ' + aka[1].replace(/,/g, ' ');
@@ -45,9 +47,7 @@ function add(idx, dir, id, content) {
     if (dir == "birds/")
         name += ' ' + 'bird'
     
-    let habitat = content.match(/\nhabitat: \[([^\]]*)\]/)[1].replace(/,/g, ' ');
-    let location = content.match(/\nlocation: \[([^\]]*)\]/)[1].replace(/,/g, ' ');
-    let body = habitat + "\n" + location + "\n" + clean(content);
+    let body = clean(content);
     
     idx.add({ 'id': id, 'name': name, 'body': body });
 }

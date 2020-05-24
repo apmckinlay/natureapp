@@ -8,13 +8,13 @@ help_section: "search"
 <head lang="en">
     {{> head.html }}
     <style>
-        .hover:hover {
-            filter: invert(100);
-        }
         ::placeholder {
             color: #ccc;
             font-size: 80%;
             font-style: italic;
+        }
+        .hidden {
+            display: none;
         }
         .term {
             color: #666;
@@ -25,8 +25,9 @@ help_section: "search"
             margin: .1em;
             line-height: 200%;
         }
-        .term:hover {
-            border-color: blue;
+       .hidden:checked + .term  {
+            color: black;
+            background-color: white;
         }
         .close-icon {
             display: inline-block;
@@ -46,6 +47,11 @@ help_section: "search"
         }
         .list {
             margin-top: 0;
+        }
+        #bottom {
+            text-align: center;
+            color: #888;
+            margin-bottom: .5em;
         }
     </style>
 </head>
@@ -67,58 +73,66 @@ help_section: "search"
     <div style="margin-left: 3vw; margin-top: 3vw;">
         <label for="search"></label>
         <div style="position: relative;">
-            <input type="text" id="query" autofocus
-            inputmode="search"
+            <input type="text" id="query" autofocus inputmode="search"
                 placeholder="enter words to search for"
                 style="font-size: 150%; padding: .3em; width: 70%;">
-            <image src="/images/search.svg" class="hover"
+            <image src="/images/search.svg"
                 style="width: 1.7em; height: 1.7em; vertical-align: text-bottom;
                     padding-left: .5em; padding-right: .5em; cursor: pointer;"
                 onclick="search()" />
              <span class="close-icon" onclick="reset()">x</span>
        </div>
         <div style="margin-top: .3em;">
-            <span class="term" onclick="add('BC')">BC</span>
-            <span class="term" onclick="add('AB')">AB</span>
-            <span class="term" onclick="add('SK')">SK</span>
-            <span class="term" onclick="add('MB')">MB</span>
-            <span class="term" onclick="add('desert')">desert</span>
-            <span class="term" onclick="add('forest')">forest</span>
-            <span class="term" onclick="add('grassland')">grassland</span>
-            <span class="term" onclick="add('mountain')">mountain</span>
-            <span class="term" onclick="add('ocean')">ocean</span>
-            <span class="term" onclick="add('urban')">urban</span>
-            <span class="term" onclick="add('wetland')">wetland</span>
+            <input type="checkbox" onchange="search()" class="hidden" id="_bc">
+            <label class="term" for="_bc">BC</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_ab">
+            <label class="term" for="_ab">AB</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_sk">
+            <label class="term" for="_sk">SK</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_mb">
+            <label class="term" for="_mb">MB</label>
+
+            <input type="checkbox" onchange="search()" class="hidden" id="_desert">
+            <label class="term" for="_desert">desert</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_forest">
+            <label class="term" for="_forest">forest</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_grassland">
+            <label class="term" for="_grassland">grassland</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_mountain">
+            <label class="term" for="_mountain">mountain</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_ocean">
+            <label class="term" for="_ocean">ocean</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_urban">
+            <label class="term" for="_urban">urban</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_wetland">
+            <label class="term" for="_wetland">wetland</label>
+
+            <input type="checkbox" onchange="search()" class="hidden" id="_birds">
+            <label class="term" for="_birds">Birds</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_animals">
+            <label class="term" for="_animals">Animals</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_plants">
+            <label class="term" for="_plants">Plants</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_herps">
+            <label class="term" for="_herps">Reptiles&amp;</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_insects">
+            <label class="term" for="_insects">Insects&amp;</label>
+            <input type="checkbox" onchange="search()" class="hidden" id="_trees">
+            <label class="term" for="_trees">Trees&amp;</label>
         </div>
     </div>
-
+    
     <div id="results" class="list">
+    </div>
+    <div id="bottom">
     </div>
 
     <script src="/lunr.js"></script>
     <script src="/map.js"></script>
     <script src="/idx.js"></script>
     <script>
-        var index = lunr.Index.load(idx);
-        function addItem(id) {
-            const dir = map[id][0];
-            const name = map[id][1];
-            var item = document.createElement("div");
-            item.setAttribute('class', "item");
-            var a = document.createElement("a");
-            a.setAttribute('href', "/" + dir + id + "/");
-            var img = document.createElement("img");
-            img.setAttribute('src', "/photos/" + dir + "small/" + id + ".jpg");
-            img.setAttribute('class', "small");
-            a.appendChild(img);
-            var nameDiv = document.createElement("div");
-            nameDiv.setAttribute('class', "name");
-            nameDiv.innerHTML = name;
-            a.appendChild(nameDiv);
-            item.appendChild(a);
-            var results = document.getElementById("results");
-            results.appendChild(item);
-        }
+        let index = lunr.Index.load(idx);
+        const hasTouch = 'ontouchstart' in window
         const q = document.getElementById("query");
         q.addEventListener("keyup", function (event) {
             if (event.key === "Enter")
@@ -126,28 +140,91 @@ help_section: "search"
         });
         function search() {
             if (q.value == "")
-                return
+                return;
+            if (hasTouch)
+                q.blur();
             document.getElementById("results").innerHTML = "";
-            var results = index.search(q.value).slice(0, 10)
+            document.getElementById("bottom").innerText = "";
+            let results = index.search(q.value);
+            let sel = getSel();
+            results = results.filter((r) => filter(r, sel));
+            const nMatched = results.length;
+            const nShow = 10;
+            results = results.slice(0, nShow);
             results.forEach(r => addItem(r.ref))
-            q.blur()
-        }
-        function add(word) {
-            if (q.value.includes(word))
-                q.value = q.value.replace(new RegExp(' ?' + word + ' ?'), ' ');
-            else {
-                if (q.value != "" && !q.value.endsWith(' '))
-                    q.value += ' ';
-                q.value += word;
+            if (nShow < nMatched) {
+                let bottom = document.getElementById('bottom')
+                bottom.innerText = "Showing first " + nShow + " of " + nMatched + " matches";
             }
-            q.value = q.value.trim();
-            if (q.value != "")
-              q.value += ' ';
-            q.focus();
+        }
+        function getSel() {
+            let secSel = [];
+            for (let sec of ['birds', 'animals', 'plants', 'herps',
+                'insects', 'trees']) {
+                let elem = document.getElementById('_' + sec);
+                if (elem.checked)
+                    secSel.push(sec);
+            }
+            let habSel = [];
+            for (let hab of ['desert', 'forest', 'grassland', 'mountain', 
+                'ocean', 'urban', 'wetland']) {
+                let elem = document.getElementById('_' + hab);
+                if (elem.checked)
+                    habSel.push(hab);
+            }
+            let locSel = [];
+            for (let loc of ['bc', 'ab', 'sk', 'mb']) {
+                let elem = document.getElementById('_' + loc);
+                if (elem.checked)
+                    locSel.push(loc);
+            }
+            return {"sec": secSel, "hab": habSel, "loc": locSel};
+        }
+        function filter(r, sel) {
+            let item = map[r.ref];
+            let section = [item[0].slice(0,-1)];
+            let habitats = item[2];
+            let locations = item[3];
+            return matches(section, sel.sec) &&
+                matches(habitats, sel.hab) && matches(locations, sel.loc);
+        }
+        function matches(set, sel) {
+            if (sel.length == 0)
+                return true;
+            for (let x of sel)
+                if (set.includes(x))
+                    return true;
+            return false;
+        }
+        function addItem(id) {
+            const dir = map[id][0];
+            const name = map[id][1];
+            let item = document.createElement("div");
+            item.setAttribute('class', "item");
+            let a = document.createElement("a");
+            a.setAttribute('href', "/" + dir + id + "/");
+            let img = document.createElement("img");
+            img.setAttribute('src', "/photos/" + dir + "small/" + id + ".jpg");
+            img.setAttribute('class', "small");
+            a.appendChild(img);
+            let nameDiv = document.createElement("div");
+            nameDiv.setAttribute('class', "name");
+            nameDiv.innerHTML = name;
+            a.appendChild(nameDiv);
+            item.appendChild(a);
+            let results = document.getElementById("results");
+            results.appendChild(item);
         }
         function reset() {
             q.value = ""
+            for (let id of ['birds', 'animals', 'plants', 'herps',
+                'insects', 'trees', 'desert', 'forest', 'grassland', 'mountain',
+                'ocean', 'urban', 'wetland', 'bc', 'ab', 'sk', 'mb'])
+                document.getElementById('_' + id).checked = false;
             document.getElementById("results").innerHTML = "";
+            document.getElementById("bottom").innerText = "";
+            if (!hasTouch)
+                q.focus();
         }
     </script>
 
