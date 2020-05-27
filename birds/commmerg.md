@@ -8,7 +8,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 ---
-**Male** Common Merganser have gray bodies with white bellies (21-28 in) and a dark green head. The **females** are equally colorful with a gray body, rusty-red head and crest, and a white chin and chest. Both males and females have a slender red bill.
+**Male** Common Merganser have a white body with a black back (21-28 in) and a dark green head for most of the year. The **females** are equally colorful with a gray body, rusty-red head and crest, and a white chest. Both males and females have a slender red bill.
 
 Common Merganser spend the **summer** breeding season on the **lakes** and **rivers** of the northern forests of Canada and Alaska. They **winter** on the lakes and rivers of northern and western United States. Common Merganser can also be found year-round along the coast of British Columbia, in the northwestern United States, and in the Maritimes and along the St. Lawrence.  They prefer **freshwater** but can sometimes be found in harbors and estuaries in **winter**. They're often found in **large flocks**.
 
