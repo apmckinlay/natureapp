@@ -4,9 +4,24 @@ var lunr = require("../lunr.js");
 
 const fs = require('fs');
 
+var normaliseSpelling = function (builder) {
+    var pipelineFunction = function (token) {
+        if (token.toString() == "grey")
+            return token.update(function () { return "gray" });
+        else if (token.toString() == "harbour")
+            return token.update(function () { return "harbor" });
+        else
+            return token;
+    }
+    lunr.Pipeline.registerFunction(pipelineFunction, 'normaliseSpelling');
+    builder.pipeline.before(lunr.stemmer, pipelineFunction);
+    builder.searchPipeline.before(lunr.stemmer, pipelineFunction);
+}
+
 var map = {}
 
 var idx = lunr(function () {
+    this.use(normaliseSpelling)
     this.ref('id')
     this.field('name', { boost: 2 })
     this.field('body')

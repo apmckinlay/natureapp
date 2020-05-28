@@ -131,7 +131,17 @@ help_section: "search"
     <script src="/map.js"></script>
     <script src="/idx.js"></script>
     <script>
+        var pipelineFunction = function (token) {
+            if (token.toString() == "grey")
+                return token.update(function () { return "gray" });
+            else if (token.toString() == "harbour")
+                return token.update(function () { return "harbor" });
+            else
+                return token;
+        }
+        lunr.Pipeline.registerFunction(pipelineFunction, 'normaliseSpelling');
         let index = lunr.Index.load(idx);
+        
         const hasTouch = 'ontouchstart' in window
         const q = document.getElementById("query");
         q.addEventListener("keyup", function (event) {
