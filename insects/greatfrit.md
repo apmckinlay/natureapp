@@ -21,7 +21,7 @@ Great Spangled Fritillary can be found in most parts of North America although t
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),
-[Clouded Sulfur](/insects/cloudsulf/),
+[Clouded Sulphur](/insects/cloudsulf/),
 [Compton Tortoiseshell](/insects/comptort/),
 [Hawk Moth](/insects/hawkmoth/),
 [Monarch Butterfly](/insects/monarch/),

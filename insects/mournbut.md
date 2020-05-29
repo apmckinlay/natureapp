@@ -23,7 +23,7 @@ Mourning Cloak butterflies can be found throughout North America although they a
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),
-[Clouded Sulfur](/insects/cloudsulf/),
+[Clouded Sulphur](/insects/cloudsulf/),
 [Compton Tortoiseshell](/insects/comptort/),
 [Great Spangled Fritillary](/insects/greatfrit/),
 [Hawk Moth](/insects/hawkmoth/),

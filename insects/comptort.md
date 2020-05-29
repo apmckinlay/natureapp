@@ -20,7 +20,7 @@ Compton Tortoiseshell are found in **forests** where the **caterpillars** (pale 
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),
-[Clouded Sulfur](/insects/cloudsulf/),
+[Clouded Sulphur](/insects/cloudsulf/),
 [Great Spangled Fritillary](/insects/greatfrit/),
 [Hawk Moth](/insects/hawkmoth/),
 [Monarch Butterfly](/insects/monarch/),

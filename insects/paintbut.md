@@ -22,7 +22,7 @@ Painted Lady Butterfly migrate every year from northern Mexico to Canada and the
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),
-[Clouded Sulfur](/insects/cloudsulf/),
+[Clouded Sulphur](/insects/cloudsulf/),
 [Compton Tortoiseshell](/insects/comptort/),
 [Great Spangled Fritillary](/insects/greatfrit/),
 [Hawk Moth](/insects/hawkmoth/),

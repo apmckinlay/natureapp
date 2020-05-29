@@ -20,7 +20,7 @@ Azure Butterfly lay their eggs on shrubs. The **caterpillars**, usually green, e
 **See Also:**
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),
-[Clouded Sulfur](/insects/cloudsulf/),
+[Clouded Sulphur](/insects/cloudsulf/),
 [Compton Tortoiseshell](/insects/comptort/),
 [Great Spangled Fritillary](/insects/greatfrit/),
 [Hawk Moth](/insects/hawkmoth/),

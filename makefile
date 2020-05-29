@@ -7,7 +7,7 @@ build:
 serve:
 	eleventy --serve --quiet
 
-deploy: files index
+deploy: links index files
 	firebase deploy
 	
 links:

@@ -22,7 +22,7 @@ The **caterpillars** are green with a horn at the rear end. They rely on honeysu
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),
-[Clouded Sulfur](/insects/cloudsulf/),
+[Clouded Sulphur](/insects/cloudsulf/),
 [Compton Tortoiseshell](/insects/comptort/),
 [Great Spangled Fritillary](/insects/greatfrit/),
 [Monarch Butterfly](/insects/monarch/),

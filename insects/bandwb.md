@@ -22,7 +22,7 @@ Banded Woolly Bear are common across **grasslands** and **urban** areas in south
 **See Also:**
 [Azure Butterfly](/insects/azurebut/),
 [Cabbage White](/insects/cabbgwht/),
-[Clouded Sulfur](/insects/cloudsulf/),
+[Clouded Sulphur](/insects/cloudsulf/),
 [Compton Tortoiseshell](/insects/comptort/),
 [Great Spangled Fritillary](/insects/greatfrit/),
 [Hawk Moth](/insects/hawkmoth/),
