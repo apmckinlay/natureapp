@@ -32,7 +32,14 @@ help_section: "search"
         #bottom {
             text-align: center;
             color: #888;
-            margin-bottom: .5em;
+            display: none;
+            height: 3em;
+        }
+        #more {
+            color: #888;
+        }
+        #more:hover {
+            color: blue;
         }
     </style>
 </head>
@@ -106,6 +113,8 @@ help_section: "search"
     <div id="results" class="list">
     </div>
     <div id="bottom">
+        <span id="showing"></span>
+        <a id="more" href="javascript:void(0)" onclick="more()">Show More</a>
     </div>
 
     <script src="/lunr.js"></script>
@@ -129,24 +138,34 @@ help_section: "search"
             if (event.key === "Enter")
                 search();
         });
+        let nShow = 10;
         function search() {
+            nShow = 10;
+            search2();
+        }
+        function search2() {
             if (q.value == "")
                 return;
             if (hasTouch)
                 q.blur();
             document.getElementById("results").innerHTML = "";
-            document.getElementById("bottom").innerText = "";
+            document.getElementById("bottom").style.display = "none";
             let results = index.search(q.value);
             let sel = getSel();
             results = results.filter((r) => filter(r, sel));
             const nMatched = results.length;
-            const nShow = 10;
             results = results.slice(0, nShow);
-            results.forEach(r => addItem(r.ref))
+            results.forEach(r => addItem(r.ref));
             if (nShow < nMatched) {
-                let bottom = document.getElementById('bottom')
-                bottom.innerText = "Showing first " + nShow + " of " + nMatched + " matches";
+                document.getElementById("bottom").style.display = "block";
+                let showing = document.getElementById('showing');
+                showing.innerText = "Showing first " + nShow + " of " + nMatched + " matches.";
             }
+        }
+        function more() {
+            nShow += 10;
+            search2();
+            setTimeout(function () { window.scrollTo(0, 9999); }, 50)
         }
         function getSel() {
             let secSel = [];
@@ -213,7 +232,7 @@ help_section: "search"
                 'ocean', 'urban', 'wetland', 'bc', 'ab', 'sk', 'mb'])
                 document.getElementById('_' + id).checked = false;
             document.getElementById("results").innerHTML = "";
-            document.getElementById("bottom").innerText = "";
+            document.getElementById("bottom").style.display = "none";
             if (!hasTouch)
                 q.focus();
         }
