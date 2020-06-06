@@ -359,11 +359,10 @@ img.large {
     }
 }
 
-/* map -------------------------------------------- */
+/* icons -------------------------------------------- */
 
 #map {
     height: 100px;
-    fill: #888888;
     margin-top: .5em;
 }
 
@@ -372,6 +371,7 @@ img.large {
     margin-bottom: 15px;
     margin-left: 15px;
     margin-top: 1em;
+    vertical-align: middle;
 }
 
 /* popup ------------------------------------------ */

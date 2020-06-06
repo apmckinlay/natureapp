@@ -35,12 +35,6 @@ prev: function() {
 <head lang="en">
     <title>{{name}} - Nature Companion</title>
     {{> head.html }}
-    <style>
-        {{#bc}} #CA-BC { fill: green; } {{/bc}}
-        {{#ab}} #CA-AB { fill: green; } {{/ab}}
-        {{#sk}} #CA-SK { fill: green; } {{/sk}}
-        {{#mb}} #CA-MB { fill: green; } {{/mb}}
-    </style>
 </head>
 
 <body>
@@ -73,7 +67,7 @@ prev: function() {
             <p style="text-align: right;"><b>{{.}}</b></p>
             {{/akas}}
             {{{ content }}}
-            {{> map.svg }}
+            <object class="extra" id="map" type="image/svg+xml" data="/images/map.svg"></object>
             {{#hard}}
             <div class="popup_outer" onclick="toggle('hard_def')">
                 <img class="extra" src="/images/hard.svg" />
@@ -175,6 +169,14 @@ prev: function() {
         </div>
     </div>
     <script>
+        document.getElementById("map").addEventListener("load", function () {
+            let doc = this.getSVGDocument();
+            doc.querySelector("#Canada").setAttribute("fill", "#888")
+            for (prov of "{{location}}".split(',')) {
+                let elem = doc.querySelector('#' + prov)
+                elem.setAttribute("fill", "green");
+            }
+        });
         var clicked = null;
         var timer;
         function toggle(id) {
