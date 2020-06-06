@@ -16,13 +16,13 @@ wetland: function() { return -1 != this.habitat.indexOf("wetland") },
 akas: function() { return this.aka ? this.aka.join(", ") : false },
 
 next: function() {
-    let items = this.collections[this.section.slice(0,-1)];
+    let items = this.collections[this.section];
     let i = items.findIndex(x => x.fileSlug == this.page.fileSlug);
     i = (i + 1) % items.length;
     return items[i].fileSlug;
     },
 prev: function() {
-    let items = this.collections[this.section.slice(0,-1)];
+    let items = this.collections[this.section];
     let i = items.findIndex(x => x.fileSlug == this.page.fileSlug);
     i = (i + items.length - 1) % items.length;
     return items[i].fileSlug;
@@ -76,19 +76,18 @@ prev: function() {
             {{> map.svg }}
             {{#hard}}
             <div class="popup_outer" onclick="toggle('hard_def')">
-                {{> hard.svg }}
+                <image class="extra" src="/images/hard.svg" />
                 <div class="popup" id="hard_def">
                     <span>
-                        <b>Hard</b> - can be difficult to spot. They may be few
-                        in number
-                        or not readily visible (for example,
-                        underground).</span>
+                        <b>Hard</b> - can be difficult to spot. 
+                        They may be few in number or not readily visible
+                        (for example, underground).</span>
                 </div>
             </div>
             {{/hard}}
             {{#easy}}
             <div class="popup_outer" onclick="toggle('easy_def')">
-                {{> easy.svg }}
+                <image class="extra" src="/images/easy.svg" />
                 <div class="popup" id="easy_def">
                     <span>
                         <b>Easy</b> - numerous and usually easy to spot
@@ -100,18 +99,17 @@ prev: function() {
 
             {{#desert}}
             <div class="popup_outer" onclick="toggle('desert_def')">
-                {{> desert.svg }}
+                <image class="extra" src="/images/desert.svg" />
                 <div class="popup" id="desert_def">
                     <span><b>Deserts</b> are dry areas covered with sand or
-                        rocks and with very
-                        few plants. There is limited rainfall and it's usually
-                        very hot.</span>
+                        rocks and with very few plants. There is 
+                        limited rainfall and it's usually very hot.</span>
                 </div>
             </div>
             {{/desert}}
             {{#forest}}
             <div class="popup_outer" onclick="toggle('forest_def')">
-                {{> forest.svg }}
+                <image class="extra" src="/images/forest.svg" />
                 <div class="popup" id="forest_def">
                     <span>
                         <b>Forests</b> are large areas of trees growing close
@@ -121,62 +119,56 @@ prev: function() {
             {{/forest}}
             {{#grassland}}
             <div class="popup_outer" onclick="toggle('grassland_def')">
-                {{> grassland.svg }}
+                <image class="extra" src="/images/grassland.svg" />
                 <div class="popup" id="grassland_def">
                     <span><b>Grasslands</b> are large open areas covered with
-                        grasses.
-                        They have very few trees or shrubs. This habitat
-                        includes prairies
-                        and tundra.</span>
+                        grasses. They have very few trees or shrubs. 
+                        This habitat includes prairies and tundra.</span>
                 </div>
             </div>
             {{/grassland}}
             {{#mountain}}
             <div class="popup_outer" onclick="toggle('mountain_def')">
-                {{> mountain.svg }}
+                <image class="extra" src="/images/mountain.svg" />
                 <div class="popup" id="mountain_def">
                     <span>
                         <b>Mountains</b> are very high areas of land with
                         steep sides leading to a peak. They are often connected
-                        to
-                        other mountains as part of a mountain range.</span>
+                        to other mountains as part of a mountain range.</span>
                 </div>
             </div>
             {{/mountain}}
             {{#ocean}}
             <div class="popup_outer" onclick="toggle('ocean_def')">
-                {{ > ocean.svg }}
+                <image class="extra" src="/images/ocean.svg" />
                 <div class="popup" id="ocean_def">
                     <span>
                         <b>Oceans</b> are large bodies of salt water. This
-                        habitat includes
-                        seas and oceans as well as their beaches and
-                        coastlines.</span>
+                        habitat includes seas and oceans
+                        as well as their beaches and coastlines.</span>
                 </div>
             </div>
             {{/ocean}}
             {{#urban}}
             <div class="popup_outer" onclick="toggle('urban_def')">
-                {{> urban.svg }}
+                <image class="extra" src="/images/urban.svg" />
                 <div class="popup" id="urban_def">
                     <span>
                         <b>Urban</b> areas have a large population within a
-                        defined
-                        area. This includes villages, towns, and cities.</span>
+                        defined area.
+                        This includes villages, towns, and cities.</span>
                 </div>
             </div>
             {{/urban}}
             {{#wetland}}
             <div class="popup_outer" onclick="toggle('wetland_def')">
-                {{> wetland.svg }}
+                <image class="extra" src="/images/wetland.svg" />
                 <div class="popup" id="wetland_def">
                     <span>
                         <b>Wetlands</b> are low-lying areas that are covered by
-                        water
-                        all or most of the time and support a variety of aquatic
-                        plants. This
-                        habitat includes rivers, streams, lakes, ponds, bogs,
-                        and marshes.</span>
+                        water all or most of the time and support a variety of 
+                        aquatic plants. This habitat includes rivers, streams, 
+                        lakes, ponds, bogs, and marshes.</span>
                 </div>
             </div>
             {{/wetland}}
