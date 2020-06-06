@@ -173,7 +173,7 @@ help_section: "search"
         }
         function filter(r, sel) {
             let item = map[r.ref];
-            let section = [item[0].slice(0,-1)];
+            let section = [item[0]];
             let habitats = item[2];
             let locations = item[3];
             return matches(section, sel.sec) &&
@@ -188,7 +188,7 @@ help_section: "search"
             return false;
         }
         function addItem(id) {
-            const dir = map[id][0];
+            const dir = map[id][0] + '/';
             const name = map[id][1];
             let item = document.createElement("div");
             item.setAttribute('class', "item");

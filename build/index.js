@@ -52,7 +52,7 @@ function add(idx, dir, id, content) {
     let name = content.match(/\nname: "([^"]*)"/)[1];
     let habitat = content.match(/\nhabitat: \[([^\]]*)\]/)[1].split(',');
     let location = content.match(/\nlocation: \[([^\]]*)\]/)[1].split(',');
-    map[id] = [dir, name, habitat, location];
+    map[id] = [dir.slice(0, -1), name, habitat, location];
     let aka = content.match(/\naka: \[([^\]]*)\]/);
     if (aka)
         name += ' ' + aka[1].replace(/,/g, ' ');
