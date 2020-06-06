@@ -3,9 +3,30 @@
 
 <head lang="en">
     {{> head.html }}
+    <style>
+        .hidden {
+            display: none;
+        }
+        .term {
+            color: #666;
+            cursor: pointer;
+            border: 1px solid white;
+            border-radius: .5em;
+            padding: .2em;
+            margin: .1em;
+            line-height: 200%;
+        }
+        .hidden:checked+.term {
+            color: black;
+            background-color: white;
+        }
+        .list {
+            margin-top: .5vw;
+        }
+    </style>
 </head>
 
-<body>
+<body onLoad="filter()">
     <div class="header">
         {{> closebutton.html }}
         {{> helpbutton.html }}
@@ -18,17 +39,94 @@
             </div>
         </h1>
     </div>
-    <div class="list">
-        {{#items}}
-        <div class="item">
-            <a href="/{{page.fileSlug}}/{{data.page.fileSlug}}/">
-                <img class="small" src="/photos/{{page.fileSlug}}/small/{{data.page.fileSlug}}.jpg" />
-                <div class="name">{{data.name}}</div>
-            </a>
-        </div>
-        {{/items}}
+    <div style="margin-top: .3em; margin-left: .5em;">
+        <input type="checkbox" onchange="filter()" class="hidden" id="_bc">
+        <label class="term" for="_bc">BC</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_ab">
+        <label class="term" for="_ab">AB</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_sk">
+        <label class="term" for="_sk">SK</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_mb">
+        <label class="term" for="_mb">MB</label>
+    
+        <input type="checkbox" onchange="filter()" class="hidden" id="_desert">
+        <label class="term" for="_desert">desert</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_forest">
+        <label class="term" for="_forest">forest</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_grassland">
+        <label class="term" for="_grassland">grassland</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_mountain">
+        <label class="term" for="_mountain">mountain</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_ocean">
+        <label class="term" for="_ocean">ocean</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_urban">
+        <label class="term" for="_urban">urban</label>
+        <input type="checkbox" onchange="filter()" class="hidden" id="_wetland">
+        <label class="term" for="_wetland">wetland</label>
+    </div>
+    <div id="results" class="list">
     </div>
     <script>
+        let items = [
+            {{#items}}["{{data.page.fileSlug}}", "{{data.name}}", "{{data.habitat}}", "{{data.location}}"],
+            {{/items}}];
+        function filter() {
+            document.getElementById("results").innerHTML = "";
+            let sel = getSel()
+            items.filter((it) => match(it, sel)).forEach(addItem);
+        }
+        function getSel() {
+            let habSel = [];
+            for (let hab of ['desert', 'forest', 'grassland', 'mountain',
+                'ocean', 'urban', 'wetland']) {
+                let elem = document.getElementById('_' + hab);
+                if (elem.checked)
+                    habSel.push(hab);
+            }
+            let locSel = [];
+            for (let loc of ['bc', 'ab', 'sk', 'mb']) {
+                let elem = document.getElementById('_' + loc);
+                if (elem.checked)
+                    locSel.push(loc);
+            }
+            return { "hab": habSel, "loc": locSel };
+        }
+        function match(it, sel) {
+            let habitats = it[2];
+            let locations = it[3];
+            return match1(habitats, sel.hab) && match1(locations, sel.loc);
+        }
+        function match1(set, sel) {
+            if (sel.length == 0)
+                return true;
+            for (let x of sel)
+                if (set.includes(x))
+                    return true;
+            return false;
+        }
+        function addItem(it) {
+            const id = it[0];
+            const name = it[1];
+            const dir = "{{page.fileSlug}}";
+            let item = document.createElement("div");
+            item.setAttribute('class', "item");
+            let a = document.createElement("a");
+            a.setAttribute('href', "/" + dir + "/" + id + "/");
+            let img = document.createElement("img");
+            img.setAttribute('src', "/photos/" + dir + "/small/" + id + ".jpg");
+            img.setAttribute('class', "small");
+            a.appendChild(img);
+            let nameDiv = document.createElement("div");
+            nameDiv.setAttribute('class', "name");
+            nameDiv.innerHTML = name;
+            a.appendChild(nameDiv);
+            item.appendChild(a);
+            let results = document.getElementById("results");
+            results.appendChild(item);
+        }
+
+        // swipe
+        
         const types = ['birds', 'animals', 'plants', 'herps', 'insects', 'trees']
 
         document.addEventListener('touchstart', handleTouchStart, false);
