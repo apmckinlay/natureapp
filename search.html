@@ -13,23 +13,7 @@ help_section: "search"
             font-size: 80%;
             font-style: italic;
         }
-        .hidden {
-            display: none;
-        }
-        .term {
-            color: #666;
-            cursor: pointer;
-            border: 1px solid white;
-            border-radius: .5em;
-            padding: .2em;
-            margin: .1em;
-            line-height: 200%;
-        }
-       .hidden:checked + .term  {
-            color: black;
-            background-color: white;
-        }
-        .close-icon {
+        .reset-icon {
             display: inline-block;
             width: 1em;
             height: 1em;
@@ -44,9 +28,6 @@ help_section: "search"
             font-size: 2em;
             color: #888;
             cursor: pointer;
-        }
-        .list {
-            margin-top: 0;
         }
         #bottom {
             text-align: center;
@@ -80,7 +61,7 @@ help_section: "search"
                 style="width: 1.7em; height: 1.7em; vertical-align: text-bottom;
                     padding-left: .5em; padding-right: .5em; cursor: pointer;"
                 onclick="search()" />
-             <span class="close-icon" onclick="reset()">x</span>
+             <span class="reset-icon" onclick="reset()">x</span>
         </div>
         <div style="margin-top: .3em;">
             <input type="checkbox" onchange="search()" class="hidden" id="_bc">

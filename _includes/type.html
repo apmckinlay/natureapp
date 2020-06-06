@@ -3,27 +3,6 @@
 
 <head lang="en">
     {{> head.html }}
-    <style>
-        .hidden {
-            display: none;
-        }
-        .term {
-            color: #666;
-            cursor: pointer;
-            border: 1px solid white;
-            border-radius: .5em;
-            padding: .2em;
-            margin: .1em;
-            line-height: 200%;
-        }
-        .hidden:checked+.term {
-            color: black;
-            background-color: white;
-        }
-        .list {
-            margin-top: .5vw;
-        }
-    </style>
 </head>
 
 <body onLoad="filter()">
