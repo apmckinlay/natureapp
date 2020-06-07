@@ -9,7 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high
 aka: ["Shadfly", "Fishfly"]
-keywords: ["fly", "insect"]
+keywords: [fly, insect]
 ---
 Mayfly are small, soft-bodied insects with large **triangular forewings** and a long, thin body (up to 1 in) ending in 2 or 3 **hairlike tails**. They can be found near streams, rivers, pond, and lakes across North America.
 

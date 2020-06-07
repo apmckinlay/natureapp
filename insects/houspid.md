@@ -7,7 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [urban]
-keywords: ["spider"]
+keywords: [spider]
 ---
 Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. House Spiders are the ones you are most likely to find **inside your house**. They are brown with patterned markings with a .25 in body and 1 in across with legs outspread. Their **first pair of legs** is almost 3 times as long as their body.
 

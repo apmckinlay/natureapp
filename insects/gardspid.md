@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
-keywords: ["spider"]
+keywords: [spider]
 ---
 Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. Garden Spiders have **colorful abdomens**. The **Yellow and Black Garden Spider** has a bold yellow and black pattern on its abdomen, while the **Banded Garden Spider** has striped legs. The females (.75-1.1 in long) are up to 3 times larger than the males.
 

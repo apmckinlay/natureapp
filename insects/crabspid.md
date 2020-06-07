@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
-keywords: ["spider"]
+keywords: [spider]
 ---
 Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. Like their namesake, Crab Spiders have wide, flat **bodies**. The two sets of front **legs** are longer than the back legs and remain outstretched, ready to snap up prey. They usually walk sideways or backwards and just use their back legs to move.
 
