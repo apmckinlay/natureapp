@@ -7,7 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab,sk,mb]
 habitat: [desert,forest,grassland,mountain,ocean,urban,wetland]
-keyword: ["spider"]
+keywords: ["spider"]
 ---
 Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. Wolf Spider are **large** (up to 1.2 in) and dark brown with **thick, striped legs**. They have **8 eyes** - 4 in a row on the bottom, two large eyes above, and two medium-sized eyes off to the sides on the top of their head.
 
