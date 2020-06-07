@@ -7,6 +7,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 aka: ["Maple Bug"]
+keyword: ["box elder"]
 ---
 Adult Boxelder Bugs are long (.5 in), **flat** insects with **red markings** on their dark back and wings. Young nymphs are bright red and wingless but develop black markings as they go through 5 molts. The red markings may be designed to discourage predators, letting birds or larger insects know that the bugs don't taste good.
 
