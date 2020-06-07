@@ -11,7 +11,7 @@ visibility: low
 ---
 Long-toed Salamander have a **long fourth toe** on their **hind feet**. They have dark-gray to black, **wet-looking skin** with a **patchy yellow stripe** running down their **back**. They are 3-7 in long with **large bulging eyes** and a **blunt nose** and can be found from the Alaska Panhandle south through Oregon and east to Idaho and Montana.
 
-Long-toed Salamander are **nocturnal** and spend most of their time underground, often in rodent burrows. The easiest time to spot them is during breeding season. They prefer **valley bottoms** and **moist forests** not far from water. They lay their eggs before the ice has disappeared in large, shallow lakes and ponds with boggy edges.
+Long-toed Salamander are **nocturnal** and spend most of their time underground, often in rodent burrows. The easiest time to spot them is during the spring breeding season when they come out to mate and lay their eggs. They prefer **valley bottoms** and **moist forests** not far from water. They lay their eggs before the ice has disappeared in large, shallow lakes and ponds with boggy edges.
 
 Long-toed Salamander eat insects, tadpoles, worms, and beetles. In colder areas, they hibernate in groups underground during the winter.
 
