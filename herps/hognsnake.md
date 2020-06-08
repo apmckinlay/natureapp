@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [ab,sk,mb]
 habitat: [desert,forest,grassland]
 visibility: low
+keywords: [reptile]
 aka: ["Hog-nosed Snake"]
 ---
 Hognose Snake are **short** (2-4 ft) and **stout**. They have an **upturned, pointed snout** they use to dig in the sand. Their color and pattern are extremely variable.
