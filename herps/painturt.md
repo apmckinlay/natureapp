@@ -7,6 +7,7 @@ license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [urban,wetland]
+keywords: [reptile]
 visibility: high
 ---
 Painted Turtles are one of North America's most **common** turtles and can be found from **southern Canada to northern Mexico**. They have **red markings** on the edge of a **dark shell** (3.5-10 in long) and bright **yellow streaks** on their **head**, **neck**, **tail**, and **legs**.
