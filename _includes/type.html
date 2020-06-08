@@ -43,16 +43,24 @@
         <input type="checkbox" onchange="filter()" class="hidden" id="_wetland">
         <label class="term" for="_wetland">wetland</label>
     </div>
-    <div id="results" class="list">
+    <div class="list">
+        {{#items}}
+        <div class="item" id="{{data.page.fileSlug}}">
+            <a href="/{{page.fileSlug}}/{{data.page.fileSlug}}/">
+                <img class="small"
+                    src="/photos/{{page.fileSlug}}/small/{{data.page.fileSlug}}.jpg" />
+                <div class="name">{{data.name}}</div>
+            </a>
+        </div>
+        {{/items}}
     </div>
     <script>
         let items = [
-            {{#items}}["{{data.page.fileSlug}}", "{{data.name}}", "{{data.habitat}}", "{{data.location}}"],
+            {{#items}}["{{data.page.fileSlug}}", "{{data.habitat}}", "{{data.location}}"],
             {{/items}}];
         function filter() {
-            document.getElementById("results").innerHTML = "";
             let sel = getSel()
-            items.filter((it) => match(it, sel)).forEach(addItem);
+            items.forEach(it => showHide(it, match(it, sel)));
         }
         function getSel() {
             let habSel = [];
@@ -71,8 +79,8 @@
             return { "hab": habSel, "loc": locSel };
         }
         function match(it, sel) {
-            let habitats = it[2];
-            let locations = it[3];
+            let habitats = it[1];
+            let locations = it[2];
             return match1(habitats, sel.hab) && match1(locations, sel.loc);
         }
         function match1(set, sel) {
@@ -83,25 +91,9 @@
                     return true;
             return false;
         }
-        function addItem(it) {
+        function showHide(it, visible) {
             const id = it[0];
-            const name = it[1];
-            const dir = "{{page.fileSlug}}";
-            let item = document.createElement("div");
-            item.setAttribute('class', "item");
-            let a = document.createElement("a");
-            a.setAttribute('href', "/" + dir + "/" + id + "/");
-            let img = document.createElement("img");
-            img.setAttribute('src', "/photos/" + dir + "/small/" + id + ".jpg");
-            img.setAttribute('class', "small");
-            a.appendChild(img);
-            let nameDiv = document.createElement("div");
-            nameDiv.setAttribute('class', "name");
-            nameDiv.innerHTML = name;
-            a.appendChild(nameDiv);
-            item.appendChild(a);
-            let results = document.getElementById("results");
-            results.appendChild(item);
+            document.getElementById(id).style.display = (visible ? "block" : "none")
         }
 
         // swipe
