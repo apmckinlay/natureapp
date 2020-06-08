@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [forest,mountain,wetland]
+keywords: [amphibian]
 visibility: low
 ---
 Unlike other Salamanders, Rough-skinned Newt have **dry, bumpy skin**. They grow up to 8 in long and have a brown head and back and a **bright yellow** or **orange belly**.
