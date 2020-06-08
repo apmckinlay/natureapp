@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [forest,grassland,mountain]
+keywords: [reptile]
 visibility: low
 ---
 Rubber Boa have small, smooth scales giving them a **shiny, loose skin** that resembles rubber. They are **small** (1-2.5 ft) and **thick-bodied** with a light-brown back and a pale yellow belly. A **small cap** on the **blunt tail** makes it hard to distinguish head from tail.
