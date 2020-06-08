@@ -21,30 +21,31 @@ const FILES = [
 // NOTE: This is "install" of the service worker, not the app
 self.addEventListener('install', (evt) => {
     evt.waitUntil(
-        caches.open(CACHE_NAME).then((c) => {
-            return c.addAll(FILES);
-        })
+        caches.open(CACHE_NAME)
+            .then(cache => cache.addAll(FILES))
+            .then(() => self.skipWaiting()) // ???
     );
-    self.skipWaiting();
 });
 
 self.addEventListener('activate', (evt) => {
     evt.waitUntil(
-        caches.keys().then((keyList) => {
-            return Promise.all(keyList.map((key) => {
-                if (key !== CACHE_NAME) {
-                    return caches.delete(key);
-                }
-            }));
-        })
-    ); self.clients.claim();
+        caches.keys()
+            .then((keyList) => {
+                return Promise.all(keyList.map(key => {
+                    if (key !== CACHE_NAME)
+                        return caches.delete(key);
+                }));
+            })
+            .then(() => self.clients.claim()) // ???
+    );
 });
 
 self.addEventListener('fetch', (e) => {
     e.respondWith(
         // return from cache if present else fetch
-        caches.match(e.request, {ignoreSearch: true}).then((r) => {
-            return r || fetch(e.request)
-        })
+        caches.match(e.request, { ignoreSearch: true })
+            .then(r => {
+                return r || fetch(e.request)
+            })
     );
 });
