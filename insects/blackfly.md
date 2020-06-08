@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
+keywords: [fly]
 visibility: high
 ---
 Black Fly are one of the hazards of heading into **northern forests** and along cold running water as they **bite**. Most abundant from the **middle of Ma**y to **late June**, they can be found throughout northern Canada and the northern United States. Only the females bite, and they use the blood for egg development.
