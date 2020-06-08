@@ -67,7 +67,8 @@ prev: function() {
             <p style="text-align: right;"><b>{{.}}</b></p>
             {{/akas}}
             {{{ content }}}
-            <object class="extra" id="map" type="image/svg+xml" data="/images/map.svg"></object>
+            <object class="extra" id="map" type="image/svg+xml" 
+                data="/images/map.svg"></object>
             {{#hard}}
             <div class="popup_outer" onclick="toggle('hard_def')">
                 <img class="extra" src="/images/hard.svg" />
@@ -169,14 +170,14 @@ prev: function() {
         </div>
     </div>
     <script>
-        document.getElementById("map").addEventListener("load", function () {
-            let doc = this.getSVGDocument();
+        window.onload = function() {
+            let doc = document.getElementById("map").getSVGDocument();
             doc.querySelector("#Canada").setAttribute("fill", "#888")
             for (prov of "{{location}}".split(',')) {
                 let elem = doc.querySelector('#' + prov)
                 elem.setAttribute("fill", "green");
             }
-        });
+        }
         var clicked = null;
         var timer;
         function toggle(id) {
