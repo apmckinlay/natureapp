@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/3.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
+keywords: [tree]
 visibility: high
 ---
 Jack Pine (15-65 ft) is the most widely distributed tree in Canada and is also common in the northeastern United States. It grows well in poor soil and is often short, gnarled, and crooked when growing in shallow, rocky soil.
