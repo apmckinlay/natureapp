@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [forest,urban]
+keywords: [tree]
 visibility: high
 ---
 Pacific Dogwood is a showy tree very common along the Pacific coast of southern British Columbia, Washington, Oregon, and California. The Dogwood is covered with large greenish-white **flowers** (not really flowers but bracts) from **April** to **June**. The 4-6 petal-like bracts (1-3 in long) appear before the leaves. The tree may bloom again in late summer.
