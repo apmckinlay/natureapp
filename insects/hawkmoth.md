@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
+keywords: [butterfly]
 aka: ["Sphinx", "Clearwing", "Hornworm"]
 ---
 Hawk Moth fly and move like hummingbirds and can be seen hovering in front of a flower while they unfurl their long tongue and insert it in the flower to sip the nectar. They fly and feed at dusk or sometimes during the day. They are most active in **summer** when phlox, monarda (bee balm), honeysuckle, and verbena are in bloom.
