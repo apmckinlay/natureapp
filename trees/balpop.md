@@ -5,7 +5,7 @@ attr_link: "https://commons.wikimedia.org/wiki/File:Populus_balsamifera.jpg"
 license: "Public Domain"
 license_link: "https://commons.wikimedia.org/wiki/Public_domain"
 location: [bc,ab,sk,mb]
-habitat: [forest,wetland]
+habitat: [forest,wetland,urban]
 visibility: high
 aka: ["Black Poplar"]
 ---
