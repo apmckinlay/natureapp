@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/maryburns/4581485909"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
-habitat: [grassland]
+habitat: [grassland,urban]
 ---
 Bur Oak can be found farther north than any other American oak. It has a straight trunk and is often as wide as it is tall. It can grow up to 100 ft tall; however, northern and eastern trees are shorter and shrubbier than those in southern regions.
 
