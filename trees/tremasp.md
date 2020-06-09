@@ -6,6 +6,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
+keywords: [tree]
 visibility: high
 aka: ["Poplar", "Trembling Poplar", "Golden Aspen", "Mountain Aspen", "Quaking Aspen"]
 ---
