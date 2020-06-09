@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
+keywords: [butterfly]
 ---
 Every November, millions of Monarch Butterfly fly up to 5,000 km from southern Canada and the United States to their winter homes in Mexico's Sierra Madre mountains. A few will overwinter along the coast of California or the Gulf coast, but most will end up perched in clusters (to stay warm) on fir trees in Mexican forests.
 
