@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/3.0"
 location: [bc,ab,sk,mb]
 habitat: [forest]
+keywords: [shrub,berry]
 aka: ["Limber Honeysuckle", "Glaucous Honeysuckle"]
 ---
 Twining Honeysuckle is a climbing **vine** (3-9 ft) with pairs of leaves. The pairs of **leaves** join and form a cup around the stem.
