@@ -5,7 +5,7 @@ attr_link: "https://commons.wikimedia.org/wiki/File:Rhododendron_macrophyllum_48
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0"
 location: [bc]
-habitat: [forest,mountain]
+habitat: [forest,mountain,urban]
 visibility: high
 ---
 Pacific Rhododendron has thick, leathery evergreen **leaves** (3-8 in long). Clusters of pink bell-shaped **flowers** with wavy edges and 5 indentations bloom from **May** to **July**.
