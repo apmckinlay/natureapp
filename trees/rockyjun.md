@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk]
 habitat: [grassland,mountain]
+keywords: [tree]
 aka: ["Rocky Mountain Redcedar"]
 ---
 Rocky Mountain Juniper grows in the mountainous areas of western North America. It is a **small** tree (3-6 ft) with reddish-brown to gray **bark** that shreds as it ages. The **trunk** is often knotty and crooked. It doesn't tolerate shade and is found alone or in small clusters, often on dry, exposed sites. It has scale-like, overlapping **needles**.
