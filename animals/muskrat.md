@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/nature80020/29099233800"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [wetland]
+habitat: [wetland,urban]
 ---
 Muskrat can be found **swimming** in marshes, ponds, lakes, and rivers throughout North America. A large rodent (12 in body) with waterproof brown fur and a **narrow, pointed, leathery tail** (8-11 in), they live in large family groups, sheltering in bank burrows or constructed nests.
 
