@@ -6,6 +6,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [desert,grassland]
+keywords: [shrub]
 visibility: high
 ---
 Sagebrush is a woody **shrub** with hairy, silvery **leaves** that stay green all year round. It's normally 2-4 ft high but can be taller. It has a gray twisted **trunk** and branches with stringy, fragile **bark**. Small yellow **flowers** appear in late summer or early fall. It has a deep taproot that can gather water from far below the surface.
