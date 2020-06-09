@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,mountain]
+keywords: [tree]
 visibility: high
 ---
 There are various species of Spruce. They can be hard to tell apart, but they all share certain characteristics. This evergreen, 60-100 ft tall with a **cone-shaped silhouette**, prefers moist sites in forests and mountainous regions.
