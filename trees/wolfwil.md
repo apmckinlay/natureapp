@@ -6,6 +6,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
+keywords: [shrub]
 visibility: high
 aka: ["Silverberry"]
 ---
