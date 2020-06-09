@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/wildreturn/33741700644"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [forest,grassland]
+habitat: [forest,grassland,urban]
 ---
 Little Brown Bats have light brown **fur**, weigh less than half an ounce and have a wingspan of 8-11 in. They are abundant across North America although they're present in lesser numbers in the southern states.
 
