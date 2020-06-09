@@ -7,6 +7,7 @@ license: "public domain"
 license_link: "https://en.wikipedia.org/wiki/en:public_domain"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain,urban]
+keywords: [shrub,berry]
 visibility: high
 ---
 Chokecherry flowers from May to June with elongated clusters of small white **flowers** that resemble a bottlebrush. The shiny red to black **berries** ripen in late August.
