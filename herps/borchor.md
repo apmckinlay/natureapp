@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/stuartwildlife/4669446198/"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [wetland,grassland,forest]
+habitat: [wetland,grassland,forest,urban]
 keywords: [amphibian, frog]
 visibility: high
 ---
