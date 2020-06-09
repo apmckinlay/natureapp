@@ -6,6 +6,7 @@ license: "Public Domain"
 license_link: "https://commons.wikimedia.org/wiki/Public_domain"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland,urban]
+keywords: [tree]
 visibility: high
 aka: ["Black Poplar"]
 ---
