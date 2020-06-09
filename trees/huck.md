@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
+keywords: [shrub,berry]
 ---
 Huckleberry is a name given to various small shrubs bearing red, blue, or black **berries**. Huckleberry can be found in the forests and mountains of the Pacific Northwest and Alaska as well as the coastal plains of northeastern Canada and the United States.
 
