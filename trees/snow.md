@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
+keywords: [shrub,berry]
 visibility: high
 ---
 Snowberry has clusters of white, waxy **berries** that remain on the shrub and are easy to spot in winter. The **shrub** has multiple branches and is 2-6 ft tall. The opposite, oval **leaves** are up to 2 in long.
