@@ -7,6 +7,7 @@ license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab]
 habitat: [forest]
+keywords: [tree]
 visibility: high
 ---
 Western Redcedar is found along the coast from Alaska to California and in the western mountains. It's most commonly found in moist rainforests but can grow on dry or rocky slopes.
