@@ -6,6 +6,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
+keywords: [tree]
 visibility: high
 ---
 Birch (20-70 ft) has triangular green **leaves** with serrated edges that turn yellow and then fall in autumn. The **bark** on mature trees is white and peels in paper-like strips. Male and female **catkins** form in the spring.
