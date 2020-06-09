@@ -6,6 +6,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,wetland,urban]
+keywords: [tree]
 visibility: high
 ---
 Cottonwood is a large, fast-growing tree (up to 100 ft tall) that grows best in floodplains and beside lakes and rivers where there is plenty of water. Male and female **catkins** appear in early spring before the leaves. The tree releases so many fluffy white **seeds** in early summer that you may think it's snowing.
