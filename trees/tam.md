@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [mountain,wetland]
+keywords: [tree]
 aka: ["Eastern Larch"]
 ---
 Tamarack is found across Canada and in the northeastern United States. Unlike most conifers, its **needles** turn golden and drop in the fall, growing new greenish-blue needles every spring. The needles are 5-7 in long and grow in clusters of 15-25.
