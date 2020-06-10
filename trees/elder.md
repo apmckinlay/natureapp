@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: high
+keywords: [shrub,berry]
 aka: ["Elder"]
 ---
 Elderberry is 5-12 ft tall and wide with long **stems** arching out from the base. Large, flat-topped, umbrella-shaped clusters (10 in or more in diameter) of fragrant, white **flowers** appear from May to July followed in late summer or early fall by drooping clusters of dark purple to black **berries**. The **leaves** are composed of 5-11 leaflets up to 12 in long.

@@ -7,6 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
+keywords: [butterfly]
 visibility: low
 ---
 Compton Tortoiseshell butterflies (2-3 in wingspan) are found in the northern United States and across Canada south of the tundra. The upper surface of the **wings** is orange-brown with black spots and a thin black band with gold spots along the edges. The under surface is a light gray-brown with a dark border.

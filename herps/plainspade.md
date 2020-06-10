@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk,mb]
 habitat: [desert,grassland]
+keywords: [amphibian, frog]
 visibility: low
 ---
 Plains Spadefoot are toads with a **round body** (1.5-2.5 in), **short legs**, a **bony lump** between the **eyes**, and a **vertical pupil**. The skin is relatively smooth and moist. They are tan to dark brown with small orange/yellow spots and a white belly. They often have **4 white stripes** down their **back**.

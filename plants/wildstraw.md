@@ -7,6 +7,7 @@ license: "CC BY NC SA"
 license_link: "https://creativecommons.org/licenses/by-nc-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
+keywords: [berry]
 aka: ["Virginia Strawberry"]
 ---
 Wild Strawberry is better known for its tiny, very flavorful red **fruit** which ripen in early summer. The low-lying plant is only 4-7 in tall with clusters of 3 dark-green, serrated **leaflets**. The small white **flowers** have 5 petals around a centre of yellow stamens.

@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [forest]
+keywords: [shrub,berry]
 visibility: high
 ---
 Thimbleberry is a bushy **shrub** (1.5-5 ft tall) with large (4-11 in long and wide), 5-lobed **leaves**. Unlike Raspberry or Pacific [Blackberry](/trees/blackber/), it has no thorns.

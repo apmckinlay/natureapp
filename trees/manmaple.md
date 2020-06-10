@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [urban,wetland]
+keywords: [tree]
 visibility: high
 aka: ["Box Elder"]
 ---

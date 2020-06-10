@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest]
+keywords: [shrub]
 aka: ["Hazel"]
 ---
 Hazelnut is a bushy **multi-stemmed shrub** up to 12 ft tall. The dangling light brown **catkins** appear well before the leaves and release yellow pollen in early spring. Small tassels of red **flowers** also appear in the spring. The broad oval **leaves** (2-7.5 in long) come to a point and have jagged edges. The small **nuts** are enclosed in green wrappings and can be hard to spot beneath the leaves. They are often in clusters.

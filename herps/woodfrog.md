@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/42125434954"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
+keywords: [amphibian, frog]
 habitat: [forest,wetland]
 ---
 Wood Frog are **small** (1.5-3 in long), red or brown, with prominent **ridges** on their **back**, a **black mask** over the **eyes**, and a white belly. Some have a white stripe down their back. Wood Frog can change color very rapidly, turning dark when cold to absorb more heat.

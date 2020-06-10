@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
+keywords: [tree]
 visibility: high
 ---
 Peachleaf Willow is a **medium-sized** tree (35-40 ft), often growing in clumps, alongside streams and ponds in southern Canada from Quebec to British Columbia and south through most of the central and western United States. It usually has a single trunk. The **leaves** are long (2-5.5 in) and pointed, yellowish-green on top and whitish-green underneath. Male and female **catkins** dangle from the branches as leaves appear in early spring. Male flowers are longer and fall from the tree once they've released their pollen.

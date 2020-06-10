@@ -6,6 +6,7 @@ license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
+keywords: [shrub]
 aka: ["Bog Tea"]
 ---
 Labrador Tea is a low **evergreen** shrub with many erect branches and narrow leathery **leaves** turned under at the edges. The leaves have a pungent smell when crushed and a woolly mat of hair on the under surface. Labrador Tea can grow up to 3 ft tall but is often much shorter.

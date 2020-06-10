@@ -7,6 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab]
 habitat: [forest,grassland,mountain,wetland]
+keywords: [amphibian]
 visibility: low
 ---
 Long-toed Salamander have a **long fourth toe** on their **hind feet**. They have dark-gray to black, **wet-looking skin** with a **patchy yellow stripe** running down their **back**. They are 3-7 in long with **large bulging eyes** and a **blunt nose** and can be found from the Alaska Panhandle south through Oregon and east to Idaho and Montana.

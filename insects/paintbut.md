@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
+keywords: [butterfly]
 ---
 
 Painted Lady Butterfly prefer wide open areas such as **fields** and **meadows** but can live almost anywhere, including cities, swamps, deserts, and forests. The upper surface of their **wings** is orange-brown with a white bar on the front wings and 5 tiny black dots on the rear wings. The under surface of their wings has brown, black, and gray patterns with tiny dots. Their wingspan is 2-3 in.

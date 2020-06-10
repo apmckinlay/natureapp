@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [ab,sk,mb]
 habitat: [wetland]
+keywords: [reptile]
 visibility: low
 ---
 Snapping Turtle have a brown-to-black **flat** shell (8-19 in), a **big head** and **legs**, and a long tail with triangular spikes. They can be found in **shallow lakes** and **streams** in **southern Canada** from Alberta to Nova Scotia and in the **eastern** and **central United States**. In cold climates, they hibernate over the winter in muddy lake bottoms.

@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban,wetland]
+keywords: [butterfly]
 ---
 Great Spangled Fritillary are medium-sized (2-4 in wingspan) butterflies. The males are bright orange, while the females are yellow-brown. They have black markings on the upper surface of their wings and a wide, pale band and large silver spots on the lower surface.
 

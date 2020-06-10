@@ -7,6 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,mountain]
+keywords: [shrub,berry]
 visibility: high
 aka: ["Kinnikinnick", "Pinemat Manzanita"]
 ---

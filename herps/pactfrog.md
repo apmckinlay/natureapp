@@ -7,6 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc]
 habitat: [forest,grassland,wetland]
+keywords: [amphibian, frog]
 ---
 Pacific Tree Frog are **small** (1-2 in long) frogs with **long, slender legs**. They're usually brown or green, pale cream underneath, with a **dark stripe** from their **nose** across their **eye** to their **ear**. They have **round pads** on their **toes** to help them grip and climb.
 

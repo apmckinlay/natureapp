@@ -7,6 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
+keywords: [tree]
 ---
 Engelmann Spruce is a **high-altitude** tree native to the Coast and Rocky Mountains of British Columbia and Alberta south to Nevada, Utah, Colorado, Arizona, and New Mexico. It's a **straight** tree (80-195 ft tall) with a spire-like **crown**.
 

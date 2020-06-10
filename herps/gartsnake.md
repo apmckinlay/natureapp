@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban,wetland]
+keywords: [reptile]
 visibility: high
 ---
 Garter Snake are **long** (1.5-4.5 ft), **slender** snakes and usually have **3 stripes** on their **back**. There are, however, many regional variations in appearance. For example, **Terrestrial Garter Snake** (found in southern British Columbia, Alberta, and Saskatchewan and south to New Mexico) have a pale yellow stripe down their back and along each side.

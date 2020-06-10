@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban,wetland]
+keywords: [butterfly]
 ---
 Blue Azure Butterfly can be found in almost all parts of North America apart from the Arctic. There are many different species of these small butterflies (1-1.5 in) that can be found in **open woodlands**, **urban gardens** and **parks**, or **marshy areas**.
 

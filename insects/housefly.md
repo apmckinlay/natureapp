@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [desert,forest,grassland,mountain,urban,wetland]
+keywords: [fly]
 visibility: high
 ---
 If you spot a large black fly (.25 in long, .5 in wingspan), it is probably a House Fly. They can be **found around humans** on every continent and in every climate.  The large compound **eyes** almost touch in the male but are widely separated in the female.

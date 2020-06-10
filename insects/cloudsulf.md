@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
+keywords: [butterfly]
 ---
 Clouded Sulphur butterflies (1.5-2.5 inch wingspan) have light yellow **wings** with a black border on the upper side. The females' wings have yellow spots in the black border. There is also a greenish-white version. The underside usually has 2 silver spots circled in pink. They are one of the most common and widespread North American butterflies reaching their greatest numbers in **late summer** and **early fall**.
 

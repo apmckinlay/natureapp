@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,wetland]
+keywords: [fly]
 visibility: high
 ---
 Horse Fly are **larger** than a [House Fly](/insects/housefly/) (up to 1 in long) and dark-colored with clear **wings**. They have very large eyes that extend sideways. The females have a nasty bite.

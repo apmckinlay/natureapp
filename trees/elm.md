@@ -6,6 +6,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/4.0"
 location: [sk,mb]
 habitat: [forest,urban]
+keywords: [tree]
 visibility: high
 aka: ["White Elm"]
 ---

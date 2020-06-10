@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,sk]
 habitat: [desert,grassland]
+keywords: [reptile]
 visibility: low
 aka: ["Horned Toad", "Horny Toad"]
 ---

@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [mb]
 habitat: [wetland]
+keywords: [tree]
 visibility: high
 ---
 Black Willow is the largest native willow in North America (10-60 ft tall). It prefers moist sites, such as riverbanks, and tolerates seasonal flooding. It's a fast-growing tree with several trunks growing out from the root and an open crown.

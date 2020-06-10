@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
+keywords: [butterfly]
 visibility: high
 aka: ["Isabella Tiger Moth"]
 ---

@@ -6,7 +6,8 @@ attr_link: "https://www.flickr.com/photos/wanderin_weeta/3004455623"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [wetland]
+habitat: [wetland,urban]
+keywords: [shrub,berry]
 visibility: high
 ---
 Red Osier Dogwood is a many-branched **shrub** about 6 ft tall. Its **red** stems and branches are particularly noticeable in winter. Clusters of small white **flowers** can be seen in **June**, and they develop into white, waxy **berries** enjoyed by many different birds. The pointed oval leaves are 1-3 in long.

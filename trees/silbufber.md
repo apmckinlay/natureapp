@@ -7,6 +7,7 @@ license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
+keywords: [shrub,berry]
 visibility: high
 aka: ["Bull Berry", "Thorny Buffaloberry"]
 ---

@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,mountain,wetland]
+keywords: [amphibian, frog]
 visibility: high
 ---
 Northern Leopard Frog are found near **ponds** and **marshes** across Canada and in most parts of the United States. They can be found as far north as Great Slave Lake as well as in the mountains. They are also known as **Meadow** or **Grass Frog** because they sometimes hop up onto lawns and golf courses in the summer when they've finished breeding.

@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
+keywords: [butterfly]
 ---
 Tiger Swallowtail butterflies (2.5-3.5 in wingspan) are one of North America's most familiar butterflies. They have yellow **wings** with a black border and wide black stripes. They can be found in **open woodlands** or tundra areas with stunted trees from central Alaska east across Canada and the Great Lakes to northern New England.
 

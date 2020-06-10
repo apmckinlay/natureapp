@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
+keywords: [shrub,berry]
 visibility: high
 aka: ["Mahonia"]
 ---
