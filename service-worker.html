@@ -22,7 +22,18 @@ const FILES = [
 self.addEventListener('install', (evt) => {
     evt.waitUntil(
         caches.open(CACHE_NAME)
-            .then(cache => cache.addAll(FILES))
+            .then(cache =>
+                Promise.all(
+                    FILES.map(url => {
+                        // cache-bust using a random query string
+                        return fetch(`${url}?${Math.random()}`)
+                            .then(response => {
+                                if (!response.ok)
+                                    throw Error('Not ok ' + url);
+                                return cache.put(url, response);
+                            });
+                    })
+                ))
             .then(() => self.skipWaiting()) // ???
     );
 });
@@ -30,22 +41,19 @@ self.addEventListener('install', (evt) => {
 self.addEventListener('activate', (evt) => {
     evt.waitUntil(
         caches.keys()
-            .then((keyList) => {
-                return Promise.all(keyList.map(key => {
-                    if (key !== CACHE_NAME)
-                        return caches.delete(key);
-                }));
-            })
+            .then(keyList => Promise.all(keyList.map(key => {
+                if (key !== CACHE_NAME)
+                    return caches.delete(key);
+                }))
+            )
             .then(() => self.clients.claim()) // ???
     );
 });
 
-self.addEventListener('fetch', (e) => {
+self.addEventListener('fetch', e => {
     e.respondWith(
         // return from cache if present else fetch
         caches.match(e.request, { ignoreSearch: true })
-            .then(r => {
-                return r || fetch(e.request)
-            })
+            .then(r => r || fetch(e.request))
     );
 });
