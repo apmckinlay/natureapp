@@ -53,7 +53,9 @@ self.addEventListener('activate', (evt) => {
 self.addEventListener('fetch', e => {
     e.respondWith(
         // return from cache if present else fetch
-        caches.match(e.request, { ignoreSearch: true })
+        // WARNING: don't use ignoreSearch - extremely slow on Chrome
+        // https://stackoverflow.com/questions/41758252/service-worker-slow-response-times#41758253
+        caches.match(e.request)
             .then(r => r || fetch(e.request))
     );
 });
