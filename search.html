@@ -61,7 +61,8 @@ help_section: "search"
     <div style="margin-left: 3vw; margin-top: 3vw;">
         <label for="search"></label>
         <div style="position: relative;">
-            <input type="text" id="query" autofocus inputmode="search"
+            <!-- inputmode="search" on Android breaks Enter key -->
+            <input type="text" id="query" autofocus
                 placeholder="enter words to search for"
                 style="font-size: 150%; padding: .3em; width: 70%;">
             <img src="/images/search.svg"
