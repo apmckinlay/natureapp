@@ -1,11 +1,14 @@
 .PHONY: build server deploy links index files help
 
+all: links index files
+
 build:
 	rm -r _site
 	eleventy --quiet
 
 serve:
 	eleventy --serve --quiet
+	# firebase serve --only hosting --host 0.0.0.0
 
 deploy: links index files
 	firebase deploy
