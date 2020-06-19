@@ -3,7 +3,7 @@ title: "Help"
 description: "Find out more about the plants and animals around you"
 layout: "help.html"
 ---
-The Nature Companion website and app are designed to help you find out more about common plants and animals you’ll find in Canada’s four western provinces.
+The Nature Companion website and app are designed to help you find out more about common plants and animals in Canada’s four western provinces.
 
 From the home page, click on a category (e.g. Birds) to see an overview of the entries for that category. Click on an entry (e.g. Crow) to see a larger photograph and additional information.
 
@@ -25,22 +25,22 @@ You can narrow down the results by toggling the locations, habitats, and categor
 
 ### Installing
 
-Nature Companion can be accessed from your phone, tablet, laptop, or desktop computer. Once you have accessed it once across the internet, after that you should be able to access it even when you're offline. (Depending on your device, browser, and storage space.)
+Nature Companion can be accessed from your phone, tablet, laptop, or desktop computer. Once you have accessed it once across the internet, you should be able to access it even when you're offline (depending on your device, browser, and storage space).
 
-To make it easier to access, you can install Nature Companion on your phone or tablet by following the instructions below. (Note: You should be online when you install.)
+To make it easier to access, you can install Nature Companion on your phone or tablet by following the instructions below (Note: You should be online when you install).
 
 To uninstall, follow the usual process for uninstalling apps.
 
 #### Installing on iPhone / iPad
 
-Go to Nature Companion (https://naturecompanion.ca/) on your browser (Safari)
+Go to Nature Companion (https://naturecompanion.ca/) on your browser (Safari).
 
-Tap the <img src="/images/share.png" height="20px" /> share button (center bottom on an iPhone, top right on an iPad) and scroll down until you see Add to Home Screen. Choose it and then choose Add on the pop up.
+Tap the <img src="/images/share.png" height="20px" /> share button (center bottom on an iPhone, top right on an iPad) and scroll down until you see **Add to Home Screen**. Choose it and then choose **Add** on the pop-up.
 
-When using Nature Companion offline you may get a pop-up saying "Turn Off Airplane Mode or Use Wi-Fi to Access Data", but you can click OK and continue.
+When using Nature Companion offline you may get a pop-up saying **Turn Off Airplane Mode or Use Wi-Fi to Access Data**, but you can click **OK** and continue.
 
 #### Installing on Android
 
-Go to Nature Companion (https://naturecompanion.ca/) on your browser (Chrome)
+Go to Nature Companion (https://naturecompanion.ca/) on your browser (Chrome).
 
-Tap the three dots at the top right, choose Add to Home screen, and then choose Add on the pop up.
+Tap the three dots at the top right, choose **Add to Home Screen**, and then choose **Add** on the pop-up.
