@@ -1,6 +1,11 @@
 ---js
 {
-year: function () { return (new Date()).getFullYear() }
+year: function () { 
+    return (new Date()).getFullYear() 
+},
+built: function () {
+    return 'Updated ' + (new Date).toLocaleString('en-US', { hour12: false })
+}
 }
 ---
 <!doctype html>
@@ -26,7 +31,7 @@ year: function () { return (new Date()).getFullYear() }
     <div class="single">
         <div>
             {{{ content }}}
-            <hr />
+            <hr style="margin-top: 1em; margin-bottom: 1em;" />
             <p>Copyright &copy; 2016-{{year}} Andrew &amp; Penny McKinlay</p>
 
             <p>Contact <a href="mailto:naturecompanion@mail.com?Subject=NatureCompanion">naturecompanion@mail.com</a></p>
@@ -36,6 +41,8 @@ year: function () { return (new Date()).getFullYear() }
                     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
 
             <p>Ownership of photographs as per attribution.</p>
+            
+            <p>{{built}}</p>
         </div>
     </div>
 </body>
