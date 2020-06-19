@@ -13,7 +13,7 @@ Click on the icon at the top left of a page to go up a level, e.g. from an entry
 
 Click on the **X** at the top right to go back to the previous page.
 
-If you’re on a phone or tablet, you can swipe across the screen to move between categories or species.
+If you’re on a phone or tablet, you can swipe across the screen to move between categories or entries.
 
 ### Searching
 
@@ -33,7 +33,7 @@ To uninstall, follow the usual process for uninstalling apps.
 
 #### Installing on iPhone / iPad
 
-Go to Nature Companion (https://naturecompanion.ca/) on your browser (Safari).
+Go to Nature Companion (https://www.naturecompanion.ca/) on your browser (Safari).
 
 Tap the <img src="/images/share.png" height="20px" /> share button (center bottom on an iPhone, top right on an iPad) and scroll down until you see **Add to Home Screen**. Choose it and then choose **Add** on the pop-up.
 
@@ -41,6 +41,6 @@ When using Nature Companion offline you may get a pop-up saying **Turn Off Airpl
 
 #### Installing on Android
 
-Go to Nature Companion (https://naturecompanion.ca/) on your browser (Chrome).
+Go to Nature Companion (https://www.naturecompanion.ca/) on your browser (Chrome).
 
 Tap the three dots at the top right, choose **Add to Home Screen**, and then choose **Add** on the pop-up.
