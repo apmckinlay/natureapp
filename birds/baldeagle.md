@@ -12,7 +12,7 @@ Bald Eagle are **large** birds (2-3 ft, 5.5-7.5 ft wingspan) with a **white head
 
 You'll find Bald Eagle in **forested areas** **near coasts, rivers, and large lakes** where they make enormous nests out of sticks in large trees near the water. Their outstretched **wings** are **flat as a board** when they fly.
 
-Look for Bald Eagle in areas **where fish are plentiful**: near fish processing plants, spawning runs,  and below dams. They can be found **year-round** along the Atlantic coast from Alaska to northern California; the mountainous regions of Washington, Idaho, and Montana; around the Great Lakes; in the Mississippi river valley; and in Canada's Maritime provinces. Migratory birds spend their **summers** in Alaska and Canada and their **winters** in the United States.
+Look for Bald Eagle in areas **where fish are plentiful**: near fish processing plants, spawning runs,  and below dams. They can be found **year-round** along the Pacific coast from Alaska to northern California; the mountainous regions of Washington, Idaho, and Montana; around the Great Lakes; in the Mississippi river valley; and in Canada's Maritime provinces. Migratory birds spend their **summers** in Alaska and Canada and their **winters** in the United States.
 
 Bald Eagle often mate for life after an **aerial courtship display** in which they grasp talons in mid-air and plummet hundreds of feet.
 
