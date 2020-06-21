@@ -35,7 +35,9 @@ To uninstall, follow the usual process for uninstalling apps.
 
 Go to Nature Companion (https://www.naturecompanion.ca/) on your browser (Safari).
 
-Tap the <img src="/images/share.png" height="20px" /> share button (center bottom on an iPhone, top right on an iPad) and scroll down until you see **Add to Home Screen**. Choose it and then choose **Add** on the pop-up.
+Tap the share <img src="/images/share.png" height="20px" /> button (center bottom on an iPhone, top right on an iPad) and scroll down until you see **Add to Home Screen**. Choose it and then choose **Add** on the pop-up.
+
+If you don't see the **Add to Home Screen** option, but there is a Safari icon <img src="/images/safari.png" height="20px" /> next to the Share button that means you're not actually in Safari (e.g. you clicked on the link from your email program). Tap the Safari button first, that will take you to Safari where the Share menu should have the **Add to Home Screen** option.
 
 When using Nature Companion offline you may get a pop-up saying **Turn Off Airplane Mode or Use Wi-Fi to Access Data**, but you can click **OK** and continue.
 
