@@ -1,10 +1,10 @@
 ---
 name: "Sagebrush"
-attr: "Andrew McKinlay"
-attr_link: "https://www.flickr.com/photos/apmckinlay/29168347455"
+attr: "Brian Starzomski"
+attr_link: "https://www.inaturalist.org/photos/40343411"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
-location: [bc,ab]
+location: [bc,ab,sk,mb]
 habitat: [desert,grassland]
 keywords: [shrub]
 visibility: high

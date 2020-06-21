@@ -1,8 +1,8 @@
 ---
 name: "Rocky Mountain Juniper"
 group: "conifer"
-attr: "Andrew McKinlay"
-attr_link: "https://www.flickr.com/photos/apmckinlay/13073917735"
+attr: "Dick Cannings"
+attr_link: "https://www.inaturalist.org/photos/75603939"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk]
