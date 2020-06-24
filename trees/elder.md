@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/livenature/4654531348"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [forest]
+habitat: [forest, urban]
 visibility: high
 keywords: [shrub,berry]
 aka: ["Elder"]
