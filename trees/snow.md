@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/ndrwfgg/262863429"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [forest,grassland,mountain]
+habitat: [forest,grassland,mountain,urban]
 keywords: [shrub,berry]
 visibility: high
 ---
