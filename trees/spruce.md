@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/ubcpublicaffairs/29231618773"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [forest,mountain]
+habitat: [forest,mountain,urban]
 keywords: [tree]
 visibility: high
 ---
