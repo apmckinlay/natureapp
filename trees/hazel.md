@@ -6,7 +6,7 @@ attr_link: "https://www.inaturalist.org/photos/8950350"
 license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
-habitat: [forest]
+habitat: [forest,urban]
 keywords: [shrub]
 aka: ["Hazel"]
 ---
