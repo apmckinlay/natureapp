@@ -5,7 +5,7 @@ attr: "J. Maughn"
 attr_link: "https://www.flickr.com/photos/jmaughn/13004626434"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
-location: [ab,sk,mb]
+location: [bc,ab]
 habitat: [forest,mountain]
 keywords: [tree]
 visibility: high
