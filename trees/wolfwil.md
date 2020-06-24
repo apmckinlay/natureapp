@@ -5,7 +5,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/27276250015/"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [grassland]
+habitat: [grassland,urban]
 keywords: [shrub]
 visibility: high
 aka: ["Silverberry"]
