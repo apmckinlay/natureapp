@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/katerha/6212239030"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [mountain,wetland]
+habitat: [mountain,urban,wetland]
 keywords: [tree]
 aka: ["Eastern Larch"]
 ---
