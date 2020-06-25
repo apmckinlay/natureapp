@@ -1,24 +1,22 @@
 ---
-name: "Black Willow"
-group: "willow"
+name: "Willow"
 attr: "ecopunk"
 attr_link: "https://www.inaturalist.org/photos/57487138"
 license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
-location: [mb]
-habitat: [wetland]
-keywords: [tree]
+location: [bc,ab,sk,mb]
+habitat: [urban,wetland]
+keywords: [shrub,tree]
 visibility: high
 ---
-Black Willow is the largest native willow in North America (10-60 ft tall). It prefers moist sites, such as riverbanks, and tolerates seasonal flooding. It's a fast-growing tree with several trunks growing out from the root and an open crown.
+More than 100 species of Willow are native to North America. It has long, narrow **leaves** and thrives in moist soil. Male and female **catkins** dangle from the branches as leaves appear in early spring. Male flowers are longer and fall from the tree once they've released their pollen. Young **branches** are very flexible and can be used to make baskets, fences, or other objects.
 
-The **leaves** are long  (up to 5 in), narrow, green on both sides, and pointed at both ends. The dark gray-brown **bark** is deeply furrowed, while the **twigs** are light red and slender. Yellow-green **catkins** flower in March and April (later in northern areas).
+Willows can range in size from low shrubs to tall trees. **Black Willow** is the largest native willow in North America (10-60 ft tall). It is often found along riverbanks and tolerates seasonal flooding. It's a fast-growing tree with several trunks growing out from the root and an open crown. **Peachleaf Willow** is a medium-sized tree (35-40 ft), often growing in clumps, alongside streams and ponds in southern Canada from Quebec to British Columbia and south through most of the central and western United States. It usually has a single trunk.
 
-Black Willow can be found from New Brunswick to Manitoba and south to Florida and Texas.
+Rabbits, Moose, Deer (Mule Deer, White-tailed Deer), and Elk eat the bark, leaves, and twigs. Beavers enjoy eating willow twigs, and the flowers are a source of nectar and pollen for bees.
 
-[Peachleaf Willow](/trees/peachwil/), found from Quebec to British Columbia and south into the United States, is very similar to Black Willow. [Peachleaf Willow](/trees/peachwil/)'s leaves are slightly wider and whitish-green underneath. Its twigs are fairly flexible, while Black Willow's twigs snap easily.
+**Did you know?** Willow bark contains salicylic acid (Aspirin) and was used by Indigenous peoples in North America as a remedy for headache, fever, or sore throat.
 
-**Did you know?** More than 100 species of Willow are native to North America. The majority grow in moist soil and have flexible branches. Most are shrubs or dwarf trees.
 
 <!-- generated, do not edit -->
 **See Also:**
