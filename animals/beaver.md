@@ -10,7 +10,7 @@ habitat: [wetland,urban]
 ---
 North American Beaver can be found in **rivers** and **lakes** from Alaska south through Canada and in most of the United States. With a brown, furry body (15-27 in) and a **leathery paddle-shaped tail** (8-12 in), they are North America's largest rodent with large, strong teeth they use to fell trees.
 
-Beavers are clumsy on land but graceful and strong in water. Their hind feet are webbed and flaps over their nose and ears can be closed when they are underwater. They eat tree bark, particularly Aspen ([Trembling Aspen](/trees/tremasp/)), Poplar ([Balsam Poplar](/trees/balpop/)), Willow ([Black Willow](/trees/blackwil/), [Peachleaf Willow](/trees/peachwil/)), and [Birch](/trees/birch/). Northern Beavers store twigs underwater to eat during the winter when the lake or river is iced over.
+Beavers are clumsy on land but graceful and strong in water. Their hind feet are webbed and flaps over their nose and ears can be closed when they are underwater. They eat tree bark, particularly Aspen ([Trembling Aspen](/trees/tremasp/)), Poplar ([Balsam Poplar](/trees/balpop/)), [Willow](/trees/willow/), and [Birch](/trees/birch/). Northern Beavers store twigs underwater to eat during the winter when the lake or river is iced over.
 
 Beavers are talented engineers constructing dome-shaped **lodges** and **dams** from sticks and mud. They play an important role in conserving ponds and wetlands.
 

@@ -19,4 +19,4 @@ The plant is 12-40 in tall and **leaves** are composed of 11-19 long oval leafle
 <!-- generated, do not edit -->
 **See Also:**
 [Golden Bean](/plants/goldbean/),
-[Lupin](/plants/lupin/)
+[Lupine](/plants/lupin/)
