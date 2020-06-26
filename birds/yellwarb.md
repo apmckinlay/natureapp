@@ -10,7 +10,7 @@ habitat: [forest,wetland]
 ---
 Yellow Warbler are small (4.7-5.1 in), **yellow** birds with darker wings and tail. They are the only larger warbler with **yellow** (not white) **spots** on the **tail**. The **males** are a brighter yellow with reddish streaks on their chest.
 
-Yellow Warbler can often be heard singing from the tops of willows or other small trees along streams or in wetlands. They spend their **summers** in Alaska, all Canadian provinces and territories, and in all parts of the United States except for the southern Gulf states. They **winter** further south in Central America and northern South America.
+Yellow Warbler can often be heard singing from the tops of [Willows](/trees/willow/) or other small trees along streams or in wetlands. They spend their **summers** in Alaska, all Canadian provinces and territories, and in all parts of the United States except for the southern Gulf states. They **winter** further south in Central America and northern South America.
 
 **American Goldfinch** have shorter, thicker beaks and a more deeply notched tail. [Wilson's Warbler](/birds/wilswarb/) are smaller and have a black cap.
 
