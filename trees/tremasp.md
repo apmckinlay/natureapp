@@ -16,4 +16,6 @@ Trembling Aspen has greenish-white **bark** with dark ridges on older trees. It 
 
 Trembling Aspen is widely distributed throughout North America. It is found at higher altitudes in more southern areas and doesn't grow in the Gulf Coast states.
 
+Cottonwood and Balsam Poplar resemble Trembling Aspen as they are members of the same family. All of them release loose cottony seeds in late spring.  Both Cottonwood and Trembling Aspen have triangular or heart-shaped leaves, but Cottonwood is usually taller and its leaves are slightly serrated. Balsam Poplar has oval or spear-shaped leaves.
+
 **Did you know?** Trembling Aspen's roots send up shoots or suckers to form large stands of up to 100 acres of identical trees or clones. Individual trunks die, but the roots can live on for hundreds or even thousands of years.
