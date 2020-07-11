@@ -210,6 +210,8 @@ prev: function() {
             return false;
         }
 
+        // swipe (also in type.html)
+        
         document.addEventListener('touchstart', handleTouchStart, false);
         document.addEventListener('touchend', handleTouchEnd, false);
 
@@ -217,23 +219,23 @@ prev: function() {
         var yDown = null;
 
         function handleTouchStart(evt) {
-            xDown = event.changedTouches[0].screenX;
-            yDown = event.changedTouches[0].screenY;
+            xDown = event.changedTouches[0].clientX;
+            yDown = event.changedTouches[0].clientY;
         };
 
-        const X_THRESHOLD = window.screen.width * .25;
-        const Y_THRESHOLD = window.screen.height * .25;
+        const X_THRESHOLD = window.screen.width * .4;
+        const Y_THRESHOLD = window.screen.height * .2;
 
         function handleTouchEnd(evt) {
             if (!xDown || !yDown)
                 return;
 
-            var xUp = event.changedTouches[0].screenX;
-            var yUp = event.changedTouches[0].screenY;
+            var xUp = event.changedTouches[0].clientX;
+            var yUp = event.changedTouches[0].clientY;
 
             var xDiff = xDown - xUp;
             var yDiff = yDown - yUp;
-
+            
             if (Math.abs(xDiff) > X_THRESHOLD && Math.abs(yDiff) < Y_THRESHOLD)
                 window.location.href = 
                     '/{{section}}/' + (xDiff > 0 ? "{{next}}" : "{{prev}}") + '/';

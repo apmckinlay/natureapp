@@ -96,7 +96,7 @@
             document.getElementById(id).style.display = (visible ? "block" : "none")
         }
 
-        // swipe
+        // swipe (also in single.html)
         
         const types = ['birds', 'animals', 'plants', 'herps', 'insects', 'trees']
 
@@ -107,23 +107,24 @@
         var yDown = null;
 
         function handleTouchStart(evt) {
-            xDown = event.changedTouches[0].screenX;
-            yDown = event.changedTouches[0].screenY;
+            xDown = event.changedTouches[0].clientX;
+            yDown = event.changedTouches[0].clientY;
         };
 
-        const THRESHOLD = 130;
+        const X_THRESHOLD = window.screen.width * .4;
+        const Y_THRESHOLD = window.screen.height * .2;
 
         function handleTouchEnd(evt) {
             if (!xDown || !yDown)
                 return;
 
-            var xUp = event.changedTouches[0].screenX;
-            var yUp = event.changedTouches[0].screenY;
+            var xUp = event.changedTouches[0].clientX;
+            var yUp = event.changedTouches[0].clientY;
 
             var xDiff = xDown - xUp;
             var yDiff = yDown - yUp;
 
-            if (Math.abs(xDiff) > THRESHOLD && Math.abs(yDiff) < THRESHOLD) {
+            if (Math.abs(xDiff) > X_THRESHOLD && Math.abs(yDiff) < Y_THRESHOLD) {
                 let i = types.indexOf('{{page.fileSlug}}');
                 if (i != -1) {
                     if (xDiff > 0)
