@@ -17,4 +17,4 @@ Clusters of small white **flowers** appear at the tips of branches from May to J
 
 Labrador Tea bears some similarities to [Bog Rosemary](/plants/bogrose/), but [Bog Rosemary](/plants/bogrose/) leaves are very narrow with sharp points.
 
-**Did you know?** Labrador Tea was a popular hot drink among Indigenous peoples in North America.
+**Did you know?** Labrador Tea can often survive fire as its roots are buried deep in areas too wet to burn.
