@@ -5,10 +5,10 @@ attr: "Frank D. Lospalluto"
 attr_link: "https://www.flickr.com/photos/chloesview/27477633779"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
-location: [bc,ab,sk]
-habitat: [desert,grassland,urban]
+location: [bc,ab,sk,mb]
+habitat: [desert,grassland]
 ---
-Prairie Falcon can be seen **flying low** over western **deserts** and **grasslands** from southern British Columbia, Alberta, and Saskatchewan south to California, Arizona, and New Mexico. They've adapted well to human habitation and can often be found in cities or farm country in the winter. However, they avoid forested areas and coasts, nesting on ledges or crevices of cliffs.
+Prairie Falcon can be seen **flying low** over western **deserts** and **grasslands** from southern British Columbia, Alberta, Saskatchewan, and Manitoba south to California, Arizona, and New Mexico. They nest on ledges or crevices of cliffs and avoid forested areas and coasts.
 
 Prairie Falcon are **large** (15-18 in, 35-45 in wingspan) with a **light-brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
 
