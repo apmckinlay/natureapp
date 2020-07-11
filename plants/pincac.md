@@ -10,7 +10,7 @@ habitat: [desert,grassland]
 ---
 Pincushion Cactus is a **round** or cylindrical cactus with tiny hairlike **prickles** or **spines** at the top of each cone-like bump. There are over 400 different species of Pincushion Cactus, which are **usually small** (6-8 in) but can be up to 3 ft tall. There may be a single **stem** or a large cluster.
 
-Pincushion Cactus usually flowers shortly after it has rained. The **flowers** have daisy-like petals pointing upwards like a funnel and range in color from white to red and occasionally yellow. The **fruit** is typically small, red, and elongated like a tiny pepper.
+Pincushion Cactus usually flowers shortly after it has rained. The **flowers** have daisy-like petals pointing upwards like a funnel. They are often bright pink but can also range from white to red and occasionally yellow. The **fruit** is typically small, red, and elongated like a tiny pepper.
 
 Pincushion Cactus grows well in hot, dry, sandy, or rocky places from southern Alberta, Saskatchewan, and Manitoba to the southwestern United States.
 
