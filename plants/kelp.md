@@ -14,4 +14,4 @@ Kelp often grows in dense **kelp forests** that are home to over 800 marine anim
 
 **Giant Kelp** is the most common species of Kelp in southern California with blades (leaves) up to 200 ft long. The blades/leaves of **Bull Kelp** (northern California to Alaska) are attached to a gas-filled ball that floats on the surface of the water.
 
-**Did you know?** Kelp is edible and rich in iodine, calcium, and other minerals.
+**Did you know?** Kelp grows very quickly, forming methane when it rots, and large kelp farms have been suggested as a source of biofuel for renewable energy.
