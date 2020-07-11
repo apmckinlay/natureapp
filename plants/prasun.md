@@ -15,7 +15,7 @@ Prairie Sunflower is 1-3 ft high with many erect flower-bearing branches. It oft
 
 Prairie Sunflower is taller with larger flowers and more ray florets (petals) than [Black-eyed Susan](/plants/blackesus/).
 
-**Did you know?** Sunflower was a common crop of the Indigenous peoples of North America as early as 3000 BC in modern-day Arizona and New Mexico. The plants provided dye, flour, and oil.
+**Did you know?** Sunflower was a common crop of the Indigenous peoples of North America as early as 3000 BC in modern-day Arizona and New Mexico, providing cooking oil and yellow and purple dyes.
 
 <!-- generated, do not edit -->
 **See Also:**
