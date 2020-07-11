@@ -5,7 +5,7 @@ attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/48466696342"
 license: "CC BY NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
-location: [bc,ab,sk,mb]
+location: [ab,sk,mb]
 habitat: [grassland]
 visibility: high
 aka: ["White Wild Onion", "Pink Wild Onion"]
