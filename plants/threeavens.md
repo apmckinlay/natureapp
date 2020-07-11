@@ -7,6 +7,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
 visibility: high
+aka: ["Prairie Smoke", "Old Man's Whiskers"]
 ---
 Three-flowered Avens is a small **hairy** plant (4-16 in) with 3 nodding, reddish-pink, bell-like **flowers** on long stalks. Fern-like dark green **leaves** grow from the base of the plant.
 
