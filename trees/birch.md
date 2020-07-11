@@ -15,4 +15,4 @@ Birch is common in the temperate and boreal forests of Canada and the northern U
 
 **Paper/White Birch** is native to North America, while **Silver Birch** grows in Europe. **Bog (Swamp) Birch**, a shrub (3-13 ft tall), and **Water Birch** (25-40 ft tall) grow around bogs and wet areas over many parts of North America.
 
-**Did you know?** Birch trees can be tapped and their sap made into an edible syrup similar to maple syrup.
+**Did you know?** Birch bark can be used as paper or to make baskets and canoes.
