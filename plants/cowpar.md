@@ -12,6 +12,8 @@ Cow Parsnip is a tall plant (3-10 ft) with flat umbrella-shaped clusters of smal
 
 Cow Parsnip flowers from **June** to **August**. It grows best in **moist**, **shady areas** but can also grow in open woodlands and clearings. It can be found from Labrador to Alaska and south to Georgia, Indiana, Kansas, and New Mexico. It is very common in **Alaska**.
 
-Cow Parsnip can be mistaken for Hemlock, which is very poisonous. **Poison Hemlock** has fern-like leaves. **Water Hemlock** has small, oval leaflets with jagged edges. **Wild Parsnip** has a smooth stem with few hairs (1-2 in thick). Its sap increases skin sensitivity to sun and can result in rashes and blisters.
+Be careful not to brush up against Cow Parsnip as its sap increases skin sensitivity to sun and can result in rashes and blisters.
 
-**Did you know?** Cow Parsnip was a valuable food source for the Indigenous peoples of British Columbia. It is also known as Indian Celery and Wild Rhubarb.
+Cow Parsnip can be mistaken for Hemlock, which is very poisonous. **Poison Hemlock** has fern-like leaves. **Water Hemlock** has small, oval leaflets with jagged edges. **Wild Parsnip** has a smooth stem with few hairs (1-2 in thick).
+
+**Did you know?** The dry hollow stems can be used to make toy flutes and whistles.
