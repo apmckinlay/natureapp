@@ -15,4 +15,4 @@ The **pale-green upper portion** of the spike contains the male flowers and usua
 
 Cattails play an important role in purifying and removing pollutants from bodies of water. They also form an important habitat for birds, insects, amphibians, and fish.
 
-**Did you know?** Various parts of the Cattail are edible (rhizomes, corms, flowers, lower parts of leaves, pollen) and the fluffy seeds can be used as insulation in clothing, bedding, and life jackets.
+**Did you know?** The Indigenous peoples of North America wove Cattail leaves into mats, hats, and even capes. The fluffy seed heads were used to stuff mattresses or to absorb moisture in diapers.
