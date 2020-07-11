@@ -12,4 +12,4 @@ In early summer, Prickly Wild Rose shrubs (8 in-4ft) across North America are co
 
 The **Common Wild Rose** or **Wood Rose** is also native to North America, but it doesn't have prickly stems and is less common.
 
-**Did you know?** Rose hips are high in Vitamin C and make excellent jelly.
+**Did you know?** The strongly scented flowers attract birds and butterflies and are very popular with bees.
