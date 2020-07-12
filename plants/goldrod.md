@@ -22,5 +22,5 @@ Goldenrod grows across North America.
 [Camas](/plants/camas/),
 [False Solomon's Seal](/plants/falsesol/),
 [Fireweed](/plants/fireweed/),
-[Indian Paintbrush](/plants/indian/),
-[Purple Prairie Clover](/plants/pupclover/)
+[Purple Prairie Clover](/plants/pupclover/),
+[Red Paintbrush](/plants/redpaint/)

@@ -24,6 +24,7 @@ Red-tailed Hawk build **bulky stick nests**, usually in a tree or on a cliff led
 [Bald Eagle](/birds/baldeagle/),
 [Golden Eagle](/birds/goldeagl/),
 [Kestrel](/birds/kestrel/),
+[Merlin](/birds/merlin/),
 [Osprey](/birds/osprey/),
 [Peregrine Falcon](/birds/peregrine/),
 [Prairie Falcon](/birds/prafalc/),

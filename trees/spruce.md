@@ -18,7 +18,7 @@ Four-sided **needles** are arranged in a spiral around the stem. The needles are
 
 Spruce needles are shorter than **Pine** needles. **Fir** branches look flat as the needles grow out of two sides of the branch; Spruce needles grow on all sides of the branch.
 
-**Did you know?** The Indigenous peoples of North America used the strong, flexible roots to lace together the Birch bark in their canoes.
+**Did you know?** The Indigenous peoples of North America used the strong, flexible roots to lace together the [Birch](/trees/birch/) bark in their canoes.
 
 <!-- generated, do not edit -->
 **See Also:**

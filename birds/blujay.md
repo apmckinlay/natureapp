@@ -20,5 +20,5 @@ Blue Jay are forest birds, favoring **Oak** and **Beech** trees for their nuts. 
 
 <!-- generated, do not edit -->
 **See Also:**
-[Gray Jay](/birds/grayjay/),
+[Canada Jay](/birds/canjay/),
 [Steller's Jay](/birds/steljay/)

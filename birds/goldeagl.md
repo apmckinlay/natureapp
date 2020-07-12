@@ -21,6 +21,7 @@ Golden Eagle **usually nest on cliffs** but may nest in trees or on tall human-m
 **See Also:**
 [Bald Eagle](/birds/baldeagle/),
 [Kestrel](/birds/kestrel/),
+[Merlin](/birds/merlin/),
 [Osprey](/birds/osprey/),
 [Peregrine Falcon](/birds/peregrine/),
 [Prairie Falcon](/birds/prafalc/),

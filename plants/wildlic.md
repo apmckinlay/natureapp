@@ -14,7 +14,7 @@ Wild Licorice grows near water in moist, well-drained sites in grasslands and fo
 
 The plant is 12-40 in tall and **leaves** are composed of 11-19 long oval leaflets (1 in) on short branches. The flowers turn into oblong brown **seed pods** covered with long hooked prickles.
 
-**Did you know?** The hooked bristles on the seed pods catch and cling to animal fur and human clothing distributing the seeds to new areas. Ants are attracted to the seeds and also help in distributing them.
+**Did you know?** The hooked bristles on the seed pods catch and cling to animal fur and human clothing distributing the seeds to new areas. [Ants](/insects/ants/) are attracted to the seeds and also help in distributing them.
 
 <!-- generated, do not edit -->
 **See Also:**

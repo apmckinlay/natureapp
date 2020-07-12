@@ -26,5 +26,5 @@ The leaves of False Solomon's Seal resemble those of [Yellow Lady's Slipper](/pl
 [Camas](/plants/camas/),
 [Fireweed](/plants/fireweed/),
 [Goldenrod](/plants/goldrod/),
-[Indian Paintbrush](/plants/indian/),
-[Purple Prairie Clover](/plants/pupclover/)
+[Purple Prairie Clover](/plants/pupclover/),
+[Red Paintbrush](/plants/redpaint/)

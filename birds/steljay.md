@@ -20,4 +20,4 @@ Steller's Jay live in flocks except when nesting. They can be seen hopping on th
 <!-- generated, do not edit -->
 **See Also:**
 [Blue Jay](/birds/blujay/),
-[Gray Jay](/birds/grayjay/)
+[Canada Jay](/birds/canjay/)

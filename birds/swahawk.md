@@ -23,6 +23,7 @@ Swainson's Hawk are slimmer and longer-winged than other hawks. [Red-tailed Hawk
 [Bald Eagle](/birds/baldeagle/),
 [Golden Eagle](/birds/goldeagl/),
 [Kestrel](/birds/kestrel/),
+[Merlin](/birds/merlin/),
 [Osprey](/birds/osprey/),
 [Peregrine Falcon](/birds/peregrine/),
 [Prairie Falcon](/birds/prafalc/),

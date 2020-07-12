@@ -15,7 +15,7 @@ The bluish-purple **flowers** (.75 in across) have purple streaks on the 3 lower
 
 [Northern Bog Violet](/plants/norbvio/) is taller with larger leaves and grows in moist areas (beside streams or ponds).
 
-**Did you know?** When the seeds are ripe, the seed pod splits open and the seeds spill out in all directions. The seeds make tasty snacks for Ants who carry them away to good growing areas.
+**Did you know?** When the seeds are ripe, the seed pod splits open and the seeds spill out in all directions. The seeds make tasty snacks for [Ants](/insects/ants/) who carry them away to good growing areas.
 
 <!-- generated, do not edit -->
 **See Also:**
