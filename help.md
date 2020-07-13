@@ -50,3 +50,38 @@ When using Nature Companion offline you may get a pop-up saying **Turn Off Airpl
 Go to the main page of Nature Companion (https://www.naturecompanion.ca/) on your browser (Chrome).
 
 Tap the three dots at the top right, choose **Add to Home Screen**, and then choose **Add** on the pop-up.
+
+#### Additional Resources
+
+iNaturalist (data sharing) - https://inaturalist.ca
+
+Seek by iNaturalist (image recognition) - https://www.inaturalist.org/pages/seek_app  
+
+All About Birds, The Cornell Lab of Ornithology - https://www.birds.cornell.edu/home/ 
+
+iBird Canada - http://ibird.com/app/iphone/ibird-canada-guide-to-birds/ 
+
+Tree Book, Learning to Recognize Trees of British Columbia - https://www.for.gov.bc.ca/hfd/library/documents/treebook/treebook.pdf 
+
+Amphibians and Reptiles of Canada, Canadian Herpetological Society - http://canadianherpetology.ca/species/index.html 
+
+PlantWatch - https://www.naturewatch.ca/plantwatch/how-to-guide/plant-descriptions/ 
+
+Hinterland Who’s Who (Canadian wildlife) - https://www.hww.ca/en/wildlife 
+
+Butterfly Guide, Nature Conservancy of Canada - https://www.natureconservancy.ca/en/what-you-can-do/butterfly-guide.html 
+
+Insect Identification - https://www.insectidentification.org/ 
+
+US Department of Agriculture Plants Database - https://plants.sc.egov.usda.gov
+
+#### Leave No Trace Principles
+
+Respect wildlife from a distance.
+
+Collect photos and memories, not objects.
+
+Let nature’s sounds prevail.
+
+Pack it in, pack it out. (https://www.leavenotrace.ca/principles)
+
