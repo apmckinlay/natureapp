@@ -63,13 +63,12 @@ html, body {
 
 .header-left {
     display: flex;
-    align-items: center;
 }
 
 #title {
     margin-top: 3vmin;
-    max-height: 12vmin;
-    max-width: 57vw;
+    max-height: 10vmin;
+    max-width: 60vmin;
     flex: 1 1 auto;
 }
 
@@ -145,6 +144,8 @@ html, body {
 .icon {
     display: block;
     max-height: 28vh;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .label {
