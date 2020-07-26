@@ -1,5 +1,6 @@
 ---
 name: "Red-winged Blackbird"
+group: "blackbird"
 attr: "Andrew McKinlay "
 attr_link: "https://www.flickr.com/photos/apmckinlay/27811886876/"
 license: "CC BY-NC"
@@ -13,6 +14,8 @@ Red-winged Blackbird (7-9 in) are one of the most abundant birds in North Americ
 **Males** are glossy black with **red and yellow shoulder patches**. **Females** are streaky-brown with a **white stripe over the eye** and an **orange patch** on the **upper chest**. They eat **insects** in summer and **seeds** in winter.
 
 Males perch on high stalks or telephone wires, singing to defend their territory and attract mates. They spend up to 1/4 of daylight hours chasing away rivals and predators, including animals much larger than themselves. Nests are placed low among marsh vegetation.
+
+Yellow-headed Blackbird are larger than Red-winged Blackbird and often nest in the same areas. As the larger, dominant bird, the Yellow-headed Blackbird will take the prime nesting spots in the centre of the wetland, forcing the Red-winged Blackbird to nest around the periphery.
 
 Male **Tricolored Blackbird** (California) have shinier feathers and shoulder patches outlined in white.
 
