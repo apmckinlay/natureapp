@@ -14,6 +14,6 @@ Western Meadowlark spend their **summers** in the open grasslands and fields of 
 
 Western Meadowlark forage on the **ground** for **insects** and **seeds**. They require some cover to shield their nests so numbers have declined in intensive agricultural areas. Males sit on **fence posts** and other high points and **sing** to defend their breeding territory in **spring** and **summer**.
 
-**Eastern Meadowlark** look very similar but have a different song and call. It can be hard to tell the two varieties apart in the midwest and south where their ranges overlap. Female **Yellow-headed Blackbird** have more yellow on the head and a darker body.
+**Eastern Meadowlark** look very similar but have a different song and call. It can be hard to tell the two varieties apart in the midwest and south where their ranges overlap. Female [Yellow-headed Blackbird](/birds/yellhead/) have more yellow on the head and a darker body.
 
 **Did you know?** Male Western Meadowlark usually have two mates at the same time, bringing food to both nests once the chicks have hatched.
