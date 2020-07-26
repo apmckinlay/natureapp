@@ -5,5 +5,6 @@
     ],
     "date": "2019-01-01",
     "layout": "single.html",
-    "section": "birds"
+    "section": "birds",
+    "section-title": "Birds"
 }
