@@ -13,7 +13,7 @@ If you spot a butterfly in **early spring**, even before the snow has melted, it
 
 Mourning Cloak Butterfly overwinter as adults in tree cavities, under bark, or in unheated buildings. Once they come out of hibernation, the males perch in a sunny spot and wait for a female to flutter by so that they can mate. They die soon after the eggs are laid.
 
-Mourning Cloak **caterpillars** are black with white specks and a row of red dots and several rows of black spines along their back. They eat the leaves of a wide variety of trees and shrubs, including [Willow](/trees/willow/), Poplar ([Balsam Poplar](/trees/balpop/), [Cottonwood](/trees/cotton/), [Trembling Aspen](/trees/tremasp/)), and [Elm](/trees/elm/). The butterflies eat tree sap and decaying fruit.
+Mourning Cloak **caterpillars** are black with white specks and a row of red dots and several rows of black spines along their back. They eat the leaves of a wide variety of trees and shrubs, including [Willow](/trees/willow/), [Balsam Poplar](/trees/balpop/), [Cottonwood](/trees/cotton/), [Aspen](/trees/aspen/), and [Elm](/trees/elm/). The butterflies eat tree sap and decaying fruit.
 
 Mourning Cloak butterflies can be found throughout North America although they are rare in the Gulf states and peninsular Florida. They can often be found among the **trees along a river**.
 

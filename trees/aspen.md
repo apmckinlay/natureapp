@@ -15,7 +15,7 @@ Aspen is widely distributed throughout North America, preferring cold regions wi
 
 **Bigtooth Aspen** (also known as **Large-toothed Aspen**) can be found in British Columbia and throughout eastern North America from Manitoba south to the Atlantic coast and as far south as Tennessee and North Carolina. Like Trembling Aspen, its leaves flutter in the wind, but the **leaves** are more egg-shaped with large, blunt teeth. Bigtooth Aspen sends up root suckers, but its colonies are much smaller than those of Trembling Aspen. Its **bark** is a darker colour and the leaves can take on an orange-red tinge in the fall.
 
-Aspen leaves and flower buds are an important source of food for Ruffed Grouse, while Deer (Mule Deer, White-tailed Deer) and Moose enjoy munching on the suckers. Beaver eat all parts of the tree.
+Aspen leaves and flower buds are an important source of food for [Ruffed Grouse](/birds/rufgrouse/), while Deer ([Mule Deer](/animals/muledeer/), [White-tailed Deer](/animals/whtdeer/)) and [Moose](/animals/moose/) enjoy munching on the suckers. [Beaver](/animals/beaver/) eat all parts of the tree.
 
 [Cottonwood](/trees/cotton/) and [Balsam Poplar](/trees/balpop/) resemble Aspen as they are members of the same family. All of them release loose cottony seeds in late spring.  Both [Cottonwood](/trees/cotton/) and Trembling Aspen have triangular or heart-shaped leaves, but [Cottonwood](/trees/cotton/) is usually taller and its leaves are slightly serrated. [Balsam Poplar](/trees/balpop/) has oval or spear-shaped leaves.
 
