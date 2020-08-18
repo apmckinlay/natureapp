@@ -15,7 +15,7 @@ Ruby-throated Hummingbird live in **woodland** areas as well as **urban gardens*
 
 Ruby-throated Hummingbird beat their wings 53 times a second. They can hover in place and change direction extremely fast.
 
-Male [Anna's Hummingbird](/birds/annas/) have glittering red foreheads as well as throats. Male **Black-chinned Hummingbird** have a black chin with a purple strip at the base, while the females have longer wings that reach the tip of their tails.
+**Could it be?** Male [Anna's Hummingbird](/birds/annas/) have glittering red foreheads as well as throats. Male **Black-chinned Hummingbird** have a black chin with a purple strip at the base, while the females have longer wings that reach the tip of their tail.
 
 **Did you know?** Ruby-throated Hummingbird have very short legs and can neither hop nor walk, although they can shuffle sideways when perched.
 
