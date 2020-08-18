@@ -16,7 +16,9 @@ Painted Turtle live in slow-moving, shallow water, such as **ponds** or **marshe
 
 The females dig holes on land to lay their eggs. The young hatch in the fall, although in northern regions they overwinter in the nest to emerge in the spring.
 
-Different sub-species of Painted Turtle have different markings on their lower shells. **Western Painted Turtle** are the most common and have bright red markings on their lower shell. **Red-eared Slider** are similar in appearance to the Painted Turtle but have a red patch on the sides of their head.
+Different sub-species of Painted Turtle have different markings on their lower shells. **Western Painted Turtle** are the most common and have bright red markings on their lower shell. 
+
+**Could it be?** **Red-eared Slider** are similar in appearance to the Painted Turtle but have a red patch on the sides of their head.
 
 **Did you know?** Painted Turtle use horny plates in place of teeth to grasp their food - aquatic plants, insects, small fish or snails, and dead animal matter.
 
