@@ -14,7 +14,7 @@ Marten are members of the weasel family. They are about the same **size** as a c
 
 Solitary inhabitants of the **northern evergreen forests** of Alaska and Canada as well as the **mountainous areas** of the northern United States, Marten are active in winter. They are good **climbers** and spend much of their time in **trees**. They often make their nest in a tree where 2-4 young are born in March or April.
 
-[Mink](/animals/mink/) are a similar size but spend most of their time in or near water. **Fisher** are twice the size of a Marten and don't usually have a chest patch.
+**Could it be?** [Mink](/animals/mink/) are a similar size but spend most of their time in or near water. **Fisher** are twice the size of a Marten and don't usually have a chest patch.
 
 **Did you know?** Marten have large foot pads that help them to walk on deep snow in winter. They also grow longer hair between their foot pads in winter, which helps to keep their feet warm.
 
