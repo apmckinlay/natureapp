@@ -15,7 +15,7 @@ Osprey are **brown above** and **white below** with a **white head** and a **bro
 
 Osprey build **large stick nests** near water on poles or dead trees. They lay 2-3 eggs per year. The first chick hatches almost 5 days before the last one and the mother stays with the young until they're ready to fly (50-55 days).
 
-[Bald Eagle](/birds/baldeagle/) frequent similar habitats, but they are larger, stockier, and don't have the Osprey's clean white underparts.
+**Could it be?** [Bald Eagle](/birds/baldeagle/) frequent similar habitats, but they are larger, stockier, and don't have the Osprey's clean white underparts.
 
 **Did you know?** Osprey have gripping pads on their feet to help them hold and carry fish for long distances. They are the only North American hawk to eat live fish.
 
