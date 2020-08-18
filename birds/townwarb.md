@@ -14,7 +14,7 @@ Townsend's Warbler spend their **summers** in the coniferous **forests** of the 
 
 Townsend's Warbler search for **insects** in the **tops of trees**. The **males** head north in late May and establish their territory by singing from the treetops.
 
-**Could it be?** **Black-throated Green Warblers** have a gray chest and only a small, pale gray patch around their eyes.
+**Could it be?** **Black-throated Green Warbler** have a gray chest and only a small, pale gray patch around their eyes.
 
 **Did you know?** Female Townsend's Warblers sometimes start a nest in one tree and then move all the materials to another tree to finish the nest there.
 
