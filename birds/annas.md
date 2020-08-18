@@ -12,7 +12,7 @@ Common along the **Pacific coast** from British Columbia to California as well a
 
 Anna's Hummingbird eat small **insects** and flowering **plant nectar** and are common in **urban** areas. When courting, the males climb up to 130 ft in the air, swooping to the ground with a burst of noise they produce with their wing feathers.
 
-Anna's Hummingbird are the largest, stockiest hummingbirds in their range. **Costa's Hummingbird** are smaller with shiny purple on the throat and sides of their short neck. **Black-chinned Hummingbird** are smaller and more slender. Their beak curves slightly downwards and males have a black band below their chin with a purple stripe below it.
+**Could it be?** Anna's Hummingbird are the largest, stockiest hummingbirds in their range. **Costa's Hummingbird** are smaller with shiny purple on the throat and sides of their short neck. **Black-chinned Hummingbird** are smaller and more slender. Their beak curves slightly downwards and males have a black band below their chin with a purple stripe below it.
 
 **Did you know?** Female Anna's Hummingbirds sit in the nest and build the rim up around themselves. The nest is made of plant down and small feathers held together with spider webs and insect cocoons.
 
