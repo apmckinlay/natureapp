@@ -12,7 +12,7 @@ Hoary Marmot live in the **mountains** at or above the **treeline**. They are la
 
 Hoary Marmot live in **colonies** with a dominant male, several breeding females, young, and sometimes a few subordinate males. They build a **burrow**, often under a boulder, with several chambers, tunnels, and multiple entrances. They are active during the day and eat grasses and plants. In most areas, they hibernate from September to April.
 
-Hoary Marmot are larger than [Yellow-bellied Marmot](/animals/yelbelmar/) and live at higher altitudes. [Pika](/animals/pika/) also live in the mountains above the treeline, but they are much smaller than Hoary Marmot.
+**Could it be?** Hoary Marmot are larger than [Yellow-bellied Marmot](/animals/yelbelmar/) and live at higher altitudes. [Pika](/animals/pika/) also live in the mountains above the treeline, but they are much smaller than Hoary Marmot.
 
 **Did you know?** Hoary Marmot are also known as Whistlers and Whistle Pigs because of the high-pitched sound they make to warn other marmots in their colony of predators.
 
