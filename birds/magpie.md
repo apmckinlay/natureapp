@@ -14,7 +14,9 @@ With a **loud voice**, a **long tail**, **black** head and back, **white** wing 
 
 Magpie live **year-round** in **northwestern Canada** and the **United State**s. You won't find them along the west coast, but you will find them in the interior of British Columbia, Washington, Oregon, and California.
 
-Black-billed (American) Magpie are almost identical to the **Eurasian Magpie**, one of the world's most intelligent animals. **Yellow-billed Magpie** are only found in California's central valleys and have a yellow beak.
+Black-billed (American) Magpie are almost identical to the **Eurasian Magpie**, one of the world's most intelligent animals. 
+
+**Could it be?** **Yellow-billed Magpie** are only found in California's central valleys and have a yellow beak.
 
 **Did you know?** Magpie build large domed nests to protect eggs and young from the weather. They are so well constructed they can last for many years.
 
