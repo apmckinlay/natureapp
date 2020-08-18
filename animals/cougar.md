@@ -16,7 +16,7 @@ Cougar have short red, gray, or brown **fur** with a white belly, chest and thro
 
 Cougar prefer isolated areas with dense cover where they can hide while hunting, but they can be found in most habitats. Their preferred prey are deer and elk although they will hunt smaller animals.
 
-Cougar are larger than both [Bobcat](/animals/bobcat/) and [Lynx](/animals/lynx/) and have a much longer tail.
+**Could it be?** Cougar are larger than both [Bobcat](/animals/bobcat/) and [Lynx](/animals/lynx/) and have a much longer tail.
 
 **Did you know?** Cougar can leap as high as 15 ft and as far as 40 ft. Their average sprinting speed is 35 miles per hour. They are also excellent swimmers and climbers.
 
