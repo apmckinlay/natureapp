@@ -15,7 +15,7 @@ Northern Flicker have a brown **body** with black markings, a black **bib**, and
 
 Northern Flicker are widespread throughout Canada and the United States. Northern birds migrate south for the **winter**. They're most commonly found in open woods, forest edges, or urban areas with lots of trees.
 
-**Red-bellied Woodpecker** are black and white with a red patch on their head and neck.
+**Could it be?** **Red-bellied Woodpecker** are black and white with a red patch on their head and neck.
 
 **Did you know?** Northern Flicker clean their feathers by taking dust baths or rubbing a crushed ant against their feathers (formic acid kills small parasites).
 
