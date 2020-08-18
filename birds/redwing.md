@@ -17,7 +17,7 @@ Males perch on high stalks or telephone wires, singing to defend their territory
 
 [Yellow-headed Blackbird](/birds/yellhead/) are larger than Red-winged Blackbird and often nest in the same areas. As the larger, dominant bird, the [Yellow-headed Blackbird](/birds/yellhead/) will take the prime nesting spots in the centre of the wetland, forcing the Red-winged Blackbird to nest around the periphery.
 
-Male **Tricolored Blackbird** (California) have shinier feathers and shoulder patches outlined in white.
+**Could it be?** Male **Tricolored Blackbird** (California) have shinier feathers and shoulder patches outlined in white.
 
 **Did you know?** Male Red-winged Blackbird have up to 15 mates.
 
