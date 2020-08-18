@@ -14,7 +14,7 @@ River Otter are equally at home on **land** or in the **water**. They eat fish a
 
 River Otter use or build dens near a riverbank. The young are usually born in March and April. They stay in family groups over the summer and early fall, emerging from the den at about 2 months.
 
-[Sea Otter](/animals/seaotter/) are larger (50-100 lbs), never leave the water, can float on their back, and don't have a long tail. [Harbor Seal](/animals/harbseal/) are longer and larger than River Otter and are almost always found in salt water.
+**Could it be?** [Sea Otter](/animals/seaotter/) are larger (50-100 lbs), never leave the water, can float on their back, and don't have a long tail. [Harbor Seal](/animals/harbseal/) are longer and larger than River Otter and are almost always found in salt water.
 
 **Did you know?** River Otter are very energetic and playful. A favorite game is sliding down a slippery slope into the water.
 
