@@ -13,6 +13,6 @@ Killdeer (8-11 in) have a **large round head** with **large eyes** and a short b
 
 Killdeer eat mostly **insects** and will follow a farmer's plow in search of worms.  Their nest is a shallow depression scratched into the bare ground (often a gravel road). They lead predators away from their nest by pretending to have a **broken wing**.
 
-**Juvenile** Killdeer with only one black breast band can be confused with **Wilson's** or **Semipalmated Plovers.**
+**Could it be?** **Juvenile** Killdeer with only one black breast band can be confused with **Wilson's** or **Semipalmated Plovers.**
 
 **Did you know?** In very hot climates adult Killdeer shade their eggs at midday and may soak their belly feathers to help cool the eggs.
