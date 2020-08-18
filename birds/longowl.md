@@ -15,7 +15,7 @@ They hunt in **open grasslands** at **night**, occasionally at dusk, **flying lo
 
 Long-eared Owl don't build their own nests. Instead, they use stick nests built by [Crow](/birds/crow/) and [Magpie](/birds/magpie/).
 
-[Great Horned Owl](/birds/grehowl/) are larger than the Long-eared Owl. Their ear tufts are shorter and point out at an angle rather than straight up and down.
+**Could it be?** [Great Horned Owl](/birds/grehowl/) are larger than the Long-eared Owl. Their ear tufts are shorter and point out at an angle rather than straight up and down.
 
 **Did you know?** If disturbed on their nest, Long-eared Owl raise their ear tufts and compress their feathers to disguise themselves as a broken branch.
 
