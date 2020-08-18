@@ -17,7 +17,7 @@ They have **silvery gray** feathers, a round head with a **large facial disc**, 
 
 Great Gray Owl hunt for rodents and other small mammals during the **day**. They prefer a mix of **dense forest** for nesting and roosting and **open areas** (meadows, clearings) for hunting.
 
-[Great Horned Owl](/birds/grehowl/) hunt at night and have earlike tufts on their head. [Northern Hawk Owl](/birds/norhowl/) are also found in northern boreal forests, but they have a long tail and short pointed wings. **Barred Owl** are smaller with dark eyes and no black-and-white throat markings.
+**Could it be?** [Great Horned Owl](/birds/grehowl/) hunt at night and have earlike tufts on their head. [Northern Hawk Owl](/birds/norhowl/) are also found in northern boreal forests, but they have a long tail and short pointed wings. **Barred Owl** are smaller with dark eyes and no black-and-white throat markings.
 
 **Did you know?** Great Gray Owl have very good hearing and can detect prey under 2 ft of snow thanks to the facial disc feathers that channel sound to the ears.
 
