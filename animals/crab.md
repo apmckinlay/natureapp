@@ -15,7 +15,7 @@ Crabs have a **flat body** with a thick **shell**, 2 feeler antennae, and 2 eyes
 
 Fertilized eggs are glued onto the female's abdomen and released as newly-hatched larvae. The juveniles moult several times as they grow and become adults.
 
-**Horseshoe Crab** are not a true Crab; instead, they are closely related to Spiders and Scorpions. **Porcelain Crab** look a lot like a Crab, but they only have 4 pairs of legs. They will shed a leg to escape from a predator.
+**Could it be?** **Horseshoe Crab** are not a true Crab; instead, they are closely related to Spiders and Scorpions. **Porcelain Crab** look a lot like a Crab, but they only have 4 pairs of legs. They will shed a leg to escape from a predator.
 
 **Did you know?** Crabs communicate with each other by drumming or waving their pincers.
 
