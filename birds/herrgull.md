@@ -17,7 +17,7 @@ Herring Gull are **large** birds (22-26 in long) with a **red spot** near the ti
 
 Herring Gull are loud and competitive scavengers, spending much of their time perched near food sources. They also eat large numbers of **aquatic** and **marine animals** and **berries**. They drop [Clams](/animals/clam/) and other shellfish on exposed rocks or parking lots in order to break the shells and get at the soft interior.
 
-[California Gull](/birds/calgull/) and [Ring-billed Gull](/birds/ringgull/) are much smaller. [Glaucous-winged Gull](/birds/glaugull/) have a stockier body, shorter wings, and a thicker bill.
+**Could it be?** [California Gull](/birds/calgull/) and [Ring-billed Gull](/birds/ringgull/) are much smaller. [Glaucous-winged Gull](/birds/glaugull/) have a stockier body, shorter wings, and a thicker bill.
 
 **Did you know?** If necessary, Herring Gull can drink seawater, excreting the salt through glands over the eyes.
 
