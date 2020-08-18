@@ -17,7 +17,7 @@ Sea Lion use their flippers to walk, climb, and swim. They can often be seen in 
 
 Sea Lion give birth to one pup a year between May and July. The pups are nursed by their mothers for 6-12 months.
 
-[Harbor Seal](/animals/harbseal/) are smaller, have shorter flippers, and no ear flaps. They are unable to support themselves on their flippers and inch forward on their bellies.
+**Could it be?** [Harbor Seal](/animals/harbseal/) are smaller, have shorter flippers, and no ear flaps. They are unable to support themselves on their flippers and inch forward on their bellies.
 
 **Did you know?** Sea Lion are very playful and have been known to “surf” breaking waves.
 
