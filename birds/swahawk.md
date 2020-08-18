@@ -14,7 +14,7 @@ Swainson's Hawk can vary in color, but they usually have a **dark breast**, a **
 
 They eat lots of large insects (grasshoppers, dragonflies), hence their alternate name of **[Grasshopper](/insects/grasshop/) Hawk**. They build their large, loose nests in treetops.
 
-Swainson's Hawk are slimmer and longer-winged than other hawks. [Red-tailed Hawk](/birds/redtail/) have shorter, wider wings without the light-dark contrast on the underside. **Ferruginous Hawk** have a light-coloured chest and abdomen and are entirely white under the wings. **Rough-legged Hawk** have a black-and-white tail pattern and feathery legs.
+**Could it be?** Swainson's Hawk are slimmer and longer-winged than other hawks. [Red-tailed Hawk](/birds/redtail/) have shorter, wider wings without the light-dark contrast on the underside. **Ferruginous Hawk** have a light-coloured chest and abdomen and are entirely white under the wings. **Rough-legged Hawk** have a black-and-white tail pattern and feathery legs.
 
 **Did you know?** Swainson's Hawks' long migration to Argentina can take up to two months. Their large migratory flocks number in the tens of thousands and they may travel for several days without feeding.
 
