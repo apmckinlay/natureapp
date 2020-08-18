@@ -14,7 +14,7 @@ Red Fox feed on small animals such as mice or rabbits in fall and winter, switch
 
 Red Fox normally sleep in the open but find a sheltered spot (burrow, cave, under a building) to raise their young. Litters of up to 10 kits are born in early spring. The kits are completely grown by fall when they leave their family to find their own territory.
 
-**Gray Fox** have shorter legs and a smaller snout than Red Fox as well as a dark stripe along the top of their tail. They can climb trees.
+**Could it be?** **Gray Fox** have shorter legs and a smaller snout than Red Fox as well as a dark stripe along the top of their tail. They can climb trees.
 
 **Did you know?** Red Fox continue hunting and gathering food even when they're not hungry, storing it for their next meal.
 
