@@ -13,7 +13,7 @@ Listen for the **haunting cry** of the Loon on quiet, forested northern lakes in
 
 The **monogamous** birds build nests in hidden spots along a lake. They are **strong swimmers** and **divers** but awkward on land, only going ashore to mate and incubate eggs.
 
-**Red-throated Loon** and **Pacific Loon** are smaller with a narrower bill and no obvious collar.
+**Could it be?** **Red-throated Loon** and **Pacific Loon** are smaller with a narrower bill and no obvious collar.
 
 **Did you know?** Loon parents and two chicks can eat half a ton of fish over a 15-week period.
 
