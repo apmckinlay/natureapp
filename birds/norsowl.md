@@ -15,7 +15,7 @@ Northern Saw-whet Owl are **forest** dwellers and can be found **year-round** in
 
 They hunt at **night** for rodents, especially **mice**. Listen for their **single shrill repeating call**.
 
-Northern Saw-whet Owl are smaller than **Boreal Owl** with streaks instead of spots on their forehead. **Screech Owl** are also small, but they have ear tufts.
+**Could it be?** Northern Saw-whet Owl are smaller than **Boreal Owl** with streaks instead of spots on their forehead. **Screech Owl** are also small, but they have ear tufts.
 
 **Did you know?** Young Northern Saw-whet Owl are very distinctive as they have a dark brown head, a white triangle on their forehead, and a rusty-colored breast.
 
