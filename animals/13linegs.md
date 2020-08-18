@@ -15,7 +15,7 @@ visibility: high
 
 13-lined Ground Squirrel are most active in **daytime** and can be spotted standing up on their haunches to view their surroundings. They use alarm calls to notify each other of danger.
 
-13-lined Ground Squirrel resemble __Chipmunk__, but Chipmunk have stripes on their head and body, longer faces, and internal cheek pouches they can stuff with seeds. [Richardson's Ground Squirrel](/animals/richgs/) (gophers) are larger and don't have stripes.
+**Could it be?** 13-lined Ground Squirrel resemble __Chipmunk__, but Chipmunk have stripes on their head and body, longer faces, and internal cheek pouches they can stuff with seeds. [Richardson's Ground Squirrel](/animals/richgs/) (gophers) are larger and don't have stripes.
 
 **Did you know?** In addition to the long, deep burrows they use for nesting and hibernation, 13-lined Ground Squirrel also dig short, dead-end tunnels where they can escape in an emergency.
 
