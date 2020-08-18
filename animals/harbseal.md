@@ -17,7 +17,7 @@ Harbor Seal mate from spring to early summer when they're 3-7 years old. The fem
 
 Male **Northern Elephant Seal**, true to their name, have a large nose. They are 10-13 ft long and weigh 1,500-4,500 lbs (females are much smaller than males). They come close to land in December to breed on offshore islands or on remote coastal beaches from Baja California to Alaska.
 
-[Sea Lion](/animals/sealion/) are larger and have longer flippers than Harbor Seal. [Sea Lion](/animals/sealion/) have ear flaps while Harbor Seal don't. They can support themselves on their flippers and walk, while Seal inch forward on their belly. [River Otter](/animals/rivotter/) are sometimes found in coastal areas. They have long, slim bodies and tails and are as adept on land as in the water.
+**Could it be?** [Sea Lion](/animals/sealion/) are larger and have longer flippers than Harbor Seal. [Sea Lion](/animals/sealion/) have ear flaps while Harbor Seal don't. They can support themselves on their flippers and walk, while Seal inch forward on their belly. [River Otter](/animals/rivotter/) are sometimes found in coastal areas. They have long, slim bodies and tails and are as adept on land as in the water.
 
 **Did you know?** Harbor Seal can swim right-side up or upside down at speeds of up to 12 mph. They can dive to depths of 300 ft and stay underwater for up to 30 minutes.
 
