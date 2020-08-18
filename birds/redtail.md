@@ -15,7 +15,7 @@ A **large** bird (18-26 in, wingspan of 45-52 in) with a **rusty-red tail**, Red
 
 Red-tailed Hawk build **bulky stick nests**, usually in a tree or on a cliff ledge. Their diet consists of small mammals, birds, and snakes.
 
-**Red-shouldered Hawk** are smaller with warm red markings on the breast. [Swainson's Hawk](/birds/swahawk/) have a dark chest and dark edges to their wings. [Turkey Vulture](/birds/turkvult/) can look similar from a distance but have longer, more rectangular wings, which they hold above the horizontal to form a V. They are less steady when soaring.
+**Could it be?** **Red-shouldered Hawk** are smaller with warm red markings on the breast. [Swainson's Hawk](/birds/swahawk/) have a dark chest and dark edges to their wings. [Turkey Vulture](/birds/turkvult/) can look similar from a distance but have longer, more rectangular wings, which they hold above the horizontal to form a V. They are less steady when soaring.
 
 **Did you know?** Birds are amazingly adapted for life in the air. Red-tailed Hawk are one of the largest North American birds, but they weigh at most 3 pounds. Dogs of a similar size weigh 10 times as much.
 
