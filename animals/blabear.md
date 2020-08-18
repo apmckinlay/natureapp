@@ -12,7 +12,7 @@ Black Bear are North America's **most common bear** and are found in every Canad
 
 Black Bear eat 80% plant matter supplemented by insects, animals, and fish. They're dormant in the winter in cooler climates but not in warmer climates or urban areas where there is a plentiful food supply all year round.
 
-Black Bear are 5-6 ft long and weigh 200-600 lbs. Their size and color (from white to brown to black) vary and are not a useful way of distinguishing Black Bear from [Grizzly Bear](/animals/grizzly/). Black Bear have larger, pointed ears and smaller claws than [Grizzly Bear](/animals/grizzly/). They don't have a shoulder hump, and in profile there is a straight line between their nose and their forehead.
+**Could it be?** Black Bear are 5-6 ft long and weigh 200-600 lbs. Their size and color (from white to brown to black) vary and are not a useful way of distinguishing Black Bear from [Grizzly Bear](/animals/grizzly/). Black Bear have larger, pointed ears and smaller claws than [Grizzly Bear](/animals/grizzly/). They don't have a shoulder hump, and in profile there is a straight line between their nose and their forehead.
 
 **Did you know?** Black Bear are good swimmers and climbers. They walk slowly but can run short distances at speeds of up to 25-30 miles per hour.
 
