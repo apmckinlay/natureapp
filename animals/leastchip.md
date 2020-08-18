@@ -13,7 +13,7 @@ Least Chipmunk are the **smallest** of all the chipmunks (8 in tall) with light 
 
 Least Chipmunk are active during the day, spending most of their time looking for food - nuts, berries, grasses, insects. They use their **cheek pouches** to carry food back to their underground burrows. During the winter, they drop into a deep sleep, waking up occasionally to eat some of their stored food. They play an important role in seed dispersal.
 
-[Red-tailed Chipmunk](/animals/retchip/) are more brightly colored and are found in the forests of the Rocky Mountains. [Yellow-pine Chipmunk](/animals/yelpchip/) are larger and darker than Least Chipmunk.
+**Could it be?** [Red-tailed Chipmunk](/animals/retchip/) are more brightly colored and are found in the forests of the Rocky Mountains. [Yellow-pine Chipmunk](/animals/yelpchip/) are larger and darker than Least Chipmunk.
 
 **Did you know?** Least Chipmunk are good climbers and may build nests high above the ground or climb up a tree in cooler weather to warm themselves in the sun.
 
