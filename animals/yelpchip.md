@@ -12,7 +12,7 @@ Yellow-pine Chipmunk are found in the mountainous regions of southwestern Canada
 
 Yellow-pine Chipmunk (7-9 in long) are brown to cinnamon in color with 5 dark stripes alternating with lighter stripes down their back. Their ears are white behind and black in front. They spend 4-5 months every winter underground or in rock crevices, waking from time to time to eat.
 
-**[Least Chipmunk](/animals/leastchip/)** are smaller and paler. **[Red-tailed Chipmunk](/animals/retchip/)** are more brightly colored.
+**Could it be?** **[Least Chipmunk](/animals/leastchip/)** are smaller and paler. **[Red-tailed Chipmunk](/animals/retchip/)** are more brightly colored.
 
 **Did you know?** Yellow-pine Chipmunk eat at least 59 different kinds of seeds, plants, and insects, as well as small mammals, bird eggs, roots, and bumble bees. They store up to 68,000 items to eat during the winter.
 
