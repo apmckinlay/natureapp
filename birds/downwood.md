@@ -12,7 +12,7 @@ Downy Woodpecker (5.5-6.5 in) are **North America's smallest woodpecker** and ar
 
 Downy Woodpecker are very active, **acrobatic** birds and will hang upside down to look for **insects**. You may hear their high-pitched call or the sound of them drumming on wood to hollow out a nest cavity. They join mixed flocks of birds in the winter.
 
-**Hairy Woodpecker** have similar markings but are much larger (7-10 in) and have a longer bill (almost as long as their head).
+**Could it be?** **Hairy Woodpecker** have similar markings but are much larger (7-10 in) and have a longer bill (almost as long as their head).
 
 **Did you know?** The woodpeckers' chisel-shaped beak is designed to dig holes in wood while their long barbed tongue can search crevices for food.
 
