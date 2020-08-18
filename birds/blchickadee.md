@@ -14,6 +14,6 @@ Black-capped Chickadee are very acrobatic and can often be seen clinging upside 
 
 Black-capped Chickadee can be found **year-round** in **Canada** and the **northern United States**.
 
-**Mountain Chickadee** are found in western mountain forests and have a white stripe over their eyes. **Brown-capped Boreal Chickadee** are found in Canada's northern boreal forests and have a brown cap and back. **Carolina Chickadee** are found in the southeastern United States and have less white edging on their wings and a longer song.
+**Could it be?** **Mountain Chickadee** are found in western mountain forests and have a white stripe over their eyes. **Brown-capped Boreal Chickadee** are found in Canada's northern boreal forests and have a brown cap and back. **Carolina Chickadee** are found in the southeastern United States and have less white edging on their wings and a longer song.
 
 **Did you know?** Each chickadee sleeps in its own individual hole in rotten tree trunks or stumps.
