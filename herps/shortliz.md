@@ -15,7 +15,7 @@ Short-horned Lizard are **small** (3.5-6 in), **flat**, and **round** with a **s
 
 Short-horned Lizards live on the **deserts** and **semi-arid plains** of the **western United States**. They are rare in Canada and are only found at a few spots in **Alberta** and **Saskatchewan**. They hide behind rocks and burrow in sandy soil. They eat ants, grasshoppers, beetles, and spiders and are active in the **daytime**. The females keep their eggs inside their bodies and give birth to live young.
 
-The **Mountain Short-horned Lizard** is reddish with prominent horizontal spines and ranges from southern Utah and western Colorado through Arizona and New Mexico with rare, localized populations in southeast Alberta.
+**Mountain Short-horned Lizard** are reddish with prominent horizontal spines and range from southern Utah and western Colorado through Arizona and New Mexico with rare, localized populations in southeast Alberta.
 
 **Did you know?** Short-horned Lizards inflate their body to twice its normal size and shoot blood from their eyes to try to ward off predators.
 
