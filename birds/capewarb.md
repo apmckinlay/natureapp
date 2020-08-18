@@ -15,7 +15,7 @@ This small songbird (4.5-5 in) spends its **summers** in the northern boreal for
 
 The Cape May Warblers' favourite northern food is the **[Spruce](/trees/spruce/) Budworm**, although they also eat other insects.
 
-[Yellow-rumped Warblers](/birds/yellrump/) have a long thin tail with bright yellow patches on face, sides, and rump.
+**Could it be?** [Yellow-rumped Warblers](/birds/yellrump/) have a long thin tail with bright yellow patches on face, sides, and rump.
 
 **Did you know?** Cape May Warbler have a curled, semitubular tongue that they use to collect flower nectar in the Caribbean during the winter.
 
