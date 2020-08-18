@@ -15,7 +15,7 @@ Ground Squirrel communicate through a variety of squeaks, chirps, and whistles. 
 
 Richardson's Ground Squirrel hibernate for 4-8 months of the year, depending on age and sex. You're most likely to spot  them in the spring when the young come above ground and all ages and sexes are active.
 
-__Prairie Dog__ are larger and have a shorter tail (compared to their body size).
+**Could it be?** __Prairie Dog__ are larger and have a shorter tail (compared to their body size).
 
 **Did you know?** Each adult female has her own tunnel where she raises her litter without help from the male.
 
