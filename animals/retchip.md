@@ -12,7 +12,7 @@ Red-tailed Chipmunk are **larger** (8-10 in long) and more **brightly colored** 
 
 Red-tailed Chipmunk are most abundant in **forest** openings or edges where there is lots of shrubby undergrowth. They collect fir seeds, fruit and seeds from bushes, and leaves and flowers, storing their food in underground holes. Once the hole is full, they cover it, and rake the soil over top of it.
 
-[Least Chipmunk](/animals/leastchip/) are smaller and not as brightly colored. [Yellow-pine Chipmunk](/animals/yelpchip/) are a little smaller and not as brightly colored.
+**Could it be?** [Least Chipmunk](/animals/leastchip/) are smaller and not as brightly colored. [Yellow-pine Chipmunk](/animals/yelpchip/) are a little smaller and not as brightly colored.
 
 **Did you know?** Red-tailed Chipmunk roll and rub themselves in the sand to clean their fur.
 
