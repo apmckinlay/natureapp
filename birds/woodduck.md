@@ -14,7 +14,7 @@ Wood Duck prefer areas with a mix of water and forest, such as woodland ponds or
 
 The birds pair up in late winter and begin breeding in early spring. They eat mostly plant materials.
 
-**Green-winged Teal** don't have bold white stripes. [Mallard](/birds/mallard/) have much paler sides and don't have the crest and white stripes.
+**Could it be?** **Green-winged Teal** don't have bold white stripes. [Mallard](/birds/mallard/) have much paler sides and don't have the crest and white stripes.
 
 **Did you know?** Wood Duck have strong claws that they use to grip bark and perch on branches. Very young ducklings must jump from high tree cavities to make their way to water.
 
