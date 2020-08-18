@@ -15,7 +15,7 @@ Sharp-shinned Hawk have a **dark gray back** and **head** and a **white breast w
 
 Sharp-shinned Hawk can be found **year-round** along the Pacific coast from Alaska to California, in the **forested** areas of the US Midwest, around the Great Lakes, and the northeastern United States. Others spend their **summers** in the dense, coniferous forests of Alaska, Canada and the northern plains of the United States, heading south to spend their **winters** in the United States.
 
-**Cooper's Hawk** are more common in urban areas and have a larger head that extends well beyond the bend in their wings when in flight. **[Merlin](/birds/merlin/)** have pointed wings, a shorter tail, and usually hunt in the open.
+**Could it be?** **Cooper's Hawk** are more common in urban areas and have a larger head that extends well beyond the bend in their wings when in flight. **[Merlin](/birds/merlin/)** have pointed wings, a shorter tail, and usually hunt in the open.
 
 **Did you know?** Small birds make up 90% of the Sharp-shinned Hawk's diet and are plucked before eating.
 
