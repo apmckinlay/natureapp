@@ -14,7 +14,7 @@ Common Merganser spend the **summer** breeding season on the **lakes** and **riv
 
 The birds often **nest** in hollow trees or cavities up to 100 feet off the ground and within a mile of water. An excellent diver, they feed primarily on small **fish** but also eat insects and small aquatic creatures.
 
-**Red-breasted Merganser** are smaller and prefer salt water; the males have reddish markings on their chest. **Hooded Merganser** are much smaller, although the fan-shaped crest makes their heads look very large.
+**Could it be?** **Red-breasted Merganser** are smaller and prefer salt water; the males have reddish markings on their chest. **Hooded Merganser** are much smaller, although the fan-shaped crest makes their heads look very large.
 
 **Did you know?** Common Merganser have serrated edges to their beaks that help them to hold onto fish.
 
