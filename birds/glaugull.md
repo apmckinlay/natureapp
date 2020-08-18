@@ -14,7 +14,7 @@ Gulls are long-winged, white birds with gray and black markings. It can be diffi
 
 Glaucous-winged Gull have **wing tips** that are only slightly darker than their gray back. They have **pink legs** and a **red spot** on a **yellow beak**.
 
-**Western Gull** have a darker back and wing tips and can be found from southern British Columbia to Baja. They hybridize with Glaucous-winged Gull in the northern end of their range so there are many intermediates.
+**Could it be?** **Western Gull** have a darker back and wing tips and can be found from southern British Columbia to Baja. They hybridize with Glaucous-winged Gull in the northern end of their range so there are many intermediates.
 
 **Did you know?** Glaucous-winged Gull eat a variety of food, including live Pigeons and Rabbits.
 
