@@ -14,7 +14,7 @@ Muskrat have large, hairy hind feet that act like paddles when swimming. They ea
 
 Muskrat are most active at dusk and at night. A favorite location is **marshes** with a constant water level and lots of vegetation for eating and nest construction.
 
-Muskrat are smaller than [Beaver](/animals/beaver/) with a much thinner tail.
+**Could it be?** Muskrat are smaller than [Beaver](/animals/beaver/) with a much thinner tail.
 
 **Did you know?** Muskrat are excellent swimmers, moving as fast as 3 miles per hour. They can even swim backwards and can stay underwater for up to 20 minutes.
 
