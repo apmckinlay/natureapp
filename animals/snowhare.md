@@ -12,7 +12,7 @@ Snowshoe Hare are found in the **forests** of Canada, Alaska, and the northern m
 
 Snowshoe Hare prefer forested areas with dense undergrowth where they can hide and shelter. They feed at night, following well-used trails to nibble on plants, grasses, and leaves as well as twigs and bark in winter. Hares move very quickly and have several litters each year.
 
-Hares, such as the Snowshoe Hare and the [White-tailed Jackrabbit](/animals/whtjack/), are larger than **Rabbits** and typically have longer hind legs and bigger ears. Baby hares are born with fur and their eyes are open. On the other hand, baby rabbits are furless and their eyes are closed when they're born.
+**Could it be?** Hares, such as the Snowshoe Hare and the [White-tailed Jackrabbit](/animals/whtjack/), are larger than **Rabbits** and typically have longer hind legs and bigger ears. Baby hares are born with fur and their eyes are open. On the other hand, baby rabbits are furless and their eyes are closed when they're born.
 
 **Did you know?** Snowshoe Hare are usually silent, but they snort when they're annoyed. Males and females make a clicking sound with each other during breeding season and the does use this sound with their young.
 
