@@ -18,7 +18,7 @@ Western Skink are found in **south-central British Columbia** south to **Baja Ca
 
 If attacked, Western Skink can cast off their tail. The tail continues to wiggle, distracting the predator, and giving the skink a chance to escape. The tail will grow back, but it will be darker and less evenly shaped.
 
-**Many-lined Skink** are found on the central Great Plains of the United States. They have more stripes and a longer tail.
+**Could it be?** **Many-lined Skink** are found on the central Great Plains of the United States. They have more stripes and a longer tail.
 
 **Did you know?** Female skinks lay 2-6 eggs in July or August. Unlike other lizards, they stay with their eggs, protect them from predators, maintain the nest, and even lie on the eggs to keep them warm.
 
