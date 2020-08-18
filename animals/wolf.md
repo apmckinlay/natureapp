@@ -16,9 +16,7 @@ Wolves require large territories where they can find food, shelter, and protecti
 
 Wolves live in **packs** with an alpha male and female. Only the alpha wolves breed, while the rest of the pack (an average of 7-8 members) help feed the young and watch over them while others hunt. Wolves are carnivores and prefer large hooved animals, such as deer, elk, and moose. They also eat smaller animals as well as animals that are already dead from other causes.
 
-[Coyote](/animals/coyote/) are a similar size and color but have a narrower face, a smaller nose, and their ears are larger in comparison to their bodies. Their voices are higher pitched.
-
-It can be difficult to distinguish between dogs and Wolves. Dogs' ears are usually larger with pointed tips. They have a broader chest and their tail often curls upwards.
+**Could it be?** [Coyote](/animals/coyote/) are a similar size and color but have a narrower face, a smaller nose, and their ears are larger in comparison to their bodies. Their voices are higher pitched. It can be difficult to distinguish between dogs and Wolves. Dogs' ears are usually larger with pointed tips. They have a broader chest and their tail often curls upwards.
 
 **Did you know?** Wolves communicate through body language, scent marking, and barking or growling. Barking is a warning, while howling is used for long-distance communication to pull the pack together or warn off strangers.
 
