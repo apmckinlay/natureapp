@@ -14,7 +14,7 @@ Yellow-bellied Marmot often live in colonies but not always. They build burrows 
 
 The marmots spend their days above ground where they lie in the sun and graze on grasses and herbs. Marmots from the same burrow groom and play with each other but will defend their territory when approached by marmots from a different burrow.
 
-Yellow-bellied Marmot are smaller than [Hoary Marmot](/animals/hoarymar/) and usually live at lower elevations.
+**Could it be?** Yellow-bellied Marmot are smaller than [Hoary Marmot](/animals/hoarymar/) and usually live at lower elevations.
 
 **Did you know?** Yellow-bellied Marmot use noises to communicate. They whistle to alert the others of danger, scream when they're scared or excited, and chatter their teeth as a threat.
 
