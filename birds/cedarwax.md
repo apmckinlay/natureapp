@@ -13,6 +13,6 @@ Cedar Waxwing travel and feed in **large flocks**, feasting on fruit and berries
 
 Cedar Waxwing can be found **year-round** in southern Ontario, Quebec, and Nova Scotia as well as the northern United States, while others spend their **summers** in Canada, migrating in **winter** to the southern United States.
 
-**Bohemian Waxwing** are slightly larger with white and yellow stripes on their closed wings and rusty-red under the tail.
+**Could it be?** **Bohemian Waxwing** are slightly larger with white and yellow stripes on their closed wings and rusty-red under the tail.
 
 **Did you know?** Cedar Waxwing are one of the few North American birds that specialize in eating fruit. They also eat insects but can survive for several months eating just fruit.
