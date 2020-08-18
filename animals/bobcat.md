@@ -15,7 +15,7 @@ Bobcat are fierce hunters and can kill animals much larger than themselves. They
 
 Bobcat are **solitary** animals that use scent markings to establish their territory. Their main den is usually a cave or rock shelter. They may have other dens (brush pile, rock ledge) in the less-visited parts of their territory.
 
-Bobcat belong to the [Lynx](/animals/lynx/) family. They live further south than the [Lynx](/animals/lynx/) as they have smaller paws and shorter legs that aren't as well adapted for deep snow. [Lynx](/animals/lynx/) have larger ear tufts, beard-like tufts on the side of their face, and a completely black tip to their tail.
+**Could it be?** Bobcat belong to the [Lynx](/animals/lynx/) family. They live further south than the [Lynx](/animals/lynx/) as they have smaller paws and shorter legs that aren't as well adapted for deep snow. [Lynx](/animals/lynx/) have larger ear tufts, beard-like tufts on the side of their face, and a completely black tip to their tail.
 
 **Did you know?** Bobcat can reach speeds of up to 30 miles per hour. They move very quietly, placing their hind paws in exactly the same spots as their front paws.
 
