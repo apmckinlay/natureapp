@@ -14,7 +14,7 @@ Evening Grosbeak eat **insect larvae** in the summer and **seeds**, **buds**, **
 
 Evening Grosbeak can be found **year-round** in British Columbia, northern Alberta, Saskatchewan, and Manitoba, eastern Canada, and the western mountainous areas of the United States. In **winter**, they can be found in the southern Prairies and most parts of the United States. Large flocks occasionally travel south in **winter** looking for food.
 
-**American Goldfinch** are much smaller with smaller, darker bills. Female and immature male [Pine Grosbeak](/birds/pinegros/) have shorter, darker bills and lack the boldly patterned wings.
+**Could it be?** **American Goldfinch** are much smaller with smaller, darker bills. Female and immature male [Pine Grosbeak](/birds/pinegros/) have shorter, darker bills and lack the boldly patterned wings.
 
 **Did you know?** Evening Grosbeak's thick, cone-shaped beak is very strong and can crush large seeds, such as cherries and olives.
 
