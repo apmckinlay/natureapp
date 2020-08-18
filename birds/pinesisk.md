@@ -14,6 +14,6 @@ Pine Siskin can be found **year-round** in southern Canada and the western Unite
 
 Pine Siskin nest in the **forest** coming out to fields, shrubby areas, and urban parks and gardens to forage for **seeds**. They congregate in **large flocks**, calling to each other as they eat. You'll often see them clinging **upside down** to branch tips to eat seeds in cones.
 
-Pine Siskin are smaller than a **Sparrow**. Their yellow markings and streaked breast distinguish them from other **Finch** and **Redpoll**.
+**Could it be?** Pine Siskin are smaller than a **Sparrow**. Their yellow markings and streaked breast distinguish them from other **Finch** and **Redpoll**.
 
 **Did you know?** Pine Siskin survive cold winter nights by increasing their metabolism to 5 times its normal rate.
