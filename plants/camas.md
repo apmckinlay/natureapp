@@ -13,7 +13,7 @@ Camas has spikes of blue **flowers** at the end of tall (12-28 in) stalks with c
 
 Blue Camas is widespread in the **Pacific Northwest**. Other species can be found in the western and southeastern United States. Color may vary from white to purple.
 
-**Smooth Camas** (White Camas) and **Death Camas** (Mountain Death Camas), found in western North America, are unrelated and poisonous. **Smooth Camas** has white flowers with a green heart at the base of each flower and is slightly poisonous. **Death Camas** has similar flowers but grows at higher altitudes and is very poisonous.
+**Could it be?** **Smooth Camas** (White Camas) and **Death Camas** (Mountain Death Camas), found in western North America, are unrelated and poisonous. **Smooth Camas** has white flowers with a green heart at the base of each flower and is slightly poisonous. **Death Camas** has similar flowers but grows at higher altitudes and is very poisonous.
 
 **Did you know?** [Elk](/animals/elk/), Deer, and [Moose](/animals/moose/) graze on Camas leaves, while gophers have been known to nibble on the bulbs and then move them to a different area.
 
