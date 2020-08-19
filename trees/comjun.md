@@ -14,7 +14,7 @@ Common Juniper is a **spreading shrub** with stiff green **needles** that circle
 
 Common Juniper grows well on **dry**, **rocky** sites. It's extremely hardy and can be found world-wide, growing in a wide range of different habitats.
 
-[Rocky Mountain Juniper](/trees/rockyjun/) is a tree and has scale-like needles in overlapping pairs.
+**Could it be?** [Rocky Mountain Juniper](/trees/rockyjun/) is a tree and has scale-like needles in overlapping pairs.
 
 **Did you know?** Birds enjoy the fleshy covering on the cones and play an important role in propagating further plants as the seeds only germinate once the fleshy covering has dissolved.
 
