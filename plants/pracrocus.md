@@ -13,6 +13,6 @@ Prairie Crocus flowers appear **as soon as the snow melts** in sunny, open areas
 
 The low-lying plant has gray-green **leaves** with many separate leaflets and is covered in woolly white hairs. The flowers turn into long, feathery clusters of **seeds**.
 
-The **Canada Anemone** and **Cut-leaved Anemone** are similar in appearance but flower later in the year in early summer.
+**Could it be?** **Canada Anemone** and **Cut-leaved Anemone** are similar in appearance but flower later in the year in early summer.
 
-**Did you know?** The Prairie Crocus has many different names, including Windflower, Prairie Smoke, and Pasque Flower.
+**Did you know?** Prairie Crocus has many different names, including Windflower, Prairie Smoke, and Pasque Flower.
