@@ -12,7 +12,7 @@ Bog Rosemary is a **low**, **sprawling**, **evergreen** shrub (8 in-2.5 ft) with
 
 Bog Rosemary grows in acid bogs across Canada, Alaska, Washington, Idaho, and the northeastern United States.
 
-Bog Rosemary leaves have a sharp tip, while the leaves of **Bog Sheep Laurel** are a little wider and not as pointed. [Labrador Tea](/trees/labtea/) has wider leaves with hairy twigs and a pungent smell when crushed.
+**Could it be?** Bog Rosemary leaves have a sharp tip, while the leaves of **Bog Sheep Laurel** are a little wider and not as pointed. [Labrador Tea](/trees/labtea/) has wider leaves with hairy twigs and a pungent smell when crushed.
 
 **Did you know?** Bog Rosemary has perfumed flowers designed to attract pollinators. However, it's not dependent on seeds to reproduce as it also spreads through underground rootstock and runners.
 
