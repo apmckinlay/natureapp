@@ -15,7 +15,7 @@ American House Spiders build a **messy web**. Insect passersby become entangled 
 
 American House Spiders are used to living near people and won't bite unless grabbed and squeezed.
 
-**Black** and **Brown Widow Spiders** (poisonous) are similar in appearance but have a red or orange hourglass marking on their underside.
+**Could it be?** **Black** and **Brown Widow Spiders** (poisonous) are similar in appearance but have a red or orange hourglass marking on their underside.
 
 **Did you know?** A male approaches a female's web when it's ready to mate and will perform a courtship dance to ensure it isn't attacked.
 
