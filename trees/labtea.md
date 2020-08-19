@@ -15,6 +15,6 @@ Labrador Tea can be found in swamps, muskeg, and moist coniferous forests throug
 
 Clusters of small white **flowers** appear at the tips of branches from May to June.
 
-Labrador Tea bears some similarities to [Bog Rosemary](/plants/bogrose/), but [Bog Rosemary](/plants/bogrose/) leaves are very narrow with sharp points.
+**Could it be?** Labrador Tea bears some similarities to [Bog Rosemary](/plants/bogrose/), but [Bog Rosemary](/plants/bogrose/) leaves are very narrow with sharp points.
 
 **Did you know?** Labrador Tea can often survive fire as its roots are buried deep in areas too wet to burn.
