@@ -15,6 +15,6 @@ Cottonwood has triangular **leaves** with toothed edges that turn yellow in the 
 
 **Plains Cottonwood** grows in the west, while **Eastern Cottonwood** is found in the east.  **Black Cottonwood** is very similar to [Balsam Poplar](/trees/balpop/). They can be hard to tell apart as they hybridize. 
 
-[Balsam Poplar](/trees/balpop/) and Trembling [Aspen](/trees/aspen/) resemble Cottonwood as they are members of the same family. All of them release loose cottony seeds in late spring. Both Cottonwood and Trembling [Aspen](/trees/aspen/) have triangular or heart-shaped leaves, but Cottonwood is usually taller and its leaves are slightly serrated. [Balsam Poplar](/trees/balpop/) has oval or spear-shaped leaves.
+**Could it be?** [Balsam Poplar](/trees/balpop/) and [Aspen](/trees/aspen/) resemble Cottonwood as they are members of the same family. All of them release loose cottony seeds in late spring. Both Cottonwood and Trembling [Aspen](/trees/aspen/) have triangular or heart-shaped leaves, but Cottonwood is usually taller and its leaves are slightly serrated. [Balsam Poplar](/trees/balpop/) has oval or spear-shaped leaves.
 
 **Did you know?** Cottonwood is the fastest-growing tree in North America, adding 3-6 ft to its height in a single year.
