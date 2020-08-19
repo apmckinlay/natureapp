@@ -17,7 +17,7 @@ The stiff bluish-green **needles** (1-3 in long) are in bunches of 5 and cluster
 
 Whitebark Pine is a long-lived species, often living for more than 500 years.
 
-**Limber Pine** is very similar in appearance, but the cones are larger (2.4-4.7 in long), green when immature, and open to release their seeds. **Western White Pine** has longer needles (2-4 in long) and cones (4-10 in).
+**Could it be?** **Limber Pine** is very similar in appearance, but the cones are larger (2.4-4.7 in long), green when immature, and open to release their seeds. **Western White Pine** has longer needles (2-4 in long) and cones (4-10 in).
 
 **Did you know?** Whitebark Pine provides food and shelter for many birds and mammals. It has a special relationship with **Clark's Nutcracker**. The bird uses its long, slender, curved beak to break open the cones and remove the seeds. It then buries the seeds for winter food, often forgetting where it has left them. [Grizzly Bear](/animals/grizzly/) then find and eat the seeds.
 
