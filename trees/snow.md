@@ -16,7 +16,7 @@ Clusters of small, pinkish-white, bell-shaped **flowers** appear at the end of s
 
 Snowberry can be found in most parts of Canada and the United States except for the states bordering the Gulf of Mexico and parts of the far north. It's usually found in dry, open areas and rocky slopes but is very adaptable.
 
-**Wolfberry** (Buckbrush), a related species, is a small shrub (2-4 ft tall) found in dry western prairie areas. It has leathery, oval leaves and pinkish-white berries. **Mountain Snowberry** is a low-growing shrub (2-4 ft tall) with spreading, sometimes trailing, branches found in the western mountain ranges of Alberta and British Columbia south to California and New Mexico.
+**Could it be?** **Wolfberry** (Buckbrush), a related species, is a small shrub (2-4 ft tall) found in dry western prairie areas. It has leathery, oval leaves and pinkish-white berries. **Mountain Snowberry** is a low-growing shrub (2-4 ft tall) with spreading, sometimes trailing, branches found in the western mountain ranges of Alberta and British Columbia south to California and New Mexico.
 
 **Did you know?** Snowberry is high in saponins and Indigenous peoples in North America used to use it as a shampoo and antiperspirant.
 
