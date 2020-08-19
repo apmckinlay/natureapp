@@ -16,7 +16,7 @@ Prairie Onion is the name given to two different wild onions, both of which have
 
 **Allium stellatum** (**8-18 in high**) is found in dry or rocky areas from Manitoba through Ontario and south around the Great Lakes to Texas, Oklahoma, and Tennessee. It is also known as the **Autumn Onion** as it blooms later in the season from **July** to **August**. It has umbrella-shaped clusters of flowers ranging from light **pink** to a deep pinkish purple.
 
-[Nodding Onion](/plants/nodonion/) is less common than the Prairie Onion and taller. It has pink flowers that bloom in the same season as Allium stellatum and in some of the same areas, but its flower head is erect and doesn't nod.
+**Could it be?** [Nodding Onion](/plants/nodonion/) is less common than the Prairie Onion and taller. It has pink flowers that bloom in the same season as Allium stellatum and in some of the same areas, but its flower head is erect and doesn't nod.
 
 **Did you know?** Unlike the domestic onion, the Prairie Onion has flat, solid (not hollow) leaves.
 
