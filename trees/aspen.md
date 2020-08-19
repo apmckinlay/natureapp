@@ -17,6 +17,6 @@ Aspen is widely distributed throughout North America, preferring cold regions wi
 
 Aspen leaves and flower buds are an important source of food for [Ruffed Grouse](/birds/rufgrouse/), while Deer ([Mule Deer](/animals/muledeer/), [White-tailed Deer](/animals/whtdeer/)) and [Moose](/animals/moose/) enjoy munching on the suckers. [Beaver](/animals/beaver/) eat all parts of the tree.
 
-[Cottonwood](/trees/cotton/) and [Balsam Poplar](/trees/balpop/) resemble Aspen as they are members of the same family. All of them release loose cottony seeds in late spring.  Both [Cottonwood](/trees/cotton/) and Trembling Aspen have triangular or heart-shaped leaves, but [Cottonwood](/trees/cotton/) is usually taller and its leaves are slightly serrated. [Balsam Poplar](/trees/balpop/) has oval or spear-shaped leaves.
+**Could it be?** [Cottonwood](/trees/cotton/) and [Balsam Poplar](/trees/balpop/) resemble Aspen as they are members of the same family. All of them release loose cottony seeds in late spring.  Both [Cottonwood](/trees/cotton/) and Trembling Aspen have triangular or heart-shaped leaves, but [Cottonwood](/trees/cotton/) is usually taller and its leaves are slightly serrated. [Balsam Poplar](/trees/balpop/) has oval or spear-shaped leaves.
 
 **Did you know?** Trembling Aspen's roots send up shoots or suckers to form large stands of up to 100 acres of identical trees or clones. Individual trunks die, but the roots can live on for hundreds or even thousands of years.
