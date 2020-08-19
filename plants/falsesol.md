@@ -13,9 +13,7 @@ False Solomon's Seal has a long, single, arching **stem** (2-3 ft) with large ov
 
 False Solomon's Seal flowers from **late spring** to **early summer** and can be found in moist, rich, partially shaded woodland areas across North America with the exception of states bordering the Gulf of Mexico. False Solomon's Seal spreads by underground rhizomes and often forms **large colonies**.
 
-True [Solomon's Seal](/plants/solomon/) has similar leaves, but the pairs of flowers dangle from the junctions of leaves and stem. The greenish-white flowers are tube-shaped with a scalloped border and the ripe berries are dark blue.
-
-The leaves of False Solomon's Seal resemble those of [Yellow Lady's Slipper](/plants/yellslip/), and it may be hard to tell them apart if the plant isn't flowering.
+**Could it be?** True [Solomon's Seal](/plants/solomon/) has similar leaves, but the pairs of flowers dangle from the junctions of leaves and stem. The greenish-white flowers are tube-shaped with a scalloped border and the ripe berries are dark blue. The leaves of False Solomon's Seal resemble those of [Yellow Lady's Slipper](/plants/yellslip/), and it may be hard to tell them apart if the plant isn't flowering.
 
 **Did you know?** The mildly fragrant flowers are pollinated by a wide variety of small bees, flies, and beetles.
 
