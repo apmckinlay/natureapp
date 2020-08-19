@@ -16,7 +16,7 @@ Widespread outbreaks of Tent Caterpillars occur in **cities** and **forests** ac
 
 The **caterpillars** are about two inches long and black with a white stripe or spots down their back, a blue head, and often blue spots down their body. The **moths** range in color from dark red-brown to gray with two parallel lines on their forewings.
 
-Tent Caterpillars can be confused with **Webworms**. However, Tent Caterpillars make their nests in the forks of trees where the branches connect to the trunk. Webworms form a nest that encloses the leaves and small branches at the end of a limb. They don't affect the health of the tree.
+**Could it be?** Tent Caterpillars can be confused with **Webworms**. However, Tent Caterpillars make their nests in the forks of trees where the branches connect to the trunk. Webworms form a nest that encloses the leaves and small branches at the end of a limb. They don't affect the health of the tree.
 
 **Did you know?** 50% of what Tent Caterpillars eat is lost in fecal pellets; you'll hear the pellets falling and see them on the ground around the tree.
 
