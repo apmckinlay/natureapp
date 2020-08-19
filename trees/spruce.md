@@ -16,7 +16,7 @@ Four-sided **needles** are arranged in a spiral around the stem. The needles are
 
 **Black** and **White Spruce** are found in Canada and the northern United States. **[Engelmann Spruce](/trees/engel/)** is found in the western mountains of Canada and the United States. **Sitka Spruce** has stiff, sharp needles and is found in a narrow band along the northwest coast of North America.
 
-Spruce needles are shorter than **Pine** needles. **Fir** branches look flat as the needles grow out of two sides of the branch; Spruce needles grow on all sides of the branch.
+**Could it be?** Spruce needles are shorter than **Pine** needles. **Fir** branches look flat as the needles grow out of two sides of the branch; Spruce needles grow on all sides of the branch.
 
 **Did you know?** The Indigenous peoples of North America used the strong, flexible roots to lace together the [Birch](/trees/birch/) bark in their canoes.
 
