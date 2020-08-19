@@ -15,7 +15,7 @@ Elderberry is 5-12 ft tall and wide with long **stems** arching out from the bas
 
 Elderberry grows along streams and roadsides and in moist woodlands. It's often found in **large clumps** as it spreads by root suckers. Elderberry can be found throughout  North America although it is less common in the prairie provinces, the Gulf states, and the North.
 
-Be careful. Many plants in the carrot family have umbrella-shaped flower clusters; some of them (e.g. **Water Hemlock**) are poisonous.
+**Could it be?** Be careful. Many plants in the carrot family have umbrella-shaped flower clusters; some of them (e.g. **Water Hemlock**) are poisonous.
 
 **Did you know?** Elderberry's Latin name - Sambucus - refers to a Greek musical instrument as its stems can be hollowed out to make flutes and whistles.
 
