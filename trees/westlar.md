@@ -14,7 +14,7 @@ Western Larch has bunches of 15-30 light green, feathery **needles** (less than 
 
 Western Larch has thick grooved **bark** with reddish-orange scales. The small, reddish-brown **cones** have long, slender bracts sticking out beyond the scales.
 
-[Tamarack](/trees/tam/), also known as **Eastern Larch**, can be found across Canada and northeastern United States. It's not as tall as Western Larch.
+**Could it be?** [Tamarack](/trees/tam/), also known as **Eastern Larch**, can be found across Canada and northeastern United States. It's not as tall as Western Larch.
 
 **Did you know?** Western Larch is one of the most fire-resistant trees of the Pacific Northwest due to its thick bark (up to 6 in on an old-growth tree) and the height of its first branches.
 
