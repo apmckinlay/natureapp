@@ -14,6 +14,6 @@ Cow Parsnip flowers from **June** to **August**. It grows best in **moist**, **s
 
 Be careful not to brush up against Cow Parsnip as its sap increases skin sensitivity to sun and can result in rashes and blisters.
 
-Cow Parsnip can be mistaken for Hemlock, which is very poisonous. **Poison Hemlock** has fern-like leaves. **Water Hemlock** has small, oval leaflets with jagged edges. **Wild Parsnip** has a smooth stem with few hairs (1-2 in thick).
+**Could it be?** Cow Parsnip can be mistaken for Hemlock, which is very poisonous. **Poison Hemlock** has fern-like leaves. **Water Hemlock** has small, oval leaflets with jagged edges. **Wild Parsnip** has a smooth stem with few hairs (1-2 in thick).
 
 **Did you know?** The dry hollow stems can be used to make toy flutes and whistles.
