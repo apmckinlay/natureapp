@@ -12,7 +12,7 @@ Leafcutter Bee are a medium-sized bee (.2-1 in) with stout, cigar-shaped **bodie
 
 Leafcutter Bee cut circular pieces of leaves (.25-.5 in) and carry them to a hole to construct a nest. Their **nests** are often in rotting wood, but they can also be found in snail shells or holes in a concrete wall, in the ground, or in a plant stem. The nests contain several cells, each of which contains a lump of pollen and an egg. The adults overwinter in the nest, chewing their way out in the spring.
 
-Leafcutters are **solitary** bees and do not live in large groups like Bumble Bees. They are the same size as [Honey Bees](/insects/honeybee/) but darker, with a larger head and eyes, and a hairier belly.
+**Could it be?** Leafcutters are **solitary** bees and do not live in large groups like Bumble Bees. They are the same size as [Honey Bees](/insects/honeybee/) but darker, with a larger head and eyes, and a hairier belly.
 
 **Did you know?** Leafcutter Bee are very good pollinators. One Alfalfa Leafcutter Bee can do the job of 20 [Honey Bee](/insects/honeybee/).
 
