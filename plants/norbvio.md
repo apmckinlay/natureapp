@@ -12,7 +12,7 @@ The Northern Bog Violet can be found across Canada and the United States at the 
 
 The three-part seed capsule splits open when ripe, spilling out masses of small **seeds**.
 
-The [Early Blue Violet](/plants/earlyvio/) looks very similar but is shorter, has smaller leaves, and grows in drier areas.
+**Could it be?** [Early Blue Violet](/plants/earlyvio/) looks very similar but is shorter, has smaller leaves, and grows in drier areas.
 
 **Did you know?** The flowers of the Northern Bog Violet are sometimes white.
 
