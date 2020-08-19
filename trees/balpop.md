@@ -14,6 +14,6 @@ Balsam Poplar is a **slender** tree with a straight trunk and a narrow crown (65
 
 Balsam Poplar is a hardy tree growing in all parts of Canada, Alaska, and the central and northern United States. It's often found in **floodplains** as it grows best in moist, rich soil with plenty of sunlight.
 
-[Cottonwood](/trees/cotton/) and Trembling [Aspen](/trees/aspen/) resemble Balsam Poplar as they are members of the same family. All of them release loose cottony seeds in late spring. [Cottonwood](/trees/cotton/) and Trembling [Aspen](/trees/aspen/) have triangular or  heart-shaped leaves, while Balsam Poplar's leaves are oval or spear-shaped.
+**Could it be?** [Cottonwood](/trees/cotton/) and Trembling [Aspen](/trees/aspen/) resemble Balsam Poplar as they are members of the same family. All of them release loose cottony seeds in late spring. [Cottonwood](/trees/cotton/) and Trembling [Aspen](/trees/aspen/) have triangular or  heart-shaped leaves, while Balsam Poplar's leaves are oval or spear-shaped.
 
 **Did you know?** Bees sometimes use Balsam Poplar's resin to disinfect their hives.
