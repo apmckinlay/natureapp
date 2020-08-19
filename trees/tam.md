@@ -16,7 +16,7 @@ Tamarack is a thin, medium-sized tree (50-65 ft) with reddish-brown **bark** tha
 
 Both male and female **cones** may appear on the same branch. Male cones look like small mounds of yellow or brown pollen sacs. The female cones look like small pine cones. When mature, the female cones are brown, .4-.8 in long, on short curved stalks.
 
-[Western Larch](/trees/westlar/) looks much like Tamarack but is only found in the mountains of the Pacific Northwest and is very tall.
+**Could it be?** [Western Larch](/trees/westlar/) looks much like Tamarack but is only found in the mountains of the Pacific Northwest and is very tall.
 
 **Did you know?** Tamarack can tolerate very cold temperatures and can be found at the edge of the tundra on the Arctic tree line.
 
