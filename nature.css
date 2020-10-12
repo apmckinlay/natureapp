@@ -112,6 +112,26 @@ html, body {
     filter: invert(100);
 }
 
+#install-button {
+    display: none;
+    position: absolute;
+    top: 14vmin;
+    right: 2vmin;
+    font-size: 175%;
+    border-radius: 10px;
+    color: white;
+    background-color:#7C688B;
+    box-shadow: 0 0 4px 4px white;
+    cursor: pointer;
+}
+
+:target:before {
+    content: "";
+    display: block;
+    height: 20px;
+    margin: -20px 0 0;
+}
+
 .container {
     display: flex;
     flex-flow: row wrap;
@@ -304,7 +324,6 @@ img.small {
 .single {
     display: flex;
     flex-flow: row wrap;
-    /* max-width: 900px; */
     margin-left: 1em;
     margin-right: 1em;
     font-family: Arial, Helvetica, sans-serif;

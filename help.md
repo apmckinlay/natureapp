@@ -33,7 +33,7 @@ Nature Companion can be accessed from your phone, tablet, laptop, or desktop com
 
 To make it easier to access, you can install Nature Companion on your phone or tablet by following the instructions below. (Note: You need to be online when you install)
 
-#### Installing on iPhone / iPad / iPod
+#### <a name="install-ios"/>Installing on iPhone / iPad / iPod
 
 From the main page of Nature Companion [naturecompanion.ca](https://www.naturecompanion.ca/) on your browser (Safari):
 
@@ -43,7 +43,7 @@ If you don't see the **Add to Home Screen** option, but there is a Safari icon <
 
 When using Nature Companion offline you may get a pop-up saying **Turn Off Airplane Mode or Use Wi-Fi to Access Data**, but you can tap  **OK** and continue.
 
-#### Installing on Android
+#### <a name="install-android"/>Installing on Android
 
 From the main page of Nature Companion [naturecompanion.ca](https://www.naturecompanion.ca/) on your browser (Chrome):
 
