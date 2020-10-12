@@ -360,6 +360,16 @@ img.large {
     }
 }
 
+/* help --------------------------------------------- */
+
+.help {
+    margin: 0 auto;
+    margin-bottom: 1em;
+    padding: 0 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 40em;
+}
+
 /* icons -------------------------------------------- */
 
 #map {

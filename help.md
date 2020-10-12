@@ -31,49 +31,49 @@ To clear your search tap/click on the X at the right hand end of the search box.
 
 Nature Companion can be accessed from your phone, tablet, laptop, or desktop computer. Once you have accessed it once across the internet, you should be able to access it even when you're offline (depending on your device, browser, and storage space).
 
-To make it easier to access, you can install Nature Companion on your phone or tablet by following the instructions below (Note: You should be online when you install).
+To make it easier to access, you can install Nature Companion on your phone or tablet by following the instructions below. (Note: You need to be online when you install)
 
-To uninstall, follow the usual process for uninstalling apps.
+#### Installing on iPhone / iPad / iPod
 
-#### Installing on iPhone / iPad
-
-Go to the main page of Nature Companion (https://www.naturecompanion.ca/) on your browser (Safari).
+From the main page of Nature Companion [naturecompanion.ca](https://www.naturecompanion.ca/) on your browser (Safari):
 
 Tap the share <img src="/images/share.png" height="20px" /> button (center bottom on an iPhone, top right on an iPad) and scroll down until you see **Add to Home Screen**. Choose it and then choose **Add** on the pop-up.
 
-If you don't see the **Add to Home Screen** option, but there is a Safari icon <img src="/images/safari.png" height="20px" /> next to the Share button that means you're not actually in Safari (e.g. you clicked on the link from your email program). Tap the Safari button first, that will take you to Safari where the Share menu should have the **Add to Home Screen** option.
+If you don't see the **Add to Home Screen** option, but there is a Safari icon <img src="/images/safari.png" height="20px" /> next to the Share button, that means you're not actually in Safari (e.g. you clicked on the link from your email program). Tap the Safari button first, that will take you to Safari where the Share menu should have the **Add to Home Screen** option.
 
 When using Nature Companion offline you may get a pop-up saying **Turn Off Airplane Mode or Use Wi-Fi to Access Data**, but you can tap  **OK** and continue.
 
 #### Installing on Android
 
-Go to the main page of Nature Companion (https://www.naturecompanion.ca/) on your browser (Chrome).
+From the main page of Nature Companion [naturecompanion.ca](https://www.naturecompanion.ca/) on your browser (Chrome):
 
 Tap the three dots at the top right, choose **Add to Home Screen**, and then choose **Add** on the pop-up.
 
+<hr/>
+
 #### Additional Resources
 
-iNaturalist (data sharing) - https://inaturalist.ca
+<a href="https://inaturalist.ca" target="_blank">iNaturalist</a> - Explore and share your observations from the natural world
 
-Seek by iNaturalist (image recognition) - https://www.inaturalist.org/pages/seek_app  
+<a href="https://www.inaturalist.org/pages/seek_app" target="_blank">Seek by iNaturalist</a> - Use the power of image recognition technology to identify the plants and animals all around you
 
-All About Birds, The Cornell Lab of Ornithology - https://www.birds.cornell.edu/home/ 
+<a href="https://www.birds.cornell.edu/home/" target="_blank">The Cornell Lab of Ornithology</a> - All About Birds and eBird
 
-iBird Canada - http://ibird.com/app/iphone/ibird-canada-guide-to-birds/ 
+<a href="http://ibird.com" target="_blank">iBird</a> - Field guide apps for birds
 
-Tree Book, Learning to Recognize Trees of British Columbia - https://www.for.gov.bc.ca/hfd/library/documents/treebook/treebook.pdf 
+<a href="https://www.for.gov.bc.ca/hfd/library/documents/treebook/treebook.pdf" target="_blank">Tree Book</a> - Learn to recognize trees of British Columbia
 
-Amphibians and Reptiles of Canada, Canadian Herpetological Society - http://canadianherpetology.ca/species/index.html 
+<a href="http://canadianherpetology.ca/species/index.html" target="_blank">Amphibians and Reptiles of Canada</a> - Canadian Herpetological Society
 
-PlantWatch - https://www.naturewatch.ca/plantwatch/how-to-guide/plant-descriptions/ 
+<a href="https://www.naturewatch.ca" target="_blank">NatureWatch</a> - Fun, easy-to-use environmental monitoring programs that encourage you to learn about the environment
 
-Hinterland Who’s Who (Canadian wildlife) - https://www.hww.ca/en/wildlife 
+<a href="https://www.hww.ca/en/wildlife" target="_blank">Hinterland Who’s Who</a> - information on an wide range of species in Canada
 
-Butterfly Guide, Nature Conservancy of Canada - https://www.natureconservancy.ca/en/what-you-can-do/butterfly-guide.html 
+<a href="https://www.natureconservancy.ca/en/what-you-can-do/butterfly-guide.html" target="_blank">Butterfly Guide</a> - Nature Conservancy of Canada
 
-Insect Identification - https://www.insectidentification.org/ 
+<a href="https://www.insectidentification.org/" target="_blank">InsectIdentification.org</a> - Information about North American Insects and Spiders
 
-US Department of Agriculture Plants Database - https://plants.sc.egov.usda.gov
+<a href="https://plants.sc.egov.usda.gov" target="_blank">US Department of Agriculture Plants Database</a>
 
 #### Leave No Trace Principles
 
@@ -83,5 +83,6 @@ Collect photos and memories, not objects.
 
 Let nature’s sounds prevail.
 
-Pack it in, pack it out. (https://www.leavenotrace.ca/principles)
+Pack it in, pack it out.
 
+[Leave No Trace](https://www.leavenotrace.ca/principles)
