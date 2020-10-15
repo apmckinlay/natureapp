@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk]
 habitat: [forest,mountain]
-keywords: [tree]
+keywords: [tree,conifer]
 ---
 Lodgepole Pine is the most common and abundant tree in the Rocky Mountains and foothills of western North America. Found on lower mountain slopes, it has a thin, straight **trunk** (40-80 ft). If space is limited, **branches** will only appear on the top third of the tree.
 
