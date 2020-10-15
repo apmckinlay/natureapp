@@ -7,7 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
-keywords: [tree]
+keywords: [tree,conifer]
 visibility: low
 aka: ["White Pine", "Pitch Pine", "Scrub Pine", "Creeping Pine"]
 ---
