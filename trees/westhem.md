@@ -7,7 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
-keywords: [tree]
+keywords: [tree,conifer]
 visibility: high
 ---
 Western Hemlock is a tall evergreen (90-200 ft) with a narrow crown. The new growth at the top of the tree often droops. Most of the **branches** swoop downwards. It's common in the mild, humid climate of the Pacific Northwest and is often found growing below other trees as it's shade-tolerant.
