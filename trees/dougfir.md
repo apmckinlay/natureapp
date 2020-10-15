@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab]
 habitat: [forest,mountain]
-keywords: [tree]
+keywords: [tree,conifer]
 visibility: high
 aka: ["Oregon Pine"]
 ---
