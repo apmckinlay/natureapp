@@ -7,7 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [desert,forest,grassland,mountain,urban]
-keywords: [shrub,berry]
+keywords: [shrub,berry,conifer]
 visibility: high
 ---
 Common Juniper is a **spreading shrub** with stiff green **needles** that circle the stem in groups of three. It often forms a low-lying mat but can grow to 3-4 ft tall. What appear to be blue **berries** are actually **cones** with very tightly packed miniature scales.
