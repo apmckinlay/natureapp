@@ -7,7 +7,7 @@ license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/3.0"
 location: [ab,sk,mb]
 habitat: [forest,urban]
-keywords: [tree]
+keywords: [tree,conifer]
 visibility: high
 ---
 Balsam Fir is a tall (60-70 ft) **narrow** tree tapering to a skinny point. Its short (1 in) flat **needles** curve upwards, as do the barrel-shaped, grayish-brown **cones**. The cones disintegrate on the tree and don't fall off.
