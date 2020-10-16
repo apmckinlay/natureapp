@@ -6,6 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/37753698865"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 visibility: high
+aka: ["Tree Squirrel"]
 ---
 North America is home to 5 different types of squirrels. The animals we most commonly think of as squirrels live in trees, but there are ground-dwelling squirrels such as [Least Chipmunk](/animals/leastchip/) as well. Tree squirrels are most commonly found in coniferous forests, but you’ll also find them in city parks and gardens. Their bushy tail is half the length of their body and is used for balance and to keep them warm in winter. Squirrels eat lots of pine cone seeds and nuts but also flowers, berries, mushrooms, insects, and eggs.
 
