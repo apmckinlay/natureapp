@@ -11,7 +11,7 @@ visibility: low
 ---
 Burrowing Owl are **tiny (7.5-10 in)** with long legs and a short tail. They are mottled brown with **white eyebrows** and **throat**. They are found during the summer in southwestern Canada and the western United States. Northern birds migrate further south for the winter. They can be found year-round in southern California, New Mexico, Arizona, Texas, and the Florida Panhandle.
 
-Burrowing Owl live in **treeless areas** with an open view and plenty of holes for shelter. Look for them standing on the ground next to their burrow or on a nearby fence post. You may see them near a __Prairie Dog__ colony as the owls use the abandoned burrows of __Prairie Dog__ and __Ground Squirrel__ for nests.
+Burrowing Owl live in **treeless areas** with an open view and plenty of holes for shelter. Look for them standing on the ground next to their burrow or on a nearby fence post. You may see them near a __Prairie Dog__ colony as the owls use the abandoned burrows for nests.
 
 Burrowing Owl turn their head upside down when curious and bob up and down when threatened.
 

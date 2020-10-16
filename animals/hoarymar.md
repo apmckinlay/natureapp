@@ -25,6 +25,7 @@ Hoary Marmot live in **colonies** with a dominant male, several breeding females
 [Pika](/animals/pika/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
+[Squirrel](/animals/squirrel/),
 [Weasel](/animals/weasel/),
 [Yellow-bellied Marmot](/animals/yelbelmar/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)

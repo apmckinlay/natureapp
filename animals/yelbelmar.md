@@ -28,5 +28,6 @@ The marmots spend their days above ground where they lie in the sun and graze on
 [Pika](/animals/pika/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
+[Squirrel](/animals/squirrel/),
 [Weasel](/animals/weasel/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)

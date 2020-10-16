@@ -31,5 +31,6 @@ Weasel are related to [Mink](/animals/mink/), [Marten](/animals/marten/), and **
 [Pika](/animals/pika/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
+[Squirrel](/animals/squirrel/),
 [Yellow-bellied Marmot](/animals/yelbelmar/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)

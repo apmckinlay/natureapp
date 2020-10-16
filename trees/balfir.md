@@ -16,7 +16,7 @@ Balsam Fir grows from Alberta through to the Maritimes, around the Great Lakes, 
 
 **Could it be?** Similar species are the **Subalpine Fir** which grows at higher elevations and the **Silver Fir** that is found in Northwest coastal rainforests.
 
-**Did you know?** Balsam Fir's thick branches provide winter cover for wildlife. The seeds, twigs, and bark provide food for Mice and Squirrels as well as Bears and [Moose](/animals/moose/).
+**Did you know?** Balsam Fir's thick branches provide winter cover for wildlife. The seeds, twigs, and bark provide food for Mice and [Squirrels](/animals/squirrel/) as well as Bears and [Moose](/animals/moose/).
 
 <!-- generated, do not edit -->
 **See Also:**

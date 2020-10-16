@@ -29,6 +29,7 @@ Bushy-tailed Woodrats are also known as **Pack Rats** because they collect shiny
 [Pika](/animals/pika/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
+[Squirrel](/animals/squirrel/),
 [Weasel](/animals/weasel/),
 [Yellow-bellied Marmot](/animals/yelbelmar/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)
