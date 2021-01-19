@@ -5,7 +5,7 @@ attr: "Kevin Cole"
 attr_link: "https://en.wikipedia.org/wiki/Peregrine_falcon#/media/File:Peregrine_Falcon_in_flight.jpg"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
-location: [bc,ab]
+location: [bc,ab,sk,mb]
 habitat: [ocean,wetland,urban]
 visibility: low
 ---
