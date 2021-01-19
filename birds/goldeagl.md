@@ -5,7 +5,7 @@ attr: "thepcspud"
 attr_link: "https://www.flickr.com/photos/thepcspud/26706532053"
 license: "CC-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
-location: [bc,ab]
+location: [bc,ab,sk,mb]
 habitat: [grassland,mountain]
 visibility: low
 ---
