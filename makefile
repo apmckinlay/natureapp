@@ -21,6 +21,7 @@ index:
 	
 files: build
 	find _site -type f | sed '/DS_Store/d ; /404/d ; /offline/d ; \
+		/eleventy.js/d ; /eslintrc.js/d ; \
 		/screenshot/d ; s/_site// ; s/index.html// ; s/.*/"&",/' \
 		| sort > _includes/files.mustache
 	eleventy --quiet
