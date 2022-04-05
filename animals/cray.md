@@ -1,6 +1,6 @@
 ---
 name: "Crayfish"
-location: [ab,bc,sk,mb]
+location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high
 aka: ["Crawfish","Crawdad","Freshwater Lobster"]
