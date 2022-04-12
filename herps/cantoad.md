@@ -10,7 +10,7 @@ habitat: [grassland,wetland]
 aka: ["Dakota Toad"]
 keywords: [amphibian, frog]
 ---
-Canadian Toad (up to 3.5 in) are gray-green or brown with brownish-red warts. Unlike other toads found in the same area, they have **gray spots** on a **light-colored belly** and the **raised ridges** on their **head** join to form a **bump** between their eyes.
+Canadian Toad (up to 3.5 in) are gray-green or brown with brownish-red warts. Unlike other toads found in the same area (e.g. Western Toad, Plains Spadefoot), they have **gray spots** on a **light-colored belly** and the **raised ridges** on their **head** join to form a **bump** between their eyes.
 
 Canadian Toad are found in **river valleys** and around **lakes** in the **grasslands**, **aspen parklands**, and **boreal forest** of the Canadian prairies and south to the Dakotas and Minnesota.
 
