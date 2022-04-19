@@ -9,11 +9,11 @@ location: [bc,ab,sk,mb]
 habitat: [forest]
 visibility: low
 ---
-Hoary Bats have white-tipped brown **fur** on back and tail and yellow fur on head and throat. They are Canada's largest bat (13-16 in wingspan, 5-6 in long, 1.2 oz) and are widely distributed throughout Canada and the United States. They are the only bat found in **Hawaii**.
+Hoary Bats have long gray and brown fur tipped with white on their back. There are small patches of yellow fur around the face and wrists as well as on the shoulders and under the wings. They are Canada's largest bat (13-16 in wingspan, 5-6 in long, 1.2 oz) and are widely distributed throughout Canada and the United States. They are the only bat found in **Hawaii**.
 
-Hoary Bats roost in **trees**, often evergreens, coming out at night to hunt flying insects. They raise their young in the north in the summer but migrate south for the winter. They are solitary creatures.
+Hoary Bats roost in tall **trees**, coming out at night to hunt flying insects. Their low-frequency **calls** can travel a long distance. This, along with their speed, lends itself to hunting for large moths, beetles, and dragonflies. They roost alone except for mothers with their twin pups. Hoary Bats are migratory and need to fly fast and high, which puts them at risk of getting hit by wind turbines.
 
-**Did you know?** The females bear two young in late June. The young stay in the tree while their mother goes out hunting for food.
+**Did you know?** Their thick fur probably serves as insulation, while the mottled coloring blends in well with lichen-covered bark on the trees where they roost.
 
 <!-- generated, do not edit -->
 **See Also:**
