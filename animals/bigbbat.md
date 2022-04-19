@@ -14,6 +14,8 @@ Big Brown Bats fly very fast and can reach speeds up to 40 mph. They have strong
 
 Females set up nursery colonies with 20-300 bats to raise their young. Babies are born blind with no fur, but they grow quickly and are able to fly within 4-6 weeks. The bats hibernate in small groups in winter.
 
+Big Brown Bats often live in prairie river valleys, with some of them hibernating in deep cracks or holes along the valley. They come out of their hibernating spots and are active on warm winter days.
+
 **Did you know?** A baby bat weighs up to 25% of its mother's body weight when it's born. That's like a human mother giving birth to a 30 lb baby.
 
 <!-- generated, do not edit -->
