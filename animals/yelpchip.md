@@ -20,12 +20,11 @@ Yellow-pine Chipmunk (7-9 in long) are brown to cinnamon in color with 5 dark st
 **See Also:**
 [13-lined Ground Squirrel](/animals/13linegs/),
 [Bushy-tailed Woodrat](/animals/buwrat/),
-[Hoary Marmot](/animals/hoarymar/),
 [Least Chipmunk](/animals/leastchip/),
+[Marmot](/animals/marmot/),
 [Marten](/animals/marten/),
 [Pika](/animals/pika/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
 [Squirrel](/animals/squirrel/),
-[Weasel](/animals/weasel/),
-[Yellow-bellied Marmot](/animals/yelbelmar/)
+[Weasel](/animals/weasel/)

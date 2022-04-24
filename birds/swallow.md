@@ -1,5 +1,9 @@
 ---
 name: "Swallow"
+attr: "Dennis Church"
+attr_link: "https://www.flickr.com/photos/dfc_pcola/27208393817"
+license: "CC BY-NC-ND"
+license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban,wetland]
 visibility: high

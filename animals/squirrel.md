@@ -24,12 +24,11 @@ The **American Red Squirrel** can be found from southern Alaska right across Can
 **See Also:**
 [13-lined Ground Squirrel](/animals/13linegs/),
 [Bushy-tailed Woodrat](/animals/buwrat/),
-[Hoary Marmot](/animals/hoarymar/),
 [Least Chipmunk](/animals/leastchip/),
+[Marmot](/animals/marmot/),
 [Marten](/animals/marten/),
 [Pika](/animals/pika/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
 [Weasel](/animals/weasel/),
-[Yellow-bellied Marmot](/animals/yelbelmar/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)

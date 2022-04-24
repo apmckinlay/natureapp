@@ -15,7 +15,7 @@ Pika have thick, peppery-brown fur that usually covers their very short tail. Th
 
 Pika live in **colonies** but are very independent and defend their individual dens. They're active in **daytime** and don't hibernate in winter. Many breed twice, in spring and summer, giving birth to 2-6 young each time.
 
-**Could it be?** [Hoary Marmot](/animals/hoarymar/) also live in the mountains above the treeline, but they are 3 times as large as Pika.
+**Could it be?** Hoary [Marmot](/animals/marmot/) also live in the mountains above the treeline, but they are 3 times as large as Pika.
 
 **Did you know?** Pika are closely related to **Rabbits**, despite looking like a Hamster.
 
@@ -23,12 +23,11 @@ Pika live in **colonies** but are very independent and defend their individual d
 **See Also:**
 [13-lined Ground Squirrel](/animals/13linegs/),
 [Bushy-tailed Woodrat](/animals/buwrat/),
-[Hoary Marmot](/animals/hoarymar/),
 [Least Chipmunk](/animals/leastchip/),
+[Marmot](/animals/marmot/),
 [Marten](/animals/marten/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
 [Squirrel](/animals/squirrel/),
 [Weasel](/animals/weasel/),
-[Yellow-bellied Marmot](/animals/yelbelmar/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)

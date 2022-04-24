@@ -13,6 +13,6 @@ Pacific Rhododendron has thick, leathery evergreen **leaves** (3-8 in long) that
 
 Pacific Rhododendron is found in dry, open forests and roadsides west of the Cascade Mountains from southern British Columbia to northern California. It grows up to 26 ft tall in the shade but is shorter and shrubbier in sunny areas.
 
-Pacific Rhododendron provides shelter for wildlife but is a source of food for very few animals. Only Deer and Mountain Beaver nibble on it.
+Pacific Rhododendron provides shelter for wildlife but is a source of food for very few animals. Only Mountain [Beaver](/animals/beaver/) and Deer (such as [Mule Deer](/animals/muledeer/)) nibble on it.
 
 **Did you know?** Most Rhododendron are found in China, Japan, and neighboring countries; however, 30 species are native to North America.

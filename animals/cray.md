@@ -1,11 +1,14 @@
 ---
 name: "Crayfish"
+attr: "rmendozal"
+attr_link: "https://www.inaturalist.org/photos/45521549"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
-visibility: high
 aka: ["Crawfish","Crawdad","Freshwater Lobster"]
 ---
-Crayfish (3-7 in long) are related to Lobster, Crab, and Shrimp. They have a hard external skeleton, breathe through gills, and live in or near freshwater. Their first pair of legs are **large claws** that they use for eating, mating, digging, and protecting themselves. The other 4 pairs are used for walking slowly across the bottom of rivers, streams, or lakes. They can use their tails to escape danger by quickly swimming backwards.
+Crayfish (3-7 in long) are related to Lobster, [Crab](/animals/crab/), and Shrimp. They have a hard external skeleton, breathe through gills, and live in or near freshwater. Their first pair of legs are **large claws** that they use for eating, mating, digging, and protecting themselves. The other 4 pairs are used for walking slowly across the bottom of rivers, streams, or lakes. They can use their tails to escape danger by quickly swimming backwards.
 
 There are two major groups of Crayfish. One group spends all its time **underwater**. They hide during the day, coming out at night to look for food. The other group is made up of **burrowers**. Burrowers dig tunnels in areas where the soil remains moist, such as ditches, coming out at night to mate or hunt for food. The burrowers’ gills can extract oxygen from moist air as well as water.
 

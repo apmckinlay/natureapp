@@ -20,12 +20,11 @@ Red-tailed Chipmunk are most abundant in **forest** openings or edges where ther
 **See Also:**
 [13-lined Ground Squirrel](/animals/13linegs/),
 [Bushy-tailed Woodrat](/animals/buwrat/),
-[Hoary Marmot](/animals/hoarymar/),
 [Least Chipmunk](/animals/leastchip/),
+[Marmot](/animals/marmot/),
 [Marten](/animals/marten/),
 [Pika](/animals/pika/),
 [Richardson's Ground Squirrel](/animals/richgs/),
 [Squirrel](/animals/squirrel/),
 [Weasel](/animals/weasel/),
-[Yellow-bellied Marmot](/animals/yelbelmar/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)

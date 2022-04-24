@@ -21,6 +21,8 @@ Piping Plover are an endangered species in both Canada and the United States.
 
 <!-- generated, do not edit -->
 **See Also:**
+[Black Oystercatcher](/birds/bloyster/),
+[Black Turnstone](/birds/blturnstone/),
 [Dunlin](/birds/dunlin/),
 [Sanderling](/birds/sander/),
 [Spotted Sandpiper](/birds/spotsand/)

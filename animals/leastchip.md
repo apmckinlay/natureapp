@@ -21,12 +21,11 @@ Least Chipmunk are active during the day, spending most of their time looking fo
 **See Also:**
 [13-lined Ground Squirrel](/animals/13linegs/),
 [Bushy-tailed Woodrat](/animals/buwrat/),
-[Hoary Marmot](/animals/hoarymar/),
+[Marmot](/animals/marmot/),
 [Marten](/animals/marten/),
 [Pika](/animals/pika/),
 [Red-tailed Chipmunk](/animals/retchip/),
 [Richardson's Ground Squirrel](/animals/richgs/),
 [Squirrel](/animals/squirrel/),
 [Weasel](/animals/weasel/),
-[Yellow-bellied Marmot](/animals/yelbelmar/),
 [Yellow-pine Chipmunk](/animals/yelpchip/)

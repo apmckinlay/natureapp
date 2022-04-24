@@ -18,6 +18,8 @@ The Spotted Sandpiper's bill is almost as long as its head and its body tapers t
 
 <!-- generated, do not edit -->
 **See Also:**
+[Black Oystercatcher](/birds/bloyster/),
+[Black Turnstone](/birds/blturnstone/),
 [Dunlin](/birds/dunlin/),
 [Piping Plover](/birds/pipplov/),
 [Sanderling](/birds/sander/)
