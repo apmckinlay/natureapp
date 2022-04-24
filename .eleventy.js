@@ -1,11 +1,11 @@
-module.exports = function (eleventyConfig) {
+module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("fonts");
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("photos");
+    eleventyConfig.addPassthroughCopy("*.png");
     return {
-        templateFormats: ["html", "md", "png", "ico", "json", "xml", "css", "js"],
+        templateFormats: ["html", "md", "ico", "json", "xml", "css", "js"],
         markdownTemplateEngine: "mustache",
-        htmlTemplateEngine: "mustache",
-        passthroughFileCopy: true
+        htmlTemplateEngine: "mustache"
     };
 };
