@@ -8,9 +8,9 @@ license_link: "https://creativecommons.org/licenses/by-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland,urban]
 ---
-North American Beaver can be found in **rivers** and **lakes** from Alaska south through Canada and in most of the United States. With a brown, furry body (15-27 in) and a **leathery paddle-shaped tail** (8-12 in), they are North America's largest rodent with large, strong teeth they use to fell trees.
+North American Beaver can be found in **rivers** and **lakes** from Alaska south through Canada and in most of the United States. With a brown, furry body (29-35 in) and a **leathery paddle-shaped tail** (8-12 in), they are North America's largest rodent with big teeth they use to fell trees.
 
-Beavers are clumsy on land but graceful and strong in water. Their hind feet are webbed and flaps over their nose and ears can be closed when they are underwater. They eat tree bark, particularly [Balsam Poplar](/trees/balpop/), [Cottonwood](/trees/cotton/), [Aspen](/trees/aspen/), [Willow](/trees/willow/), and [Birch](/trees/birch/). Northern Beavers store twigs underwater to eat during the winter when the lake or river is iced over.
+Beavers are clumsy on land but graceful and strong in water. Their hind feet are webbed, and flaps over their nose and ears can be closed when they are underwater. They eat tree bark, particularly [Balsam Poplar](/trees/balpop/), [Cottonwood](/trees/cotton/), [Aspen](/trees/aspen/), [Willow](/trees/willow/), and [Birch](/trees/birch/). Northern Beavers store twigs underwater to eat during the winter when the lake or river is iced over.
 
 Beavers are talented engineers constructing dome-shaped **lodges** and **dams** from sticks and mud. They play an important role in conserving ponds and wetlands.
 
