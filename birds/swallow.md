@@ -16,6 +16,6 @@ Swallow are small, slender birds with long wings. They are adept at catching ins
 
 **Violet-Green Swallow** can be found in the west from Alaska, down through BC and Alberta, to Arizona and New Mexico. They are smaller (4.5 in long, 10.5 in wingspan) than Barn and Tree Swallows with a green back, a purple rump, and a white throat and underparts. They breed in open woodlands, searching for insects over lakes and streams. They can fly very fast and are extremely agile.
 
-Bank and Cliff Swallows nest in large colonies. **Barn Swallow** use their beak and feet to dig out a nest burrow in the side of a gravel pit or riverbank. **Cliff Swallow** collect mud in their beaks, form it into balls, and press them together to make a nest in sheltered spots on cliffs, buildings, or bridges.
+Bank and Cliff Swallows nest in large colonies. **Bank Swallow** use their beak and feet to dig out a nest burrow in the side of a gravel pit or riverbank. **Cliff Swallow** collect mud in their beaks, form it into balls, and press them together to make a nest in sheltered spots on cliffs, buildings, or bridges.
 
 **Did you know?** Tree Swallow are the first swallows to return to their nesting sites as they don’t migrate as far south as other swallows. They eat berries to help them survive in the colder months when there are less insects.
