@@ -20,4 +20,4 @@ Trying *not* to use a lot of external libraries or frameworks.
 
 Favicon setup is from <https://realfavicongenerator.net/>
 
-Using Lunr for search
+Using Lunr for search <https://lunrjs.com/>
