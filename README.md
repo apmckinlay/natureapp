@@ -19,3 +19,5 @@ Trying *not* to use a lot of external libraries or frameworks.
 2019-01 started building with eleventy and mustache
 
 Favicon setup is from <https://realfavicongenerator.net/>
+
+Using Lunr for search
