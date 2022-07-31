@@ -1,8 +1,8 @@
 ---
 name: "Mayfly"
 group: dragonfly
-attr: "Melanie Heywood"
-attr_link: "https://www.flickr.com/photos/54998484@N05/8935851450"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/51332389722"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
@@ -10,6 +10,7 @@ habitat: [wetland]
 visibility: high
 aka: ["Shadfly", "Fishfly"]
 keywords: [fly, insect]
+white_caption: "Giant Mayfly"
 ---
 Mayfly are small, soft-bodied insects with large **triangular forewings** and a long, thin body (up to 1 in) ending in 2 or 3 **hairlike tails**. They can be found near streams, rivers, pond, and lakes across North America.
 

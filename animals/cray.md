@@ -7,6 +7,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 aka: ["Crawfish","Crawdad","Freshwater Lobster"]
+white_caption: "Virile Crayfish"
 ---
 Crayfish (3-7 in long) are related to Lobster, [Crab](/animals/crab/), and Shrimp. They have a hard external skeleton, breathe through gills, and live in or near freshwater. Their first pair of legs are **large claws** that they use for eating, mating, digging, and protecting themselves. The other 4 pairs are used for walking slowly across the bottom of rivers, streams, or lakes. They can use their tails to escape danger by quickly swimming backwards.
 

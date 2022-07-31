@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [ocean]
 visibility: high
+white_caption: "Eccentric Sand Dollar"
 ---
 Sand Dollars are found in the shallow ocean waters of the Atlantic, Pacific, and Caribbean oceans. They can often be spotted, half-buried in the sand, at low tide. They're 2-4 in across, **round** and **flat** like a coin with **short, furry spines**. Sand dollars are yellow, blue, or purple when they're alive, but their rigid external skeleton fades to white and they lose their spines when they die.
 

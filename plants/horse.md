@@ -7,6 +7,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high
+white_caption: "Great Horsetail"
 ---
 Horsetail is one of the oldest plants on earth, reproducing by spore rather than seed. It can be found in or near wetland areas such as marshes, rivers, and streams throughout North America.
 

@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [ab,sk,mb]
 habitat: [forest,urban]
 visibility: high
+white_caption: "male"
 ---
 Ruby-throated Hummingbird have a **shiny green** **back** and **crown** with a gray-white belly. **Males** have a **ruby-red throat**. These slender, tiny birds (2.8-3.5 in) have a slightly **downcurved** beak and **short wings**.
 

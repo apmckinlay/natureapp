@@ -8,6 +8,7 @@ group: "blackbird"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 visibility: high 
+white_caption: "male"
 ---
 **Male** Yellow-headed Blackbirds, with their bright yellow head and chest and white patches on their wings, are easy to spot. The **females** are brown rather than black with a yellow throat, a patchy yellow, and no white wing markings. The birds have a harsh, low cry that has been compared to a rusty gate.
 

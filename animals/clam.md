@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [ocean, wetland]
+white_caption: "Pacific Razor Clam"
 ---
 Saltwater Clams live in the intertidal zone, the area of sand exposed between high and low tides. They have soft bodies enclosed between two **shells** held together by a hinge. Most shells are oval or triangular, but **Razor Clams** are long and narrow. Look for air bubbles in the wet sand at low tide to detect Clams' whereabouts.
 

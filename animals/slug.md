@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban,wetland]
 visibility: easy
+white_caption: "Pacific Banana Slug"
 ---
 Slugs are [Snails](/animals/snail/) without shells and are found in **moist areas** - gardens, wetlands, and coastal forests. Look for them early in the morning, after it has rained, or under or near heavy forest vegetation. Slugs have a **soft, slimy body**.
 

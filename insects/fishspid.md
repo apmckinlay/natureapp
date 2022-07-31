@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,urban,wetland]
 keywords: [spider]
+white_caption: "Six-spotted Fishing Spider"
 ---
 Spiders have 8 legs and 2 body parts, unlike insects that have 6 legs, 3 body parts, and antennae. Fishing Spider are found **near ponds** and **lakes** where they feed on insects, tadpoles, and even small fish. They can also be found in **wooded areas** and sometimes inside houses.
 

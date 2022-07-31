@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [ocean,wetland]
 visibility: high
+white_caption: "Yellow Shore Crab"
 ---
 Crabs are usually found in the rock pools and coral reefs of shallow **ocean** waters, but some can be found in deep water, while others live on land or in freshwater. Two of the most common varieties are **Green** and **Purple Shore Crab**.
 

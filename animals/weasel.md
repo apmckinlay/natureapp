@@ -8,6 +8,7 @@ license_link: "https://en.wikipedia.org/wiki/Public_domain"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland]
 aka: [stoat,polecat]
+white_caption: "Short-tailed Weasel"
 ---
 Weasel are small, **thin**, **long-bodied** animals with **short legs**, a small head, and a long tail. They are extremely flexible and can squeeze through tiny holes and along narrow passages. Weasels vary in length from 5-12 in with a reddish-brown back and a white belly. They turn white in **winter** in northern regions. Many but not all North American weasels have a black tip to their tail.
 

@@ -7,6 +7,7 @@ license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban,wetland]
 visibility: high
+white_caption: "Tree Swallow"
 ---
 Swallow are small, slender birds with long wings. They are adept at catching insects as they maneuver easily in the air and have great endurance. Two collections of light receptors in their eyes give them sharp front and side vision. They can be found on every continent except Antarctica in areas where there are plenty of insects, either near water or over open fields.
 

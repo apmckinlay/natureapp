@@ -7,6 +7,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
+white_caption: "male, breeding"
 ---
 Wood Duck (18-21 in) have a boxy, crested **head**, a thin **neck**, short **wings**, and a long broad **tail**. **Male** Wood Duck have a glossy green head with white stripes on the head and chin in **summer**. **Females** and **juveniles** are brownish-gray with a white patch around the eye.
 

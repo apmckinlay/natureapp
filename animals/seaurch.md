@@ -7,6 +7,7 @@ license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/3.0/"
 location: [bc]
 habitat: [ocean]
+white_caption: "Red Sea Urchin"
 ---
 Sea Urchin look like **round, spiny balls** (usually 1-4 in across). They can be found in **oceans** around the world but are much less common in the cold polar areas. They have hard shells and use their tube feet to crawl along the sea bed. Their spines help protect them from predators but also help them to move about and to trap food particles.
 

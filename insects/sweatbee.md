@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,urban]
 visibility: high
+black_caption: "Striped Sweat Bee"
 ---
 Sweat Bee are small to medium-sized (.2-.5 in long), **black** or **metallic-colored**, bees. They are very common in Canada and the United States and can be found from Alaska south to Mexico.
 

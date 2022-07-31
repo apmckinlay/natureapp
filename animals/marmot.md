@@ -9,6 +9,7 @@ attr: "J Brew"
 attr_link: "https://www.flickr.com/photos/brewbooks/15092175116"
 license: "CC BY-SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
+white_caption: "Hoary Marmot"
 ---
 Marmots are large, bulky ground squirrels with short legs, a thick fur coat, and large teeth and claws. They can be found in mountainous areas and often, but not always, live in family groups called colonies. They build burrows under rocks where they raise their young, hide from predators, and hibernate (from September to April in cooler climates and for less time in warmer areas). Marmots spend their days above ground where they lie in the sun and graze on grasses and herbs. They build up large stores of fat during the summer but will still lose a significant amount of weight during hibernation.
 

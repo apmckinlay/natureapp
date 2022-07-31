@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 visibility: high
+white_caption: "yellow-shafted male"
 ---
 Northern Flicker are a **fairly large** woodpecker (11-12 in) but, unlike other woodpeckers, they are often found **on the ground** foraging for ants and beetles. They also **sit on tree branches** rather than leaning against the trunk.
 

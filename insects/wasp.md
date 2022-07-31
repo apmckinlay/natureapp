@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [desert,forest,grassland,mountain,urban,wetland]
 visibility: high
+white_caption: "Yellow Jacket Wasp"
 ---
 There are over 2500 species of wasps in North America. The best known are the brightly-colored ones that buzz around us and sting. But only 50 species sting, and the vast majority are solitary.
 

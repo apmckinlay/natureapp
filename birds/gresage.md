@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/publicdomain/mark/1.0/"
 location: [sk]
 habitat: [grassland]
 visibility: low
+white_caption: "male"
 ---
 Greater Sage-Grouse are the **largest** North American grouse (26-30 in long). They have a chubby gray-brown body with a black belly, a small head, and a long tail. **Males** have a black head and throat and a white breast. **Females** have a dusky cheek patch and white markings behind the eye.
 

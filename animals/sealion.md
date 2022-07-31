@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [ocean]
 visibility: high
+white_caption: "California Sea Lion"
 ---
 Sea Lion are found in every ocean except for the Atlantic. **Steller (Northern) Sea Lion** are found from Alaska to central California, while **California Sea Lion** are found from Vancouver Island to Mexico.
 

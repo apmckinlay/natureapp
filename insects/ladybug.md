@@ -9,6 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 visibility: high
 aka: ["Ladybird", "Lady Beetle"]
+white_caption: "Seven-Spotted Ladybug"
 ---
 Ladybug are small (up to .4 in long) beetles with black **spots** on their red or orange dome-shaped wing covers. Most Ladybug can be identified by their colour and number of spots; however, some are black, brown, or gray or have stripes instead of spots. The **Seven-Spotted Ladybug** is very common in Europe as well as North America.
 

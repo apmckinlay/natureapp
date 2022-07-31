@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland,urban]
 visibility: high
+white_caption: "male"
 ---
 Mallard are large stout birds (20-26 in) and the most abundant, wide-ranging duck on earth. **Male** Mallard have a shiny green head and a bright yellow beak along with a gray body, a brown breast, and a black rear. **Females** are mottled brown with an orange-and-brown bill.
 

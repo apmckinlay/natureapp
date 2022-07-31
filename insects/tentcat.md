@@ -9,6 +9,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,urban]
 keywords: [butterfly]
 visibility: high
+white_caption: "Forest Tent Caterpillars"
 ---
 Tent Caterpillar form large common silk **nests** (tents) in the **forks of trees** where the moths lay their eggs in early spring. Once the caterpillars emerge, you'll often see large bands of caterpillars feeding on the tender new leaves.
 

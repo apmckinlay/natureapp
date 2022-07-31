@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [ocean]
 visibility: high
+black_caption: "Giant Green Anemone"
 ---
 Sea Anemone are very slow-moving animals that spend most of their time **attached to rocks** on the ocean floor. The best places to spot them are along rocky shores at low tide. Their body is a **hollow column** with a central mouth surrounded by stinging **tentacles**. A flat foot glues itself to the rock below. Out of water, they often look like soft squishy lumps as they withdraw their tentacles to preserve moisture. Sea Anemone vary in size (fraction of an inch to 5 ft across) and color. The biggest and most colorful are found in the tropics.
 
