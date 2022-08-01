@@ -8,6 +8,7 @@ location: [bc,ab,sk,mb]
 habitat: [urban,wetland]
 keywords: [shrub,tree]
 visibility: high
+white_caption: "Black Willow"
 ---
 More than 100 species of Willow are native to North America. It has long, narrow **leaves** and thrives in moist soil. Male and female **catkins** dangle from the branches as leaves appear in early spring. Male flowers are longer and fall from the tree once they've released their pollen. Young **branches** are very flexible and can be used to make baskets, fences, or other objects.
 

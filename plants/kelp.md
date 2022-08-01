@@ -7,6 +7,7 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc]
 habitat: [ocean]
 visibility: high
+white_caption: "Giant Kelp"
 ---
 Kelp is a large **seaweed** growing in underwater forests. Balls of spaghetti-like strands hold the seaweed to the rocky sea bottom. **Leaf-like structures** called blades are attached to the stem, and gas-filled bladders keep kelp blades close to the surface. Kelp grows very quickly (6-10 in per day) but has a lifespan of only 200 days. The Kelp you spot on the shore is old and decaying.
 

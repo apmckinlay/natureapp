@@ -6,6 +6,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
+white_caption: "Freshwater Jawless Leech"
 ---
 Leech are dark-colored **segmented** worms living in lakes and ponds. Only a small minority attach themselves and suck the blood of warm-blooded mammals, and their bite is harmless. They take very little blood, don't transmit disease, and will fall off voluntarily when they finish eating. Others feed on snails, worms, and fish eggs and some scavenge.
 

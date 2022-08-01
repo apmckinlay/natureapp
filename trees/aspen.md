@@ -8,6 +8,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 keywords: [tree]
 visibility: high
+white_caption: "Trembling Aspen"
 ---
 Aspen is widely distributed throughout North America, preferring cold regions with cool summers; it grows at higher altitudes in warmer southern areas. One of the most common varieties is **Trembling** or **Quaking Aspen**, which is found throughout Canada and the United States apart from the Gulf Coast states.
 
