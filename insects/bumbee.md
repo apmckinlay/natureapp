@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,mountain,urban]
 keywords: [bee]
+white_caption: "Tricolored Bumblebee"
 ---
 Bumblebee are **large**, **round**, and **furry** with **yellow**, **white**, and **orange stripes**. There are 46 different species in North America.
 
