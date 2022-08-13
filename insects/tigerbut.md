@@ -15,7 +15,7 @@ The mature **caterpillars** are dark green with two spots that look like eyes. T
 
 In different areas you will find the **Canadian**, **Eastern**, and **Western Tiger Swallowtails** as well as **Two-tailed** and **Pale Swallowtails**. They are similar in appearance and behavior with some minor differences.
 
-**Did you know?** Tiger Swallowtails are avid mud puddlers (as are **Yellow Sulphur**), often gathering in large groups around mud puddles and jostling each other for position. Scientists believe they are after the salt.
+**Did you know?** Tiger Swallowtails are avid mud puddlers (as are Clouded Sulphur), often gathering in large groups around mud puddles and jostling each other for position. Scientists believe they are after the salt.
 
 <!-- generated, do not edit -->
 **See Also:**
