@@ -8,7 +8,7 @@ location: [bc]
 habitat: [ocean,urban]
 keywords: [tree]
 visibility: high
-aka: ["Madrona"]
+aka: ["Madrone"]
 ---
 Arbutus has thin, smooth, reddish-brown **bark** that peels to reveal younger bark underneath. The crooked or leaning **trunks** split into numerous twisted branches with oval, leathery **leaves** that stay on the tree all year round. Leaves from the previous year turn reddish-orange and start to fall once the new leaves are fully grown. The tree can grow to a height of 100 ft.
 
