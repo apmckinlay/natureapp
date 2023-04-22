@@ -45,10 +45,10 @@
     </div>
     <div class="list">
         {{#items}}
-        <div class="item" id="{{data.page.fileSlug}}">
-            <a href="/{{page.fileSlug}}/{{data.page.fileSlug}}/">
+        <div class="item" id="{{page.fileSlug}}">
+            <a href="/{{data.section}}/{{page.fileSlug}}/">
                 <img class="small"
-                    src="/photos/{{page.fileSlug}}/small/{{data.page.fileSlug}}.jpg" />
+                    src="/photos/{{data.section}}/small/{{page.fileSlug}}.jpg" />
                 <div class="name">{{data.name}}</div>
             </a>
         </div>
@@ -56,7 +56,7 @@
     </div>
     <script>
         let items = [
-            {{#items}}["{{data.page.fileSlug}}", "{{data.habitat}}", "{{data.location}}"],
+            {{#items}}["{{page.fileSlug}}", "{{data.habitat}}", "{{data.location}}"],
             {{/items}}];
         function filter() {
             let sel = getSel()
