@@ -4,10 +4,10 @@ all: links index files
 
 build:
 	rm -r _site
-	eleventy --quiet
+	npx @11ty/eleventy --quiet
 
 serve:
-	eleventy --serve --quiet
+	npx @11ty/eleventy --serve --quiet
 	# firebase serve --only hosting --host 0.0.0.0
 
 deploy: links index files
@@ -22,9 +22,10 @@ index:
 files: build
 	find _site -type f | sed '/DS_Store/d ; /404/d ; /offline/d ; \
 		/eleventy.js/d ; /eslintrc.js/d ; \
+		/package.json/d ; /package-lock.json/d ; \
 		/screenshot/d ; s/_site// ; s/index.html// ; s/.*/"&",/' \
 		| sort > _includes/files.mustache
-	eleventy --quiet
+	npx @11ty/eleventy --quiet
 	
 help:
 	# make build - build the site
