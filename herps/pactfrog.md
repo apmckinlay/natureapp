@@ -15,7 +15,7 @@ Pacific Tree Frogs breed in **shallow wetlands** with lots of plant cover that w
 
 Pacific Tree Frogs can be found along the **Pacific coast** from southern British Columbia to Mexico and **inland** to parts of Idaho, Nevada, and western Montana.
 
-**Could it be?** Pacific Tree Frogs are often referred to as **Pacific Chorus Frogs** as there are similarities. However, [Boreal Chorus Frog](/herps/borchor/) don't live in the same areas and don't have toepads.
+**Could it be?** Pacific Tree Frogs are often referred to as **Pacific Chorus Frogs** as there are similarities. However, [Boreal Chorus Frogs](/herps/borchor/) don't live in the same areas and don't have toepads.
 
 **Did you know?** The male's breeding call is surprisingly loud for such a small animal, and it's often used as a soundtrack in movies and cartoons.
 

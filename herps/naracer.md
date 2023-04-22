@@ -14,7 +14,7 @@ North American Racers are **fast-moving**, active snakes that can be found acros
 
 Racers prefer open habitat with some cover. Some can climb trees, but they spend most of their time on the ground. They eat small animals, birds, frogs, and insects. Racers are active during the **day**. They hibernate during the winter in burrows, rock piles, and old foundations.
 
-Racers rattle their tails in dry leaves and grasses to mimic [Rattlesnake](/herps/ratlsnak/) but are harmless to humans.
+Racers rattle their tails in dry leaves and grasses to mimic [Rattlesnakes](/herps/ratlsnak/) but are harmless to humans.
 
 **Did you know?** Racers are curious and have good vision. They raise their heads to look around them.
 
