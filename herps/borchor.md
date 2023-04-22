@@ -18,7 +18,7 @@ The females lay their eggs in clusters, and they hatch quickly in 1-4 weeks. The
 
 Boreal Chorus Frogs have a **wide range** from British Columbia to Quebec and extending up into the Yukon and Northwest Territories. They are found in the central United States as far south as Arizona.
 
-**Could it be?** __Western Chorus Frogs__ are almost identical, but their range is confined to southwestern Ontario, from Michigan to New York, and south to Tennessee. [Pacific Tree Frogs](/herps/pactfrog/) are often referred to as Pacific Chorus Frogs as there are similarities, but they are not found in the same areas.
+**Could it be?** __Western Chorus Frogs__ are almost identical, but their range is confined to southwestern Ontario, from Michigan to New York, and south to Tennessee. [Pacific Tree Frog](/herps/pactfrog/) are often referred to as Pacific Chorus Frogs as there are similarities, but they are not found in the same areas.
 
 **Did you know?** Boreal Chorus Frogs are hard to see but easy to hear. The chorus of high-pitched trills has been compared to a fingernail running along the edge of a plastic comb.
 
