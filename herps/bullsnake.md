@@ -10,15 +10,15 @@ habitat: [desert,grassland]
 keywords: [reptile, snake]
 visibility: low
 ---
-Bullsnake, also known as **Gopher Snake**, are 4-7 ft long. They have a **large head**, **large eyes**, and a **narrow neck**. They are light brown to yellow with a cream-colored belly and dark blotches on their back and sides. An enlarged nose shield helps them to burrow in the sand.
+Bullsnakes, also known as **Gopher Snakes**, are 4-7 ft long. They have a **large head**, **large eyes**, and a **narrow neck**. They are light brown to yellow with a cream-colored belly and dark blotches on their back and sides. An enlarged nose shield helps them to burrow in the sand.
 
-Bullsnake are harmless to humans. They eat mainly rodents but also birds and lizards that they squeeze to death. They spend up to 90% of their time in underground dens, hibernating over winter in communal dens.
+Bullsnakes are harmless to humans. They eat mainly rodents but also birds and lizards that they squeeze to death. They spend up to 90% of their time in underground dens, hibernating over winter in communal dens.
 
-Bullsnake prefer the loose sandy soil of **prairies**, **deserts**, and **agricultural areas** and can be found wherever **rodents** are abundant.
+Bullsnakes prefer the loose sandy soil of **prairies**, **deserts**, and **agricultural areas** and can be found wherever **rodents** are abundant.
 
-**Could it be?** Bullsnake can be mistaken for [Rattlesnake](/herps/ratlsnak/) which they mimic by flattening their head and rattling their tail in bushes or leaves. [Rattlesnake](/herps/ratlsnak/) are shorter with a heavier body and vertical, cat-like eyes.
+**Could it be?** Bullsnakes can be mistaken for [Rattlesnakes](/herps/ratlsnak/) which they mimic by flattening their head and rattling their tail in bushes or leaves. [Rattlesnakes](/herps/ratlsnak/) are shorter with a heavier body and vertical, cat-like eyes.
 
-**Did you know?** Bullsnake spend so much time in the summer sunning themselves that they can develop skin cancer.
+**Did you know?** Bullsnakes spend so much time in the summer sunning themselves that they can develop skin cancer.
 
 <!-- generated, do not edit -->
 **See Also:**
