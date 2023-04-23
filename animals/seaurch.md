@@ -26,10 +26,10 @@ There are many different species of Sea Urchin. **Red Urchin** have long spines 
 [Clam](/animals/clam/),
 [Crab](/animals/crab/),
 [Harbor Seal](/animals/harbseal/),
-[Sea Jelly](/animals/jelly/),
 [River Otter](/animals/rivotter/),
 [Sand Dollar](/animals/sandolr/),
 [Sea Anemone](/animals/seaanem/),
+[Sea Jelly](/animals/seajelly/),
 [Sea Lion](/animals/sealion/),
 [Sea Otter](/animals/seaotter/),
 [Starfish](/animals/starfish/)

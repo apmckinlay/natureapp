@@ -29,10 +29,10 @@ Sea Lion give birth to one pup a year between May and July. The pups are nursed 
 [Clam](/animals/clam/),
 [Crab](/animals/crab/),
 [Harbor Seal](/animals/harbseal/),
-[Sea Jelly](/animals/jelly/),
 [River Otter](/animals/rivotter/),
 [Sand Dollar](/animals/sandolr/),
 [Sea Anemone](/animals/seaanem/),
+[Sea Jelly](/animals/seajelly/),
 [Sea Otter](/animals/seaotter/),
 [Sea Urchin](/animals/seaurch/),
 [Starfish](/animals/starfish/)

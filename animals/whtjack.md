@@ -23,5 +23,5 @@ Despite their name, Jackrabbits are Hares and are related to [Snowshoe Hares](/a
 
 <!-- generated, do not edit -->
 **See Also:**
-[Cottontail Rabbit](/animals/ctrabbit/),
+[Cottontail Rabbit](/animals/cotrab/),
 [Snowshoe Hare](/animals/snowhare/)

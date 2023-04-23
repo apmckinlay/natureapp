@@ -18,5 +18,5 @@ Hares, such as the Snowshoe Hare and the [White-tailed Jackrabbit](/animals/whtj
 
 <!-- generated, do not edit -->
 **See Also:**
-[Cottontail Rabbit](/animals/ctrabbit/),
+[Cottontail Rabbit](/animals/cotrab/),
 [White-tailed Jackrabbit](/animals/whtjack/)
