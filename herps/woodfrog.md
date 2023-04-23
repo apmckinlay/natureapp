@@ -15,7 +15,7 @@ Wood Frogs are widely distributed in **moist woodland areas** throughout **Canad
 
 The males make **small clucking sounds** during mating season. The females attach up to 2,000 eggs to underwater vegetation. The tadpoles eat plants, while the adults use their long, sticky tongue to capture insects, spiders, slugs, worms, and snails.
 
-**Did you know?** Wood Frogs hibernate under logs or leaf litter and can tolerate below-zero temperatures by increasing the amount of glucose in their blood, which lowers the freezing point and stops ice crystals from forming.
+**Did you know?** Wood Frogs hibernate under logs or leaf litter and can tolerate below-zero temperatures by increasing the amount of glucose in their blood. Glucose is a natural antifreeze; it lowers the freezing point and stops ice crystals from forming.
 
 <!-- generated, do not edit -->
 **See Also:**
