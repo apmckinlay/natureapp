@@ -25,6 +25,7 @@ There are many different varieties of Clams. There are also **freshwater** Clams
 [Blue Mussel](/animals/blumussel/),
 [Crab](/animals/crab/),
 [Harbor Seal](/animals/harbseal/),
+[Sea Jelly](/animals/jelly/),
 [River Otter](/animals/rivotter/),
 [Sand Dollar](/animals/sandolr/),
 [Sea Anemone](/animals/seaanem/),

@@ -27,6 +27,7 @@ Male **Northern Elephant Seal**, true to their name, have a large nose. They are
 [Blue Mussel](/animals/blumussel/),
 [Clam](/animals/clam/),
 [Crab](/animals/crab/),
+[Sea Jelly](/animals/jelly/),
 [River Otter](/animals/rivotter/),
 [Sand Dollar](/animals/sandolr/),
 [Sea Anemone](/animals/seaanem/),

@@ -26,6 +26,7 @@ Fertilized eggs are glued onto the female's abdomen and released as newly-hatche
 [Blue Mussel](/animals/blumussel/),
 [Clam](/animals/clam/),
 [Harbor Seal](/animals/harbseal/),
+[Sea Jelly](/animals/jelly/),
 [River Otter](/animals/rivotter/),
 [Sand Dollar](/animals/sandolr/),
 [Sea Anemone](/animals/seaanem/),

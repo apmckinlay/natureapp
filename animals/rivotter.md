@@ -25,6 +25,7 @@ River Otter use or build dens near a riverbank. The young are usually born in Ma
 [Clam](/animals/clam/),
 [Crab](/animals/crab/),
 [Harbor Seal](/animals/harbseal/),
+[Sea Jelly](/animals/jelly/),
 [Sand Dollar](/animals/sandolr/),
 [Sea Anemone](/animals/seaanem/),
 [Sea Lion](/animals/sealion/),

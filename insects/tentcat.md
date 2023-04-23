@@ -23,6 +23,7 @@ The **caterpillars** are about two inches long and black with a white stripe or 
 
 <!-- generated, do not edit -->
 **See Also:**
+[Admiral Butterfly](/insects/admiral/),
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),

@@ -19,6 +19,7 @@ In different areas you will find the **Canadian**, **Eastern**, and **Western Ti
 
 <!-- generated, do not edit -->
 **See Also:**
+[Admiral Butterfly](/insects/admiral/),
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),

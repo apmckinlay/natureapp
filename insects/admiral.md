@@ -8,6 +8,7 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland,forest,urban]
 visibility: high 
+black_caption: "Western White Admiral"
 ---
 Admirals are medium-to-large, fast-flying, brightly colored butterflies that are found across North America. They can often be seen perched or slowly patrolling their territory.
 
@@ -18,3 +19,18 @@ Admirals are medium-to-large, fast-flying, brightly colored butterflies that are
 **Lorquin’s Admirals** are large black butterflies with a white band across their wings and orange-red tips on both surfaces (2-3 in wingspan). They can be found from southern BC and Alberta to southern California and east to Montana and Idaho. They prefer bare, grassy patches on a south-facing slope with dense shrubs or trees at the upper end that are warmed by the sun. The caterpillars are brownish-yellow with white patches.
 
 **Did you know?** Many butterflies live on flower nectar - but not all. Some, such as Red Admirals, drink from tree sap, rotting fruit, or bird droppings.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Azure Butterfly](/insects/azurebut/),
+[Banded Woolly Bear Caterpillar](/insects/bandwb/),
+[Cabbage White](/insects/cabbgwht/),
+[Clouded Sulphur](/insects/cloudsulf/),
+[Compton Tortoiseshell](/insects/comptort/),
+[Great Spangled Fritillary](/insects/greatfrit/),
+[Hawk Moth](/insects/hawkmoth/),
+[Monarch Butterfly](/insects/monarch/),
+[Mourning Cloak](/insects/mournbut/),
+[Painted Lady](/insects/paintbut/),
+[Tent Caterpillar](/insects/tentcat/),
+[Tiger Swallowtail](/insects/tigerbut/)

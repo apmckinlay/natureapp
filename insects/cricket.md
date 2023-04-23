@@ -19,5 +19,6 @@ Crickets are related to Long-horned [Grasshopper](/insects/grasshop/) and [Katyd
 
 <!-- generated, do not edit -->
 **See Also:**
+[Cicada](/insects/cicada/),
 [Grasshopper](/insects/grasshop/),
 [Katydid](/insects/katydid/)

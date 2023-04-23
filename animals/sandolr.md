@@ -25,6 +25,7 @@ Sand Dollars are closely related to [Starfish](/animals/starfish/) and [Sea Urch
 [Clam](/animals/clam/),
 [Crab](/animals/crab/),
 [Harbor Seal](/animals/harbseal/),
+[Sea Jelly](/animals/jelly/),
 [River Otter](/animals/rivotter/),
 [Sea Anemone](/animals/seaanem/),
 [Sea Lion](/animals/sealion/),

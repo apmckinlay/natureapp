@@ -21,6 +21,7 @@ Mourning Cloak butterflies can be found throughout North America although they a
 
 <!-- generated, do not edit -->
 **See Also:**
+[Admiral Butterfly](/insects/admiral/),
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),

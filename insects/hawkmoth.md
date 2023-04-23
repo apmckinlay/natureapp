@@ -21,6 +21,7 @@ The **caterpillars** are green with a horn at the rear end. They rely on honeysu
 
 <!-- generated, do not edit -->
 **See Also:**
+[Admiral Butterfly](/insects/admiral/),
 [Azure Butterfly](/insects/azurebut/),
 [Banded Woolly Bear Caterpillar](/insects/bandwb/),
 [Cabbage White](/insects/cabbgwht/),

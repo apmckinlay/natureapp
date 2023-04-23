@@ -18,5 +18,6 @@ Katydid usually eat leaves (although a few species eat insects) and can be found
 
 <!-- generated, do not edit -->
 **See Also:**
+[Cicada](/insects/cicada/),
 [Cricket](/insects/cricket/),
 [Grasshopper](/insects/grasshop/)
