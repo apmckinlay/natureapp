@@ -33,5 +33,5 @@ Male **Northern Elephant Seal**, true to their name, have a large nose. They are
 [Sea Jelly](/animals/seajelly/),
 [Sea Lion](/animals/sealion/),
 [Sea Otter](/animals/seaotter/),
-[Sea Urchin](/animals/seaurch/),
-[Starfish](/animals/starfish/)
+[Sea Star](/animals/seastar/),
+[Sea Urchin](/animals/seaurch/)

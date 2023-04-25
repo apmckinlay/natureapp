@@ -31,5 +31,5 @@ Barnacles are crustaceans and related to Shrimp, [Crab](/animals/crab/), and Lob
 [Sea Jelly](/animals/seajelly/),
 [Sea Lion](/animals/sealion/),
 [Sea Otter](/animals/seaotter/),
-[Sea Urchin](/animals/seaurch/),
-[Starfish](/animals/starfish/)
+[Sea Star](/animals/seastar/),
+[Sea Urchin](/animals/seaurch/)

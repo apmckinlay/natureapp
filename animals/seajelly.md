@@ -30,5 +30,5 @@ Many Sea Jellies use their tentacles to trap their prey (small plankton swimming
 [Sea Anemone](/animals/seaanem/),
 [Sea Lion](/animals/sealion/),
 [Sea Otter](/animals/seaotter/),
-[Sea Urchin](/animals/seaurch/),
-[Starfish](/animals/starfish/)
+[Sea Star](/animals/seastar/),
+[Sea Urchin](/animals/seaurch/)

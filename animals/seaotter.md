@@ -32,5 +32,5 @@ Sea Otter eat [Clams](/animals/clam/), [Crabs](/animals/crab/), [Sea Urchins](/a
 [Sea Anemone](/animals/seaanem/),
 [Sea Jelly](/animals/seajelly/),
 [Sea Lion](/animals/sealion/),
-[Sea Urchin](/animals/seaurch/),
-[Starfish](/animals/starfish/)
+[Sea Star](/animals/seastar/),
+[Sea Urchin](/animals/seaurch/)
