@@ -11,7 +11,7 @@ keywords: [butterfly]
 visibility: high
 white_caption: "Forest Tent Caterpillars"
 ---
-Tent Caterpillar form large common silk **nests** (tents) in the **forks of trees** where the moths lay their eggs in early spring. Once the caterpillars emerge, you'll often see large bands of caterpillars feeding on the tender new leaves.
+Tent Caterpillars form large common silk **nests** (tents) in the **forks of trees** where the moths lay their eggs in early spring. Once the caterpillars emerge, you'll often see large bands of caterpillars feeding on the tender new leaves.
 
 Widespread outbreaks of Tent Caterpillars occur in **cities** and **forests** across North America on a cyclical basis. They're considered a pest as they can strip all the leaves off a tree.
 
