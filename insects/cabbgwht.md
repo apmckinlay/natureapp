@@ -10,11 +10,11 @@ habitat: [grassland,urban]
 keywords: [butterfly]
 visibility: high
 ---
-Cabbage White butterfly are a common sight in backyard **gardens** as the bluish-green **caterpillars** with light yellow stripes particularly enjoy nibbling on plants in the mustard family (cabbage, cauliflower, broccoli). The upper **wings** are white with black tips and 1 (male) or 2 (female) black spots. The underside of their wings is yellowish-gray. They have a wingspan of 1.25-2 in.
+Cabbage White butterflies are a common sight in backyard **gardens** as the bluish-green **caterpillars** with light yellow stripes particularly enjoy nibbling on plants in the mustard family (cabbage, cauliflower, broccoli). The upper **wings** are white with black tips and 1 (male) or 2 (female) black spots. The underside of their wings is yellowish-gray. They have a wingspan of 1.25-2 in.
 
-Cabbage White are one of the first butterfly to appear in the **spring** and can be found in almost any type of open area. They are particularly abundant in urban and farmland areas.
+Cabbage Whites are one of the first butterfly to appear in the **spring** and can be found in almost any type of open area. They are particularly abundant in urban and farmland areas.
 
-**Did you know?** Cabbage White butterfly were introduced in Quebec in the 1860s and have since spread across North America. They can be found from Nunavut to northwest Mexico.
+**Did you know?** Cabbage White butterflies were introduced in Quebec in the 1860s and have since spread across North America. They can be found from Nunavut to northwest Mexico.
 
 <!-- generated, do not edit -->
 **See Also:**
