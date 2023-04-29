@@ -8,7 +8,7 @@ location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban,wetland]
 visibility: high
 ---
-Mosquito are small (up to .5in) **flying** insects with a tube-like mouthpart. They have one pair of narrow wings and long, thin legs. There are 3,500 types of mosquitoes world-wide and very few of them bite humans. They can be found throughout North America wherever there is water for them to lay their eggs. They're active year-round in tropical or sub-tropical areas and in summer in temperate or cold climates.
+Mosquitoes are small (up to .5in) **flying** insects with a tube-like mouthpart. They have one pair of narrow wings and long, thin legs. There are 3,500 types of mosquitoes world-wide and very few of them bite humans. They can be found throughout North America wherever there is water for them to lay their eggs. They're active year-round in tropical or sub-tropical areas and in summer in temperate or cold climates.
 
 Mosquitoes eat nectar and other plant sugars, but the females suck blood to provide protein for their eggs. They home in on their blood hosts using carbon dioxide, body odors, temperature, and movement. Many mosquitoes prefer horses, cattle, and birds to humans.
 
