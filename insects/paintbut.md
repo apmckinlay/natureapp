@@ -10,13 +10,13 @@ habitat: [grassland,urban]
 keywords: [butterfly]
 ---
 
-Painted Lady Butterfly prefer wide open areas such as **fields** and **meadows** but can live almost anywhere, including cities, swamps, deserts, and forests. The upper surface of their **wings** is orange-brown with a white bar on the front wings and 5 tiny black dots on the rear wings. The under surface of their wings has brown, black, and gray patterns with tiny dots. Their wingspan is 2-3 in.
+Painted Lady Butterflies prefer wide open areas such as **fields** and **meadows** but can live almost anywhere, including cities, swamps, deserts, and forests. The upper surface of their **wings** is orange-brown with a white bar on the front wings and 5 tiny black dots on the rear wings. The under surface of their wings has brown, black, and gray patterns with tiny dots. Their wingspan is 2-3 in.
 
-The **caterpillars** are grayish-brown with a yellow stripe down their back and spikes along their sides and back. They eat the leaves of weeds and flowers (such as Thistles, Hollyhock, and Mallows).
+The **caterpillars** are grayish-brown with a yellow stripe down their back and spikes along their sides and back. They eat the leaves of weeds and flowers (such as Thistles, Hollyhocks, and Mallows).
 
-Painted Lady Butterfly migrate every year from northern Mexico to Canada and the northern United States.
+Painted Lady Butterflies migrate every year from northern Mexico to Canada and the northern United States.
 
-**Did you know?** Male Painted Lady defend their territory from other males and will court any female that crosses their path. In warm climates, they mate year round.
+**Did you know?** Male Painted Ladies defend their territory from other males and will court any female that crosses their path. In warm climates, they mate year round.
 
 <!-- generated, do not edit -->
 **See Also:**
