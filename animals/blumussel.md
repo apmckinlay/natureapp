@@ -5,7 +5,7 @@ attr: "Inductiveload"
 attr_link: "https://commons.wikimedia.org/wiki/File:Blue_mussel_clump.jpg"
 license: "Public Domain"
 license_link: "https://en.wikipedia.org/wiki/Public_domain"
-location: [bc]
+location: [bc,mb]
 habitat: [ocean]
 visibility: high
 ---
