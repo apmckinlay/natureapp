@@ -5,7 +5,7 @@ attr: "Rebecca Johnson"
 attr_link: "https://inaturalist.ca/photos/1976160"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
-location: [bc]
+location: [bc,mb]
 habitat: [ocean, wetland]
 white_caption: "Pacific Razor Clam"
 ---
