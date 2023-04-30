@@ -5,7 +5,7 @@ attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/41389438535"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
-location: [bc]
+location: [bc,mb]
 habitat: [ocean,wetland]
 visibility: high
 white_caption: "Yellow Shore Crab"
