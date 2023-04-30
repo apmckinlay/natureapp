@@ -5,7 +5,7 @@ attr: "Kirt L. Onthank"
 attr_link: "https://commons.wikimedia.org/wiki/File:Strongylocentrotus_franciscanus.jpg"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/3.0/"
-location: [bc]
+location: [bc,mb]
 habitat: [ocean]
 white_caption: "Red Sea Urchin"
 ---
