@@ -5,7 +5,7 @@ attr: "Robert Fuhro"
 attr_link: "https://www.flickr.com/photos/bob_l_f/5539304547"
 license: "CC BY-NC-ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
-location: [bc]
+location: [bc,mb]
 habitat: [ocean]
 visibility: high
 ---
