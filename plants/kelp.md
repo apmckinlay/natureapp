@@ -4,7 +4,7 @@ attr: "NOAA"
 attr_link: "https://www.flickr.com/photos/noaaphotolib/5077882249"
 license: "CC BY"
 license_link: "https://creativecommons.org/licenses/by/2.0/"
-location: [bc]
+location: [bc,mb]
 habitat: [ocean]
 visibility: high
 white_caption: "Giant Kelp"
