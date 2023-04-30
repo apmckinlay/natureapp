@@ -5,7 +5,7 @@ attr: "Andrew McKinlay"
 attr_link: "https://www.flickr.com/photos/apmckinlay/20260165273"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
-location: [bc]
+location: [bc,mb]
 habitat: [ocean]
 visibility: high 
 aka: ["Jellyfish"]
