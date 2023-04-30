@@ -14,7 +14,7 @@ const generated = "<!-- generated, do not edit -->";
 let id2name = {}; // e.g. "crow" => "Crow"
 let id2path = {}; // e.g. "crow" => "animals/crow.md"
 let name2id = {}; // e.g. "Crow" => "crow"
-let groups = {}; // e.g. "corvid" => ["crow", "raven"]
+let groups = {};  // e.g. "corvid" => ["crow", "raven"]
 
 let dirs = ['birds/', 'herps/', 'insects/', 'animals/', 'plants/', 'trees/']
 for (let dir of dirs)
@@ -95,25 +95,44 @@ function namesToLinks(id, content) {
     let rx = /\[(.*?)\]\(.*?\)/g;
     content = content.replace(rx, "$1");
 
-    names = Object.values(id2name)
+    let names = Object.values(id2name);
     names.sort(function (a, b) {
-        return b.length - a.length || a < b
+        // sort by length so we process e.g. "Crab Spider" before "Crab"
+        return b.length - a.length || a < b;
     });
 
     // change names to links
     for (let name of names) {
-        id2 = name2id[name]
-        if (content.includes(name)) {
-            // Complicated by names that are a prefix/suffix of another.
-            // Still won't handle a name that is inside another.
-            let rx = RegExp('([^\\[]|^)\\b_*(' + name + 's?)_*\\b(?!])', 'g');
-            content = content.replace(rx,
-                (str, pre, name) => pre + '[' + name + '](/' + id2path[id2] + '/)');
-        }
+        let id2 = name2id[name];
+        content = plurals(content, id2, name, link)
     }
-    // remove links from current item
-    let name = id2name[id]
-    let rx2 = RegExp('\\[(' + name + 's?)\\]\\(/' + id2path[id] + '/\\)', 'g')
-    content = content.replace(rx2, "$1")
+    
+    // remove links to current item
+    let name = id2name[id];
+    content = plurals(content, id, name, unlink)
     return front + content;
+}
+
+function plurals(content, id, name, fn) {
+    content = fn(content, id, name);
+    content = fn(content, id, name + "s");
+    content = fn(content, id, name + "es");
+    if (name.endsWith("ly"))
+        content = fn(content, id, name.slice(0, -2) + "lies");
+    if (name.endsWith("man"))
+        content = fn(content, id, name.slice(0, -3) + "men");
+    return content;
+}
+
+function link(content, id, name) {
+    // Complicated by names that are a prefix/suffix of another.
+    // Still won't handle a name that is inside another.
+    let rx = RegExp('([^\\[]|^)\\b_*(' + name + ')_*\\b(?!])', 'g');
+    return content.replace(rx,
+        (str, pre, found) => pre + '[' + found + '](/' + id2path[id] + '/)');
+}
+
+function unlink(content, id, name) {
+    let rx2 = RegExp('\\[(' + name + ')\\]\\(/' + id2path[id] + '/\\)', 'g');
+    return content.replace(rx2, "$1");
 }
