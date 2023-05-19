@@ -1,10 +1,10 @@
 ---
 name: "North American Racer"
 group: "snake"
-attr: ""
-attr_link: ""
-license: "CC BY"
-license_link: "https://creativecommons.org/licenses/by/2.0/"
+attr: "Andrew DuBois"
+attr_link: "https://www.flickr.com/photos/138578145@N04/34108984382"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,sk]
 habitat: [desert,forest,grassland]
 keywords: [reptile, snake]
