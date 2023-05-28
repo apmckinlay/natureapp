@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/49875904891"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [forest,grassland]
+habitat: [forest,grassland,urban]
 visibility: high
 ---
 Least Chipmunk are the **smallest** of all the chipmunks (8 in tall) with light and dark **stripe**s on their face and back. Their tail and back are reddish-brown, while their belly is grayish-white. They are most at home in the boreal and Rocky Mountain forests, but they can also be found across central Canada and the Great Plains, from sagebrush desert to alpine tundra.
