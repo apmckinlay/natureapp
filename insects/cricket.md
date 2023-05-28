@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/51413398197"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [forest,grassland]
+habitat: [forest,grassland,urban]
 white_caption: "Fall Field Cricket"
 ---
 Crickets are medium-sized insects (.25-2 in long) with larger back **legs**, long thin **antennae**, and **wings** bent down against their body. Most are brown, but some are green or black. From above, they may look flat. Not all of them are able to fly.
