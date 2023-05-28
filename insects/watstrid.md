@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/34812221393"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [wetland]
+habitat: [urban,wetland]
 visibility: high
 aka: ["Pond Skater", "Water Skipper", "Jesus Bug"]
 ---
