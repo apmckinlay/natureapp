@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/27811886876/"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [wetland]
+habitat: [urban,wetland]
 visibility: high
 white_caption: "male"
 ---
