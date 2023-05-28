@@ -5,7 +5,7 @@ attr_link: "https://photos.google.com/album/AF1QipNhGXQyxJwNngVtQKD5pqNfQPYSp4kz
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [ocean,wetland]
+habitat: [ocean,urban,wetland]
 visibility: high
 ---
 The White Pelican is one of North America's largest birds. Their **black and white wings** have a 9-ft span and flocks often soar very high in the sky, circling and wheeling. They dip their **pouched orange bills** in the water to scoop up water and fish, draining the water out of their bills before tilting their heads back to swallow. They lay 1-6 eggs on a shallow mound on an island in a lake or wetland.
