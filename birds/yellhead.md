@@ -6,7 +6,7 @@ license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 group: "blackbird"
 location: [bc,ab,sk,mb]
-habitat: [wetland]
+habitat: [urban,wetland]
 visibility: high 
 white_caption: "male"
 ---
