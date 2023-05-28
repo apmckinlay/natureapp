@@ -6,7 +6,7 @@ attr_link: "https://www.inaturalist.org/photos/21080615"
 license: "CC BY-NC"
 license_link: "http://creativecommons.org/licenses/by-nc/4.0/"
 location: [bc,ab]
-habitat: [forest,mountain]
+habitat: [forest,mountain,urban]
 keywords: [shrub,berry]
 visibility: high
 aka: ["Mahonia"]
