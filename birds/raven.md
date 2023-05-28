@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/13074015763"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [desert,forest,mountain]
+habitat: [desert,forest,mountain,urban]
 visibility: high
 ---
 The Common Raven can be found **year-round** in almost every part of North America. They're less common on the prairies and in cities but can be found around **farms** and **small towns**.
