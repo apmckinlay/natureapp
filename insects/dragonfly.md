@@ -6,7 +6,7 @@ attr_link: "https://www.flickr.com/photos/apmckinlay/42483497320"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
-habitat: [wetland]
+habitat: [urban,wetland]
 visibility: high
 ---
 Dragonflies are a common sight in summer as they dart over streams, ponds, and lakes looking for mosquitoes or other insects. They have long narrow bodies (1-3 in) with **two sets of wings** with a 2-3 in wingspan. Large eyes make up most of their head and they can see in every direction except right behind them. They use their legs to grab prey or hold onto plants.
