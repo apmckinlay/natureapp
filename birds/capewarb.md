@@ -17,7 +17,7 @@ The Cape May Warblers' favourite northern food is the **[Spruce](/trees/spruce/)
 
 **Could it be?** [Yellow-rumped Warblers](/birds/yellrump/) have a long thin tail with bright yellow patches on face, sides, and rump.
 
-**Did you know?** Cape May Warbler have a curled, semitubular tongue that they use to collect flower nectar in the Caribbean during the winter.
+**Did you know?** Cape May Warblers have a curled, semitubular tongue that they use to collect flower nectar in the Caribbean during the winter.
 
 <!-- generated, do not edit -->
 **See Also:**
