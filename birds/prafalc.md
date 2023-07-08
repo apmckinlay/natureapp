@@ -8,11 +8,11 @@ license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [desert,grassland]
 ---
-Prairie Falcon can be seen **flying low** over western **deserts** and **grasslands** from southern British Columbia, Alberta, Saskatchewan, and Manitoba south to California, Arizona, and New Mexico. They nest on ledges or crevices of cliffs and avoid forested areas and coasts.
+Prairie Falcons can be seen **flying low** over western **deserts** and **grasslands** from southern British Columbia, Alberta, Saskatchewan, and Manitoba south to California, Arizona, and New Mexico. They nest on ledges or crevices of cliffs and avoid forested areas and coasts.
 
-Prairie Falcon are **large** (15-18 in, 35-45 in wingspan) with a **light-brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
+Prairie Falcons are **large** (15-18 in, 35-45 in wingspan) with a **light-brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
 
-In summer, Prairie Falcon catch small animals, such as [Richardson's Ground Squirrels](/animals/richgs/), but in winter they prey on small birds, such as **Horned Lark** and [Western Meadowlark](/birds/westmlark/).
+In summer, Prairie Falcons catch small animals, such as [Richardson's Ground Squirrels](/animals/richgs/), but in winter they prey on small birds, such as **Horned Larks** and [Western Meadowlark](/birds/westmlark/).
 
 **Could it be?** [Peregrine Falcon](/birds/peregrine/) are a similar size but darker and don't have dark patches under their wings. [Kestrel](/birds/kestrel/) and [Merlin](/birds/merlin/) are both much smaller.
 
