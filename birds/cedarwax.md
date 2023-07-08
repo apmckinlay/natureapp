@@ -9,10 +9,10 @@ habitat: [forest,urban]
 ---
 A light brown head, crest, and chest fade to blue-gray over the wings and tail. A **black mask** across the eyes, a **yellow tail tip**, and bright **red drops on the wings** add splashes of color. The **crest** often droops over the back of the head. They are a **medium-sized** bird (5.5-7 in).
 
-Cedar Waxwing travel and feed in **large flocks**, feasting on fruit and berries. They're found near **open woodlands** and **fruit trees**.
+Cedar Waxwings travel and feed in **large flocks**, feasting on fruit and berries. They're found near **open woodlands** and **fruit trees**.
 
-Cedar Waxwing can be found **year-round** in southern Ontario, Quebec, and Nova Scotia as well as the northern United States, while others spend their **summers** in Canada, migrating in **winter** to the southern United States.
+Cedar Waxwings can be found **year-round** in southern Ontario, Quebec, and Nova Scotia as well as the northern United States, while others spend their **summers** in Canada, migrating in **winter** to the southern United States.
 
-**Could it be?** **Bohemian Waxwing** are slightly larger with white and yellow stripes on their closed wings and rusty-red under the tail.
+**Could it be?** **Bohemian Waxwings** are slightly larger with white and yellow stripes on their closed wings and rusty-red under the tail.
 
-**Did you know?** Cedar Waxwing are one of the few North American birds that specialize in eating fruit. They also eat insects but can survive for several months eating just fruit.
+**Did you know?** Cedar Waxwings are one of the few North American birds that specialize in eating fruit. They also eat insects but can survive for several months eating just fruit.
