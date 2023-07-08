@@ -13,7 +13,7 @@ Sharp-tailed Grouse are spotted, **brown and white**, chicken-like birds (15-19 
 
 Sharp-tailed Grouse are found in southwestern Canada and the northern United States. They live in **open, grassy areas** during the **summer** and **sheltered, wooded areas** during the **winter**. Their diet includes seeds, buds, and leaves as well as insects, berries, and grains.
 
-**Could it be?** **Ring-necked Pheasant** are larger and don't have narrow, pointed, white-edged tail feathers.
+**Could it be?** **Ring-necked Pheasants** are larger and don't have narrow, pointed, white-edged tail feathers.
 
 **Did you know?** Up to two dozen males perform a courtship display on a group breeding ground called a lek. During the mating dance, the males spread their wings, holding their tail up straight and shaking it while they dance in a circle. Their large purple neck sacs are inflated and they make popping or whistling sounds.
 
