@@ -8,13 +8,13 @@ license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [grassland]
 ---
-Swainson's Hawk  (19-22 in) are a common sight in **summer**, soaring over the prairies and open **grasslands** of western North America. They prefer **wide open spaces** where they can easily spot ground squirrels and other small rodents, their preferred food when they are breeding.
+Swainson's Hawks  (19-22 in) are a common sight in **summer**, soaring over the prairies and open **grasslands** of western North America. They prefer **wide open spaces** where they can easily spot ground squirrels and other small rodents, their preferred food when they are breeding.
 
-Swainson's Hawk can vary in color, but they usually have a **dark breast**, a **light-colored belly**, and brown or gray upper parts. Most **males** have **gray** heads, while most **females** have **brown** heads. The **large white patches edged with black flight feathers** on their underwings help to identify them when they are in flight.
+Swainson's Hawks can vary in color, but they usually have a **dark breast**, a **light-colored belly**, and brown or gray upper parts. Most **males** have **gray** heads, while most **females** have **brown** heads. The **large white patches edged with black flight feathers** on their underwings help to identify them when they are in flight.
 
-They eat lots of large insects (grasshoppers, dragonflies), hence their alternate name of **[Grasshopper](/insects/grasshop/) Hawk**. They build their large, loose nests in treetops.
+They eat lots of large insects (grasshoppers, dragonflies), hence their alternate name of **[Grasshopper](/insects/grasshop/) Hawks**. They build their large, loose nests in treetops.
 
-**Could it be?** Swainson's Hawk are slimmer and longer-winged than other hawks. [Red-tailed Hawk](/birds/redtail/) have shorter, wider wings without the light-dark contrast on the underside. **Ferruginous Hawk** have a light-coloured chest and abdomen and are entirely white under the wings. **Rough-legged Hawk** have a black-and-white tail pattern and feathery legs.
+**Could it be?** Swainson's Hawks are slimmer and longer-winged than other hawks. [Red-tailed Hawk](/birds/redtail/) have shorter, wider wings without the light-dark contrast on the underside. **Ferruginous Hawks** have a light-coloured chest and abdomen and are entirely white under the wings. **Rough-legged Hawks** have a black-and-white tail pattern and feathery legs.
 
 **Did you know?** Swainson's Hawks' long migration to Argentina can take up to two months. Their large migratory flocks number in the tens of thousands and they may travel for several days without feeding.
 
