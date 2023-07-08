@@ -8,9 +8,9 @@ license_link: "https://creativecommons.org/licenses/by/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [ocean,wetland]
 ---
-Most sandpipers nest in the far north, but Spotted Sandpiper are common near rivers, lakes, and streams and coastlines across North America in **summer**. Some **winter** along the Pacific coast and the southern United States, while others head even further south.
+Most sandpipers nest in the far north, but Spotted Sandpipers are common near rivers, lakes, and streams and coastlines across North America in **summer**. Some **winter** along the Pacific coast and the southern United States, while others head even further south.
 
-A medium-sized (7-8 in) shorebird, Spotted Sandpiper **bob their tails up and down** while walking.
+A medium-sized (7-8 in) shorebird, Spotted Sandpipers **bob their tails up and down** while walking.
 
 The Spotted Sandpiper's bill is almost as long as its head and its body tapers to a longish tail. In **summer**, they have a dark-brown back, a white belly with dark spots, and a bright orange bill. The colors are more muted in **winter** with a light brown back, no spots on the belly, and a pale yellow bill. You can spot a **white stripe** on their **wings** when they are **flying**.
 
