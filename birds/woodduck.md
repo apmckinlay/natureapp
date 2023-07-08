@@ -9,15 +9,15 @@ location: [bc,ab,sk,mb]
 habitat: [forest,wetland]
 white_caption: "male, breeding"
 ---
-Wood Duck (18-21 in) have a boxy, crested **head**, a thin **neck**, short **wings**, and a long broad **tail**. **Male** Wood Duck have a glossy green head with white stripes on the head and chin in **summer**. **Females** and **juveniles** are brownish-gray with a white patch around the eye.
+Wood Ducks (18-21 in) have a boxy, crested **head**, a thin **neck**, short **wings**, and a long broad **tail**. **Male** Wood Ducks have a glossy green head with white stripes on the head and chin in **summer**. **Females** and **juveniles** are brownish-gray with a white patch around the eye.
 
-Wood Duck prefer areas with a mix of water and forest, such as woodland ponds or river swamps. They perch and nest in trees and are comfortable flying through woods. They spend their **summers** in southern Canada and the northern USA. They can be found **year-round** along the west coast and in the southern USA.
+Wood Ducks prefer areas with a mix of water and forest, such as woodland ponds or river swamps. They perch and nest in trees and are comfortable flying through woods. They spend their **summers** in southern Canada and the northern USA. They can be found **year-round** along the west coast and in the southern USA.
 
 The birds pair up in late winter and begin breeding in early spring. They eat mostly plant materials.
 
-**Could it be?** **Green-winged Teal** don't have bold white stripes. [Mallard](/birds/mallard/) have much paler sides and don't have the crest and white stripes.
+**Could it be?** **Green-winged Teals** don't have bold white stripes. [Mallard](/birds/mallard/) have much paler sides and don't have the crest and white stripes.
 
-**Did you know?** Wood Duck have strong claws that they use to grip bark and perch on branches. Very young ducklings must jump from high tree cavities to make their way to water.
+**Did you know?** Wood Ducks have strong claws that they use to grip bark and perch on branches. Very young ducklings must jump from high tree cavities to make their way to water.
 
 <!-- generated, do not edit -->
 **See Also:**
