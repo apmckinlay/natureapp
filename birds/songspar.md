@@ -16,7 +16,7 @@ Song Sparrows spend their **summers** across Canada and the north-central United
 
 Song Sparrows make **short, fluttering flights** pumping their **tail up and down**. They prefer areas with low shrubs and bushes.
 
-[House Sparrow](/birds/houspar/), introduced to North America in 1851, are chunkier (6-6.7 in long) with a shorter tail and stouter beak.
+[House Sparrows](/birds/houspar/), introduced to North America in 1851, are chunkier (6-6.7 in long) with a shorter tail and stouter beak.
 
 **Did you know?** Song Sparrows often two lay two or more clutches of eggs per season.
 
