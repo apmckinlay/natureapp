@@ -15,7 +15,7 @@ Gulls are long-winged, white birds with gray and black markings. It can be diffi
 
 Ring-billed Gulls are a **medium-sized** bird (17-21 in) with a **black ring** around the tip of their bill. They spend their **summers** in Canada and the northern United States. **Winters** are spent around the Great Lakes and in the southern United States as well as along its coasts.
 
-**Could it be?** [Herring Gull](/birds/herrgull/) are larger and have thicker bills without the black ring. [California Gull](/birds/calgull/) are slightly larger and have a red spot as well as a black band on their bill.
+**Could it be?** [Herring Gulls](/birds/herrgull/) are larger and have thicker bills without the black ring. [California Gulls](/birds/calgull/) are slightly larger and have a red spot as well as a black band on their bill.
 
 **Did you know?** Nesting colonies of Ring-billed Gulls normally include a few two-female couples, both of whom lay a clutch of eggs.
 
