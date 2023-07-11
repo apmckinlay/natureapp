@@ -14,7 +14,7 @@ Pelicans spend their **summers** on the **lakes and rivers** of the Canadian Pra
 
 The birds return to the same sites year after year. The second largest colony in Canada is found on Lavallee Lake, **Prince Albert National Park**.
 
-White Pelicans and [Double-crested Cormorant](/birds/doubcorm/) are often found together. 
+White Pelicans and [Double-crested Cormorants](/birds/doubcorm/) are often found together. 
 
 **Could it be?** **Brown Pelicans** have dark feathers, dive for their food, and are much smaller than White Pelicans.
 
