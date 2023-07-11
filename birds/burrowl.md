@@ -15,7 +15,7 @@ Burrowing Owls live in **treeless areas** with an open view and plenty of holes 
 
 Burrowing Owls turn their head upside down when curious and bob up and down when threatened.
 
-**Could it be?** Unlike many owls, Burrowing Owls are **active day and night. [Long-eared Owl](/birds/longowl/)**, **Short-eared Owls**, and [Snowy Owl](/birds/snowyowl/) also live in **grassland areas**, but they're all much larger than the Burrowing Owl. **Short-eared Owls** (14-17 in) are the most similar, but they have shorter legs, an obvious facial disc, and fly low over the fields rather than walking on the ground.
+**Could it be?** Unlike many owls, Burrowing Owls are **active day and night. [Long-eared Owls](/birds/longowl/)**, **Short-eared Owls**, and [Snowy Owls](/birds/snowyowl/) also live in **grassland areas**, but they're all much larger than the Burrowing Owl. **Short-eared Owls** (14-17 in) are the most similar, but they have shorter legs, an obvious facial disc, and fly low over the fields rather than walking on the ground.
 
 **Did you know?** Burrowing Owls often line the entrance to their burrows with animal dung to attract insects that they can catch and eat.
 
