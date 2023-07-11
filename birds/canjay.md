@@ -16,7 +16,7 @@ Canada Jays are highly **curious** and always on the lookout for **food**, anyth
 
 Canada Jays are 10-13 in long with a wingspan of 18 in. They have a round head, a short bill, and a long tail. They live **year-round** in the northern forests and **nest in late winter**, incubating eggs at temperatures that may drop below minus 20F.
 
-**Could it be?** Canada Jays and [Steller's Jay](/birds/steljay/) share the same habitat but are easy to tell apart as [Steller's Jay](/birds/steljay/) have a black head and dark blue body.
+**Could it be?** Canada Jays and [Steller's Jays](/birds/steljay/) share the same habitat but are easy to tell apart as [Steller's Jays](/birds/steljay/) have a black head and dark blue body.
 
 **Did you know?** Canada Jays store large quantities of food in bark crevices to eat in winter and use sticky saliva to glue small food items to tree branches.
 
