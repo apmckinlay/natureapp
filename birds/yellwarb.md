@@ -12,7 +12,7 @@ Yellow Warblers are small (4.7-5.1 in), **yellow** birds with darker wings and t
 
 Yellow Warblers can often be heard singing from the tops of [Willows](/trees/willow/) or other small trees along streams or in wetlands. They spend their **summers** in Alaska, all Canadian provinces and territories, and in all parts of the United States except for the southern Gulf states. They **winter** further south in Central America and northern South America.
 
-**Could it be?** **American Goldfinches** have shorter, thicker beaks and a more deeply notched tail. [Wilson's Warbler](/birds/wilswarb/) are smaller and have a black cap.
+**Could it be?** **American Goldfinches** have shorter, thicker beaks and a more deeply notched tail. [Wilson's Warblers](/birds/wilswarb/) are smaller and have a black cap.
 
 **Did you know?** **Brown-headed Cowbirds** often lays their eggs in a Yellow Warbler's nest. The Yellow Warbler responds by building another nest on top of the old one. Sometimes there are 6 nests one on top of another.
 
