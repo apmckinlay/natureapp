@@ -12,7 +12,7 @@ Chipping Sparrows, with a **reddish-brown cap** on a gray head and a **black lin
 
 Originally found in open pine woods and forest edges, Chipping Sparrows have made themselves at home in urban parks and residential areas. They feed on **insects** during the summer and **seeds** and **grains** in the winter.
 
-**Could it be?** [Tree Sparrow](/birds/treespar/) have a spot in the middle of their breast, a bi-colored bill (black above and yellow below) and reddish-brown stripe through the eye. [House Sparrow](/birds/houspar/), introduced to North America in 1851, are chunkier (6-6.7 in) with a shorter tail and stouter beak.
+**Could it be?** [Tree Sparrows](/birds/treespar/) have a spot in the middle of their breast, a bi-colored bill (black above and yellow below) and reddish-brown stripe through the eye. [House Sparrows](/birds/houspar/), introduced to North America in 1851, are chunkier (6-6.7 in) with a shorter tail and stouter beak.
 
 **Did you know?** Chipping Sparrows build their nests low in a shrub or tree. The nests are often so flimsily made that you can see light through them.
 
