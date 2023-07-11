@@ -12,7 +12,7 @@ Red Crossbills have a **thick curved bill** with **crossed tips** that they use 
 
 **Males** have a red body and blackish-brown wings and tail. **Females** are gray with an an olive-green chest and rump and blackish-brown wings and tail.
 
-**Could it be?** [White-winged Crossbill](/birds/whitewcbill/) have black wings and white wingbars; the males are a lighter red. [Pine Siskin](/birds/pinesisk/) resemble juvenile Crossbills but have a thinner, straight bill and yellow in their wings. [Pine Grosbeak](/birds/pinegros/) are larger with a stubbier bill and longer tail.
+**Could it be?** [White-winged Crossbills](/birds/whitewcbill/) have black wings and white wingbars; the males are a lighter red. [Pine Siskins](/birds/pinesisk/) resemble juvenile Crossbills but have a thinner, straight bill and yellow in their wings. [Pine Grosbeaks](/birds/pinegros/) are larger with a stubbier bill and longer tail.
 
 **Did you know?** As long as there is a good supply of conifer seeds, Red Crossbills can breed at any time of year as their young are fed regurgitated conifer seeds.
 
