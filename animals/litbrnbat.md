@@ -13,7 +13,7 @@ Little Brown Bats have light brown **fur**, weigh less than half an ounce and ha
 
 Little Brown Bats live in large **colonies**, leaving their roost at dusk and dawn to hunt for insects. Summer roosts are tree cavities and buildings (often used by maternity colonies). They **hibernate** over the winter in caves or abandoned mines.
 
-Little Brown Bats fly and forage close to the surface of water and eat a great many aquatic insects such as Caddisfly and [Mayfly](/insects/mayfly/).
+Little Brown Bats fly and forage close to the surface of water and eat a great many aquatic insects such as **Caddisflies** and [Mayflies](/insects/mayfly/).
 
 **Did you know?** Little Brown Bats can eat up to 1,000 small flying insects in under an hour.
 
