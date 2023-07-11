@@ -13,6 +13,6 @@ Trumpeter Swans can be found in three different areas: the **Pacific coast** fro
 
 Trumpeter Swans breed in open areas near shallow water (estuaries, lakes, rivers) and nest on small islands or on top of [Beaver](/animals/beaver/) or [Muskrat](/animals/muskrat/) dams. They forage for **aquatic vegetation** in shallow water or **leftover grain** in fields. They loosen underwater roots by pumping their feet up and down to create water currents.
 
-**Could it be?** **Tundra Swans** are half the size of Trumpeter Swans and have a high whistling call. **Mute Swans** have a curved neck and a black knob at the top of their orange bill. [Snow Goose](/birds/snogoose/) are smaller with shorter necks, a pink bill, and black wingtips.
+**Could it be?** **Tundra Swans** are half the size of Trumpeter Swans and have a high whistling call. **Mute Swans** have a curved neck and a black knob at the top of their orange bill. [Snow Geese](/birds/snogoose/) are smaller with shorter necks, a pink bill, and black wingtips.
 
 **Did you know?** Trumpeter Swans incubate their eggs by covering them with their webbed feet.
