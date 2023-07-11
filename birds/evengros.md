@@ -17,7 +17,7 @@ Evening Grosbeaks can be found **year-round** in British Columbia, northern Albe
 
 **Could it be?** **American Goldfinches** are much smaller with smaller, darker bills. Female and immature male [Pine Grosbeak](/birds/pinegros/) have shorter, darker bills and lack the boldly patterned wings.
 
-**Did you know?** Evening Grosbeak's thick, cone-shaped beak is very strong and can crush large seeds, such as cherries and olives.
+**Did you know?** Evening Grosbeaks' thick, cone-shaped beak is very strong and can crush large seeds, such as cherries and olives.
 
 <!-- generated, do not edit -->
 **See Also:**
