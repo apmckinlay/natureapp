@@ -12,9 +12,9 @@ Prairie Falcons can be seen **flying low** over western **deserts** and **grassl
 
 Prairie Falcons are **large** (15-18 in, 35-45 in wingspan) with a **light-brown upper body** and a **cream-colored chest streaked with brown**. There are **brown vertical streaks below their eyes** and **dark-colored patches** at the **base of each wing** on the underside.
 
-In summer, Prairie Falcons catch small animals, such as [Richardson's Ground Squirrels](/animals/richgs/), but in winter they prey on small birds, such as **Horned Larks** and [Western Meadowlark](/birds/westmlark/).
+In summer, Prairie Falcons catch small animals, such as [Richardson's Ground Squirrels](/animals/richgs/), but in winter they prey on small birds, such as **Horned Larks** and [Western Meadowlarks](/birds/westmlark/).
 
-**Could it be?** [Peregrine Falcon](/birds/peregrine/) are a similar size but darker and don't have dark patches under their wings. [Kestrel](/birds/kestrel/) and [Merlin](/birds/merlin/) are both much smaller.
+**Could it be?** [Peregrine Falcons](/birds/peregrine/) are a similar size but darker and don't have dark patches under their wings. [Kestrels](/birds/kestrel/) and [Merlins](/birds/merlin/) are both much smaller.
 
 **Did you know?** During courtship, the male and female spend a month or more visiting potential nest sites together.
 
