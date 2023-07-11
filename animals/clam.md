@@ -13,9 +13,9 @@ Saltwater Clams live in the intertidal zone, the area of sand exposed between hi
 
 Clams siphon water in and out of their shell to obtain oxygen and food. To reproduce, they discharge sperm and eggs into the water where the eggs are fertilized. The microscopic larvae drift before cementing themselves to a rock. Eventually, they move and dig themselves into the sand in the intertidal zone.
 
-There are many different varieties of Clams. There are also **freshwater** Clams although they are not closely related to oceanic Clams. Clams are closely related to [Snails](/animals/snail/) and [Slugs](/animals/slug/) as well as **Oyster** and **Octopus**. 
+There are many different varieties of Clams. There are also **freshwater** Clams although they are not closely related to oceanic Clams. Clams are closely related to [Snails](/animals/snail/) and [Slugs](/animals/slug/) as well as **Oysters** and **Octopus**. 
 
-**Could it be?** [Blue Mussel](/animals/blumussel/) are related to Clams but attach themselves to a surface and have longer, triangular shells.
+**Could it be?** [Blue Mussels](/animals/blumussel/) are related to Clams but attach themselves to a surface and have longer, triangular shells.
 
 **Did you know?** New shell material is deposited at the margin of the shell. You can estimate the Clam's age by counting the rings.
 
