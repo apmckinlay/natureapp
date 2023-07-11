@@ -9,15 +9,15 @@ location: [ab,sk,mb]
 habitat: [grassland]
 visibility: low
 ---
-Swift Fox are **smaller** (size of a house cat) and less numerous than other foxes and have **black patches** on either side of their nose and a black-tipped **tail**.  They have brown-gray fur on their head, back, and the upper surface of their tail with a light-colored throat, chest, and belly. They prefer open **native prairie** and avoid cropland and fragmented habitats.
+Swift Foxes are **smaller** (size of a house cat) and less numerous than other foxes and have **black patches** on either side of their nose and a black-tipped **tail**.  They have brown-gray fur on their head, back, and the upper surface of their tail with a light-colored throat, chest, and belly. They prefer open **native prairie** and avoid cropland and fragmented habitats.
 
-Swift Fox are one of the fastest animals in the world, able to run at over 35 mph. They are active at night but can sometimes be observed sunning themselves near their dens during the day - at noon in winter and mornings and evenings in summer.
+Swift Foxes are one of the fastest animals in the world, able to run at over 35 mph. They are active at night but can sometimes be observed sunning themselves near their dens during the day - at noon in winter and mornings and evenings in summer.
 
-Unlike other foxes, Swift Fox use their dens year-round for protection. The dens are often located on well-drained slopes or hilltops close to a permanent supply of water.
+Unlike other foxes, Swift Foxes use their dens year-round for protection. The dens are often located on well-drained slopes or hilltops close to a permanent supply of water.
 
-Swift Fox are closely related to **Kit Fox** found in southwestern desert regions.
+Swift Foxes are closely related to **Kit Foxes** found in southwestern desert regions.
 
-**Did you know?** Swift Fox are rarely seen above ground on windy days.
+**Did you know?** Swift Foxes are rarely seen above ground on windy days.
 
 <!-- generated, do not edit -->
 **See Also:**
