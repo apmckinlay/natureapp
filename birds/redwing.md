@@ -16,7 +16,7 @@ Red-winged Blackbirds (7-9 in) are one of the most abundant birds in North Ameri
 
 Males perch on high stalks or telephone wires, singing to defend their territory and attract mates. They spend up to 1/4 of daylight hours chasing away rivals and predators, including animals much larger than themselves. Nests are placed low among marsh vegetation.
 
-[Yellow-headed Blackbird](/birds/yellhead/) are larger than Red-winged Blackbirds and often nest in the same areas. As the larger, dominant bird, the [Yellow-headed Blackbird](/birds/yellhead/) will take the prime nesting spots in the centre of the wetland, forcing the Red-winged Blackbirds to nest around the periphery.
+[Yellow-headed Blackbirds](/birds/yellhead/) are larger than Red-winged Blackbirds and often nest in the same areas. As the larger, dominant bird, the [Yellow-headed Blackbirds](/birds/yellhead/) will take the prime nesting spots in the centre of the wetland, forcing the Red-winged Blackbirds to nest around the periphery.
 
 **Could it be?** Male **Tricolored Blackbirds** (California) have shinier feathers and shoulder patches outlined in white.
 
