@@ -12,7 +12,7 @@ Sandhill Cranes are large **gray** birds (3-4 ft) with a **long neck** and **leg
 
 Sandhill Cranes breed and forage in the **grasslands** and **wetlands** of Alaska, central and western Canada, and the northern United States during the **summer**. They spend **winters** in the southern United States. There are small **year-round** populations in Florida and Mississippi.
 
-**Could it be?** Sandhill Cranes travel in **flocks** with their **necks outstretched** and can often be heard before they are seen. [Great Blue Heron](/birds/grebluher/) fly solo and tuck their neck over their back. [Whooping Crane](/birds/whoopcrane/) are larger and white.
+**Could it be?** Sandhill Cranes travel in **flocks** with their **necks outstretched** and can often be heard before they are seen. [Great Blue Herons](/birds/grebluher/) fly solo and tuck their neck over their back. [Whooping Cranes](/birds/whoopcrane/) are larger and white.
 
 **Did you know?** Sandhill Cranes can live for up to 36 years. They mate for life, often waiting until they are 7 to start breeding. Juveniles stay close to their parents for 9-10 months.
 
