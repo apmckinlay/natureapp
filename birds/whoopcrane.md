@@ -15,7 +15,7 @@ Whooping Cranes are an endangered species. A small naturally-occurring group spe
 
 Whooping Cranes breed in shallow grassy wetlands, stopping over on wide shallow river flats during migration. They spend their winters in coastal marshes and estuaries.
 
-**Did you know?** Whooping Cranes browse and probe for food while moving at a slow, stately pace - unlike Herons ([Great Blue Heron](/birds/grebluher/)) that often stand motionless, suddenly pouncing on their prey.
+**Did you know?** Whooping Cranes browse and probe for food while moving at a slow, stately pace - unlike Herons ([Great Blue Herons](/birds/grebluher/)) that often stand motionless, suddenly pouncing on their prey.
 
 <!-- generated, do not edit -->
 **See Also:**
