@@ -12,7 +12,7 @@ You're most likely to spot small flocks of Sanderlings (7-8 in) in their pale **
 
 In **summer**, Sanderlings breed on islands above the Arctic Circle on dry rocky tundra close to lakes or ponds.
 
-**Could it be?** [Dunlin](/birds/dunlin/) are larger than Sanderlings with a longer, downcurved bill. [Piping Plover](/birds/pipplov/) are smaller, stay higher up on the beach, and don't chase waves. **Western Sandpipers** are smaller and browner than Sanderlings.
+**Could it be?** [Dunlins](/birds/dunlin/) are larger than Sanderlings with a longer, downcurved bill. [Piping Plovers](/birds/pipplov/) are smaller, stay higher up on the beach, and don't chase waves. **Western Sandpipers** are smaller and browner than Sanderlings.
 
 **Did you know?** After eating, Sanderlings will often regurgitate pellets of sand and mollusk and crustacean shells.
 
