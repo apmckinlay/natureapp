@@ -13,7 +13,7 @@ Steller's Jays are frequent **scavengers** in picnic areas and campgrounds in th
 
 Steller's Jays live in flocks except when nesting. They can be seen hopping on the ground or on tree branches, stopping frequently to cock their heads and look around them. They eat pine seeds, nuts, berries, insects, and occasionally spiders, small rodents, or lizards.
 
-**Could it be?** [Blue Jay](/birds/blujay/) are bright blue all over, including their head. **Scrub-Jays**, **Pinyon Jays**, and **Mexican Jays** don't have a crested black head.
+**Could it be?** [Blue Jays](/birds/blujay/) are bright blue all over, including their head. **Scrub-Jays**, **Pinyon Jays**, and **Mexican Jays** don't have a crested black head.
 
 **Did you know?** Steller's Jays are well known for mobbing predators - aggressively harassing, dive-bombing, even defecating on intruders, especially when protecting their young.
 
