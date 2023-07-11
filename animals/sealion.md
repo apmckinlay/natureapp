@@ -10,17 +10,17 @@ habitat: [ocean]
 visibility: high
 white_caption: "California Sea Lion"
 ---
-Sea Lion are found in every ocean except for the Atlantic. **Steller (Northern) Sea Lion** are found from Alaska to central California, while **California Sea Lion** are found from Vancouver Island to Mexico.
+Sea Lions are found in every ocean except for the Atlantic. **Steller (Northern) Sea Lions** are found from Alaska to central California, while **California Sea Lions** are found from Vancouver Island to Mexico.
 
-Sea Lion are **large sea mammals** with **flippers** to help them move. They have short, coarse brown fur, **dog-like faces**, and small ear flaps. They have a very loud bark. **Steller Sea Lion** are larger and heavier (9-11 ft long, 1000-2500 lbs) than **California Sea Lion** (6-8 ft long, 220-660 lbs).
+Sea Lions are **large sea mammals** with **flippers** to help them move. They have short, coarse brown fur, **dog-like faces**, and small ear flaps. They have a very loud bark. **Steller Sea Lions** are larger and heavier (9-11 ft long, 1000-2500 lbs) than **California Sea Lions** (6-8 ft long, 220-660 lbs).
 
-Sea Lion use their flippers to walk, climb, and swim. They can often be seen in harbor areas and gather on offshore islands to breed. Sea Lion are very social and often rest closely packed together.
+Sea Lions use their flippers to walk, climb, and swim. They can often be seen in harbor areas and gather on offshore islands to breed. Sea Lions are very social and often rest closely packed together.
 
-Sea Lion give birth to one pup a year between May and July. The pups are nursed by their mothers for 6-12 months.
+Sea Lions give birth to one pup a year between May and July. The pups are nursed by their mothers for 6-12 months.
 
-**Could it be?** [Harbor Seal](/animals/harbseal/) are smaller, have shorter flippers, and no ear flaps. They are unable to support themselves on their flippers and inch forward on their bellies.
+**Could it be?** [Harbor Seals](/animals/harbseal/) are smaller, have shorter flippers, and no ear flaps. They are unable to support themselves on their flippers and inch forward on their bellies.
 
-**Did you know?** Sea Lion are very playful and have been known to "surf" breaking waves.
+**Did you know?** Sea Lions are very playful and have been known to "surf" breaking waves.
 
 <!-- generated, do not edit -->
 **See Also:**
