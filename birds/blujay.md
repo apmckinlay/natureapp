@@ -14,7 +14,7 @@ Blue Jays are present **year-round** in **northeastern** Canada and the United S
 
 Blue Jays are forest birds, favoring **Oak** and **Beech** trees for their nuts. They also eat insects, fruit, and grain. They are often found at forest edges and in urban areas.
 
-**Could it be?** [Steller's Jay](/birds/steljay/), found in western North America, have a black head and chest and no white markings.
+**Could it be?** [Steller's Jays](/birds/steljay/), found in western North America, have a black head and chest and no white markings.
 
 **Did you know?** Blue Jays help plant trees by storing surplus acorns in holes in the ground and then forgetting about them.
 
