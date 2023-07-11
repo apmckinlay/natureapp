@@ -13,9 +13,9 @@ Long-eared Owls are slender owls (13-16 in) with **long ear tufts** pointing str
 
 They hunt in **open grasslands** at **night**, occasionally at dusk, **flying low over the ground** and searching for prey by sight or sound. They eat small mammals, particularly **rodents**.
 
-Long-eared Owls don't build their own nests. Instead, they use stick nests built by [Crow](/birds/crow/) and [Magpie](/birds/magpie/).
+Long-eared Owls don't build their own nests. Instead, they use stick nests built by [Crows](/birds/crow/) and [Magpies](/birds/magpie/).
 
-**Could it be?** [Great Horned Owl](/birds/grehowl/) are larger than Long-eared Owls. Their ear tufts are shorter and point out at an angle rather than straight up and down.
+**Could it be?** [Great Horned Owls](/birds/grehowl/) are larger than Long-eared Owls. Their ear tufts are shorter and point out at an angle rather than straight up and down.
 
 **Did you know?** If disturbed on their nest, Long-eared Owls raise their ear tufts and compress their feathers to disguise themselves as a broken branch.
 
