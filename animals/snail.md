@@ -14,7 +14,7 @@ white_caption: "Pacific Sideband Snail"
 
 Snails move by expanding and contracting muscles in the **flat foot** under their body. They also secrete **slime** to make it easier to slide along the ground. They usually eat plants, but some of the larger snails eat other animals. Thousands of tiny tooth-like structures on their ribbon-like tongue rip food apart.
 
-**Black Turban Sea Snail** are common along the Pacific coast from British Columbia to Baja California. Their black shells are shaped like a blunt rounded cone with 4 whorls and are often white on top where the color has worn away.
+**Black Turban Sea Snails** are common along the Pacific coast from British Columbia to Baja California. Their black shells are shaped like a blunt rounded cone with 4 whorls and are often white on top where the color has worn away.
 
 **Did you know?** Snails possess both male and female sex organs but have to mate with another snail to fertilize their eggs.
 
