@@ -12,7 +12,7 @@ White-throated Sparrows (6-7 in long) are brown above and gray below with a **bl
 
 Flocks of White-throated Sparrows can be seen on the ground looking for seeds and berries, often coming to bird feeders near wooded areas. They spend their **summers** in forests across northern Canada and Alaska as well as the mountainous area stretching from British Columbia and Alberta to Montana, Idaho, and Wyoming. **Winters** are spent in the southern United States and Mexico.
 
-**Could it be?** [White-crowned Sparrow](/birds/whitecspar/) have a gray throat and breast and no yellow patch. [House Sparrow](/birds/houspar/), introduced to North America in 1851, are chunkier (6-6.7 in long) with a shorter tail and stouter beak.
+**Could it be?** [White-crowned Sparrows](/birds/whitecspar/) have a gray throat and breast and no yellow patch. [House Sparrows](/birds/houspar/), introduced to North America in 1851, are chunkier (6-6.7 in long) with a shorter tail and stouter beak.
 
 **Did you know?** Males prefer females with white stripes, and females prefer males with brown stripes.
 
