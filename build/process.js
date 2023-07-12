@@ -121,6 +121,10 @@ function plurals(content, id, name, fn) {
         content = fn(content, id, name.slice(0, -2) + "lies");
     if (name.endsWith("man"))
         content = fn(content, id, name.slice(0, -3) + "men");
+    if (name.endsWith("olf"))
+        content = fn(content, id, name.slice(0, -3) + "olves");
+    if (name.endsWith("oose"))
+        content = fn(content, id, name.slice(0, -4) + "eese");
     return content;
 }
 
