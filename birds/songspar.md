@@ -18,7 +18,7 @@ Song Sparrows make **short, fluttering flights** pumping their **tail up and dow
 
 [House Sparrows](/birds/houspar/), introduced to North America in 1851, are chunkier (6-6.7 in long) with a shorter tail and stouter beak.
 
-**Did you know?** Song Sparrows often two lay two or more clutches of eggs per season.
+**Did you know?** Song Sparrows often lay two or more clutches of eggs per season.
 
 <!-- generated, do not edit -->
 **See Also:**
