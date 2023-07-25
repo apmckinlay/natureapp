@@ -11,13 +11,13 @@ visibility: high
 keywords: [shrub,berry]
 aka: ["Elder"]
 ---
-Elderberry is 5-12 ft tall and wide with long **stems** arching out from the base. Large, flat-topped, umbrella-shaped clusters (10 in or more in diameter) of fragrant, white **flowers** appear from May to July followed in late summer or early fall by clusters of red or dark purple to black **berries**. The **leaves** are composed of 5-11 leaflets up to 12 in long.
+Elderberry are 5-12 ft tall and wide with long **stems** arching out from the base. Large, flat-topped, umbrella-shaped clusters (10 in or more in diameter) of fragrant, white **flowers** appear from May to July followed in late summer or early fall by clusters of red or dark purple to black **berries**. The **leaves** are composed of 5-11 leaflets up to 12 in long.
 
-Elderberry grows along streams and roadsides and in moist woodlands. It's often found in **large clumps** as it spreads by root suckers. Elderberry can be found throughout  North America although it is less common in the prairie provinces, the Gulf states, and the North.
+Elderberry grow along streams and roadsides and in moist woodlands. They're often found in **large clumps** as they spread by root suckers. Elderberry can be found throughout  North America although they are less common in the prairie provinces, the Gulf states, and the North.
 
 **Could it be?** Be careful. Many plants in the carrot family have umbrella-shaped flower clusters; some of them (e.g. **Water Hemlock**) are poisonous.
 
-**Did you know?** Elderberry's Latin name - Sambucus - refers to a Greek musical instrument as its stems can be hollowed out to make flutes and whistles.
+**Did you know?** Elderberry's Latin name - Sambucus - refers to a Greek musical instrument as the stems can be hollowed out to make flutes and whistles.
 
 <!-- generated, do not edit -->
 **See Also:**
