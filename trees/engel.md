@@ -9,11 +9,11 @@ location: [bc,ab]
 habitat: [forest,mountain]
 keywords: [tree,conifer]
 ---
-Engelmann Spruce is a **high-altitude** tree native to the Coast and Rocky Mountains of British Columbia and Alberta south to Nevada, Utah, Colorado, Arizona, and New Mexico. It's a **straight** tree (80-195 ft tall) with a spire-like **crown**.
+Engelmann Spruces are **high-altitude** trees native to the Coast and Rocky Mountains of British Columbia and Alberta south to Nevada, Utah, Colorado, Arizona, and New Mexico. They're **straight** trees (80-195 ft tall) with a spire-like **crown**.
 
 The four-sided bluish-green **needles** (1 in long) grow on all sides of the twigs. The light-brown **cones** (1.5-3 in long) hang down from the branches and have papery scales with a ragged outer edge. The reddish to purplish-brown **bark** is loose and scaly.
 
-**Did you know?** Sounding boards for violins, pianos, and guitars are often made with wood from Engelmann Spruce.
+**Did you know?** Sounding boards for violins, pianos, and guitars are often made with wood from Engelmann Spruces.
 
 <!-- generated, do not edit -->
 **See Also:**
