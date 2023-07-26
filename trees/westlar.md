@@ -10,13 +10,13 @@ habitat: [forest]
 keywords: [tree,conifer]
 visibility: high
 ---
-Western Larch has bunches of 15-30 light green, feathery **needles** (less than 2 in long) at the end of short spurs. The needles turn bright yellow before dropping in autumn. The tree is up to 150-200 ft tall and 4-7 ft in diameter. The first **branches** are often 50 ft up the tree. It is found in moist locations on northern mountain slopes and valley bottoms.
+Western Larches have bunches of 15-30 light green, feathery **needles** (less than 2 in long) at the end of short spurs. The needles turn bright yellow before dropping in autumn. The trees are up to 150-200 ft tall and 4-7 ft in diameter. The first **branches** are often 50 ft up the tree. Western Larches are found in moist locations on northern mountain slopes and valley bottoms.
 
-Western Larch has thick grooved **bark** with reddish-orange scales. The small, reddish-brown **cones** have long, slender bracts sticking out beyond the scales.
+Western Larches have thick grooved **bark** with reddish-orange scales. The small, reddish-brown **cones** have long, slender bracts sticking out beyond the scales.
 
-**Could it be?** [Tamarack](/trees/tam/), also known as **Eastern Larch**, can be found across Canada and northeastern United States. It's not as tall as Western Larch.
+**Could it be?** [Tamaracks](/trees/tam/), also known as **Eastern Larches**, can be found across Canada and northeastern United States. They're not as tall as Western Larches.
 
-**Did you know?** Western Larch is one of the most fire-resistant trees of the Pacific Northwest due to its thick bark (up to 6 in on an old-growth tree) and the height of its first branches.
+**Did you know?** Western Larches are one of the most fire-resistant trees of the Pacific Northwest due to their thick bark (up to 6 in on an old-growth tree) and the height of their first branches.
 
 <!-- generated, do not edit -->
 **See Also:**
