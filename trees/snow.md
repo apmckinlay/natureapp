@@ -10,15 +10,15 @@ habitat: [forest,grassland,mountain,urban]
 keywords: [shrub,berry]
 visibility: high
 ---
-Snowberry has clusters of white, waxy **berries** that remain on the shrub and are easy to spot in winter. The **shrub** has multiple branches and is 2-6 ft tall. The opposite, oval **leaves** are up to 2 in long.
+Snowberry have clusters of white, waxy **berries** that remain on the shrub and are easy to spot in winter. The **shrubs** have multiple branches and are 2-6 ft tall. The opposite, oval **leaves** are up to 2 in long.
 
 Clusters of small, pinkish-white, bell-shaped **flowers** appear at the end of stems from mid-May to July. The flowers attract hummingbirds but are mostly pollinated by bees.
 
-Snowberry can be found in most parts of Canada and the United States except for the states bordering the Gulf of Mexico and parts of the far north. It's usually found in dry, open areas and rocky slopes but is very adaptable.
+Snowberry can be found in most parts of Canada and the United States except for the states bordering the Gulf of Mexico and parts of the far north. They're usually found in dry, open areas and rocky slopes but are very adaptable.
 
-**Could it be?** **Wolfberry** (Buckbrush), a related species, is a small shrub (2-4 ft tall) found in dry western prairie areas. It has leathery, oval leaves and pinkish-white berries. **Mountain Snowberry** is a low-growing shrub (2-4 ft tall) with spreading, sometimes trailing, branches found in the western mountain ranges of Alberta and British Columbia south to California and New Mexico.
+**Could it be?** **Wolfberry** (Buckbrush), a related species, are small shrubs (2-4 ft tall) found in dry western prairie areas. They have leathery, oval leaves and pinkish-white berries. **Mountain Snowberry** are low-growing shrubs (2-4 ft tall) with spreading, sometimes trailing, branches found in the western mountain ranges of Alberta and British Columbia south to California and New Mexico.
 
-**Did you know?** Snowberry is high in saponins and Indigenous peoples in North America used to use it as a shampoo and antiperspirant.
+**Did you know?** Snowberries are high in saponins and Indigenous peoples in North America used to use them as a shampoo and antiperspirant.
 
 <!-- generated, do not edit -->
 **See Also:**
