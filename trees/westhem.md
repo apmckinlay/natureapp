@@ -10,13 +10,13 @@ habitat: [forest,mountain]
 keywords: [tree,conifer]
 visibility: high
 ---
-Western Hemlock is a tall evergreen (90-200 ft) with a narrow crown. The new growth at the top of the tree often droops. Most of the **branches** swoop downwards. It's common in the mild, humid climate of the Pacific Northwest and is often found growing below other trees as it's shade-tolerant.
+Western Hemlocks are tall evergreens (90-200 ft) with a narrow crown. The new growth at the top of the trees often droops. Most of the **branches** swoop downwards. The trees are common in the mild, humid climate of the Pacific Northwest and are often found growing below other trees as they're shade-tolerant.
 
 The **needles** are short, flat, and of unequal length with a soft, feathery appearance. They are yellowish-green on top and white below. The **bark** is red to dark brown, furrowed, and scaly. It has numerous small oval (.5-1 in) **cones** hanging from the end of twigs.
 
-**Mountain Hemlock** is less common and usually found at higher elevations. Its blue-green needles are all the same size and uniformly arranged around the twig; small clusters can appear star-like. Its cones are cylindrical and 2-3 times larger than those of Western Hemlock.
+**Mountain Hemlocks** are less common and are usually found at higher elevations. Their blue-green needles are all the same size and uniformly arranged around the twig; small clusters can appear star-like. Their cones are cylindrical and 2-3 times larger than those of Western Hemlocks.
 
-**Did you know?** Western Hemlock has a very shallow root system. It can be blown over in a wind storm and is easily damaged by fire.
+**Did you know?** Western Hemlocks have very shallow root systems. They can be blown over in a wind storm and are easily damaged by fire.
 
 <!-- generated, do not edit -->
 **See Also:**
