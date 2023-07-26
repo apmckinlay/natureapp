@@ -9,10 +9,10 @@ habitat: [forest,mountain,urban]
 keywords: [shrub]
 visibility: high
 ---
-Pacific Rhododendron has thick, leathery evergreen **leaves** (3-8 in long) that remain on the tree for 2-3 years. Clusters of pink bell-shaped **flowers** with wavy edges and 5 indentations bloom from **May** to **July**. The woody **seed** capsules ripen in August/September. 
+Pacific Rhododendrons have thick, leathery evergreen **leaves** (3-8 in long) that remain on the tree for 2-3 years. Clusters of pink bell-shaped **flowers** with wavy edges and 5 indentations bloom from **May** to **July**. The woody **seed** capsules ripen in August/September. 
 
-Pacific Rhododendron is found in dry, open forests and roadsides west of the Cascade Mountains from southern British Columbia to northern California. It grows up to 26 ft tall in the shade but is shorter and shrubbier in sunny areas.
+Pacific Rhododendrons are found in dry, open forests and roadsides west of the Cascade Mountains from southern British Columbia to northern California. They grow up to 26 ft tall in the shade but are shorter and shrubbier in sunny areas.
 
-Pacific Rhododendron provides shelter for wildlife but is a source of food for very few animals. Only Mountain [Beaver](/animals/beaver/) and Deer (such as [Mule Deer](/animals/muledeer/)) nibble on it.
+Pacific Rhododendrons provide shelter for wildlife but are a source of food for very few animals. Only Mountain [Beavers](/animals/beaver/) and Deer (such as [Mule Deer](/animals/muledeer/)) nibble on it.
 
-**Did you know?** Most Rhododendron are found in China, Japan, and neighboring countries; however, 30 species are native to North America.
+**Did you know?** Most Rhododendrons are found in China, Japan, and neighboring countries; however, 30 species are native to North America.
