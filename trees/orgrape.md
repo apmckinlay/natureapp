@@ -11,13 +11,13 @@ keywords: [shrub,berry]
 visibility: high
 aka: ["Mahonia"]
 ---
-Oregon Grape has shiny green spiny **leaflets** that stay green all year round. Large clusters of small yellow **flowers** appear in the spring, turning to dark blue **berries** in late summer.
+Oregon Grape have shiny green spiny **leaflets** that stay green all year round. Large clusters of small yellow **flowers** appear in the spring, turning to dark blue **berries** in late summer.
 
 Oregon Grape can be found at low to middle elevations in mountainous areas in the Pacific Northwest from British Columbia and eastern Alberta to northern California.
 
-**Tall Oregon Grape** grows up to 8 ft tall in sunny areas. **Dwarf Oregon Grape** (1-3 ft tall) forms a ground cover in shady areas. **Creeping Oregon Grape** (12-18 in tall) has leaves that are more rounded.
+**Tall Oregon Grape** grow up to 8 ft tall in sunny areas. **Dwarf Oregon Grape** (1-3 ft tall) form a ground cover in shady areas. **Creeping Oregon Grape** (12-18 in tall) have leaves that are more rounded.
 
-**Did you know?** The roots of the Oregon Grape can be boiled to make a brilliant yellow dye.
+**Did you know?** The roots of Oregon Grape can be boiled to make a brilliant yellow dye.
 
 <!-- generated, do not edit -->
 **See Also:**
