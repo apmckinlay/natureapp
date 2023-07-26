@@ -10,15 +10,15 @@ habitat: [grassland,mountain]
 keywords: [tree,conifer]
 aka: ["Rocky Mountain Redcedar"]
 ---
-Rocky Mountain Juniper grows in the mountainous areas of western North America. It is a **small** tree (3-6 ft) with reddish-brown to gray **bark** that shreds as it ages. The **trunk** is often knotty and crooked. It doesn't tolerate shade and is found alone or in small clusters, often on dry, exposed sites. It has scale-like, overlapping **needles**.
+Rocky Mountain Junipers grow in the mountainous areas of western North America. They're **small** trees (3-6 ft) with reddish-brown to gray **bark** that shreds as it ages. The **trunk** is often knotty and crooked. They don't tolerate shade and are found alone or in small clusters, often on dry, exposed sites. They have scale-like, overlapping **needles**.
 
 The small, berry-like **cones** are found at the end of branches. They're green when young, ripening to a dark blue with a whitish bloom.
 
-[Common Juniper](/trees/comjun/) is a low-lying shrub with sharp, green needles in groups of three.
+[Common Junipers](/trees/comjun/) are low-lying shrubs with sharp, green needles in groups of three.
 
-**Could it be?** Rocky Mountain Juniper is also known as Rocky Mountain Redcedar. Its needles and bark are similar to those of [Western Redcedar](/trees/westred/); however, Rocky Mountain Juniper has blue berry-like fruit while [Western Redcedar](/trees/westred/) has small, egg-like cones.
+**Could it be?** Rocky Mountain Junipers are also known as Rocky Mountain Redcedars. Their needles and bark are similar to those of [Western Redcedars](/trees/westred/); however, Rocky Mountain Junipers have blue berry-like fruit while [Western Redcedars](/trees/westred/) have small, egg-like cones.
 
-**Did you know?** Rocky Mountain Juniper's berries are an important food source for Deer, [Mountain Goats](/animals/mountgoat/), and other animals. Many birds choose to nest in its branches.
+**Did you know?** Rocky Mountain Junipers' berries are an important food source for Deer, [Mountain Goats](/animals/mountgoat/), and other animals. Many birds choose to nest in their branches.
 
 <!-- generated, do not edit -->
 **See Also:**
