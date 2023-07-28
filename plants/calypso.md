@@ -10,13 +10,13 @@ habitat: [forest,wetland]
 visibility: low
 aka: ["Fairy Slipper", "Venus Slipper"]
 ---
-If you're hiking through a **pine forest** in the Canadian Rockies at higher elevations from **May** to **July**, you may see a Calypso Orchid. The single, showy **flower** on a long purple **stem** (4-8 in) can also be found in **damp forests** or **bogs** of eastern North America.
+If you're hiking through a **pine forest** in the Canadian Rockies at higher elevations from **May** to **July**, you may spot Calypso Orchids. The single, showy **flowers** on long purple **stems** (4-8 in) can also be found in **damp forests** or **bogs** of eastern North America.
 
-The Calypso Orchid does not grow well if disturbed and has been reduced to small colonies in remote locations.
+Calypso Orchids do not grow well if disturbed and have been reduced to small colonies in remote locations.
 
-The **purple petals** and sepals spread out above a **slipper-shaped pouch** that is white with purple streaks and a yellow beard decorated with purple dots. The flower has a pleasant, vanilla-like **perfume**. A single, large, dark-green **leaf** appears in autumn at the base of the plant.
+The **purple petals** and sepals spread out above a **slipper-shaped pouch** that is white with purple streaks and a yellow beard decorated with purple dots. The flowers have a pleasant, vanilla-like **perfume**. A single, large, dark-green **leaf** appears in autumn at the base of the plants.
 
-**Did you know?** North America has about 250 native orchids, but many of them are rare or endangered. The Calypso Orchid is one of the most beautiful.
+**Did you know?** North America has about 250 native orchids, but many of them are rare or endangered. Calypso Orchids are one of the most beautiful.
 
 <!-- generated, do not edit -->
 **See Also:**
