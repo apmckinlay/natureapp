@@ -11,7 +11,7 @@ keywords: [shrub,berry]
 visibility: high
 aka: ["Kinnikinnick", "Pinemat Manzanita"]
 ---
-Bearberry are **low-lying** shrubs with long branches carpeting the ground. They have small (⅓-⅔ in long), leathery evergreen **leaves** and grow well in dry forests and exposed sandy areas with lots of sun in Canada, the northern United States, and the Rocky Mountains.
+Bearberry are **low-lying** shrubs with long branches carpeting the ground. They have small (1/3 - 2/3 in long), leathery evergreen **leaves** and grow well in dry forests and exposed sandy areas with lots of sun in Canada, the northern United States, and the Rocky Mountains.
 
 Drooping clusters of small, pinkish-white, urn-shaped **flowers** appear in May-June and are followed by bright red **berries** (less than ½ in in diameter) that remain on the branch year-round.
 
