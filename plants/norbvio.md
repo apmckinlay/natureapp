@@ -8,13 +8,13 @@ license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [wetland]
 ---
-Northern Bog Violet can be found across Canada and the United States at the edge of ponds or bogs, in wet ditches, or along streams. The large, deep violet **flowers** (.75 in across) are on long stems well above the leaves. The plant flowers from **May** to **July** and is 5-10 in tall. There is a cluster of heart-shaped **leaves** (up to 4 in wide) at the base of the plant.
+Northern Bog Violets can be found across Canada and the United States at the edge of ponds or bogs, in wet ditches, or along streams. The large, deep violet **flowers** (.75 in across) are on long stems well above the leaves. The plants flower from **May** to **July** and are 5-10 in tall. There are clusters of heart-shaped **leaves** (up to 4 in wide) at the base of the plants.
 
-The three-part seed capsule splits open when ripe, spilling out masses of small **seeds**.
+The three-part seed capsules split open when ripe, spilling out masses of small **seeds**.
 
-**Could it be?** [Early Blue Violet](/plants/earlyvio/) looks very similar but is shorter, has smaller leaves, and grows in drier areas.
+**Could it be?** [Early Blue Violets](/plants/earlyvio/) look very similar but are shorter, have smaller leaves, and grow in drier areas.
 
-**Did you know?** The flowers of Northern Bog Violet are sometimes white.
+**Did you know?** The flowers of Northern Bog Violets are sometimes white.
 
 <!-- generated, do not edit -->
 **See Also:**
