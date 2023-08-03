@@ -11,8 +11,8 @@ visibility: high
 ---
 Prairie Crocus flowers appear **as soon as the snow melts** in sunny, open areas and sandy hillsides from British Columbia to Ontario and south through the central United States. The upright, bluish-purple **flowers** are cup-shaped with 5-7 petal-like sepals (1.5 in across). The flowers appear before the leaves and very close to the ground.
 
-The low-lying plant has gray-green **leaves** with many separate leaflets and is covered in woolly white hairs. The flowers turn into long, feathery clusters of **seeds**.
+The low-lying plants have gray-green **leaves** with many separate leaflets and are covered in woolly white hairs. The flowers turn into long, feathery clusters of **seeds**.
 
-**Could it be?** **Canada Anemone** and **Cut-leaved Anemone** are similar in appearance but flower later in the year in early summer.
+**Could it be?** **Canada Anemones** and **Cut-leaved Anemones** are similar in appearance but flower later in the year in early summer.
 
-**Did you know?** Prairie Crocus has many different names, including Windflower, Prairie Smoke, and Pasque Flower.
+**Did you know?** Prairie Crocuses have many different names, including Windflower, Prairie Smoke, and Pasque Flower.
