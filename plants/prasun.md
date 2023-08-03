@@ -9,13 +9,13 @@ location: [ab,sk,mb]
 habitat: [grassland]
 visibility: high
 ---
-Prairie Sunflower is one of many different sunflowers that are native to North America. It has large showy **flowers** (1.5-3 in across) with 12-25 yellow ray petals surrounding a brown central disc. The central disc later forms a head of brown **seeds** (.25 in) that are enjoyed by birds.
+Prairie Sunflowers are one of many different sunflowers native to North America. They have large showy **flowers** (1.5-3 in across) with 12-25 yellow ray petals surrounding a brown central disc. The central disc later forms a head of brown **seeds** (.25 in) that are enjoyed by birds.
 
-Prairie Sunflower is 1-3 ft high with many erect flower-bearing branches. It often grows in clumps and can be seen flowering along dry, sandy roadsides in **late summer**. It is common in most parts of the United States as well as Alberta, Saskatchewan, Manitoba, and Ontario.
+Prairie Sunflowers are 1-3 ft high with many erect flower-bearing branches. They often grow in clumps and can be seen flowering along dry, sandy roadsides in **late summer**. They are common in most parts of the United States as well as Alberta, Saskatchewan, Manitoba, and Ontario.
 
-**Could it be?** Prairie Sunflower is taller with larger flowers and more ray florets (petals) than [Black-eyed Susan](/plants/blackesus/).
+**Could it be?** Prairie Sunflowers are taller with larger flowers and more ray florets (petals) than [Black-eyed Susans](/plants/blackesus/).
 
-**Did you know?** Sunflower was a common crop of the Indigenous peoples of North America as early as 3000 BC in modern-day Arizona and New Mexico, providing cooking oil and yellow and purple dyes.
+**Did you know?** Sunflowers were a common crop of the Indigenous peoples of North America as early as 3000 BC in modern-day Arizona and New Mexico, providing cooking oil and yellow and purple dyes.
 
 <!-- generated, do not edit -->
 **See Also:**
