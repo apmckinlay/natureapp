@@ -10,13 +10,13 @@ habitat: [grassland]
 visibility: high
 aka: ["Mexican Hat", "Thimbleflower"]
 ---
-Prairie Coneflower's **tall cone** (up to 1.5 in) of dark tubular florets is surrounded at its base by 4-12 **backward-bending**, **yellow-orange petals**. It's easy to understand why it's also known as Mexican Hat and Thimbleflower.
+Prairie Coneflowers' **tall cones** (up to 1.5 in) of dark tubular florets are surrounded at their base by 4-12 **backward-bending**, **yellow-orange petals**. It's easy to understand why they're also known as Mexican Hats and Thimbleflowers.
 
-The plant flowers from **July** to **September** along the sides of roads or in dry grassland areas throughout western Canada, Ontario, and the west-central United States.
+The plants flower from **July** to **September** along the sides of roads or in dry grassland areas throughout western Canada, Ontario, and the west-central United States.
 
-Prairie Coneflower is 10-24 in tall with multiple stiff, grooved **stems**. The **leaves** are deeply divided and up to 6 in long.
+Prairie Coneflowers are 10-24 in tall with multiple stiff, grooved **stems**. The **leaves** are deeply divided and up to 6 in long.
 
-**Did you know?** The mature seed head smells like licorice or anise when crushed.
+**Did you know?** The mature seed heads smell like licorice or anise when crushed.
 
 <!-- generated, do not edit -->
 **See Also:**
