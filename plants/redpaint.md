@@ -10,13 +10,13 @@ habitat: [forest,grassland,mountain]
 visibility: high
 aka: ["Indian Paintbrush", "Prairie Fire"]
 ---
-Red Paintbrush produces clusters of spiky, bright red or orange-yellow blooms at the tip of the stem. The **flowers** themselves are hard to spot; it's the bracts that are brightly colored.
+Red Paintbrushes produce clusters of spiky, bright red or orange-yellow blooms at the tip of the stems. The **flowers** themselves are hard to spot; it's the bracts that are brightly colored.
 
-Many different varieties of Red Paintbrush can be found throughout North America. Height varies from 6 in to 3 ft, depending on the species. The plant often forms a cluster of individual, erect **stems**. The **leaves** are long, narrow, and pointed.
+Many different varieties of Red Paintbrushes can be found throughout North America. Height varies from 6 in to 3 ft, depending on the species. The plants often form clusters of individual, erect **stems**. The **leaves** are long, narrow, and pointed.
 
-Red Paintbrush can be found in prairies, open woodlands, and along the banks of streams throughout western North America. It flowers from **April** to **July**.
+Red Paintbrushes can be found in prairies, open woodlands, and along the banks of streams throughout western North America. They flower from **April** to **July**.
 
-**Did you know?** Red Paintbrush has green leaves and produces its own food, but it also joins roots with neighboring plants to steal water and nutrients.
+**Did you know?** Red Paintbrushes have green leaves and produce their own food, but they also join roots with neighboring plants to steal water and nutrients.
 
 <!-- generated, do not edit -->
 **See Also:**
