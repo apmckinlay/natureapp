@@ -5,6 +5,7 @@ attr: "Philip Bouchard"
 attr_link: "https://www.flickr.com/photos/pbouchard/48384415656"
 license: "CC BY NC ND"
 license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+white_caption: "Allium textile"
 location: [ab,sk,mb]
 habitat: [grassland]
 visibility: high
