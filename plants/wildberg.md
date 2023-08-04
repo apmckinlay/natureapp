@@ -10,7 +10,7 @@ aka: ["Bee Balm"]
 ---
 Wild Bergamot are a member of the Mint family. Their pinkish-lavender **flowers** look like ragged pompoms at the top of 2-5 ft stems. They flower from **June** to **September** in dryer areas, on waste lands, and woodland borders throughout most of the United States and Canada.
 
-Wild Bergamot send up multiple leafy **stems** in a tight cluster, giving the plants a bushy appearance. The stems are square and the gray-green. Hairy **leaves** have jagged edges and are 1-3 in long.
+Wild Bergamot send up multiple leafy **stems** in a tight cluster, giving the plants a bushy appearance. The stems are square and gray-green. The hairy **leaves** have jagged edges and are 1-3 in long.
 
 Wild Bergamot are a favorite of bees and butterflies, but herbivores usually avoid them as the oregano-mint flavored leaves can cause indigestion.
 
