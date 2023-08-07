@@ -19,4 +19,4 @@ The low-lying plants have gray-green **leaves** with many separate leaflets and 
 
 <!-- generated, do not edit -->
 **See Also:**
-[White PasqueFlower](/plants/whitpasq/)
+[White Pasqueflower](/plants/whitpasq/)
