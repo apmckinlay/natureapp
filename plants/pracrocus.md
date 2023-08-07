@@ -16,3 +16,7 @@ The low-lying plants have gray-green **leaves** with many separate leaflets and 
 **Could it be?** **Canada Anemones** and **Cut-leaved Anemones** are similar in appearance but flower later in the year in early summer.
 
 **Did you know?** Prairie Crocuses have many different names, including Windflower, Prairie Smoke, and Pasque Flower.
+
+<!-- generated, do not edit -->
+**See Also:**
+[White PasqueFlower](/plants/whitpasq/)
