@@ -1,5 +1,5 @@
 ---
-name: "White PasqueFlower"
+name: "White Pasqueflower"
 group: "crocus"
 attr: "J Brew"
 attr_link: "https://www.flickr.com/photos/brewbooks/2676331867"
