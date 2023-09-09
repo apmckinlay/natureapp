@@ -1,18 +1,20 @@
 ---
-name: "Yellow Avalanche Lily"
+name: "Fawn Lily"
 group: "lily"
 attr: "pfly"
 attr_link: "https://www.flickr.com/photos/pfly/187393912"
 license: "CC BY SA"
 license_link: "https://creativecommons.org/licenses/by-sa/2.0/"
 location: [bc,ab]
-habitat: [mountain]
+habitat: [grassland,mountain,wetland]
 visibility: high
-aka: ["Glacier Lily", "Trout Lily", "Fawn Lily", "Snow Lily"]
+aka: ["Avalanche Lily", "Glacier Lily", "Trout Lily", "Oregon Lily", "Snow Lily"]
 ---
-The snow is still melting when **large clusters** of Yellow Avalanche Lilies start to carpet mountain slopes and meadows in the foothills and mountains of northwestern Canada and the United States.
+Ten different species of Fawn Lily can be found in North America’s Pacific Northwest. Four of them can be found in British Columbia. The plants have large, fleshy **leaves**. 1-3 **flowers** dangle from curving stalks (6-12 in high). The petals curve backward to expose the stigma and anthers.
 
-1-3 **flowers** dangle from curving stalks (6-12 in high) with 2-3 large fleshy **leaves** (up to 14 in) at the base of each plant. The 6 yellow petals curve backwards exposing the stigma and anthers.
+**Yellow** (E. grandiflorum) and **white** (E. montanum) glacier lilies are found  in mountain meadows at **higher elevations** and bloom shortly after the snow melts in the spring. They have green **leaves** with **no markings**. 
+
+**White** (E. oregonum) and **pink** (E. revolutum) fawn lilies appear at **lower altitudes** and have green **leaves** with **blotchy or striped markings**. The pink ones grow in moist woods or along streams, while the white ones grow in well-drained, open, grassy areas.
 
 **Did you know?** The bulbs are a favorite food of [Grizzly Bears](/animals/grizzly/) and [Black Bears](/animals/blabear/), while [Elk](/animals/elk/) and Deer enjoy the leaves.
 
