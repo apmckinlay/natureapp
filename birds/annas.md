@@ -1,10 +1,10 @@
 ---
 name: "Anna's Hummingbird"
 group: "hummingbird"
-attr: "Nicole Beaulac"
-attr_link: "https://www.flickr.com/photos/nicolebeaulac/33668014756"
-license: "CC BY-NC-ND"
-license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/51775905122"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [forest,mountain,urban]
 white_caption: "male"

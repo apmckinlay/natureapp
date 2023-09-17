@@ -1,7 +1,7 @@
 ---
 name: "Black Oystercatcher"
 attr: "Andrew McKinlay"
-attr_link: "https://www.flickr.com/photos/apmckinlay/36397706564"
+attr_link: "https://www.flickr.com/photos/apmckinlay/52816394288"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]

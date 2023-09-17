@@ -1,9 +1,9 @@
 ---
 name: "Black Turnstone"
-attr: "Jason Crotty"
-attr_link: "https://www.flickr.com/photos/46789814@N05/5551790011"
-license: "CC BY"
-license_link: "https://creativecommons.org/licenses/by/2.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/52283632998"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [ocean]
 group: "shore"

@@ -1,10 +1,10 @@
 ---
 name: "Raccoon"
 group: "medium"
-attr: "Camron Flanders"
-attr_link: "https://www.flickr.com/photos/camflan/10987384414"
-license: "CC BY-NC-ND"
-license_link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/53051229723"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban,wetland]
 visibility: high

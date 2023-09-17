@@ -1,8 +1,8 @@
 ---
 name: "Banded Woolly Bear Caterpillar"
 group: "butterfly"
-attr: "Per Verdonk"
-attr_link: "https://www.flickr.com/photos/per_verdonk/6887551330"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/50365774522"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]

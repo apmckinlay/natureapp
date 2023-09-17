@@ -2,7 +2,7 @@
 name: "River Otter"
 group: "tidal"
 attr: "Andrew McKinlay"
-attr_link: "https://www.flickr.com/photos/apmckinlay/20258838914"
+attr_link: "https://www.flickr.com/photos/apmckinlay/52385960816"
 license: "CC BY-NC"
 license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]

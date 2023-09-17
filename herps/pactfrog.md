@@ -1,10 +1,10 @@
 ---
 name: "Pacific Tree Frog"
 group: "frog"
-attr: "High Fin Sperm Whale"
-attr_link: "https://commons.wikimedia.org/wiki/File:Pacific_Tree_Frog_(Pseudacris_regilla)_3.JPG"
-license: "CC BY-SA"
-license_link: "https://creativecommons.org/licenses/by-sa/3.0/"
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/52397918813"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc]
 habitat: [forest,grassland,wetland]
 keywords: [amphibian, frog]

@@ -18,4 +18,4 @@ The **flowers** are cross-pollinated by large butterflies ([Tiger Swallowtails](
 
 <!-- generated, do not edit -->
 **See Also:**
-[Yellow Avalanche Lily](/plants/yelaval/)
+[Fawn Lily](/plants/fawnlily/)
