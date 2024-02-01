@@ -15,6 +15,8 @@ Douglas-firs are native to the Rocky Mountains and the Pacific Northwest. Their 
 
 **Coast Douglas-firs** are found along the Pacific Northwest coast and are taller (up to 250 ft) and faster-growing than **Rocky Mountain Douglas-firs** (115-150 ft) found in the western mountains.
 
+Douglas-fir **seeds** provide food for small mammals such as chipmunks and squirrels, while many songbirds eat the seeds right out of the cones. Bears eat the sap.
+
 **Did you know?** Douglas-firs aren't a fir tree at all - hence the hyphen in their name. They're a **False Hemlock**.
 
 <!-- generated, do not edit -->
