@@ -10,11 +10,11 @@ habitat: [forest,urban]
 keywords: [tree,conifer]
 visibility: high
 ---
-Balsam Firs are tall (60-70 ft) **narrow** trees tapering to a skinny point. Their short (1 in) flat **needles** curve upwards, as do the barrel-shaped, grayish-brown **cones**. The cones disintegrate on the tree and don't fall off.
+Balsam Firs are tall (60-70 ft) **narrow** trees tapering to a skinny point. Their short (1 in) flat **needles** curve upwards, as do the barrel-shaped **cones** that are purple at first, maturing to a gray-brown color. The cones disintegrate on the tree and don't fall off.
 
-Balsam Firs grow from Alberta through to the Maritimes, around the Great Lakes, and along the Atlantic coast from Maine to Virginia.
+Balsam Firs grow from Alberta through to the Maritimes, around the Great Lakes, and along the Atlantic coast from Maine to Virginia. They tolerate shade and tend to grow in cool climates. They are popular as Christmas trees due to their rich green color, even shape, and fragrance. The needles are rich in Vitamin C.
 
-**Could it be?** Similar species are the **Subalpine Firs** which grows at higher elevations and the **Silver Firs** that are found in Northwest coastal rainforests.
+**Could it be?** Similar species are the **Subalpine Firs** which grow at higher elevations and the **Silver Firs** that are found in Northwest coastal rainforests.
 
 **Did you know?** Balsam Firs' thick branches provide winter cover for wildlife. The seeds, twigs, and bark provide food for Mice and [Squirrels](/animals/squirrel/) as well as Bears and [Moose](/animals/moose/).
 
