@@ -13,6 +13,8 @@ Engelmann Spruces are **high-altitude** trees native to the Coast and Rocky Moun
 
 The four-sided bluish-green **needles** (1 in long) grow on all sides of the twigs. The light-brown **cones** (1.5-3 in long) hang down from the branches and have papery scales with a ragged outer edge. The reddish to purplish-brown **bark** is loose and scaly.
 
+Engelmann Spruces continue to grow at a steady rate for 300 years, long after other trees have slowed down. Well-established trees are often 250-450 years old and trees have been known to reach 760-850 years.
+
 **Did you know?** Sounding boards for violins, pianos, and guitars are often made with wood from Engelmann Spruces.
 
 <!-- generated, do not edit -->
