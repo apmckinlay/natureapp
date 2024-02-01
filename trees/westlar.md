@@ -10,9 +10,11 @@ habitat: [forest]
 keywords: [tree,conifer]
 visibility: high
 ---
-Western Larches have bunches of 15-30 light green, feathery **needles** (less than 2 in long) at the end of short spurs. The needles turn bright yellow before dropping in autumn. The trees are up to 150-200 ft tall and 4-7 ft in diameter. The first **branches** are often 50 ft up the tree. Western Larches are found in moist locations on northern mountain slopes and valley bottoms.
+Western Larches have bunches of 15-30 light green, feathery **needles** (less than 2 in long) at the end of short spurs. The needles turn bright yellow before dropping in autumn. The trees are up to 150-200 ft tall and 4-7 ft in diameter. The first **branches** are often 50 ft up the tree. Western Larches are found in moist locations on northern mountain slopes and valley bottoms. They usually grow alongside other trees in mixed forests. They become established more quickly than other trees after a fire so are occasionally found in clusters.
 
 Western Larches have thick grooved **bark** with reddish-orange scales. The small, reddish-brown **cones** have long, slender bracts sticking out beyond the scales.
+
+Hole-nesting birds are often able to find a home in Western Larches.
 
 **Could it be?** [Tamaracks](/trees/tam/), also known as **Eastern Larches**, can be found across Canada and northeastern United States. They're not as tall as Western Larches.
 
