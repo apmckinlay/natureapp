@@ -10,9 +10,9 @@ habitat: [desert,forest,grassland,mountain,urban]
 keywords: [shrub,berry,conifer]
 visibility: high
 ---
-Common Junipers are **spreading shrubs** with stiff green **needles** that circle the stem in groups of three. They often form a low-lying mat but can grow to 3-4 ft tall. What appear to be blue **berries** are actually **cones** with very tightly packed miniature scales.
+Common Junipers are **spreading shrubs** with stiff green **needles** that circle the stem in groups of three. They often form a low-lying mat but can grow to 3-4 ft tall. The **bark** is thin and often sheds in thin strips. What appear to be blue **berries** are actually **cones** with very tightly packed miniature scales. They have been used in cooking and for medicinal purposes but are best known as the flavoring for gin.
 
-Common Junipers grow well on **dry**, **rocky** sites. They're extremely hardy and can be found world-wide, growing in a wide range of different habitats.
+Common Junipers grow well on **dry**, **rocky** sites with lots of light. They're extremely hardy and can be found world-wide, growing in a wide range of different habitats.
 
 **Could it be?** [Rocky Mountain Junipers](/trees/rockyjun/) are trees and have scale-like needles in overlapping pairs.
 
