@@ -14,7 +14,7 @@ Jack Pines (15-65 ft) are the most widely distributed tree in Canada and are als
 
 Jack Pines have short **needles** in bunches of two that are spread apart in a V. The **cones** point forward along the branch or curl around it.
 
-Snowshoe Hares feed on small seedlings, while White-tailed Deer nibble on saplings and young trees. Porcupines eat the bark, which often deforms the tree.
+[Snowshoe Hares](/animals/snowhare/) feed on small seedlings, while [White-tailed Deer](/animals/whtdeer/) nibble on saplings and young trees. [Porcupines](/animals/porcupine/) eat the bark, which often deforms the tree.
 
 **Could it be?** Jack Pine needle bunches are v-shaped and less prickly than **Scots Pine**. [Lodgepole Pines](/trees/lodge/) also have bunches of two needles, but the cones have prickles at the tip and grow at right angles to the branch or face back towards the trunk. However, [Lodgepole Pines](/trees/lodge/) hybridize freely with Jack Pines so you may see variations.
 
