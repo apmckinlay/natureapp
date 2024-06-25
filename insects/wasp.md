@@ -16,11 +16,9 @@ Unlike Bees, Wasps have a **pointed abdomen** and a narrow **waist** separating 
 
 Hornets, Yellow Jackets, and related wasps build oval, papery nests where hundreds of them live and work cooperatively. **Hornets** build their nests above ground. **Yellow Jackets** build their nests underground or concealed in walls. Both will sting to defend their nests.
 
-**Ichneumon Wasps** are thinner and have longer antennae than stinging wasps. They inject their eggs into other insects - usually a grub, larva, or caterpillar - and play an important role in controlling insects often considered pests, such as boll weevils and tomato hornworms.
-
 Reproductive paper wasp females spend the winter hibernating and emerge in the spring to start a nest and lay eggs. The first wasps to emerge are sterile female workers who are responsible for building the nest and looking for food. By late summer, the workers are dying and all that remain are males and reproductive females who leave the nest to mate. The nest is abandoned after a single season.
 
-Wasps are extremely beneficial as nearly every pest insect is preyed on by a wasp species, either as food or as host for its parasitic larvae.
+Wasps are extremely beneficial as nearly every pest insect is preyed on by a wasp species, either as food or as host for its parasitic larvae. Wasps also need to drink nectar or eat pollen to stay healthy and will pollinate plants while searching for prey or eating. Some studies have shown that wasps become primary pollinators if bees are absent.
 
 **Did you know?** Wasps are more likely to sting in late summer when the colony stops breeding new workers so the remaining workers are actively searching for sugary foods.
 
