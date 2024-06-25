@@ -15,7 +15,7 @@ Manitoba Maples are native to Canada's prairie provinces but are now grown in mo
 
 Manitoba Maples are often found along lakes and streams or in river floodplains. The trees are from 30-60 ft tall with a short, crooked **trunk**, several thick branches, and a spreading, uneven **crown**. The **bark** on mature trees has shallow ridges.
 
-The **flowers** appear as the leaves emerge forming small dangling clusters. In fall, you'll spot bunches of light brown, winged **seed pods** that spin in the air like helicopters when they fall.
+Both a male, pollen-producing tree and a female, flower-producing tree are required for pollination. The **flowers** appear as the leaves emerge forming small dangling clusters. In fall, you'll spot bunches of light brown, winged **seed pods** that spin in the air like helicopters when they fall.
 
 Look for [Boxelder Bugs](/insects/boxelder/) at the base of Manitoba Maples. The small newly-hatched red bugs are particularly noticeable.
 
