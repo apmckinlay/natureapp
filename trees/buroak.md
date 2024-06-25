@@ -13,6 +13,8 @@ Bur Oaks can be found farther north than any other American oak. They have a str
 
 The **leaves** are 6-12 in long with deep, irregular lobes. They turn yellow-green or yellow-brown in fall and may stay on the tree into the winter. The large **acorns** have cups with a fringed border and provide food for many mammals and birds including [White-tailed Deer](/animals/whtdeer/), [Squirrels](/animals/squirrel/), Ducks, and various species of Rodents.
 
+Bur Oaks can live a long time. They don’t start producing **seeds** until they’re 35 and are most productive between 75 and 150 years. Bur Oaks can’t self-pollinate so need to be close to another bur oak for wind pollination to occur.
+
 **Did you know?** Bur Oaks can resist forest fires thanks to their very thick bark. They can also tolerate drought as they have very deep roots.
 
 <!-- generated, do not edit -->
