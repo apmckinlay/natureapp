@@ -13,6 +13,8 @@ Clouded Sulphur butterflies (1.5-2.5 inch wingspan) have light yellow **wings** 
 
 Clouded Sulphurs can be found in open areas and are particularly common in fields with **alfalfa** and **clover**. The **caterpillars** are green with a dark stripe down their back and light stripes on their sides.
 
+Clouded Sulphurs use their long tongue (proboscis) to drink nectar from a wide variety of flowers. They pick up pollen on their bodies and pass it along to the next flower they land on. Like other butterflies, they prefer brightly coloured flowers that provide landing platforms where they can rest while feeding.
+
 **Did you know?** During courtship, the males slap their wings against the female. This releases pheromones. The female responds by lowering her abdomen, and they mate.
 
 <!-- generated, do not edit -->
