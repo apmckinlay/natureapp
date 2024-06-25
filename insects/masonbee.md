@@ -12,7 +12,7 @@ Mason Bees are **small** stingless bees (.2-.8 in long) with round, wide heads a
 
 Mason Bees are most commonly seen in **spring** and play an important role in pollination of spring-flowering trees and shrubs, including Apples, Cherries, Blueberries, and Raspberries. The females carry the pollen in a patch of hair on the underside of their abdomens.
 
-Mason Bees are **solitary** and nest in crevices (hollow plant stems, empty snail shells, between stones), using mud to build their nests. They readily occupy artificial nest sites.
+Mason Bees are **solitary** and nest in crevices (hollow plant stems, empty snail shells, between stones), using mud to build their nests. They will often nest near each other and readily occupy artificial nest sites.
 
 **Did you know?** Mason Bees spend most of their lives in their nests so protecting the nests from disturbance is important.
 
