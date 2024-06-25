@@ -10,11 +10,13 @@ habitat: [grassland,urban]
 visibility: high
 black_caption: "Striped Sweat Bee"
 ---
-Sweat Bees are small to medium-sized (.2-.5 in long), **black** or **metallic-colored**, bees. They are very common in Canada and the United States and can be found from Alaska south to Mexico.
+Sweat Bees are small to medium-sized (.2-.5 in long), **black** or **metallic-colored** bees. They are very common in Canada and the United States and can be found from Alaska south to Mexico.
 
 Most species **nest** in the ground, but some nest in wood. Many species are solitary, but others build communal nests, sharing a common entrance but each building their own cells.
 
 There are several explanations for the Sweat Bee's name. They are attracted to the salt in human perspiration and like to land on people and lick their sweat. They are also extremely hard-working, pollinating a wide variety of plants.
+
+Sweat Bees prefer open, shallow flowers such as Goldenrod or Aster as they usually have short tongues. They’re important pollinators of wildflowers, apples, and stone fruit.
 
 **Did you know?** Most bees are active during the day, but a few species of Sweat Bees have larger eyes and are most active at dawn and dusk.
 
