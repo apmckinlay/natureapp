@@ -16,7 +16,7 @@ Most species **nest** in the ground, but some nest in wood. Many species are sol
 
 There are several explanations for the Sweat Bee's name. They are attracted to the salt in human perspiration and like to land on people and lick their sweat. They are also extremely hard-working, pollinating a wide variety of plants.
 
-Sweat Bees prefer open, shallow flowers such as Goldenrod or Aster as they usually have short tongues. They’re important pollinators of wildflowers, apples, and stone fruit.
+Sweat Bees prefer open, shallow flowers such as [Goldenrod](/plants/goldrod/) or [Aster](/plants/aster/) as they usually have short tongues. They’re important pollinators of wildflowers, apples, and stone fruit.
 
 **Did you know?** Most bees are active during the day, but a few species of Sweat Bees have larger eyes and are most active at dawn and dusk.
 
