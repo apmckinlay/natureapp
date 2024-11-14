@@ -14,7 +14,7 @@ Ruby-throated Hummingbirds have a **shiny green** **back** and **crown** with a 
 
 Ruby-throated Hummingbirds live in **woodland** areas as well as **urban gardens** with lots of flowering plants. They are the only hummingbird species to breed in **eastern North America** but can also be found in Alberta, Saskatchewan, and Manitoba. They fly south to Central America every **winter**, crossing the 800 km expanse of the Gulf of Mexico. A few over-winter on the Gulf coast or at the tip of Florida.
 
-Ruby-throated Hummingbirds are good **pollinators**, picking up pollen on their wings as they hover over a flower to suck its nectar. They are attracted to long tubular flowers that are red or orange.
+Ruby-throated Hummingbirds are good **pollinators**, picking up pollen on their wings as they hover over a flower to suck its nectar. They are attracted to long tubular **flowers** that are red or orange.
 
 Ruby-throated Hummingbirds beat their wings 53 times a second. They can hover in place and change direction extremely fast.
 
