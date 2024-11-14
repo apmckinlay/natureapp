@@ -11,11 +11,11 @@ keywords: [butterfly]
 ---
 Great Spangled Fritillaries are medium-sized (2-4 in wingspan) butterflies. The males are bright orange, while the females are yellow-brown. They have black markings on the upper surface of their wings and a wide, pale band and large silver spots on the lower surface.
 
-The **caterpillars** have orange spines on a black body. After hatching from eggs, the caterpillars overwinter and don't become active until the spring.
+The **caterpillars** have orange spines on a black body. After hatching from eggs, the caterpillars overwinter and don't become active until the spring. The adults enjoy nectar from many different plants (such as the Wood Lily) and are good **pollinators**, picking up and distributing pollen as they move from plant to plant.
 
 Great Spangled Fritillaries can be found in most parts of North America although they avoid very hot or very cold areas. They prefer **moist areas**, such as well-watered gardens or beside streams, and can be found in both open fields and wooded areas.
 
-**Did you know?** Without Violets, there wouldn't be any Fritillary Butterflies as the caterpillars only eat violet leaves. The butterflies are much less fussy and enjoy nectar from many different plants.
+**Did you know?** Without Violets, there wouldn't be any Fritillary Butterflies as the caterpillars only eat violet leaves.
 
 <!-- generated, do not edit -->
 **See Also:**
