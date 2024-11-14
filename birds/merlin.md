@@ -17,7 +17,7 @@ Merlins prefer open forests, grasslands, and coastal areas where there are flock
 
 Merlins fly fast and low with rapid wingbeats and are fierce hunters. You may spot them perched on a pole, scanning the open area around them for small birds, large insects (especially [Dragonflies](/insects/dragonfly/)), or Bats, which they capture in mid-air. 
 
-Male Merlins perform spectacular flight displays when courting, diving, gliding, rocking from side to side, and fluttering in slow circles. The females lay their eggs in abandoned Hawk or [Crows](/birds/crow/) nests and occasionally in a tree cavity or on a cliff.
+Male Merlins perform spectacular flight displays when courting, diving, gliding, rocking from side to side, and fluttering in slow circles. The females lay their eggs in abandoned Hawk or [Crow](/birds/crow/) nests and occasionally in a tree cavity or on a cliff.
 
 **Could it be?** Merlins are darker than other falcons, have less noticeable markings on their face, and beat their wings more rapidly when flying. [Kestrels](/birds/kestrel/) are smaller and more colorful than Merlins with black stripes on their cheeks. [Peregrine Falcons](/birds/peregrine/) are larger with a dark helmet.
 
