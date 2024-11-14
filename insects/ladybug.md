@@ -13,7 +13,7 @@ white_caption: "Seven-Spotted Ladybug"
 ---
 Ladybugs are small (up to .4 in long) beetles with black **spots** on their red or orange dome-shaped wing covers. Most Ladybugs can be identified by their colour and number of spots; however, some are black, brown, or gray or have stripes instead of spots. **Seven-Spotted Ladybugs** are very common in Europe as well as North America.
 
-Ladybugs usually eat insects that prey on plants (one Ladybug can eat up to 75 Aphids per day); however some are plant-eaters and can damage crops (e.g. **Mexican Bean Beetles**).
+Ladybugs are a valuable addition to any garden as they eat insects that prey on plants (one Ladybug can eat up to 75 Aphids per day). Pollen sometimes sticks to their bodies as they search for aphids and, by transporting it to other plants, they assist in **pollination**. They also assist other pollinators that benefit from plants that are healthier as there are less pests. 
 
 The multicolored **Asian Lady Beetles** were introduced to North America in the 1970s. They reproduce more quickly and can withstand colder winters than North American beetles and have become Canada's most common Ladybug. **Asian Lady Beetles** are usually larger than other Ladybugs (.3 in) and have a black M-shaped mark behind their heads.
 
