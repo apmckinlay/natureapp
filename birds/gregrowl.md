@@ -11,7 +11,7 @@ visibility: low
 ---
 Great Gray Owls can be found **year-round** in the **evergreen forests** of Alaska and northern Canada as well as the **western mountain region** stretching from British Columbia through Washington, Idaho, Montana, and parts of California.
 
-Great Gray Owls are the **tallest** (24-33 in) North American owl with the **largest wingspan** (4.5-5 ft) but are mostly fluff and **only half the weight** of a [Snowy Owls](/birds/snowyowl/) or [Great Horned Owls](/birds/grehowl/).
+Great Gray Owls are the **tallest** (24-33 in) North American owl with the **largest wingspan** (4.5-5 ft) but are mostly fluff and **only half the weight** of [Snowy Owls](/birds/snowyowl/) or [Great Horned Owls](/birds/grehowl/).
 
 They have **silvery gray** feathers, a round head with a **large facial disc**, a **black and white bowtie** across the neck, and **yellow** eyes and beak.
 
