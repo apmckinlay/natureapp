@@ -6,7 +6,7 @@ attr_link:
 license: 
 license_link: 
 location: [ab,bc,sk]
-habitat: [grassland]
+habitat: [forest,grassland,mountain]
 visibility: high 
 aka: ["Oregon Sunflower"]
 ---
