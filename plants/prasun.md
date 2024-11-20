@@ -13,7 +13,7 @@ Prairie Sunflowers are one of many different sunflowers native to North America.
 
 Prairie Sunflowers are 1-3 ft high with many erect flower-bearing branches. They often grow in clumps and can be seen flowering along dry, sandy roadsides in **late summer**. They are common in most parts of the United States as well as Alberta, Saskatchewan, Manitoba, and Ontario.
 
-**Could it be?** Prairie Sunflowers are taller with larger flowers and more ray florets (petals) than [Black-eyed Susans](/plants/blackesus/). Arrowleaf Balsamroot flower earlier in the year and have larger blossoms and longer leaves.
+**Could it be?** Prairie Sunflowers are taller with larger flowers and more ray florets (petals) than [Black-eyed Susans](/plants/blackesus/). [Arrowleaf Balsamroot](/plants/arrow/) flower earlier in the year and have larger blossoms and longer leaves.
 
 **Did you know?** Sunflowers were a common crop of the Indigenous peoples of North America as early as 3000 BC in modern-day Arizona and New Mexico, providing cooking oil and yellow and purple dyes.
 

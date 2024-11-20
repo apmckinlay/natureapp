@@ -21,4 +21,5 @@ Horse Flies are most abundant during the **summer** and only fly during the day.
 <!-- generated, do not edit -->
 **See Also:**
 [Black Fly](/insects/blackfly/),
-[House Fly](/insects/housefly/)
+[House Fly](/insects/housefly/),
+[Hoverfly](/insects/hover/)

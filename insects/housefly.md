@@ -19,4 +19,5 @@ House Flies feed and breed on garbage and excrement and can carry disease but pl
 <!-- generated, do not edit -->
 **See Also:**
 [Black Fly](/insects/blackfly/),
-[Horse Fly](/insects/horsefly/)
+[Horse Fly](/insects/horsefly/),
+[Hoverfly](/insects/hover/)

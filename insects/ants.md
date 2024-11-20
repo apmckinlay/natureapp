@@ -12,7 +12,7 @@ Ants are small, skinny insects with a large head, a slender abdomen, and a large
 
 Ants can be found **worldwide** but are most common in hot climates. In cooler climates, ants aren't active during the winter. There are 1,000 ant species in North America. Some eat sugary liquids (for example, the "honeydew" produced by Aphids), while others eat seeds, insects, or dead meat.
 
-Ants play an important role in transporting **seeds** to other locations. The seeds of some plants such as Early Blue Violet have evolved to include small oil-rich appendages. The ants carry the seeds to their nest and eat the appendage but leave the seed itself intact and able to germinate.
+Ants play an important role in transporting **seeds** to other locations. The seeds of some plants such as [Early Blue Violet](/plants/earlyvio/) have evolved to include small oil-rich appendages. The ants carry the seeds to their nest and eat the appendage but leave the seed itself intact and able to germinate.
 
 Ants are very **social**, usually living in structured nest communities with a queen, worker ants, and males for reproduction. They release chemical signals to warn each other of danger, share food locations, and work together.
 
