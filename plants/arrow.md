@@ -1,10 +1,9 @@
 ---
 name: "Arrowleaf Balsamroot"
-group: 
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/52223614039"
+license: "CC BY NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk]
 habitat: [forest,grassland,mountain]
 visibility: high 

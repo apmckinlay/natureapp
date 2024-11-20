@@ -1,9 +1,9 @@
 ---
 name: "Checkered Beetle"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/43408261881"
+license: "CC BY NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [bc,ab,sk,mb]
 habitat: [forest,grassland,urban]
 visibility: high 
