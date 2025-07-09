@@ -1,0 +1,11 @@
+/DS_Store/d
+/404/d
+/offline/d
+/eleventy.js/d
+/eslintrc.js/d
+/package.json/d
+/package-lock.json/d
+/screenshot/d
+s/_site//
+s/index.html//
+s/.*/"&",/

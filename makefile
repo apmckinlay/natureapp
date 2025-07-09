@@ -3,11 +3,11 @@
 all: links index files
 
 build:
-	rm -r _site
-	npx @11ty/eleventy --quiet
+	rm -rf _site
+	npx @11ty/eleventy@2.0.1 --quiet
 
 serve:
-	npx @11ty/eleventy --serve --quiet
+	npx @11ty/eleventy@2.0.1 --serve --quiet
 	# firebase serve --only hosting --host 0.0.0.0
 
 deploy: links index files
@@ -20,11 +20,7 @@ index:
 	node build/index.js
 	
 files: build
-	find _site -type f | sed '/DS_Store/d ; /404/d ; /offline/d ; \
-		/eleventy.js/d ; /eslintrc.js/d ; \
-		/package.json/d ; /package-lock.json/d ; \
-		/screenshot/d ; s/_site// ; s/index.html// ; s/.*/"&",/' \
-		| sort > _includes/files.mustache
+	ufind _site -type f | sed -f files.sed | sort > _includes/files.mustache
 	npx @11ty/eleventy --quiet
 	
 help:
