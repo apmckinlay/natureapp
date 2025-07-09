@@ -11,8 +11,8 @@ visibility: high
 ---
 Pacific Rhododendrons have thick, leathery evergreen **leaves** (3-8 in long) that remain on the tree for 2-3 years. Clusters of pink bell-shaped **flowers** with wavy edges and 5 indentations bloom from **May** to **July**. The woody **seed** capsules ripen in August/September. 
 
-Pacific Rhododendrons are found in dry, open forests and roadsides west of the Cascade Mountains from southern British Columbia to northern California. They grow up to 26 ft tall in the shade but are shorter and shrubbier in sunny areas.
+Pacific Rhododendrons are found in dry, open forests and roadsides west of the Cascade Mountains from southern British Columbia to northern California. They grow up to 26 ft tall in the shade but are shorter and shrubbier in sunny areas. Small groves of wild Rhododendrons can be found in BC’s Skagit Valley, near the western entrance to E C Manning Provincial Park, and at 2 or 3 sites on Vancouver Island.
 
-Pacific Rhododendrons provide shelter for wildlife but are a source of food for very few animals. Only Mountain [Beavers](/animals/beaver/) and Deer (such as [Mule Deer](/animals/muledeer/)) nibble on it.
+Pacific Rhododendrons provide shelter for wildlife but are a source of food for very few animals. Only Mountain [Beavers](/animals/beaver/) and Deer (such as [Mule Deer](/animals/muledeer/)) nibble on them.
 
 **Did you know?** Most Rhododendrons are found in China, Japan, and neighboring countries; however, 30 species are native to North America.

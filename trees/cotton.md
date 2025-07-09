@@ -9,7 +9,7 @@ habitat: [grassland,wetland,urban]
 keywords: [tree]
 visibility: high
 ---
-Cottonwoods are large, fast-growing trees (over 100 ft tall) that grow best in floodplains and beside lakes and rivers where there is plenty of water. Male and female **catkins** appear in early spring before the leaves. The trees release so many fluffy white **seeds** in early summer that you may think it's snowing.
+Cottonwoods are fast-growing, medium to large trees (up to 100 ft tall under ideal conditions) that grow best in floodplains and beside lakes and rivers where there is plenty of water. Male and female **catkins** appear in early spring before the leaves. The trees release so many fluffy white **seeds** in early summer that you may think it's snowing.
 
 Cottonwoods have triangular **leaves** with toothed edges that turn yellow in the fall. The **trunk** is broad and white.  The branches are weak and often break in a windstorm.
 

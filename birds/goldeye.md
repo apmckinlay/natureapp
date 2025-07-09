@@ -17,7 +17,7 @@ Goldeneyes spend their **summers** in Canada and Alaska's **boreal forest** wher
 
 **Barrow's Goldeneye** spend their summers in Alaska and down through British Columbia to southern Alberta. They have a shorter bill and a nearly vertical forehead. 
 
-**Could it be?** **Buffleheads** are smaller than Goldeneyes. The white patch on the male **Bufflehead** is around the neck and behind the eye rather than near the bill. Female **Buffleheads** have a white patch on their head; female Goldeneyes don't.
+**Could it be?** Buffleheads are smaller than Goldeneyes. The large white patch on the male Bufflehead is behind the eye and around the back of the head rather than near the bill. Female Buffleheads have a white patch on their head; female Goldeneyes don't.
 
 **Did you know?** Goldeneye chicks leave the nest the day after they hatch. And the first step can be a tricky one as the nest may be 40 ft up a tree. They start feeding themselves immediately.
 
