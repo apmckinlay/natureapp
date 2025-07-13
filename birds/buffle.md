@@ -1,13 +1,14 @@
 ---
 name: "Bufflehead"
 group: "duck"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay" 
+attr_link: "https://www.flickr.com/photos/apmckinlay/54153575652"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/4.0/"
 location: [ab,bc,sk,mb]
 habitat: [forest,ocean,wetland]
 visibility: high
+white_caption: "male"
 ---
 Buffleheads are small (13-16 in) ducks with a large, rounded head. **Males** have a black and white body, a dark green and purple head, and a large white patch behind their eyes and around the back of their head. **Females** and **first-year males** are gray-brown with a smaller white patch behind their eye.
 
