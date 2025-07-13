@@ -21,6 +21,7 @@ The birds pair up in late winter and begin breeding in early spring. They eat mo
 
 <!-- generated, do not edit -->
 **See Also:**
+[Bufflehead](/birds/buffle/),
 [Common Merganser](/birds/commmerg/),
 [Goldeneye](/birds/goldeye/),
 [Loon](/birds/loon/),

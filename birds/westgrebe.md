@@ -21,6 +21,7 @@ The birds dive from the surface, **swimming underwater** to catch **fish**, thru
 
 <!-- generated, do not edit -->
 **See Also:**
+[Bufflehead](/birds/buffle/),
 [Common Merganser](/birds/commmerg/),
 [Goldeneye](/birds/goldeye/),
 [Loon](/birds/loon/),

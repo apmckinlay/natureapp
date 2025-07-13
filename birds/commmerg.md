@@ -20,6 +20,7 @@ The birds often **nest** in hollow trees or cavities up to 100 feet off the grou
 
 <!-- generated, do not edit -->
 **See Also:**
+[Bufflehead](/birds/buffle/),
 [Goldeneye](/birds/goldeye/),
 [Loon](/birds/loon/),
 [Mallard](/birds/mallard/),

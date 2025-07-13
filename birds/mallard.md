@@ -22,6 +22,7 @@ Mallards feed by tipping forward and grazing on **underwater plants** (dabbling)
 
 <!-- generated, do not edit -->
 **See Also:**
+[Bufflehead](/birds/buffle/),
 [Common Merganser](/birds/commmerg/),
 [Goldeneye](/birds/goldeye/),
 [Loon](/birds/loon/),
