@@ -21,7 +21,7 @@ index:
 	
 files: build
 	ufind _site -type f | sed -f files.sed | sort > _includes/files.mustache
-	npx @11ty/eleventy --quiet
+	npx @11ty/eleventy@2.0.1 --quiet
 	
 help:
 	# make build - build the site
