@@ -19,6 +19,7 @@ The **monogamous** birds build nests in hidden spots along a lake. They are **st
 
 <!-- generated, do not edit -->
 **See Also:**
+[Bufflehead](/birds/buffle/),
 [Common Merganser](/birds/commmerg/),
 [Goldeneye](/birds/goldeye/),
 [Mallard](/birds/mallard/),

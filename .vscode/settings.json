@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "service-worker.html": "javascript"
-    }
+    },
+    "files.eol": "\n"
 }
