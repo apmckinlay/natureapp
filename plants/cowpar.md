@@ -12,6 +12,8 @@ Cow Parsnips are tall plants (3-10 ft) with flat umbrella-shaped clusters of sma
 
 Cow Parsnips flower from **June** to **August**. They grow best in **moist**, **shady areas** but can also grow in open woodlands and clearings. They can be found from Labrador to Alaska and south to Georgia, Indiana, Kansas, and New Mexico. They are very common in **Alaska**.
 
+Cow Parsnips are a host plant for several species of **Swallowtail Butterflies** and an important source of food for wild animals, particularly Black Bears and Grizzly Bears.
+
 Be careful not to brush up against Cow Parsnips as their sap increases skin sensitivity to the sun and can result in rashes and blisters.
 
 **Could it be?** Cow Parsnips can be mistaken for Hemlocks, which are very poisonous. **Poison Hemlocks** have fern-like leaves. **Water Hemlocks** have small, oval leaflets with jagged edges. **Wild Parsnips** have a smooth stem with few hairs (1-2 in thick).
