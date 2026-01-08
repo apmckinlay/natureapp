@@ -14,6 +14,6 @@ Mormon Crickets are a large insect (up to 3 in long) found in the **grasslands**
 
 Females have a long, curved ovipositor that looks like a tail or stinger but is actually used to push into the dirt and deposit eggs below the surface. The eggs usually hatch in the spring when plants are starting to grow. However, the eggs can take up to 5 years to hatch.
 
-When food is in short supply due to a population explosion, Mormon Crickets form large dense swarms and head out in search of protein and salt. They are unable to fly but can walk or jump up to 1½ miles a day. The swarms can destroy food crops and are a traffic hazard as the roads become slippery with crushed insects.
+When food is in short supply due to a population explosion, Mormon Crickets form large dense swarms and head out in search of protein and salt. They are unable to fly but can walk or jump up to 1.5 miles a day. The swarms can destroy food crops and are a traffic hazard as the roads become slippery with crushed insects.
 
 **Did you know?** Most Mormon Crickets live in shrubs or bushes rather than on the ground.
