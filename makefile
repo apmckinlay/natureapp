@@ -4,10 +4,10 @@ all: links index files
 
 build:
 	rm -rf _site
-	npx @11ty/eleventy@2.0.1 --quiet
+	npx @11ty/eleventy --quiet
 
 serve:
-	npx @11ty/eleventy@2.0.1 --serve --quiet
+	npx @11ty/eleventy --serve --quiet
 	# firebase serve --only hosting --host 0.0.0.0
 
 deploy: links index files
@@ -21,7 +21,7 @@ index:
 	
 files: build
 	ufind _site -type f | sed -f files.sed | sort > _includes/files.mustache
-	npx @11ty/eleventy@2.0.1 --quiet
+	npx @11ty/eleventy --quiet
 	
 help:
 	# make build - build the site
