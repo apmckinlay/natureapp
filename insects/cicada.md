@@ -18,4 +18,5 @@ Cicadas are found in **grasslands** and **forests** across the United States and
 **See Also:**
 [Cricket](/insects/cricket/),
 [Grasshopper](/insects/grasshop/),
-[Katydid](/insects/katydid/)
+[Katydid](/insects/katydid/),
+[Mormon Cricket](/insects/mormon/)

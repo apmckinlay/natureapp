@@ -16,7 +16,7 @@ Clusters of yellow-orange trumpet-shaped **flowers** form between the pairs of l
 
 Twining Honeysuckle are shade-loving plants that grow in woody or rocky areas.
 
-**Did you know?** The trumpet-shaped flowers are popular with **Hummingbirds** and Bumblebees.
+**Did you know?** The trumpet-shaped flowers are popular with **Hummingbirds** and [Bumblebees](/insects/bumbee/).
 
 <!-- generated, do not edit -->
 **See Also:**

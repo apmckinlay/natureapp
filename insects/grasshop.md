@@ -23,4 +23,5 @@ Females are larger than males and have sharp points at the end of their abdomens
 **See Also:**
 [Cicada](/insects/cicada/),
 [Cricket](/insects/cricket/),
-[Katydid](/insects/katydid/)
+[Katydid](/insects/katydid/),
+[Mormon Cricket](/insects/mormon/)

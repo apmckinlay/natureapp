@@ -19,3 +19,7 @@ The plants grow in large clumps formed by clones that break away once they have 
 Devil’s Club are considered to be a good luck plant by local Indigenous peoples and have long been used as a medicine and to make paint or dye.
 
 **Did you know?** Bears eat large quantities of the berries, spreading the seeds in their droppings.
+
+<!-- generated, do not edit -->
+**See Also:**
+[Black Hawthorn](/trees/blackhaw/)

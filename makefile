@@ -20,7 +20,7 @@ index:
 	node build/index.js
 	
 files: build
-	ufind _site -type f | sed -f files.sed | sort > _includes/files.mustache
+	find _site -type f | sed -f files.sed | sort > _includes/files.mustache
 	npx @11ty/eleventy --quiet
 	
 help:

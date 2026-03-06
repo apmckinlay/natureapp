@@ -20,4 +20,5 @@ Katydids usually eat leaves (although a few species eat insects) and can be foun
 **See Also:**
 [Cicada](/insects/cicada/),
 [Cricket](/insects/cricket/),
-[Grasshopper](/insects/grasshop/)
+[Grasshopper](/insects/grasshop/),
+[Mormon Cricket](/insects/mormon/)
