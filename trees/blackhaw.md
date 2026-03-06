@@ -1,10 +1,10 @@
 ---
 name: "Black Hawthorn"
 group: "shrub"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Gertjan van Noord"
+attr_link: "https://www.flickr.com/photos/gertjanvannoord/48833065556"
+license: "CC BY-ND"
+license_link: "https://creativecommons.org/licenses/by-nd/2.0/deed.en"
 location: [ab,bc,sk]
 habitat: [forest,wetland]
 visibility: high 

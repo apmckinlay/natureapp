@@ -1,12 +1,13 @@
 ---
 name: "Tiger Beetle"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/51215999742"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,bc,sk,mb]
 habitat: [desert, forest, grassland, ocean]
 visibility: high
+white_caption: "Bronzed Tiger Beetle"
 ---
 If you spot a beetle moving very, very quickly across loose, sandy soil, it may well be a Tiger Beetle as they are the fastest running insect in the world. Tiger Beetles (usually ½ in long) have long, slender **legs**, large **eyes**, and strong curving **jaws**. 
 

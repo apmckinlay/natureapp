@@ -1,10 +1,10 @@
 ---
 name: "Devil's Club"
 group: "shrub"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Gillfoto"
+attr_link: "https://commons.wikimedia.org/wiki/File:Oplopanax_horridus_(Devils_Club)_9x6_499.jpg"
+license: "CC BY-SA"
+license_link: "https://creativecommons.org/licenses/by-sa/4.0>"
 location: [bc,ab]
 habitat: [forest]
 visibility: high 

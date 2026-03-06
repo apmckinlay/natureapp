@@ -1,10 +1,10 @@
 ---
 name: "Mormon Cricket"
 group: "hopper"
-attr: 
-attr_link: 
-license: 
-license_link: 
+attr: "Andrew McKinlay"
+attr_link: "https://www.flickr.com/photos/apmckinlay/41603038060"
+license: "CC BY-NC"
+license_link: "https://creativecommons.org/licenses/by-nc/2.0/"
 location: [ab,bc,mb,sk]
 habitat: [desert,grassland]
 visibility: normal 
